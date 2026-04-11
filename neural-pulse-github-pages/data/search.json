@@ -1,7 +1,0 @@
-[
-  {"id":"seed-d1","title":"OpenAI 发布 GPT-5：推理能力突破人类专家水平","date":"2026-04-11","source":"OpenAI Blog","hotScore":98.5,"category":"research","tags":["GPT","Multimodal"],"snippet":"OpenAI 发布 GPT-5，多项基准测试中超越人类专家水平。新模型采用全新多模态架构，支持文本、图像、音频与视频统一处理，上下文窗口扩展至 200 万 token。"},
-  {"id":"seed-d2","title":"谷歌 Gemini Ultra 2.0 进入内测：视频实时理解引发热议","date":"2026-04-11","source":"Google DeepMind","hotScore":91.2,"category":"product","tags":["Gemini"],"snippet":"Google DeepMind 宣布 Gemini Ultra 2.0 进入封闭内测，毫秒级视频流语义分析被视为多模态 AI 重要里程碑。"},
-  {"id":"seed-w3","title":"Anthropic Claude 4：宪法 AI 2.0 安全对齐突破","date":"2026-04-09","source":"Anthropic","hotScore":87.6,"category":"research","tags":["Claude","Safety"],"snippet":"Anthropic 发布 Claude 4，宪法 AI 2.0 框架在保持顶级性能的同时大幅提升安全性与可解释性。"},
-  {"id":"seed-w4","title":"英伟达 Blackwell Ultra GPU 出货：算力成本降 50%","date":"2026-04-08","source":"NVIDIA","hotScore":82.1,"category":"hardware","tags":["GPU"],"snippet":"英伟达 Blackwell Ultra GPU 大规模出货，单卡性能较 H100 提升 4 倍，AI 训练成本下降约 50%。"},
-  {"id":"seed-w5","title":"Meta 开源 Llama 4：700B 参数免费商用","date":"2026-04-07","source":"Meta AI","hotScore":78.9,"category":"research","tags":["Llama","OpenSource"],"snippet":"Meta 发布 Llama 4，700B 参数 Apache 2.0 协议完全开源，对开源 AI 生态产生深远影响。"}
-]
