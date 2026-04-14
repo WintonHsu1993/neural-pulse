@@ -1,7 +1,561 @@
 [
-  {"id":"seed-d1","title":"OpenAI 发布 GPT-5：推理能力突破人类专家水平","date":"2026-04-11","source":"OpenAI Blog","hotScore":98.5,"category":"research","tags":["GPT","Multimodal"],"snippet":"OpenAI 发布 GPT-5，多项基准测试中超越人类专家水平。新模型采用全新多模态架构，支持文本、图像、音频与视频统一处理，上下文窗口扩展至 200 万 token。"},
-  {"id":"seed-d2","title":"谷歌 Gemini Ultra 2.0 进入内测：视频实时理解引发热议","date":"2026-04-11","source":"Google DeepMind","hotScore":91.2,"category":"product","tags":["Gemini"],"snippet":"Google DeepMind 宣布 Gemini Ultra 2.0 进入封闭内测，毫秒级视频流语义分析被视为多模态 AI 重要里程碑。"},
-  {"id":"seed-w3","title":"Anthropic Claude 4：宪法 AI 2.0 安全对齐突破","date":"2026-04-09","source":"Anthropic","hotScore":87.6,"category":"research","tags":["Claude","Safety"],"snippet":"Anthropic 发布 Claude 4，宪法 AI 2.0 框架在保持顶级性能的同时大幅提升安全性与可解释性。"},
-  {"id":"seed-w4","title":"英伟达 Blackwell Ultra GPU 出货：算力成本降 50%","date":"2026-04-08","source":"NVIDIA","hotScore":82.1,"category":"hardware","tags":["GPU"],"snippet":"英伟达 Blackwell Ultra GPU 大规模出货，单卡性能较 H100 提升 4 倍，AI 训练成本下降约 50%。"},
-  {"id":"seed-w5","title":"Meta 开源 Llama 4：700B 参数免费商用","date":"2026-04-07","source":"Meta AI","hotScore":78.9,"category":"research","tags":["Llama","OpenSource"],"snippet":"Meta 发布 Llama 4，700B 参数 Apache 2.0 协议完全开源，对开源 AI 生态产生深远影响。"}
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Has Google’s AI watermarking system been reverse-engineered?",
+    "date": "2026-04-14",
+    "source": "The Verge AI",
+    "hotScore": 69.3,
+    "category": "policy",
+    "tags": [
+      "Gemini",
+      "Multimodal",
+      "OpenSource"
+    ],
+    "snippet": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "date": "2026-04-14",
+    "source": "TechCrunch AI",
+    "hotScore": 69.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Bringing people together at AI for the Economy Forum",
+    "date": "2026-04-14",
+    "source": "Google AI Blog",
+    "hotScore": 63,
+    "category": "research",
+    "tags": [],
+    "snippet": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+    "date": "2026-04-13",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Multimodal"
+    ],
+    "snippet": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about th"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+    "date": "2026-04-14",
+    "source": "Wired",
+    "hotScore": 60.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "To teach in the time of ChatGPT is to know pain",
+    "date": "2026-04-13",
+    "source": "Ars Technica",
+    "hotScore": 60,
+    "category": "tech",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "LLM use is the most demoralizing problem I’ve faced as a college instructor."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+    "date": "2026-04-14",
+    "source": "The Verge AI",
+    "hotScore": 58,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molot"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "What It’s Like to Live With an Experimental Brain Implant",
+    "date": "2026-04-14",
+    "source": "IEEE Spectrum",
+    "hotScore": 58,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Scott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial con"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google brings its Gemini Personal Intelligence feature to India",
+    "date": "2026-04-14",
+    "source": "TechCrunch AI",
+    "hotScore": 56.8,
+    "category": "hardware",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "AI influencers are ‘everywhere’ at Coachella",
+    "date": "2026-04-13",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The AI code wars are heating up",
+    "date": "2026-04-12",
+    "source": "The Verge AI",
+    "hotScore": 53.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subsc"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "date": "2026-04-12",
+    "source": "TechCrunch AI",
+    "hotScore": 53.3,
+    "category": "startup",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic was the star of the show at San Francisco's AI-centric conference."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft is working on yet another OpenClaw-like agent",
+    "date": "2026-04-13",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "policy",
+    "tags": [
+      "OpenSource",
+      "Agent"
+    ],
+    "snippet": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "date": "2026-04-13",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
+    "category": "startup",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The largest orbital compute cluster is open for business",
+    "date": "2026-04-13",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "date": "2026-04-14",
+    "source": "TechCrunch AI",
+    "hotScore": 50.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+    "date": "2026-04-14",
+    "source": "TechCrunch AI",
+    "hotScore": 50.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+    "date": "2026-04-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "OpenSource",
+      "Agent"
+    ],
+    "snippet": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Squishy Photonic Switches Promise Fast Low Power Logic",
+    "date": "2026-04-13",
+    "source": "IEEE Spectrum",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today’s electronics. They also present a unique opportunity to develop devi"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+    "date": "2026-04-13",
+    "source": "The Verge AI",
+    "hotScore": 48.8,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Want to understand the current state of AI? Check out these charts.",
+    "date": "2026-04-13",
+    "source": "MIT Technology Review",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Instit"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sam Altman reportedly targeted in second attack",
+    "date": "2026-04-13",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "date": "2026-04-09",
+    "source": "TechCrunch AI",
+    "hotScore": 47.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Your article about AI doesn’t need AI art",
+    "date": "2026-04-11",
+    "source": "The Verge AI",
+    "hotScore": 46,
+    "category": "industry",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "date": "2026-04-13",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "date": "2026-04-12",
+    "source": "TechCrunch AI",
+    "hotScore": 43.3,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "date": "2026-04-10",
+    "source": "TechCrunch AI",
+    "hotScore": 42.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "date": "2026-04-09",
+    "source": "TechCrunch AI",
+    "hotScore": 42.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Build with Lyria 3, our newest music generation model",
+    "date": "2026-03-25",
+    "source": "Google AI Blog",
+    "hotScore": 41.3,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Bringing the power of Personal Intelligence to more people",
+    "date": "2026-03-17",
+    "source": "Google AI Blog",
+    "hotScore": 41.3,
+    "category": "hardware",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+    "date": "2026-04-11",
+    "source": "Ars Technica",
+    "hotScore": 41,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Our latest investment in open source security for the AI era",
+    "date": "2026-03-17",
+    "source": "Google AI Blog",
+    "hotScore": 40,
+    "category": "research",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Google is making new investments, building new tools and developing code security to improve open source security."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "date": "2026-04-10",
+    "source": "TechCrunch AI",
+    "hotScore": 39.8,
+    "category": "policy",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "date": "2026-04-12",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "date": "2026-04-02",
+    "source": "Google AI Blog",
+    "hotScore": 38.8,
+    "category": "research",
+    "tags": [
+      "Gemini",
+      "Reasoning"
+    ],
+    "snippet": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+    "date": "2026-03-31",
+    "source": "Google AI Blog",
+    "hotScore": 36.3,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "date": "2026-03-26",
+    "source": "Google AI Blog",
+    "hotScore": 36.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Gemini 3.1 Flash Live is now available across Google products."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
+    "date": "2026-04-07",
+    "source": "IEEE Spectrum",
+    "hotScore": 36.3,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Artificial intelligence harbors an enormous energy appetite. Such constant cravings are evident in the hefty carbon footprint of the data centers behind the AI boom and the steady increase over time o"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Young Professional’s AI Tool Spots Mental Health Conditions",
+    "date": "2026-04-02",
+    "source": "IEEE Spectrum",
+    "hotScore": 36.3,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Abhishek Appaji has committed his career to bringing lifesaving technology to underresourced communities. The IEEE senior member weaves together artificial intelligence, biomedical engineering, deep l"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "date": "2026-04-11",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Create, edit and share videos at no cost in Google Vids",
+    "date": "2026-04-02",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [],
+    "snippet": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in March 2026",
+    "date": "2026-04-01",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "product",
+    "tags": [],
+    "snippet": "Here are Google’s latest AI updates from March 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "date": "2026-03-26",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Search Live is expanding globally",
+    "date": "2026-03-26",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’re expanding Search Live globally, to all languages and locations where AI Mode is available."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple reportedly testing four designs for upcoming smart glasses",
+    "date": "2026-04-12",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "date": "2026-03-25",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "We are bringing Lyria 3 to the tools where professionals work and create every day."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Is Insatiable",
+    "date": "2026-04-06",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "While browsing our website a few weeks ago, I stumbled upon “How and When the Memory Chip Shortage Will End” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Video Friday: Digit Learns to Dance—Virtually Overnight",
+    "date": "2026-04-03",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+    "date": "2026-04-11",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "D’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know p"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "date": "2026-04-10",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
+  }
 ]
