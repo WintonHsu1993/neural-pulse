@@ -1,23 +1,23 @@
 {
-  "lastUpdate": "2026-04-14",
-  "generatedAt": "2026-04-14T15:56:23.804Z",
+  "lastUpdate": "2026-04-17",
+  "generatedAt": "2026-04-17T03:52:45.491Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Has Google’s AI watermarking system been reverse-engineered?",
-      "date": "2026-04-14",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "hotScore": 69.3,
-      "category": "policy",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Treating enterprise AI as an operating layer",
+      "date": "2026-04-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "hotScore": 70,
+      "category": "research",
       "tags": [
+        "GPT",
         "Gemini",
-        "Multimodal",
-        "OpenSource"
+        "Reasoning"
       ],
       "content": {
-        "basic": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true. The developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it required was 200 Gemini-generated images, signal processing, and \"way too much free time.\" A little weed also seemed to help. \"No neural networks. No proprietary access,\" Aloshdenny said on Medium. \"Turns out if you're unemployed ",
+        "basic": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,18 +25,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "date": "2026-04-14",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "hotScore": 69.3,
-      "category": "startup",
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "date": "2026-04-16",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+      "hotScore": 67.5,
+      "category": "tech",
       "tags": [
         "GPT"
       ],
       "content": {
-        "basic": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+        "basic": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

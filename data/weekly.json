@@ -1,213 +1,119 @@
 {
   "weekRange": {
-    "from": "2026-04-08",
-    "to": "2026-04-14"
+    "from": "2026-04-15",
+    "to": "2026-04-21"
   },
-  "weekKey": "2026-W15",
-  "lastUpdate": "2026-04-14",
-  "generatedAt": "2026-04-14T15:56:23.804Z",
+  "weekKey": "2026-W16",
+  "lastUpdate": "2026-04-17",
+  "generatedAt": "2026-04-17T03:52:45.491Z",
   "count": 5,
   "data": [
     {
-      "id": "seed-w1",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 1,
-      "title": "OpenAI 发布 GPT-5：推理能力突破人类专家水平",
-      "date": "2026-04-11",
-      "source": "OpenAI Blog",
-      "hotScore": 98.5,
+      "title": "Treating enterprise AI as an operating layer",
+      "date": "2026-04-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "hotScore": 70,
       "category": "research",
+      "tags": [
+        "GPT",
+        "Gemini",
+        "Reasoning"
+      ],
+      "week_key": "2026-W16",
+      "content": {
+        "basic": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 2,
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "date": "2026-04-16",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+      "hotScore": 67.5,
+      "category": "tech",
       "tags": [
         "GPT"
       ],
-      "week_key": "2026-W15",
+      "week_key": "2026-W16",
       "content": {
-        "basic": "OpenAI 发布 GPT-5，多项基准测试超越人类专家，上下文窗口达 200 万 token。",
-        "highlights": [
-          "多模态统一架构：支持文本、图像、音频、视频联合建模",
-          "推理能力飞跃：首次超越博士级人类专家",
-          "超长上下文：200 万 token",
-          "实时响应：API 延迟降低 60%"
-        ],
-        "scenarios": [
-          "科研加速：研究周期压缩数倍",
-          "代码工程：大型代码库调试",
-          "医疗诊断：复杂病例分析",
-          "教育个性化：定制学习路径"
-        ],
-        "industry": [
-          "估值突破 3000 亿美元",
-          "主要厂商加速迭代",
-          "欧盟启动合规审查",
-          "24h API 调用破 10 亿"
-        ],
-        "future": [
-          "AGI 时间线提前至 2027",
-          "基础设施需求翻倍",
-          "自动化升至 55%",
-          "开源生态跟进"
-        ]
+        "basic": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
       }
     },
     {
-      "id": "seed-w2",
-      "rank": 2,
-      "title": "谷歌 Gemini Ultra 2.0 实时视频理解内测",
-      "date": "2026-04-10",
-      "source": "Google DeepMind",
-      "hotScore": 91.2,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+      "date": "2026-04-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "hotScore": 66.3,
       "category": "product",
       "tags": [
-        "Gemini"
+        "Claude",
+        "Multimodal",
+        "Agent"
       ],
-      "week_key": "2026-W15",
+      "week_key": "2026-W16",
       "content": {
-        "basic": "Gemini Ultra 2.0 进入封闭内测，毫秒级视频流语义分析成本周最受关注技术突破。",
-        "highlights": [
-          "实时视频语义：毫秒级视频流分析",
-          "跨模态记忆：帧级别长期上下文",
-          "主动式提问：主动澄视觉歧义",
-          "硬件协同：TPU v5 优化，功耗降 40%"
-        ],
-        "scenarios": [
-          "安防监控：实时异常事件报告",
-          "体育分析：帧级动作捕捉",
-          "远程协作：会议纪要自动生成",
-          "工业质检：准确率 99.2%"
-        ],
-        "industry": [
-          "三星、索尼宣布集成",
-          "YouTube 率先接入",
-          "NeurIPS 2025 年度系统",
-          "多国启动隐私调查"
-        ],
-        "future": [
-          "具身 AI 深度集成",
-          "创作工具年底商业化",
-          "IEEE 国际标准化",
-          "手机端实时推理"
-        ]
+        "basic": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. Codex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't inter",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
       }
     },
     {
-      "id": "seed-w3",
-      "rank": 3,
-      "title": "Anthropic Claude 4：宪法 AI 2.0 安全对齐突破",
-      "date": "2026-04-09",
-      "source": "Anthropic",
-      "hotScore": 87.6,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "Why having “humans in the loop” in an AI war is an illusion",
+      "date": "2026-04-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "hotScore": 61.3,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W16",
+      "content": {
+        "basic": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+      "date": "2026-04-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "hotScore": 58.8,
+      "category": "product",
       "tags": [
         "Claude",
-        "Safety"
+        "Multimodal"
       ],
-      "week_key": "2026-W15",
+      "week_key": "2026-W16",
       "content": {
-        "basic": "Anthropic 发布 Claude 4，宪法 AI 2.0 框架安全性与可解释性大幅提升。",
-        "highlights": [
-          "宪法 AI 2.0：动态安全规则自我更新",
-          "可解释性：思维链可视化",
-          "拒绝精确度：有害内容拒绝率 99.7%",
-          "多语言：非英语能力提升 45%"
-        ],
-        "scenarios": [
-          "法律合规：企业级审查自动化",
-          "内容审核：语义级别判断",
-          "金融风控：可解释风险报告",
-          "医疗咨询：规避越界风险"
-        ],
-        "industry": [
-          "欧盟作为对齐参考标准",
-          "财富 500 强 60% 签署",
-          "对齐研究引用增 300%",
-          "竞争推动 OpenAI 加速"
-        ],
-        "future": [
-          "统一安全对齐标准",
-          "各国立法参考",
-          "部分技术开源",
-          "自主识别修正能力"
-        ]
-      }
-    },
-    {
-      "id": "seed-w4",
-      "rank": 4,
-      "title": "英伟达 Blackwell Ultra GPU 出货：算力成本降 50%",
-      "date": "2026-04-08",
-      "source": "NVIDIA",
-      "hotScore": 82.1,
-      "category": "hardware",
-      "tags": [
-        "GPU"
-      ],
-      "week_key": "2026-W15",
-      "content": {
-        "basic": "英伟达 Blackwell Ultra GPU 大规模出货，单卡性能较 H100 提升 4 倍，训练成本下降 50%。",
-        "highlights": [
-          "性能飞跃：FP8 算力 20 PFLOPS",
-          "能效比：每瓦算力提升 2.5 倍",
-          "内存：192GB HBM3e",
-          "互联：NVLink 5.0 带宽 1.8 TB/s"
-        ],
-        "scenarios": [
-          "大模型训练：3 个月压缩至 3 周",
-          "推理服务：成本大幅下降",
-          "科学计算：气候模型药物发现",
-          "边缘 AI：高密度计算节点"
-        ],
-        "industry": [
-          "台积电季度出货破 100 万卡",
-          "云厂商争相采购",
-          "AMD、Intel 加速应对",
-          "数据中心投资破 5000 亿"
-        ],
-        "future": [
-          "中小企业可训练大模型",
-          "Rubin GPU 2026 年发布",
-          "液冷成数据中心标配",
-          "国产 GPU 加速迭代"
-        ]
-      }
-    },
-    {
-      "id": "seed-w5",
-      "rank": 5,
-      "title": "Meta 开源 Llama 4：700B 参数免费商用",
-      "date": "2026-04-07",
-      "source": "Meta AI",
-      "hotScore": 78.9,
-      "category": "research",
-      "tags": [
-        "Llama",
-        "OpenSource"
-      ],
-      "week_key": "2026-W15",
-      "content": {
-        "basic": "Meta 发布 Llama 4，700B 参数 Apache 2.0 完全开源，对开源 AI 生态产生深远影响。",
-        "highlights": [
-          "规模：700B MoE，激活约 100B",
-          "许可：Apache 2.0 无商业限制",
-          "多语言：原生 30 种，中文接近 GPT-4o",
-          "工具调用：原生函数调用"
-        ],
-        "scenarios": [
-          "本地部署：规避隐私风险",
-          "垂直微调：专业领域模型",
-          "学术研究：安全对齐基础",
-          "创业：降低 AI 门槛"
-        ],
-        "industry": [
-          "HuggingFace 48h 下载破 500 万",
-          "API 提供商降价 30-50%",
-          "GitHub 项目一周增 2000 个",
-          "多国监管重新评估框架"
-        ],
-        "future": [
-          "开源占市场 40% 份额",
-          "竞争转向垂直领域",
-          "安全红队测试加强",
-          "Llama 5 推理时计算突破"
-        ]
+        "basic": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it can exhibit more \"creativity\" when creating slides and documents, per Anthropic. Opus 4.7 comes on the heels of Mythos Preview, the buzzy cybersecurity-focused model Anthropic announced earlier this month, which the company has said is its most powe",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
       }
     }
   ]
