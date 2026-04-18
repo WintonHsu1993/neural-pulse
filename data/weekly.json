@@ -4,8 +4,8 @@
     "to": "2026-04-21"
   },
   "weekKey": "2026-W16",
-  "lastUpdate": "2026-04-17",
-  "generatedAt": "2026-04-17T03:52:45.491Z",
+  "lastUpdate": "2026-04-18",
+  "generatedAt": "2026-04-18T03:37:19.248Z",
   "count": 5,
   "data": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-04-16",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "hotScore": 70,
+      "hotScore": 62,
       "category": "research",
       "tags": [
         "GPT",
@@ -32,13 +32,32 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "date": "2026-04-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "hotScore": 60,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W16",
+      "content": {
+        "basic": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 3,
       "title": "OpenAI starts offering a biology-tuned LLM",
       "date": "2026-04-16",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-      "hotScore": 67.5,
+      "hotScore": 59.5,
       "category": "tech",
       "tags": [
         "GPT"
@@ -53,41 +72,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "date": "2026-04-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "hotScore": 66.3,
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 4,
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "date": "2026-04-17",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "hotScore": 58.8,
       "category": "product",
       "tags": [
-        "Claude",
-        "Multimodal",
-        "Agent"
+        "GPT"
       ],
       "week_key": "2026-W16",
       "content": {
-        "basic": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. Codex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't inter",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 4,
-      "title": "Why having “humans in the loop” in an AI war is an illusion",
-      "date": "2026-04-16",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "hotScore": 61.3,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W16",
-      "content": {
-        "basic": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+        "basic": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -97,19 +95,20 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
       "date": "2026-04-16",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-      "hotScore": 58.8,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "hotScore": 58.3,
       "category": "product",
       "tags": [
         "Claude",
-        "Multimodal"
+        "Multimodal",
+        "Agent"
       ],
       "week_key": "2026-W16",
       "content": {
-        "basic": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it can exhibit more \"creativity\" when creating slides and documents, per Anthropic. Opus 4.7 comes on the heels of Mythos Preview, the buzzy cybersecurity-focused model Anthropic announced earlier this month, which the company has said is its most powe",
+        "basic": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. Codex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't inter",
         "highlights": [],
         "scenarios": [],
         "industry": [],

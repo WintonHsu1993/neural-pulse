@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-17",
-  "generatedAt": "2026-04-17T03:52:45.491Z",
+  "lastUpdate": "2026-04-18",
+  "generatedAt": "2026-04-18T03:37:19.248Z",
   "count": 2,
   "data": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-04-16",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "hotScore": 70,
+      "hotScore": 62,
       "category": "research",
       "tags": [
         "GPT",
@@ -25,18 +25,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "title": "OpenAI starts offering a biology-tuned LLM",
-      "date": "2026-04-16",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-      "hotScore": 67.5,
-      "category": "tech",
-      "tags": [
-        "GPT"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "date": "2026-04-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "hotScore": 60,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
+        "basic": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],
