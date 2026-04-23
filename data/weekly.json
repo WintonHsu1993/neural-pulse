@@ -4,8 +4,115 @@
     "to": "2026-04-28"
   },
   "weekKey": "2026-W17",
-  "lastUpdate": "2026-04-22",
-  "generatedAt": "2026-04-22T03:48:38.043Z",
-  "count": 0,
-  "data": []
+  "lastUpdate": "2026-04-23",
+  "generatedAt": "2026-04-23T03:55:36.639Z",
+  "count": 5,
+  "data": [
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 1,
+      "title": "Anthropic tested removing Claude Code from the Pro plan",
+      "date": "2026-04-22",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+      "hotScore": 58.8,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "date": "2026-04-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "hotScore": 56.3,
+      "category": "policy",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail. These new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawdbot and Moltbot that touts itself as the \"AI that actually does things\" - went viral. OpenClaw found",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Google Meet will take AI notes for in-person meetings too",
+      "date": "2026-04-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+      "hotScore": 56.3,
+      "category": "product",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page for the feature notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The feature also works for impromptu meetings - Google says you \"don't need to be in a meeting room\" or in",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "date": "2026-04-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "hotScore": 56.3,
+      "category": "policy",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\" The Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every ma",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "date": "2026-04-22",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "hotScore": 56.3,
+      "category": "research",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    }
+  ]
 }

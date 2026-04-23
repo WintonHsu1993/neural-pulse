@@ -1,10 +1,125 @@
 [
   {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic tested removing Claude Code from the Pro plan",
+    "date": "2026-04-22",
+    "source": "Ars Technica",
+    "hotScore": 58.8,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Untenable demand has Anthropic exploring new approaches to rationing its service."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI now lets teams make custom bots that can do work on their own",
+    "date": "2026-04-22",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI give"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google Meet will take AI notes for in-person meetings too",
+    "date": "2026-04-22",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as f"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+    "date": "2026-04-22",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google Maps is about to get a big dose of AI",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [],
+    "snippet": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "date": "2026-04-22",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Our newsroom AI policy",
+    "date": "2026-04-22",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [],
+    "snippet": "How Ars Technica uses, and doesn't use, generative AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "AI needs a strong data fabric to deliver business value",
+    "date": "2026-04-22",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+    "date": "2026-04-22",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
     "date": "2026-04-21",
     "source": "The Verge AI",
-    "hotScore": 60,
+    "hotScore": 52,
     "category": "startup",
     "tags": [
       "Agent"
@@ -12,24 +127,89 @@
     "snippet": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or "
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-    "date": "2026-04-21",
-    "source": "Wired",
-    "hotScore": 58.8,
-    "category": "tech",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+    "date": "2026-04-22",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
     "tags": [
-      "GPT",
+      "Multimodal",
+      "Robotics"
+    ],
+    "snippet": "Ace is the first robot that can beat the best human players while following the official rules of table tennis. | Image: Sony AI Humans have been building ping-pong playing robots for decades, such as"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google updates Workspace to make AI your new office intern",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI Overviews are coming to your Gmail at work",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The AI Overviews will offer instant summaries pulled from across multiple emails."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Reviving Teletext for Ham Radio",
+    "date": "2026-04-22",
+    "source": "IEEE Spectrum",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
       "Multimodal"
     ],
-    "snippet": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English."
+    "snippet": "Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services wi"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "product",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "snippet": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI’s updated image generator can now pull information from the web",
     "date": "2026-04-21",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "product",
     "tags": [
       "GPT",
@@ -42,7 +222,7 @@
     "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
     "date": "2026-04-21",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "startup",
     "tags": [
       "GPT",
@@ -51,23 +231,41 @@
     "snippet": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years."
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
-    "date": "2026-04-21",
-    "source": "Ars Technica",
-    "hotScore": 56.3,
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic&#8217;s Mythos rollout has missed America’s cybersecurity agency",
+    "date": "2026-04-22",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinato"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "date": "2026-04-22",
+    "source": "Wired",
+    "hotScore": 47.5,
     "category": "tech",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Can ChatGPT be blamed for a mass shooting? Florida is investigating."
+    "tags": [],
+    "snippet": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+    "date": "2026-04-22",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
     "date": "2026-04-21",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "startup",
     "tags": [],
     "snippet": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same co"
@@ -77,29 +275,79 @@
     "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
     "date": "2026-04-21",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "product",
     "tags": [],
     "snippet": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-    "date": "2026-04-21",
-    "source": "Ars Technica",
-    "hotScore": 53.8,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+    "date": "2026-04-22",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbil"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Now Meta will track what employees do on their computers to train its AI agents",
+    "date": "2026-04-22",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
     "tags": [
-      "Claude"
+      "Agent"
     ],
-    "snippet": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars."
+    "snippet": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees'"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "research",
+    "tags": [],
+    "snippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The most interesting startups showcased at Google Cloud Next 2026",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
     "date": "2026-04-21",
     "source": "Google AI Blog",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "policy",
     "tags": [
       "Safety",
@@ -108,44 +356,31 @@
     "snippet": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Silicon Valley has forgotten what normal people want",
-    "date": "2026-04-20",
-    "source": "The Verge AI",
-    "hotScore": 52,
-    "category": "industry",
-    "tags": [
-      "GPT",
-      "Multimodal"
-    ],
-    "snippet": "The long-term risks of the All-In Podcast, illustrated. | Image: Cath Virginia / The Verge, Turbosquid, Getty Images One of the most mortifying things about knowing a lot of techies is listening to th"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI at MIT",
-    "date": "2026-04-21",
-    "source": "MIT Technology Review",
-    "hotScore": 51.3,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "date": "2026-04-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "At MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whet"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
-    "date": "2026-04-21",
-    "source": "The Verge AI",
-    "hotScore": 51.3,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised"
+    "snippet": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "AI backlash is coming for elections",
     "date": "2026-04-21",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "policy",
     "tags": [
       "Safety"
@@ -153,31 +388,11 @@
     "snippet": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies a"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "John Ternus’ first big problem is AI",
-    "date": "2026-04-21",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtim"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Yelp is making its AI chatbot way more useful",
-    "date": "2026-04-21",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one o"
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "What to Consider Before You Accept a Management Role",
     "date": "2026-04-21",
     "source": "IEEE Spectrum",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [],
     "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
@@ -187,212 +402,10 @@
     "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
     "date": "2026-04-21",
     "source": "Ars Technica",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [],
     "snippet": "CTO says new AI model is \"every bit as capable\" as world's best security researchers."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-    "date": "2026-04-21",
-    "source": "The Verge AI",
-    "hotScore": 48.8,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Multimodal"
-    ],
-    "snippet": "You just cannot convince me this is how people order coffee. | Image: Starbucks Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I'v"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-    "date": "2026-04-21",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google rolls out Gemini in Chrome in APAC countries",
-    "date": "2026-04-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
-    "date": "2026-04-21",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "GRAI believes AI can make music more social, not replace artists",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New ways to create personalized images in the Gemini app",
-    "date": "2026-04-16",
-    "source": "Google AI Blog",
-    "hotScore": 44.8,
-    "category": "policy",
-    "tags": [
-      "Gemini",
-      "Multimodal"
-    ],
-    "snippet": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-    "date": "2026-04-21",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "date": "2026-04-20",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "It’s not just one thing — it’s another thing",
-    "date": "2026-04-20",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-    "date": "2026-04-20",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [],
-    "snippet": "NSA is said to be using Anthropic's restricted Mythos AI model."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-    "date": "2026-04-20",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The USC Professor Who Pioneered Socially Assistive Robotics",
-    "date": "2026-04-20",
-    "source": "IEEE Spectrum",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "When the robotics engineering field that Maja Matarić wanted to work in didn’t exist, she helped create it. In 2005 she helped define the new area of socially assistive robotics. As an associate profe"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -408,23 +421,26 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s existential questions",
-    "date": "2026-04-19",
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "date": "2026-04-21",
     "source": "TechCrunch AI",
-    "hotScore": 41,
+    "hotScore": 39.5,
     "category": "startup",
     "tags": [],
-    "snippet": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+    "snippet": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "A new way to explore the web with AI Mode in Chrome",
+    "title": "New ways to create personalized images in the Gemini app",
     "date": "2026-04-16",
     "source": "Google AI Blog",
-    "hotScore": 41,
-    "category": "research",
-    "tags": [],
-    "snippet": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web"
+    "hotScore": 38.8,
+    "category": "policy",
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -460,14 +476,26 @@
     "snippet": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
-    "date": "2026-04-20",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "date": "2026-04-21",
+    "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "industry",
+    "category": "startup",
     "tags": [],
-    "snippet": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool "
+    "snippet": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "date": "2026-04-21",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -518,33 +546,15 @@
     "snippet": "Artificial intelligence harbors an enormous energy appetite. Such constant cravings are evident in the hefty carbon footprint of the data centers behind the AI boom and the steady increase over time o"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The 12-month window",
-    "date": "2026-04-19",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The USC Professor Who Pioneered Socially Assistive Robotics",
+    "date": "2026-04-20",
+    "source": "IEEE Spectrum",
     "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "date": "2026-04-14",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Bringing people together at AI for the Economy Forum",
-    "date": "2026-04-14",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum."
+    "category": "policy",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "When the robotics engineering field that Maja Matarić wanted to work in didn’t exist, she helped create it. In 2005 she helped define the new area of socially assistive robotics. As an associate profe"
   }
 ]

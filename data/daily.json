@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-04-22",
-  "generatedAt": "2026-04-22T03:48:38.043Z",
+  "lastUpdate": "2026-04-23",
+  "generatedAt": "2026-04-23T03:55:36.639Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "date": "2026-04-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-      "hotScore": 60,
-      "category": "startup",
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "title": "Anthropic tested removing Claude Code from the Pro plan",
+      "date": "2026-04-22",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+      "hotScore": 58.8,
+      "category": "product",
       "tags": [
-        "Agent"
+        "Claude"
       ],
       "content": {
-        "basic": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by The Information this week said Sergey Brin has directed Google's \"strike team\" to help its agentic AI tools catch up, while Sam Altman reportedly declared a \"code red\" at OpenAI last year before shutting down Sora to fo",
+        "basic": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,19 +23,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-      "date": "2026-04-21",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-      "hotScore": 58.8,
-      "category": "tech",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "date": "2026-04-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "hotScore": 56.3,
+      "category": "policy",
       "tags": [
         "GPT",
-        "Multimodal"
+        "Agent"
       ],
       "content": {
-        "basic": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+        "basic": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail. These new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawdbot and Moltbot that touts itself as the \"AI that actually does things\" - went viral. OpenClaw found",
         "highlights": [],
         "scenarios": [],
         "industry": [],
