@@ -1,22 +1,24 @@
 {
-  "lastUpdate": "2026-04-24",
-  "generatedAt": "2026-04-24T03:59:02.531Z",
+  "lastUpdate": "2026-04-26",
+  "generatedAt": "2026-04-26T04:03:38.073Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "date": "2026-04-23",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "date": "2026-04-24",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "hotScore": 67.5,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "hotScore": 59.5,
+      "category": "hardware",
       "tags": [
         "GPT",
-        "Claude"
+        "Claude",
+        "OpenSource",
+        "Agent"
       ],
       "content": {
-        "basic": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest relevant connected apps directly in your conversations, like using AllTrails for hike recommendations. An",
+        "basic": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central to AI agents and helped drive the success of tools like ChatGPT Codex and Claude Code. The release is also a milestone for China's chip industry, with DeepSeek explicitly highlighting compatibility with domestic Huawei technology. ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,18 +26,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic&#8217;s Mythos breach was humiliating",
-      "date": "2026-04-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "hotScore": 61.3,
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "date": "2026-04-24",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "hotScore": 55.8,
       "category": "product",
       "tags": [
-        "Claude"
+        "GPT"
       ],
       "content": {
-        "basic": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to Mythos - whose existence was first revealed in a leak - since the day Anthropic announced plans to offer it to a select group of companies for testing. Anthropic says it is investigating. That's a rough look for a company that has built its brand on taking AI s",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

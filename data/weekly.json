@@ -4,18 +4,82 @@
     "to": "2026-04-28"
   },
   "weekKey": "2026-W17",
-  "lastUpdate": "2026-04-24",
-  "generatedAt": "2026-04-24T03:59:02.531Z",
+  "lastUpdate": "2026-04-26",
+  "generatedAt": "2026-04-26T04:03:38.073Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "date": "2026-04-24",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "hotScore": 59.5,
+      "category": "hardware",
+      "tags": [
+        "GPT",
+        "Claude",
+        "OpenSource",
+        "Agent"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central to AI agents and helped drive the success of tools like ChatGPT Codex and Claude Code. The release is also a milestone for China's chip industry, with DeepSeek explicitly highlighting compatibility with domestic Huawei technology. ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 2,
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "date": "2026-04-24",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "hotScore": 55.8,
+      "category": "product",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "date": "2026-04-25",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
       "date": "2026-04-23",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "hotScore": 67.5,
+      "hotScore": 53.5,
       "category": "product",
       "tags": [
         "GPT",
@@ -31,84 +95,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Anthropic&#8217;s Mythos breach was humiliating",
-      "date": "2026-04-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to Mythos - whose existence was first revealed in a leak - since the day Anthropic announced plans to offer it to a select group of companies for testing. Anthropic says it is investigating. That's a rough look for a company that has built its brand on taking AI s",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "You’re about to feel the AI money squeeze",
-      "date": "2026-04-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "hotScore": 61.3,
-      "category": "policy",
-      "tags": [
-        "Claude",
-        "Agent"
-      ],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a profit. So if the users wanted its Claude AI to power their popular agents, they'd have to start paying handsomely for the privilege. \"Our subscriptions weren't built for the usage patterns of these third-party tools,\" wrote Boris Cherny, head of Claude Code, on X. \"We wan",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-      "date": "2026-04-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "hotScore": 56.3,
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 5,
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "date": "2026-04-24",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "hotScore": 53.3,
       "category": "research",
       "tags": [
-        "GPT"
+        "Gemini"
       ],
       "week_key": "2026-W17",
       "content": {
-        "basic": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, doing research online, making spreadsheets and documents, and doing that work across different tools. \"Instead of carefully managing every step, you can give GPT-5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going,\" a",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-      "date": "2026-04-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+        "basic": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
