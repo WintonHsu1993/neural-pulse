@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-26",
-  "generatedAt": "2026-04-26T04:03:38.073Z",
+  "lastUpdate": "2026-04-27",
+  "generatedAt": "2026-04-27T04:08:28.216Z",
   "count": 2,
   "data": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-04-24",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "hotScore": 59.5,
+      "hotScore": 53.5,
       "category": "hardware",
       "tags": [
         "GPT",
@@ -26,18 +26,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "date": "2026-04-24",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "hotScore": 55.8,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "date": "2026-04-23",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "hotScore": 53.5,
       "category": "product",
       "tags": [
-        "GPT"
+        "GPT",
+        "Claude"
       ],
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+        "basic": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest relevant connected apps directly in your conversations, like using AllTrails for hike recommendations. An",
         "highlights": [],
         "scenarios": [],
         "industry": [],

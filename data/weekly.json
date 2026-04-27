@@ -4,8 +4,8 @@
     "to": "2026-04-28"
   },
   "weekKey": "2026-W17",
-  "lastUpdate": "2026-04-26",
-  "generatedAt": "2026-04-26T04:03:38.073Z",
+  "lastUpdate": "2026-04-27",
+  "generatedAt": "2026-04-27T04:08:28.216Z",
   "count": 5,
   "data": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-04-24",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "hotScore": 59.5,
+      "hotScore": 53.5,
       "category": "hardware",
       "tags": [
         "GPT",
@@ -33,48 +33,8 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 2,
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "date": "2026-04-24",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "hotScore": 55.8,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "date": "2026-04-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
+      "rank": 2,
       "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
       "date": "2026-04-23",
       "source": "The Verge AI",
@@ -95,20 +55,60 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 5,
-      "title": "8 Gemini tips for organizing your space (and life)",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "date": "2026-04-26",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "hotScore": 52.5,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "The Download: supercharged scams and studying AI healthcare",
       "date": "2026-04-24",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "hotScore": 53.3,
-      "category": "research",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "hotScore": 49.8,
+      "category": "product",
       "tags": [
-        "Gemini"
+        "GPT"
       ],
       "week_key": "2026-W17",
       "content": {
-        "basic": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "date": "2026-04-23",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "hotScore": 47.3,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to Mythos - whose existence was first revealed in a leak - since the day Anthropic announced plans to offer it to a select group of companies for testing. Anthropic says it is investigating. That's a rough look for a company that has built its brand on taking AI s",
         "highlights": [],
         "scenarios": [],
         "industry": [],
