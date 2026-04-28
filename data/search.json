@@ -1,41 +1,193 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-    "date": "2026-04-24",
+    "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+    "date": "2026-04-28",
     "source": "The Verge AI",
-    "hotScore": 53.5,
-    "category": "hardware",
-    "tags": [
-      "GPT",
-      "Claude",
-      "OpenSource",
-      "Agent"
-    ],
-    "snippet": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US "
+    "hotScore": 75,
+    "category": "industry",
+    "tags": [],
+    "snippet": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors al"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+    "date": "2026-04-28",
+    "source": "Wired",
+    "hotScore": 72.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-    "date": "2026-04-23",
+    "title": "Google is testing AI chatbot search for YouTube",
+    "date": "2026-04-28",
     "source": "The Verge AI",
-    "hotScore": 53.5,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Claude"
-    ],
-    "snippet": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to "
+    "hotScore": 70,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+    "date": "2026-04-27",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-    "date": "2026-04-26",
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "date": "2026-04-27",
     "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "date": "2026-04-27",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI ends its exclusive partnership with Microsoft",
+    "date": "2026-04-27",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+    "date": "2026-04-27",
+    "source": "MIT Technology Review",
     "hotScore": 52.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Rebuilding the data stack for AI",
+    "date": "2026-04-27",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI "
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+    "date": "2026-04-27",
+    "source": "Ars Technica",
+    "hotScore": 51.3,
+    "category": "policy",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe)."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+    "date": "2026-04-27",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+    "date": "2026-04-27",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Google CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "date": "2026-04-27",
+    "source": "The Verge AI",
+    "hotScore": 50,
     "category": "startup",
     "tags": [],
-    "snippet": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+    "snippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The AI-designed car is taking shape",
+    "date": "2026-04-27",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless itera"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "date": "2026-04-27",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+    "date": "2026-04-27",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "date": "2026-04-27",
+    "source": "Google AI Blog",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+    "date": "2026-04-27",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -50,16 +202,34 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was release"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic&#8217;s Mythos breach was humiliating",
-    "date": "2026-04-23",
-    "source": "The Verge AI",
-    "hotScore": 47.3,
-    "category": "product",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release public"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta inks deal for solar power at night, beamed from space",
+    "date": "2026-04-27",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+    "date": "2026-04-27",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
+    "date": "2026-04-27",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "A recent attack on Sam Altman’s home and OpenAI offices has put corporate security under renewed scrutiny. Records reveal how much some tech firms spend to arm up."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -74,38 +244,36 @@
     "snippet": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "date": "2026-04-25",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "policy",
-    "tags": [],
-    "snippet": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-    "date": "2026-04-23",
+    "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+    "date": "2026-04-27",
     "source": "The Verge AI",
-    "hotScore": 42.3,
-    "category": "research",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI j"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-    "date": "2026-04-23",
-    "source": "TechCrunch AI",
-    "hotScore": 42.3,
+    "hotScore": 45,
     "category": "product",
     "tags": [
-      "GPT"
+      "Multimodal"
     ],
-    "snippet": "OpenAI says its latest model offers increased capabilities across a broad variety of categories."
+    "snippet": "I suddenly feel so much better about every embarrassing typo I’ve ever made. | Original Illustration (left) by Agathe Singer One of Canva's new AI features has been caught replacing the word \"Palestin"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "date": "2026-04-27",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "date": "2026-04-26",
+    "source": "TechCrunch AI",
+    "hotScore": 44.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -121,49 +289,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
     "date": "2026-04-25",
     "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "date": "2026-04-25",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-    "date": "2026-04-24",
-    "source": "The Verge AI",
     "hotScore": 41,
     "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Prestigious photo contest answers ‘what is a photo?’",
-    "date": "2026-04-24",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The three finalists for the World Press Photo of the year. | Image: World Press Photo We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, an"
+    "tags": [],
+    "snippet": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -186,26 +318,6 @@
       "Agent"
     ],
     "snippet": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Maine’s governor vetoes data center moratorium",
-    "date": "2026-04-25",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "date": "2026-04-25",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -234,41 +346,6 @@
     "snippet": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI needs a strong data fabric to deliver business value",
-    "date": "2026-04-22",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-    "date": "2026-04-21",
-    "source": "Google AI Blog",
-    "hotScore": 38.5,
-    "category": "policy",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Google will invest as much as $40 billion in Anthropic",
-    "date": "2026-04-24",
-    "source": "Ars Technica",
-    "hotScore": 38.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "This follows a similar, but smaller, investment by Amazon just days ago."
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
     "date": "2026-04-14",
@@ -277,16 +354,6 @@
     "category": "research",
     "tags": [],
     "snippet": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-    "date": "2026-04-25",
-    "source": "Wired",
-    "hotScore": 37,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -325,26 +392,26 @@
     "snippet": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta is laying off 10 percent of its staff",
-    "date": "2026-04-23",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "date": "2026-04-25",
+    "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "product",
+    "category": "startup",
     "tags": [
-      "Multimodal"
+      "Agent"
     ],
-    "snippet": "Mark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company'"
+    "snippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
-    "date": "2026-04-23",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "date": "2026-04-25",
+    "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "policy",
+    "category": "startup",
     "tags": [],
-    "snippet": "Today on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software bra"
+    "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -355,40 +422,6 @@
     "category": "product",
     "tags": [],
     "snippet": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nothing introduces an AI-powered dictation tool",
-    "date": "2026-04-24",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nothing's new on-device dictation tool supports over 100 languages."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-    "date": "2026-04-24",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "date": "2026-04-23",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -421,16 +454,6 @@
       "Multimodal"
     ],
     "snippet": "Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services wi"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "What to Consider Before You Accept a Management Role",
-    "date": "2026-04-21",
-    "source": "IEEE Spectrum",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -483,28 +506,6 @@
     "snippet": "Here are Google’s latest AI updates from March 2026"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-    "date": "2026-04-24",
-    "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-    "date": "2026-04-25",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
     "date": "2026-04-24",
@@ -516,42 +517,22 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta’s loss is Thinking Machines’ gain",
-    "date": "2026-04-24",
+    "title": "Maine’s governor vetoes data center moratorium",
+    "date": "2026-04-25",
     "source": "TechCrunch AI",
     "hotScore": 33.5,
     "category": "startup",
     "tags": [],
-    "snippet": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
+    "snippet": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Tim Cook is stepping down. What happens to Apple now?",
-    "date": "2026-04-24",
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "date": "2026-04-25",
     "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-    "date": "2026-04-23",
-    "source": "Google AI Blog",
-    "hotScore": 33.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-    "date": "2026-04-24",
-    "source": "Wired",
     "hotScore": 33.5,
     "category": "startup",
     "tags": [],
-    "snippet": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”"
+    "snippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t"
   }
 ]

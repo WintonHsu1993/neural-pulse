@@ -4,28 +4,42 @@
     "to": "2026-04-28"
   },
   "weekKey": "2026-W17",
-  "lastUpdate": "2026-04-27",
-  "generatedAt": "2026-04-27T04:08:28.216Z",
+  "lastUpdate": "2026-04-28",
+  "generatedAt": "2026-04-28T04:23:25.440Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "date": "2026-04-24",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "date": "2026-04-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "hotScore": 53.5,
-      "category": "hardware",
-      "tags": [
-        "GPT",
-        "Claude",
-        "OpenSource",
-        "Agent"
-      ],
+      "sourceUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "hotScore": 75,
+      "category": "industry",
+      "tags": [],
       "week_key": "2026-W17",
       "content": {
-        "basic": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central to AI agents and helped drive the success of tools like ChatGPT Codex and Claude Code. The release is also a milestone for China's chip industry, with DeepSeek explicitly highlighting compatibility with domestic Huawei technology. ",
+        "basic": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \"Elon Musk is a greedy, racist, homophobic piece of garbage.\" \"Elon Musk is a world-class jerk.\" \"I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Mu",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 2,
+      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "date": "2026-04-28",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "hotScore": 72.5,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -34,20 +48,36 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "date": "2026-04-23",
+      "rank": 3,
+      "title": "Google is testing AI chatbot search for YouTube",
+      "date": "2026-04-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "hotScore": 53.5,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Claude"
-      ],
+      "sourceUrl": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "hotScore": 70,
+      "category": "industry",
+      "tags": [],
       "week_key": "2026-W17",
       "content": {
-        "basic": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest relevant connected apps directly in your conversations, like using AllTrails for hike recommendations. An",
+        "basic": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older. I turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows prompts to ask like \"funny baby elephant playing clips,\" \"summary of the rules of volleyball,\" and \"s",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+      "date": "2026-04-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "hotScore": 61.3,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W17",
+      "content": {
+        "basic": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\" But OpenAI can \"now serve all its products to customers across any cloud provider.\" That lets OpenA",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -56,59 +86,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "date": "2026-04-26",
+      "rank": 5,
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "date": "2026-04-27",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "hotScore": 52.5,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "hotScore": 55,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W17",
       "content": {
-        "basic": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 4,
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "date": "2026-04-24",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "hotScore": 49.8,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Anthropic&#8217;s Mythos breach was humiliating",
-      "date": "2026-04-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "hotScore": 47.3,
-      "category": "product",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to Mythos - whose existence was first revealed in a leak - since the day Anthropic announced plans to offer it to a select group of companies for testing. Anthropic says it is investigating. That's a rough look for a company that has built its brand on taking AI s",
+        "basic": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

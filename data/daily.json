@@ -1,24 +1,19 @@
 {
-  "lastUpdate": "2026-04-27",
-  "generatedAt": "2026-04-27T04:08:28.216Z",
+  "lastUpdate": "2026-04-28",
+  "generatedAt": "2026-04-28T04:23:25.440Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "date": "2026-04-24",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "date": "2026-04-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "hotScore": 53.5,
-      "category": "hardware",
-      "tags": [
-        "GPT",
-        "Claude",
-        "OpenSource",
-        "Agent"
-      ],
+      "sourceUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "hotScore": 75,
+      "category": "industry",
+      "tags": [],
       "content": {
-        "basic": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central to AI agents and helped drive the success of tools like ChatGPT Codex and Claude Code. The release is also a milestone for China's chip industry, with DeepSeek explicitly highlighting compatibility with domestic Huawei technology. ",
+        "basic": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \"Elon Musk is a greedy, racist, homophobic piece of garbage.\" \"Elon Musk is a world-class jerk.\" \"I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Mu",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -26,19 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "date": "2026-04-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "hotScore": 53.5,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Claude"
-      ],
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "date": "2026-04-28",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "hotScore": 72.5,
+      "category": "policy",
+      "tags": [],
       "content": {
-        "basic": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such as Spotify, already have similar connectors in OpenAI's ChatGPT. Once an app is connected, Claude will suggest relevant connected apps directly in your conversations, like using AllTrails for hike recommendations. An",
+        "basic": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
