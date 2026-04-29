@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-04-28",
-  "generatedAt": "2026-04-28T04:23:25.440Z",
+  "lastUpdate": "2026-04-29",
+  "generatedAt": "2026-04-29T04:09:35.408Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "date": "2026-04-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "date": "2026-04-29",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
       "hotScore": 75,
-      "category": "industry",
+      "category": "startup",
       "tags": [],
       "content": {
-        "basic": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \"Elon Musk is a greedy, racist, homophobic piece of garbage.\" \"Elon Musk is a world-class jerk.\" \"I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Mu",
+        "basic": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "Better Hardware Could Turn Zeros into AI Heroes",
       "date": "2026-04-28",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-      "hotScore": 72.5,
-      "category": "policy",
-      "tags": [],
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/sparse-ai",
+      "hotScore": 65,
+      "category": "hardware",
+      "tags": [
+        "Llama"
+      ],
       "content": {
-        "basic": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+        "basic": "When it comes to AI models, size matters. Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion parameters that define the model. As models grow in size, their capabilities increase. But so do the energy demands and the time it takes to run the models, which increases their carbon footprint. To mitigate these issues, people have turned to smaller, less capable models and using lower-precision n",
         "highlights": [],
         "scenarios": [],
         "industry": [],

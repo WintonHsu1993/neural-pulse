@@ -1,102 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-04-22",
-    "to": "2026-04-28"
+    "from": "2026-04-29",
+    "to": "2026-05-05"
   },
-  "weekKey": "2026-W17",
-  "lastUpdate": "2026-04-28",
-  "generatedAt": "2026-04-28T04:23:25.440Z",
-  "count": 5,
+  "weekKey": "2026-W18",
+  "lastUpdate": "2026-04-29",
+  "generatedAt": "2026-04-29T04:09:35.408Z",
+  "count": 1,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 1,
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "date": "2026-04-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "hotScore": 75,
-      "category": "industry",
-      "tags": [],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \"Elon Musk is a greedy, racist, homophobic piece of garbage.\" \"Elon Musk is a world-class jerk.\" \"I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Mu",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 2,
-      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
-      "date": "2026-04-28",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-      "hotScore": 72.5,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Google is testing AI chatbot search for YouTube",
-      "date": "2026-04-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "hotScore": 70,
-      "category": "industry",
-      "tags": [],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older. I turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows prompts to ask like \"funny baby elephant playing clips,\" \"summary of the rules of volleyball,\" and \"s",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-      "date": "2026-04-27",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "hotScore": 61.3,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W17",
-      "content": {
-        "basic": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\" But OpenAI can \"now serve all its products to customers across any cloud provider.\" That lets OpenA",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "date": "2026-04-27",
+      "rank": 1,
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "date": "2026-04-29",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "hotScore": 55,
-      "category": "product",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "hotScore": 75,
+      "category": "startup",
       "tags": [],
-      "week_key": "2026-W17",
+      "week_key": "2026-W18",
       "content": {
-        "basic": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+        "basic": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
