@@ -4,23 +4,107 @@
     "to": "2026-05-05"
   },
   "weekKey": "2026-W18",
-  "lastUpdate": "2026-04-29",
-  "generatedAt": "2026-04-29T04:09:35.408Z",
-  "count": 1,
+  "lastUpdate": "2026-04-30",
+  "generatedAt": "2026-04-30T04:12:07.954Z",
+  "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "date": "2026-04-29",
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "date": "2026-04-30",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "hotScore": 75,
+      "sourceUrl": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "hotScore": 73.8,
+      "category": "startup",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Elon Musk’s worst enemy in court is Elon Musk",
+      "date": "2026-04-30",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "hotScore": 67.5,
+      "category": "policy",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "Just a simple country CEO who was being tricked by that sophisticated lawyer | Image: Cath Virginia / The Verge, Getty Images About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable cross-examination. For hours, Musk refused to answer yes or no questions with yes or no, occasionally \"forgot\" ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "date": "2026-04-30",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "hotScore": 65,
+      "category": "policy",
+      "tags": [
+        "Robotics"
+      ],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Amazon’s cloud business is surging — and so is its capital spending",
+      "date": "2026-04-30",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+      "hotScore": 62.5,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W18",
       "content": {
-        "basic": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+        "basic": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Tumbler Ridge families are suing OpenAI",
+      "date": "2026-04-29",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+      "hotScore": 61.3,
+      "category": "policy",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege OpenAI stayed silent after its systems flagged activity by shooting suspect Jesse Van Rootselaar in order to protect the company's reputation and upcoming initial public offering (IPO). The Wall Street Journal reports that OpenAI \"considered\" flagging the 18-year-old's activity to police, which repor",
         "highlights": [],
         "scenarios": [],
         "industry": [],
