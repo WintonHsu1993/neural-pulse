@@ -4,25 +4,66 @@
     "to": "2026-05-05"
   },
   "weekKey": "2026-W18",
-  "lastUpdate": "2026-04-30",
-  "generatedAt": "2026-04-30T04:12:07.954Z",
+  "lastUpdate": "2026-05-01",
+  "generatedAt": "2026-05-01T04:36:27.006Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 1,
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "date": "2026-04-30",
+      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
+      "date": "2026-05-01",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+      "hotScore": 72.5,
+      "category": "tech",
+      "tags": [],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "date": "2026-05-01",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "hotScore": 73.8,
+      "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "hotScore": 68.8,
       "category": "startup",
+      "tags": [
+        "GPT",
+        "Multimodal"
+      ],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "rank": 3,
+      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
+      "date": "2026-04-30",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+      "hotScore": 68.8,
+      "category": "policy",
       "tags": [
         "Claude"
       ],
       "week_key": "2026-W18",
       "content": {
-        "basic": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+        "basic": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud computing time. But while large language models present a real cyber-threat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities, including flaws in every major operating system and web browser, with",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,80 +72,40 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Elon Musk’s worst enemy in court is Elon Musk",
-      "date": "2026-04-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
-      "hotScore": 67.5,
-      "category": "policy",
-      "tags": [
-        "Multimodal"
-      ],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "Just a simple country CEO who was being tricked by that sophisticated lawyer | Image: Cath Virginia / The Verge, Getty Images About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable cross-examination. For hours, Musk refused to answer yes or no questions with yes or no, occasionally \"forgot\" ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "date": "2026-04-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "hotScore": 65,
-      "category": "policy",
-      "tags": [
-        "Robotics"
-      ],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 4,
-      "title": "Amazon’s cloud business is surging — and so is its capital spending",
+      "title": "OpenAI talks about not talking about goblins",
       "date": "2026-04-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-      "hotScore": 62.5,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Tumbler Ridge families are suing OpenAI",
-      "date": "2026-04-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
-      "hotScore": 61.3,
-      "category": "policy",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+      "hotScore": 65,
+      "category": "startup",
       "tags": [
         "GPT"
       ],
       "week_key": "2026-W18",
       "content": {
-        "basic": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege OpenAI stayed silent after its systems flagged activity by shooting suspect Jesse Van Rootselaar in order to protect the company's reputation and upcoming initial public offering (IPO). The Wall Street Journal reports that OpenAI \"considered\" flagging the 18-year-old's activity to police, which repor",
+        "basic": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as a result of their training. As outlined in the blog post, OpenAI began noticing metaphors referencing goblins and other creatures starting with its GPT-5.1 model - specifically when using the \"Nerdy\" personality option. OpenAI says the prob",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "date": "2026-04-30",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "hotScore": 61.3,
+      "category": "startup",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
