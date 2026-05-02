@@ -4,66 +4,63 @@
     "to": "2026-05-05"
   },
   "weekKey": "2026-W18",
-  "lastUpdate": "2026-05-01",
-  "generatedAt": "2026-05-01T04:36:27.006Z",
+  "lastUpdate": "2026-05-02",
+  "generatedAt": "2026-05-02T04:00:24.601Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 1,
-      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-      "date": "2026-05-01",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-      "hotScore": 72.5,
-      "category": "tech",
-      "tags": [],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "date": "2026-05-01",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-      "hotScore": 68.8,
-      "category": "startup",
-      "tags": [
-        "GPT",
-        "Multimodal"
-      ],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 3,
+      "rank": 1,
       "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
       "date": "2026-04-30",
       "source": "IEEE Spectrum",
       "sourceUrl": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-      "hotScore": 68.8,
+      "hotScore": 60.8,
       "category": "policy",
       "tags": [
         "Claude"
       ],
       "week_key": "2026-W18",
       "content": {
-        "basic": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud computing time. But while large language models present a real cyber-threat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities, including flaws in every major operating system and web browser, with",
+        "basic": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time. But while large language models present a real cyberthreat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities, including flaws in every major operating system and web browser, with ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "All the evidence revealed so far in Musk v. Altman",
+      "date": "2026-05-01",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "hotScore": 55,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+      "date": "2026-05-01",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - after declaring it a supply-chain risk. This builds upon deals with OpenAI and xAI, which have already reached agreements with the Pentagon for the \"lawful\" use of their AI systems. A report from The Information suggests Google has struck a similar ag",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -73,18 +70,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "OpenAI talks about not talking about goblins",
-      "date": "2026-04-30",
+      "title": "Elon Musk had a bad week in court",
+      "date": "2026-05-01",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [],
       "week_key": "2026-W18",
       "content": {
-        "basic": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as a result of their training. As outlined in the blog post, OpenAI began noticing metaphors referencing goblins and other creatures starting with its GPT-5.1 model - specifically when using the \"Nerdy\" personality option. OpenAI says the prob",
+        "basic": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. Instead, Musk spent much of the week arguing with lawyers (",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,18 +89,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "date": "2026-04-30",
+      "title": "Musk v. Altman is just getting started",
+      "date": "2026-05-01",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "hotScore": 61.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [],
       "week_key": "2026-W18",
       "content": {
-        "basic": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+        "basic": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-05-01",
-  "generatedAt": "2026-05-01T04:36:27.006Z",
+  "lastUpdate": "2026-05-02",
+  "generatedAt": "2026-05-02T04:00:24.601Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-      "date": "2026-05-01",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-      "hotScore": 72.5,
-      "category": "tech",
-      "tags": [],
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
+      "date": "2026-04-30",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+      "hotScore": 60.8,
+      "category": "policy",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+        "basic": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time. But while large language models present a real cyberthreat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities, including flaws in every major operating system and web browser, with ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,19 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "All the evidence revealed so far in Musk v. Altman",
       "date": "2026-05-01",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-      "hotScore": 68.8,
-      "category": "startup",
-      "tags": [
-        "GPT",
-        "Multimodal"
-      ],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "hotScore": 55,
+      "category": "hardware",
+      "tags": [],
       "content": {
-        "basic": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+        "basic": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and",
         "highlights": [],
         "scenarios": [],
         "industry": [],

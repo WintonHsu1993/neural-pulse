@@ -1,33 +1,10 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-    "date": "2026-05-01",
-    "source": "Wired",
-    "hotScore": 72.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "date": "2026-05-01",
-    "source": "TechCrunch AI",
-    "hotScore": 68.8,
-    "category": "startup",
-    "tags": [
-      "GPT",
-      "Multimodal"
-    ],
-    "snippet": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits."
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
     "date": "2026-04-30",
     "source": "IEEE Spectrum",
-    "hotScore": 68.8,
+    "hotScore": 60.8,
     "category": "policy",
     "tags": [
       "Claude"
@@ -36,91 +13,8 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI talks about not talking about goblins",
-    "date": "2026-04-30",
-    "source": "The Verge AI",
-    "hotScore": 65,
-    "category": "startup",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or oth"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 61.3,
-    "category": "startup",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-    "date": "2026-04-30",
-    "source": "MIT Technology Review",
-    "hotScore": 57.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-    "date": "2026-04-30",
-    "source": "IEEE Spectrum",
-    "hotScore": 57.5,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical A"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "date": "2026-04-30",
-    "source": "The Verge AI",
-    "hotScore": 56.3,
-    "category": "policy",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Gemini is rolling out to cars with Google built-in",
-    "date": "2026-04-30",
-    "source": "The Verge AI",
-    "hotScore": 56.3,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Multimodal"
-    ],
-    "snippet": "Here’s an early look at the new Gemini assistant on a vehicle infotainment system. | Image: Google Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This w"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 56.3,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "All the evidence unveiled so far in Musk v. Altman",
-    "date": "2026-04-30",
+    "title": "All the evidence revealed so far in Musk v. Altman",
+    "date": "2026-05-01",
     "source": "The Verge AI",
     "hotScore": 55,
     "category": "hardware",
@@ -129,69 +23,77 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-    "date": "2026-04-30",
+    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "date": "2026-05-01",
     "source": "The Verge AI",
     "hotScore": 55,
     "category": "startup",
     "tags": [],
-    "snippet": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common "
+    "snippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Elon Musk had a bad week in court",
+    "date": "2026-05-01",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-    "date": "2026-04-30",
+    "title": "Musk v. Altman is just getting started",
+    "date": "2026-05-01",
     "source": "TechCrunch AI",
     "hotScore": 55,
-    "category": "startup",
+    "category": "policy",
     "tags": [],
-    "snippet": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-    "date": "2026-04-30",
-    "source": "Ars Technica",
-    "hotScore": 55,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 53.8,
-    "category": "startup",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter."
+    "snippet": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an"
   },
   {
     "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-    "date": "2026-04-30",
+    "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+    "date": "2026-05-01",
     "source": "Wired",
     "hotScore": 53.8,
-    "category": "tech",
+    "category": "policy",
     "tags": [
       "GPT"
     ],
-    "snippet": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks."
+    "snippet": "ChatGPT’s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
     "date": "2026-04-30",
     "source": "TechCrunch AI",
-    "hotScore": 51.3,
+    "hotScore": 53.3,
     "category": "startup",
     "tags": [
-      "Gemini"
+      "GPT"
     ],
-    "snippet": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience."
+    "snippet": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "date": "2026-05-01",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: a new Christian phone network, and debugging LLMs",
+    "date": "2026-05-01",
+    "source": "MIT Technology Review",
+    "hotScore": 51.3,
+    "category": "product",
+    "tags": [],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and g"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -207,30 +109,242 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta is running get-rich-quick ads for its AI tools",
-    "date": "2026-04-30",
+    "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+    "date": "2026-05-01",
     "source": "The Verge AI",
     "hotScore": 50,
-    "category": "product",
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, m"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "date": "2026-05-01",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
     "tags": [],
-    "snippet": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the"
+    "snippet": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "date": "2026-05-01",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "date": "2026-04-30",
+    "source": "MIT Technology Review",
+    "hotScore": 49.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+    "date": "2026-04-30",
+    "source": "IEEE Spectrum",
+    "hotScore": 49.5,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical A"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "date": "2026-05-01",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "startup",
+    "tags": [
+      "GPT",
+      "Multimodal"
+    ],
+    "snippet": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+    "date": "2026-05-01",
+    "source": "Ars Technica",
+    "hotScore": 48.8,
+    "category": "tech",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\""
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
     "date": "2026-04-30",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 48.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Gemini is rolling out to cars with Google built-in",
+    "date": "2026-04-30",
+    "source": "The Verge AI",
+    "hotScore": 48.3,
+    "category": "product",
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "Here’s an early look at the new Gemini assistant on a vehicle infotainment system. | Image: Google Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This w"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "date": "2026-04-30",
+    "source": "TechCrunch AI",
+    "hotScore": 48.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "date": "2026-05-01",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+    "date": "2026-04-30",
+    "source": "The Verge AI",
+    "hotScore": 47,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+    "date": "2026-04-30",
+    "source": "TechCrunch AI",
+    "hotScore": 47,
+    "category": "startup",
+    "tags": [],
+    "snippet": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+    "date": "2026-04-30",
+    "source": "Ars Technica",
+    "hotScore": 47,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+    "date": "2026-05-01",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handl"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "date": "2026-05-01",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Study: AI models that consider user's feeling are more likely to make errors",
+    "date": "2026-05-01",
+    "source": "Ars Technica",
+    "hotScore": 45,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Women sue the men who used their Instagram feeds to create AI porn influencers",
+    "date": "2026-05-01",
+    "source": "Ars Technica",
+    "hotScore": 45,
+    "category": "tech",
+    "tags": [],
+    "snippet": "AI ModelForge is a platform that teaches men how to generate their own AI influencers."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+    "date": "2026-04-30",
+    "source": "TechCrunch AI",
+    "hotScore": 43.3,
+    "category": "startup",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "date": "2026-05-01",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
     "category": "product",
     "tags": [],
-    "snippet": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, an"
+    "snippet": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta is running get-rich-quick ads for its AI tools",
+    "date": "2026-04-30",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "product",
+    "tags": [],
+    "snippet": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "date": "2026-04-30",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter."
@@ -240,7 +354,7 @@
     "title": "Apple was surprised by AI-driven demand for Macs",
     "date": "2026-04-30",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [],
     "snippet": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too."
@@ -250,7 +364,7 @@
     "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
     "date": "2026-04-30",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [],
     "snippet": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too."
@@ -260,154 +374,10 @@
     "title": "X announces a rebuilt ad platform powered by AI",
     "date": "2026-04-30",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "All these smart glasses and nothing to do",
-    "date": "2026-04-30",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Despite only having one face, I made testing work. I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-    "date": "2026-04-30",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-    "date": "2026-04-30",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "On the stand, Elon Musk can’t escape his own tweets",
-    "date": "2026-04-29",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
-    "date": "2026-04-30",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the comp"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta says its business AI now facilitates 10 million conversations a week",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Meta said over 8 billion advertisers have used at least one of its GenAI tools"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
-    "date": "2026-04-30",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" B"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon’s cloud business is surging — and so is its capital spending",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta is still burning money on AR/VR",
-    "date": "2026-04-29",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
-    "date": "2026-04-29",
-    "source": "Ars Technica",
-    "hotScore": 42,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Directions also include system instructions to act like \"you have a vivid inner life.\""
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -458,34 +428,46 @@
     "snippet": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-    "date": "2026-04-28",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "research",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "date": "2026-04-30",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
     "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s futu"
+    "snippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-    "date": "2026-04-27",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+    "date": "2026-04-30",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
+    "date": "2026-04-30",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
     "category": "policy",
-    "tags": [],
-    "snippet": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici"
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Rebuilding the data stack for AI",
-    "date": "2026-04-27",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta says its business AI now facilitates 10 million conversations a week",
+    "date": "2026-04-30",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
     "tags": [],
-    "snippet": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI "
+    "snippet": "Meta said over 8 billion advertisers have used at least one of its GenAI tools"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -542,5 +524,27 @@
     "category": "product",
     "tags": [],
     "snippet": "It started with word, cave, and storytelling, A line scratched on stone walls: “Meet me when the young moon rises.” The first protocol for connection. Coyote tales, forbidden scripts, Medieval texts h"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "date": "2026-04-22",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "date": "2026-04-16",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [],
+    "snippet": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web"
   }
 ]
