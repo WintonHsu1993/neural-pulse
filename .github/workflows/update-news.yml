@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,7 +35,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node fetch-and-generate.js
 
-      - name: Commit and push
+      - name: Commit and push data
         run: |
           git config user.name "Neural Pulse Bot"
           git config user.email "bot@neuralpulse.ai"
