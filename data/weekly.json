@@ -4,25 +4,44 @@
     "to": "2026-05-05"
   },
   "weekKey": "2026-W18",
-  "lastUpdate": "2026-05-03",
-  "generatedAt": "2026-05-03T04:28:41.995Z",
+  "lastUpdate": "2026-05-05",
+  "generatedAt": "2026-05-05T03:57:15.737Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
-      "date": "2026-04-30",
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "date": "2026-05-05",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "hotScore": 65,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W18",
+      "content": {
+        "basic": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "rank": 2,
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "date": "2026-05-04",
       "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-      "hotScore": 54.8,
-      "category": "policy",
+      "sourceUrl": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "hotScore": 57.5,
+      "category": "research",
       "tags": [
-        "Claude"
+        "Robotics"
       ],
       "week_key": "2026-W18",
       "content": {
-        "basic": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time. But while large language models present a real cyberthreat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities, including flaws in every major operating system and web browser, with ",
+        "basic": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and the National University of Singapore. The move signals a key strategic initiative for DAIMON, a two-a",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,37 +49,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "The best AI dictation apps, tested and ranked",
-      "date": "2026-05-02",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "hotScore": 50,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "date": "2026-05-02",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "hotScore": 50,
-      "category": "tech",
-      "tags": [],
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "date": "2026-05-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "hotScore": 56.3,
+      "category": "policy",
+      "tags": [
+        "GPT"
+      ],
       "week_key": "2026-W18",
       "content": {
-        "basic": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+        "basic": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th. Elon Musk took the stand on April 28th as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity, then returned to the stand on April 29th and again for a third day of testimony on April 30th",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,18 +72,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 4,
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "date": "2026-04-30",
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "date": "2026-05-04",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "hotScore": 47.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "hotScore": 56.3,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W18",
       "content": {
-        "basic": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+        "basic": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,18 +89,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "date": "2026-05-01",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "hotScore": 47,
-      "category": "hardware",
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "date": "2026-05-04",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "hotScore": 55,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W18",
       "content": {
-        "basic": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and",
+        "basic": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

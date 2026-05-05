@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-05-03",
-  "generatedAt": "2026-05-03T04:28:41.995Z",
+  "lastUpdate": "2026-05-05",
+  "generatedAt": "2026-05-05T03:57:15.737Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
-      "date": "2026-04-30",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-      "hotScore": 54.8,
-      "category": "policy",
-      "tags": [
-        "Claude"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "date": "2026-05-05",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "hotScore": 65,
+      "category": "hardware",
+      "tags": [],
       "content": {
-        "basic": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time. But while large language models present a real cyberthreat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its Claude Mythos preview model has already helped defenders preemptively discover over a thousand zero-day vulnerabilities, including flaws in every major operating system and web browser, with ",
+        "basic": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,17 +22,17 @@
     },
     {
       "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "title": "Better Hardware Could Turn Zeros into AI Heroes",
-      "date": "2026-04-28",
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "date": "2026-05-04",
       "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/sparse-ai",
-      "hotScore": 51,
-      "category": "hardware",
+      "sourceUrl": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "hotScore": 57.5,
+      "category": "research",
       "tags": [
-        "Llama"
+        "Robotics"
       ],
       "content": {
-        "basic": "When it comes to AI models, size matters. Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion parameters that define the model. As models grow in size, their capabilities increase. But so do the energy demands and the time it takes to run the models, which increases their carbon footprint. To mitigate these issues, people have turned to smaller, less capable models and using lower-precision n",
+        "basic": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and the National University of Singapore. The move signals a key strategic initiative for DAIMON, a two-a",
         "highlights": [],
         "scenarios": [],
         "industry": [],
