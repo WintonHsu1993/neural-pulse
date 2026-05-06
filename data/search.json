@@ -1,30 +1,31 @@
 [
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI is reportedly launching a phone for ChatGPT",
     "date": "2026-05-05",
-    "source": "TechCrunch AI",
-    "hotScore": 65,
+    "source": "The Verge AI",
+    "hotScore": 61.3,
     "category": "hardware",
-    "tags": [],
-    "snippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
+    "tags": [
+      "GPT",
+      "Multimodal"
+    ],
+    "snippet": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming O"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-    "date": "2026-05-04",
-    "source": "IEEE Spectrum",
-    "hotScore": 57.5,
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+    "date": "2026-05-05",
+    "source": "The Verge AI",
+    "hotScore": 60,
     "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical A"
+    "tags": [],
+    "snippet": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Depart"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "source": "The Verge AI",
     "hotScore": 56.3,
     "category": "policy",
@@ -34,34 +35,50 @@
     "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+    "date": "2026-05-05",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant imp"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "What an AI-designed car looks like",
+    "date": "2026-05-05",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [],
+    "snippet": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tas"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "date": "2026-05-04",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "date": "2026-05-05",
     "source": "TechCrunch AI",
     "hotScore": 56.3,
-    "category": "research",
-    "tags": [],
-    "snippet": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-    "date": "2026-05-04",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+    "date": "2026-05-05",
+    "source": "The Verge AI",
     "hotScore": 55,
-    "category": "product",
-    "tags": [],
-    "snippet": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "The latest AI news we announced in April 2026",
-    "date": "2026-05-04",
-    "source": "Google AI Blog",
-    "hotScore": 55,
-    "category": "product",
-    "tags": [],
-    "snippet": "Here are Google’s latest AI updates from April 2026"
+    "category": "policy",
+    "tags": [
+      "Llama"
+    ],
+    "snippet": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" "
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -76,11 +93,153 @@
     "snippet": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job "
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+    "date": "2026-05-05",
+    "source": "The Verge AI",
+    "hotScore": 51.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will imp"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+    "date": "2026-05-05",
+    "source": "Ars Technica",
+    "hotScore": 51.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "date": "2026-05-05",
+    "source": "Wired",
+    "hotScore": 51.3,
+    "category": "research",
+    "tags": [],
+    "snippet": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft gives up on Xbox Copilot AI",
+    "date": "2026-05-05",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple could let you pick a favorite AI model in iOS 27",
+    "date": "2026-05-05",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI president forced to read his personal diary entries to jury",
+    "date": "2026-05-05",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+    "date": "2026-05-04",
+    "source": "IEEE Spectrum",
+    "hotScore": 49.5,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical A"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "date": "2026-05-04",
+    "source": "TechCrunch AI",
+    "hotScore": 48.3,
+    "category": "research",
+    "tags": [],
+    "snippet": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "date": "2026-05-05",
+    "source": "Google AI Blog",
+    "hotScore": 47.5,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+    "date": "2026-05-05",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "date": "2026-05-04",
+    "source": "TechCrunch AI",
+    "hotScore": 47,
+    "category": "product",
+    "tags": [],
+    "snippet": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in April 2026",
+    "date": "2026-05-04",
+    "source": "Google AI Blog",
+    "hotScore": 47,
+    "category": "product",
+    "tags": [],
+    "snippet": "Here are Google’s latest AI updates from April 2026"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
     "date": "2026-05-04",
     "source": "Google AI Blog",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "research",
     "tags": [
       "Gemini"
@@ -88,133 +247,118 @@
     "snippet": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-    "date": "2026-05-04",
-    "source": "MIT Technology Review",
-    "hotScore": 52.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-    "date": "2026-05-04",
+    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+    "date": "2026-05-05",
     "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "When the bromance sours, we all end up in court. | Image: Cath Virginia / The Verge, Getty Images The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Bro"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "date": "2026-05-04",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "date": "2026-05-04",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
-    "date": "2026-05-04",
-    "source": "Ars Technica",
-    "hotScore": 50,
+    "hotScore": 45,
     "category": "policy",
     "tags": [],
-    "snippet": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Influential study touting ChatGPT in education retracted over red flags",
-    "date": "2026-05-04",
-    "source": "Ars Technica",
-    "hotScore": 48.8,
-    "category": "tech",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "The retracted study on ChatGPT in education was already cited hundreds of times."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The creator of Roomba is back with a furry robot companion",
-    "date": "2026-05-04",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [
-      "Multimodal",
-      "Robotics"
-    ],
-    "snippet": "The first “Familiar” from Colin Angle’s new startup, Familiar Machines & Magic, is a robot that is designed to live in your home and interact autonomously with family members. | Image: Familiar Machin"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-    "date": "2026-05-04",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI music is flooding streaming services — but who wants it?",
-    "date": "2026-05-03",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "industry",
-    "tags": [],
-    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arri"
+    "snippet": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would a"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "date": "2026-05-04",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "date": "2026-05-05",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "product",
+    "tags": [],
+    "snippet": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
     "tags": [
-      "Multimodal"
+      "Agent"
     ],
-    "snippet": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue."
+    "snippet": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "date": "2026-05-04",
+    "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+    "date": "2026-05-05",
     "source": "TechCrunch AI",
     "hotScore": 45,
-    "category": "startup",
+    "category": "product",
     "tags": [],
-    "snippet": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences."
+    "snippet": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-    "date": "2026-05-04",
+    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "date": "2026-05-05",
     "source": "TechCrunch AI",
     "hotScore": 45,
-    "category": "startup",
+    "category": "hardware",
     "tags": [],
-    "snippet": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content."
+    "snippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -229,24 +373,64 @@
     "snippet": "When it comes to AI models, size matters. Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are s"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
     "date": "2026-05-04",
+    "source": "MIT Technology Review",
+    "hotScore": 44.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+    "date": "2026-05-05",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+    "date": "2026-05-05",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here."
+    "snippet": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "‘This is fine’ creator says AI startup stole his art",
-    "date": "2026-05-03",
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "date": "2026-05-04",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "date": "2026-05-04",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+    "snippet": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+    "date": "2026-05-04",
+    "source": "Ars Technica",
+    "hotScore": 42,
+    "category": "policy",
+    "tags": [],
+    "snippet": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -261,44 +445,16 @@
     "snippet": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "All the evidence revealed so far in Musk v. Altman",
-    "date": "2026-05-01",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-    "date": "2026-05-01",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Elon Musk had a bad week in court",
-    "date": "2026-05-01",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Musk v. Altman is just getting started",
-    "date": "2026-05-01",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an"
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Influential study touting ChatGPT in education retracted over red flags",
+    "date": "2026-05-04",
+    "source": "Ars Technica",
+    "hotScore": 40.8,
+    "category": "tech",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "The retracted study on ChatGPT in education was already cited hundreds of times."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -335,13 +491,25 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "date": "2026-05-03",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "date": "2026-05-04",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "date": "2026-05-04",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors."
+    "snippet": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -368,58 +536,6 @@
     "snippet": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-    "date": "2026-05-01",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, m"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The best AI dictation apps, tested and ranked",
-    "date": "2026-05-02",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [],
-    "snippet": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-    "date": "2026-05-01",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "date": "2026-05-01",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "date": "2026-04-30",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter."
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "We're launching two specialized TPUs for the agentic era.",
     "date": "2026-04-22",
@@ -430,115 +546,5 @@
       "Agent"
     ],
     "snippet": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "A new way to explore the web with AI Mode in Chrome",
-    "date": "2026-04-16",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "date": "2026-04-14",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Bringing people together at AI for the Economy Forum",
-    "date": "2026-04-14",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "date": "2026-05-01",
-    "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "startup",
-    "tags": [
-      "GPT",
-      "Multimodal"
-    ],
-    "snippet": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-    "date": "2026-05-03",
-    "source": "The Verge AI",
-    "hotScore": 34.5,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Downey at home in LA with one of his channel’s frequent guest stars. | Image: The Verge; Shutterstock It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from th"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The Chip That Made Hardware Rewriteable",
-    "date": "2026-04-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Many of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable g"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "GPU Renters Are Playing a Silicon Lottery",
-    "date": "2026-04-23",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "research",
-    "tags": [],
-    "snippet": "Think one GPU is very much like another? Think again. It turns out that there’s surprising variability in the performance delivered by chips of the same model. That can make getting your money’s worth"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-    "date": "2026-04-21",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "policy",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "7 ways to travel smarter this summer, with help from Google",
-    "date": "2026-04-17",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-    "date": "2026-05-01",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handl"
   }
 ]

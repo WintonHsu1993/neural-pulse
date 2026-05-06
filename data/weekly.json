@@ -1,111 +1,11 @@
 {
   "weekRange": {
-    "from": "2026-04-29",
-    "to": "2026-05-05"
+    "from": "2026-05-06",
+    "to": "2026-05-12"
   },
-  "weekKey": "2026-W18",
-  "lastUpdate": "2026-05-05",
-  "generatedAt": "2026-05-05T03:57:15.737Z",
-  "count": 5,
-  "data": [
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 1,
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-      "date": "2026-05-05",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-      "hotScore": 65,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 2,
-      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-      "date": "2026-05-04",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "hotScore": 57.5,
-      "category": "research",
-      "tags": [
-        "Robotics"
-      ],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and the National University of Singapore. The move signals a key strategic initiative for DAIMON, a two-a",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "date": "2026-05-04",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "hotScore": 56.3,
-      "category": "policy",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th. Elon Musk took the stand on April 28th as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity, then returned to the stand on April 29th and again for a third day of testimony on April 30th",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "date": "2026-05-04",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-      "hotScore": 56.3,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-      "date": "2026-05-04",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W18",
-      "content": {
-        "basic": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    }
-  ]
+  "weekKey": "2026-W19",
+  "lastUpdate": "2026-05-06",
+  "generatedAt": "2026-05-06T04:23:08.783Z",
+  "count": 0,
+  "data": []
 }
