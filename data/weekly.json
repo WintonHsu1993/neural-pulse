@@ -4,8 +4,106 @@
     "to": "2026-05-12"
   },
   "weekKey": "2026-W19",
-  "lastUpdate": "2026-05-06",
-  "generatedAt": "2026-05-06T04:23:08.783Z",
-  "count": 0,
-  "data": []
+  "lastUpdate": "2026-05-09",
+  "generatedAt": "2026-05-09T04:03:53.240Z",
+  "count": 5,
+  "data": [
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 1,
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "date": "2026-05-08",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "hotScore": 60,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Everybody wants to rule the AI world",
+      "date": "2026-05-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+      "hotScore": 55,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the days in 2024 when Sam Altman was ousted from OpenAI. We knew that situation was chaotic; the ongoing Musk v. Altman trial is showing just how chaotic it really was. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcas",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 3,
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "date": "2026-05-08",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "hotScore": 52.5,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "All the latest updates on AI data centers",
+      "date": "2026-05-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "hotScore": 50,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. From audacious plans to launch data centers into space to the latest legal battles over pollution, The Verge has the biggest news and reporting surrounding data centers. 43 percent of Americans blame data centers as a major reason for rising power bills. A 40,000-acre data center project was just approve",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "date": "2026-05-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "hotScore": 50,
+      "category": "industry",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls AI a \"powerful tool,\" it says that the \"vision, the design, and the emotional impact of our games will always come from the talent of our studios and performers.\" and that \"AI is meant to augment their capabilities, not to replace them.\" At its own studios, Sony says that develop",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    }
+  ]
 }
