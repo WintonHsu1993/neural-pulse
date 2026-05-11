@@ -4,18 +4,77 @@
     "to": "2026-05-12"
   },
   "weekKey": "2026-W19",
-  "lastUpdate": "2026-05-10",
-  "generatedAt": "2026-05-10T04:32:54.665Z",
+  "lastUpdate": "2026-05-11",
+  "generatedAt": "2026-05-11T04:44:59.515Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "date": "2026-05-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "hotScore": 60,
+      "category": "hardware",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "date": "2026-05-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Get ready for the whisper-filled office of the future",
+      "date": "2026-05-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "hotScore": 47.5,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W19",
+      "content": {
+        "basic": "How will work setups change if we spend more and more time talking to our computers?",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
       "title": "The “people’s airline” and the enterprise AI gold rush",
       "date": "2026-05-08",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "hotScore": 52,
+      "hotScore": 46,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W19",
@@ -28,75 +87,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Everybody wants to rule the AI world",
-      "date": "2026-05-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
-      "hotScore": 47,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "date": "2026-05-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "hotScore": 45,
       "category": "product",
       "tags": [],
       "week_key": "2026-W19",
       "content": {
-        "basic": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the days in 2024 when Sam Altman was ousted from OpenAI. We knew that situation was chaotic; the ongoing Musk v. Altman trial is showing just how chaotic it really was. Verge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcas",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "date": "2026-05-09",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "hotScore": 45,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W19",
-      "content": {
-        "basic": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "date": "2026-05-09",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "hotScore": 45,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W19",
-      "content": {
-        "basic": "Nvidia continues to be a big investor in the AI ecosystem.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 5,
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "date": "2026-05-08",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "hotScore": 44.5,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W19",
-      "content": {
-        "basic": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
+        "basic": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
