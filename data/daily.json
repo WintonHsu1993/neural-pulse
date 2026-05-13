@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-05-11",
-  "generatedAt": "2026-05-11T04:44:59.515Z",
+  "lastUpdate": "2026-05-13",
+  "generatedAt": "2026-05-13T04:30:48.823Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "date": "2026-05-10",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "hotScore": 60,
-      "category": "hardware",
-      "tags": [
-        "Claude"
-      ],
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "date": "2026-05-13",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "hotScore": 67.5,
+      "category": "policy",
+      "tags": [],
       "content": {
-        "basic": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+        "basic": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,15 +22,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "date": "2026-05-10",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "date": "2026-05-13",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "hotScore": 55,
+      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "hotScore": 65,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "Agent"
+      ],
       "content": {
-        "basic": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+        "basic": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

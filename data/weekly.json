@@ -1,28 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-05-06",
-    "to": "2026-05-12"
+    "from": "2026-05-13",
+    "to": "2026-05-19"
   },
-  "weekKey": "2026-W19",
-  "lastUpdate": "2026-05-11",
-  "generatedAt": "2026-05-11T04:44:59.515Z",
-  "count": 5,
+  "weekKey": "2026-W20",
+  "lastUpdate": "2026-05-13",
+  "generatedAt": "2026-05-13T04:30:48.823Z",
+  "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 1,
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "date": "2026-05-10",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "hotScore": 60,
-      "category": "hardware",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W19",
+      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "date": "2026-05-13",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "hotScore": 67.5,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W20",
       "content": {
-        "basic": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+        "basic": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -32,73 +30,18 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "date": "2026-05-10",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "date": "2026-05-13",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "hotScore": 55,
+      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "hotScore": 65,
       "category": "startup",
-      "tags": [],
-      "week_key": "2026-W19",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W20",
       "content": {
-        "basic": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Get ready for the whisper-filled office of the future",
-      "date": "2026-05-10",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "hotScore": 47.5,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W19",
-      "content": {
-        "basic": "How will work setups change if we spend more and more time talking to our computers?",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "date": "2026-05-08",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "hotScore": 46,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W19",
-      "content": {
-        "basic": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "date": "2026-05-10",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "hotScore": 45,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W19",
-      "content": {
-        "basic": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "basic": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
