@@ -4,23 +4,46 @@
     "to": "2026-05-19"
   },
   "weekKey": "2026-W20",
-  "lastUpdate": "2026-05-13",
-  "generatedAt": "2026-05-13T04:30:48.823Z",
-  "count": 2,
+  "lastUpdate": "2026-05-14",
+  "generatedAt": "2026-05-14T04:29:14.201Z",
+  "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "date": "2026-05-13",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-      "hotScore": 67.5,
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "hotScore": 56.3,
       "category": "policy",
-      "tags": [],
+      "tags": [
+        "GPT"
+      ],
       "week_key": "2026-W20",
       "content": {
-        "basic": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+        "basic": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who shares four children with Musk, took the stand last week, and the courtroom also watched former OpenA",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Alexa is moving into Amazon․com",
+      "date": "2026-05-13",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+      "hotScore": 56.3,
+      "category": "research",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W20",
+      "content": {
+        "basic": "Alexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for men\" or \"When did I last order AA batteries\" will now trigger an answer from Alexa. Alexa for Shoppin",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -29,19 +52,57 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "rank": 3,
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
       "date": "2026-05-13",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "hotScore": 65,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [
-        "Agent"
+        "Claude"
       ],
       "week_key": "2026-W20",
       "content": {
-        "basic": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+        "basic": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "date": "2026-05-13",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W20",
+      "content": {
+        "basic": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 5,
+      "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
+      "date": "2026-05-13",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+      "hotScore": 53.8,
+      "category": "tech",
+      "tags": [],
+      "week_key": "2026-W20",
+      "content": {
+        "basic": "But training on \"synthetic stories\" that model good AI behavior can help.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
