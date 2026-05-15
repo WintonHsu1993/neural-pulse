@@ -4,15 +4,77 @@
     "to": "2026-05-19"
   },
   "weekKey": "2026-W20",
-  "lastUpdate": "2026-05-14",
-  "generatedAt": "2026-05-14T04:29:14.201Z",
+  "lastUpdate": "2026-05-15",
+  "generatedAt": "2026-05-15T04:35:17.140Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
+      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "date": "2026-05-14",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "hotScore": 72.5,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Claude"
+      ],
+      "week_key": "2026-W20",
+      "content": {
+        "basic": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that lets it operate apps on macOS - a potentially major step as part of its ambitions to make a desktop \"su",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 2,
+      "title": "The Real Losers of the Musk v. Altman Trial",
+      "date": "2026-05-15",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+      "hotScore": 72.5,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W20",
+      "content": {
+        "basic": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "date": "2026-05-14",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "hotScore": 61.3,
+      "category": "industry",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W20",
+      "content": {
+        "basic": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved very popular inside Microsoft over the past six months. Perhaps a little too popular, as Microsoft is now preparing to walk back its Claude Code push. I understand that Microsoft is planning to remove most of its Claude Code licenses and push many of its developers to use ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "hotScore": 56.3,
@@ -30,79 +92,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Alexa is moving into Amazon․com",
-      "date": "2026-05-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-      "hotScore": 56.3,
-      "category": "research",
-      "tags": [
-        "Multimodal"
-      ],
-      "week_key": "2026-W20",
-      "content": {
-        "basic": "Alexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for men\" or \"When did I last order AA batteries\" will now trigger an answer from Alexa. Alexa for Shoppin",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "date": "2026-05-13",
+      "rank": 5,
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "date": "2026-05-14",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
       "hotScore": 56.3,
       "category": "product",
       "tags": [
-        "Claude"
+        "GPT"
       ],
       "week_key": "2026-W20",
       "content": {
-        "basic": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "date": "2026-05-13",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "hotScore": 55,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W20",
-      "content": {
-        "basic": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "rank": 5,
-      "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
-      "date": "2026-05-13",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-      "hotScore": 53.8,
-      "category": "tech",
-      "tags": [],
-      "week_key": "2026-W20",
-      "content": {
-        "basic": "But training on \"synthetic stories\" that model good AI behavior can help.",
+        "basic": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

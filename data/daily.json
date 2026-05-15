@@ -1,21 +1,22 @@
 {
-  "lastUpdate": "2026-05-14",
-  "generatedAt": "2026-05-14T04:29:14.201Z",
+  "lastUpdate": "2026-05-15",
+  "generatedAt": "2026-05-15T04:35:17.140Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "date": "2026-05-13",
+      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "date": "2026-05-14",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "hotScore": 56.3,
-      "category": "policy",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "hotScore": 72.5,
+      "category": "product",
       "tags": [
-        "GPT"
+        "GPT",
+        "Claude"
       ],
       "content": {
-        "basic": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who shares four children with Musk, took the stand last week, and the courtroom also watched former OpenA",
+        "basic": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that lets it operate apps on macOS - a potentially major step as part of its ambitions to make a desktop \"su",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +24,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Alexa is moving into Amazon․com",
-      "date": "2026-05-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-      "hotScore": 56.3,
-      "category": "research",
-      "tags": [
-        "Multimodal"
-      ],
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "The Real Losers of the Musk v. Altman Trial",
+      "date": "2026-05-15",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+      "hotScore": 72.5,
+      "category": "policy",
+      "tags": [],
       "content": {
-        "basic": "Alexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for men\" or \"When did I last order AA batteries\" will now trigger an answer from Alexa. Alexa for Shoppin",
+        "basic": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
