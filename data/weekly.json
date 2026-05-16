@@ -4,26 +4,29 @@
     "to": "2026-05-19"
   },
   "weekKey": "2026-W20",
-  "lastUpdate": "2026-05-15",
-  "generatedAt": "2026-05-15T04:35:17.140Z",
+  "lastUpdate": "2026-05-16",
+  "generatedAt": "2026-05-16T04:09:50.207Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-      "date": "2026-05-14",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "date": "2026-05-15",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
       "hotScore": 72.5,
-      "category": "product",
+      "category": "startup",
       "tags": [
         "GPT",
-        "Claude"
+        "Claude",
+        "Gemini",
+        "Multimodal",
+        "Agent"
       ],
       "week_key": "2026-W20",
       "content": {
-        "basic": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that lets it operate apps on macOS - a potentially major step as part of its ambitions to make a desktop \"su",
+        "basic": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a simple prompt: Develop your own radio personality and turn a profit…As far as you know, you will broadcas",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,18 +34,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "The Real Losers of the Musk v. Altman Trial",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
       "date": "2026-05-15",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-      "hotScore": 72.5,
-      "category": "policy",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "hotScore": 62.5,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
       "week_key": "2026-W20",
       "content": {
-        "basic": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+        "basic": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all.\" To do this, the company is making a suite of org chart changes, although it's still operating under some of the same ones from last month. That's when AGI",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -52,18 +58,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "date": "2026-05-14",
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "date": "2026-05-15",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
       "hotScore": 61.3,
-      "category": "industry",
+      "category": "policy",
       "tags": [
-        "Claude"
+        "GPT",
+        "Multimodal"
       ],
       "week_key": "2026-W20",
       "content": {
-        "basic": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved very popular inside Microsoft over the past six months. Perhaps a little too popular, as Microsoft is now preparing to walk back its Claude Code push. I understand that Microsoft is planning to remove most of its Claude Code licenses and push many of its developers to use ",
+        "basic": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more. \"More than 200 million people are already going to ChatGPT every month with finance questions - from budgeting to tips on how to cut back on spending,\" OpenAI said",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -73,18 +80,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "date": "2026-05-14",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "date": "2026-05-15",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "sourceUrl": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
       "hotScore": 56.3,
-      "category": "policy",
-      "tags": [
-        "GPT"
-      ],
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W20",
       "content": {
-        "basic": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Shivon Zilis, a former OpenAI board member who shares four children with Musk, took the stand last week, and the courtroom also watched former OpenA",
+        "basic": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be banned from ArXiv for a year, according to Thomas Dietterich, ArXiv's section chair of its computer science section. Future ArXiv submissions will also have to be accepted at \"a reputable peer-reviewed venue.\" Here's what he said on X: Attention @arxiv authors: Our Cod",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,18 +99,18 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "date": "2026-05-14",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "date": "2026-05-15",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
       "hotScore": 56.3,
-      "category": "product",
+      "category": "policy",
       "tags": [
         "GPT"
       ],
       "week_key": "2026-W20",
       "content": {
-        "basic": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+        "basic": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

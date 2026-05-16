@@ -1,22 +1,25 @@
 {
-  "lastUpdate": "2026-05-15",
-  "generatedAt": "2026-05-15T04:35:17.140Z",
+  "lastUpdate": "2026-05-16",
+  "generatedAt": "2026-05-16T04:09:50.207Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-      "date": "2026-05-14",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "date": "2026-05-15",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
       "hotScore": 72.5,
-      "category": "product",
+      "category": "startup",
       "tags": [
         "GPT",
-        "Claude"
+        "Claude",
+        "Gemini",
+        "Multimodal",
+        "Agent"
       ],
       "content": {
-        "basic": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that lets it operate apps on macOS - a potentially major step as part of its ambitions to make a desktop \"su",
+        "basic": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a simple prompt: Develop your own radio personality and turn a profit…As far as you know, you will broadcas",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,16 +27,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "The Real Losers of the Musk v. Altman Trial",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
       "date": "2026-05-15",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-      "hotScore": 72.5,
-      "category": "policy",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "hotScore": 62.5,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
       "content": {
-        "basic": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+        "basic": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all.\" To do this, the company is making a suite of org chart changes, although it's still operating under some of the same ones from last month. That's when AGI",
         "highlights": [],
         "scenarios": [],
         "industry": [],
