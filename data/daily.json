@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-16",
-  "generatedAt": "2026-05-16T04:09:50.207Z",
+  "lastUpdate": "2026-05-17",
+  "generatedAt": "2026-05-17T04:39:51.584Z",
   "count": 2,
   "data": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-05-15",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "hotScore": 72.5,
+      "hotScore": 64.5,
       "category": "startup",
       "tags": [
         "GPT",
@@ -27,19 +27,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-      "date": "2026-05-15",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "hotScore": 62.5,
-      "category": "product",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "date": "2026-05-16",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "hotScore": 56.3,
+      "category": "policy",
       "tags": [
-        "GPT",
-        "Agent"
+        "GPT"
       ],
       "content": {
-        "basic": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all.\" To do this, the company is making a suite of org chart changes, although it's still operating under some of the same ones from last month. That's when AGI",
+        "basic": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
