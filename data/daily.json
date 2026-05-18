@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-17",
-  "generatedAt": "2026-05-17T04:39:51.584Z",
+  "lastUpdate": "2026-05-18",
+  "generatedAt": "2026-05-18T04:51:11.405Z",
   "count": 2,
   "data": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-05-15",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "hotScore": 64.5,
+      "hotScore": 58.5,
       "category": "startup",
       "tags": [
         "GPT",
@@ -28,17 +28,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "date": "2026-05-16",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "date": "2026-05-17",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "hotScore": 56.3,
-      "category": "policy",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+        "basic": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
