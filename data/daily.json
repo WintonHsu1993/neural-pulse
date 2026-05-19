@@ -1,25 +1,19 @@
 {
-  "lastUpdate": "2026-05-18",
-  "generatedAt": "2026-05-18T04:51:11.405Z",
+  "lastUpdate": "2026-05-19",
+  "generatedAt": "2026-05-19T04:43:28.893Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "date": "2026-05-15",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "hotScore": 58.5,
-      "category": "startup",
-      "tags": [
-        "GPT",
-        "Claude",
-        "Gemini",
-        "Multimodal",
-        "Agent"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "date": "2026-05-19",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "hotScore": 77.5,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a simple prompt: Develop your own radio personality and turn a profit…As far as you know, you will broadcas",
+        "basic": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it. Musk announced on X that he will…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -27,16 +21,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "date": "2026-05-17",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "hotScore": 55,
-      "category": "startup",
-      "tags": [],
+      "id": "aHR0cHM6Ly9ldmVudHMu",
+      "title": "Agentic AI for Robot Teams",
+      "date": "2026-05-18",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://events.bizzabo.com/867156",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Agent",
+        "Robotics"
+      ],
       "content": {
-        "basic": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+        "basic": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes with key challenges encountered and practical lessons learned from ongoing research and development. Key learnings Provides an introduction to LLM-based AI Agents Describes an approach to applying LLM-ba",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,59 +1,154 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-    "date": "2026-05-15",
-    "source": "The Verge AI",
-    "hotScore": 58.5,
-    "category": "startup",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "date": "2026-05-19",
+    "source": "MIT Technology Review",
+    "hotScore": 77.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat"
+  },
+  {
+    "id": "aHR0cHM6Ly9ldmVudHMu",
+    "title": "Agentic AI for Robot Teams",
+    "date": "2026-05-18",
+    "source": "IEEE Spectrum",
+    "hotScore": 58.8,
+    "category": "research",
     "tags": [
-      "GPT",
-      "Claude",
-      "Gemini",
-      "Multimodal",
-      "Agent"
+      "Agent",
+      "Robotics"
     ],
-    "snippet": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images Andon Labs has been running a series of experiments in which AI agents run businesses without h"
+    "snippet": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+    "date": "2026-05-18",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "date": "2026-05-18",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "date": "2026-05-17",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "date": "2026-05-18",
     "source": "TechCrunch AI",
     "hotScore": 55,
     "category": "startup",
     "tags": [],
-    "snippet": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy."
+    "snippet": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "date": "2026-05-18",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "What to expect from Google this week",
+    "date": "2026-05-18",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+    "date": "2026-05-18",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "How to Watch Google I/O 2026",
+    "date": "2026-05-18",
+    "source": "Wired",
+    "hotScore": 51.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "I’m a Normie. Can Normies Really Vibe Code?",
+    "date": "2026-05-18",
+    "source": "Wired",
+    "hotScore": 51.3,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Revamped Siri will reportedly offer auto-deleting chats",
-    "date": "2026-05-17",
+    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+    "date": "2026-05-18",
     "source": "The Verge AI",
     "hotScore": 50,
     "category": "product",
     "tags": [],
-    "snippet": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Chatbots at the drive-thru are just the beginning",
-    "date": "2026-05-17",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in o"
+    "snippet": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, an"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "date": "2026-05-17",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "date": "2026-05-18",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Musk plans to appeal after judge immediately affirmed the jury's decision."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "date": "2026-05-18",
     "source": "TechCrunch AI",
     "hotScore": 48.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "It's tough to get graduating students excited about a future shaped by artificial intelligence."
+    "category": "startup",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -69,80 +164,43 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-    "date": "2026-05-15",
+    "title": "Elon Musk loses his case against Sam Altman",
+    "date": "2026-05-18",
     "source": "The Verge AI",
-    "hotScore": 48.5,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "snippet": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brock"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "date": "2026-05-16",
-    "source": "TechCrunch AI",
-    "hotScore": 48.3,
-    "category": "policy",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple’s Siri revamp could include auto-deleting chats",
-    "date": "2026-05-17",
-    "source": "TechCrunch AI",
     "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Privacy will be a major theme when Apple unveils a new version of Siri."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-    "date": "2026-05-17",
-    "source": "The Verge AI",
-    "hotScore": 45,
     "category": "industry",
     "tags": [],
-    "snippet": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alread"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "date": "2026-05-17",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+    "snippet": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitation"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Better Hardware Could Turn Zeros into AI Heroes",
-    "date": "2026-04-28",
+    "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+    "date": "2026-05-18",
     "source": "IEEE Spectrum",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [
-      "Llama"
-    ],
-    "snippet": "When it comes to AI models, size matters. Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are s"
+    "hotScore": 47.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia. Melbourne’s reputation as a global events city, from the Australian Open tennis an"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI chatbots are giving out people’s real phone numbers",
-    "date": "2026-05-13",
-    "source": "MIT Technology Review",
-    "hotScore": 43.5,
-    "category": "policy",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "date": "2026-05-17",
+    "source": "TechCrunch AI",
+    "hotScore": 47,
+    "category": "startup",
     "tags": [],
-    "snippet": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a loc"
+    "snippet": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "date": "2026-05-18",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -153,6 +211,18 @@
     "category": "research",
     "tags": [],
     "snippet": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the author"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "date": "2026-05-16",
+    "source": "TechCrunch AI",
+    "hotScore": 42.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -167,51 +237,24 @@
     "snippet": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "date": "2026-05-14",
-    "source": "TechCrunch AI",
-    "hotScore": 42.3,
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Revamped Siri will reportedly offer autodeleting chats",
+    "date": "2026-05-17",
+    "source": "The Verge AI",
+    "hotScore": 42,
     "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho"
+    "tags": [],
+    "snippet": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark G"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-    "date": "2026-05-14",
-    "source": "TechCrunch AI",
-    "hotScore": 42.3,
-    "category": "policy",
-    "tags": [
-      "Claude",
-      "OpenSource"
-    ],
-    "snippet": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-    "date": "2026-05-15",
-    "source": "Ars Technica",
-    "hotScore": 42.3,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The haves and have nots of the AI gold rush",
-    "date": "2026-05-16",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Chatbots at the drive-thru are just the beginning",
+    "date": "2026-05-17",
+    "source": "The Verge AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "The vibes around the current AI boom aren't great, even in the tech industry."
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in o"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -236,14 +279,24 @@
     "snippet": "The update gives users enhanced flexibility over how they can manage their workflows."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-    "date": "2026-05-16",
-    "source": "Wired",
-    "hotScore": 39.5,
-    "category": "tech",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "date": "2026-05-17",
+    "source": "TechCrunch AI",
+    "hotScore": 40.8,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more."
+    "snippet": "It's tough to get graduating students excited about a future shaped by artificial intelligence."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple’s Siri revamp could include auto-deleting chats",
+    "date": "2026-05-17",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Privacy will be a major theme when Apple unveils a new version of Siri."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -253,17 +306,7 @@
     "hotScore": 38.5,
     "category": "policy",
     "tags": [],
-    "snippet": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-    "date": "2026-05-14",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party "
+    "snippet": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accep"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -278,44 +321,34 @@
     "snippet": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical A"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
-    "date": "2026-05-12",
-    "source": "IEEE Spectrum",
-    "hotScore": 37.3,
-    "category": "policy",
-    "tags": [],
-    "snippet": "This sponsored article is brought to you by Ampace. As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the "
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "date": "2026-05-16",
+    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+    "date": "2026-05-17",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "product",
+    "category": "industry",
     "tags": [],
-    "snippet": "The variety of terrible is impressive. After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The "
+    "snippet": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alread"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "date": "2026-05-16",
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "date": "2026-05-17",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "research",
+    "category": "startup",
     "tags": [],
-    "snippet": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+    "snippet": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-    "date": "2026-05-15",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The haves and have-nots of the AI gold rush",
+    "date": "2026-05-16",
+    "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "policy",
+    "category": "startup",
     "tags": [],
-    "snippet": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the co"
+    "snippet": "The vibes around the current AI boom aren't great, even in the tech industry."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -336,16 +369,6 @@
     "category": "hardware",
     "tags": [],
     "snippet": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "What happens when AI starts building itself?",
-    "date": "2026-05-14",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [],
-    "snippet": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -402,16 +425,6 @@
     "snippet": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The Chip That Made Hardware Rewriteable",
-    "date": "2026-04-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Many of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable g"
-  },
-  {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
     "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
     "date": "2026-05-15",
@@ -420,6 +433,16 @@
     "category": "policy",
     "tags": [],
     "snippet": "Lawyers accused of rushing historic settlement to seize $320 million in fees."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+    "date": "2026-05-16",
+    "source": "Wired",
+    "hotScore": 33.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -435,6 +458,26 @@
     "snippet": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account."
   },
   {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+    "date": "2026-05-12",
+    "source": "IEEE Spectrum",
+    "hotScore": 31.3,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This sponsored article is brought to you by Ampace. As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+    "date": "2026-05-16",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "The variety of terrible is impressive. After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The "
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
     "date": "2026-05-15",
@@ -443,6 +486,16 @@
     "category": "product",
     "tags": [],
     "snippet": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detect"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "date": "2026-05-16",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [],
+    "snippet": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -473,67 +526,5 @@
     "category": "startup",
     "tags": [],
     "snippet": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-    "date": "2026-05-14",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
-    "date": "2026-05-14",
-    "source": "IEEE Spectrum",
-    "hotScore": 31,
-    "category": "research",
-    "tags": [],
-    "snippet": "The IEEE Communications Society (ComSoc)’s Research Collaboration Pitch Session initiative is proving to be a catalyst for meaningful engagement between academic researchers and industry innovators. L"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
-    "date": "2026-05-12",
-    "source": "IEEE Spectrum",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [],
-    "snippet": "Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has no"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "See what happens when creative legends use AI to make ads for small businesses.",
-    "date": "2026-05-08",
-    "source": "Google AI Blog",
-    "hotScore": 30,
-    "category": "product",
-    "tags": [],
-    "snippet": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-    "date": "2026-04-28",
-    "source": "Google AI Blog",
-    "hotScore": 30,
-    "category": "product",
-    "tags": [],
-    "snippet": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-    "date": "2026-04-27",
-    "source": "Google AI Blog",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open."
   }
 ]
