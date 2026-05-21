@@ -4,8 +4,111 @@
     "to": "2026-05-26"
   },
   "weekKey": "2026-W21",
-  "lastUpdate": "2026-05-20",
-  "generatedAt": "2026-05-20T04:47:31.265Z",
-  "count": 0,
-  "data": []
+  "lastUpdate": "2026-05-21",
+  "generatedAt": "2026-05-21T04:54:17.707Z",
+  "count": 5,
+  "data": [
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 1,
+      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+      "date": "2026-05-21",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "hotScore": 70,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W21",
+      "content": {
+        "basic": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident in ways that are both obvious and less so. A CTRL-F search for \"Tesla\" yields 87 results, xAI is mentioned 356 times, and X 267 times. Even the Boring Company (7 times) and Neuralink (3) get a few mentions. Throughout its 330 pages of rocket launches and interplanetary wishes, you",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "date": "2026-05-21",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "hotScore": 67.5,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W21",
+      "content": {
+        "basic": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "date": "2026-05-21",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "hotScore": 65,
+      "category": "hardware",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W21",
+      "content": {
+        "basic": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 4,
+      "title": "100 things we announced at I/O 2026",
+      "date": "2026-05-20",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W21",
+      "content": {
+        "basic": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "rank": 5,
+      "title": "Will Robotics Have a ChatGPT Moment?",
+      "date": "2026-05-20",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/robotics-ai-breakthrough",
+      "hotScore": 58.8,
+      "category": "startup",
+      "tags": [
+        "GPT",
+        "Robotics"
+      ],
+      "week_key": "2026-W21",
+      "content": {
+        "basic": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look like us, and many won’t. What is certain is that regardless of form factor, robots will all rely heavily on AI in order to deliver real-world value. In 2025, total investments in robotics companies reached a record US $40.7 billion, accounting for 9 percent of all venture funding. The multibillion do",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    }
+  ]
 }

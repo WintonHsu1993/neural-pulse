@@ -1,22 +1,19 @@
 {
-  "lastUpdate": "2026-05-20",
-  "generatedAt": "2026-05-20T04:47:31.265Z",
+  "lastUpdate": "2026-05-21",
+  "generatedAt": "2026-05-21T04:54:17.707Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Google wants to compete with Anthropic’s Mythos",
-      "date": "2026-05-19",
+      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+      "date": "2026-05-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-      "hotScore": 66.3,
+      "sourceUrl": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "hotScore": 70,
       "category": "policy",
-      "tags": [
-        "Claude",
-        "Agent"
-      ],
+      "tags": [],
       "content": {
-        "basic": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally - and marketing it as a way to, as Google DeepMind CTO Koray Kavukcuoglu put it, \"help secure the world's code bases\" by both flagging and fixing vulnerabilities. Anthropic's surprise Claude Mythos Preview announcement seemed to shock the AI world - and a ton of others, like top banks and the Federal",
+        "basic": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident in ways that are both obvious and less so. A CTRL-F search for \"Tesla\" yields 87 results, xAI is mentioned 356 times, and X 267 times. Even the Boring Company (7 times) and Neuralink (3) get a few mentions. Throughout its 330 pages of rocket launches and interplanetary wishes, you",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,17 +22,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "date": "2026-05-19",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "date": "2026-05-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "hotScore": 67.5,
       "category": "startup",
-      "tags": [
-        "Claude"
-      ],
+      "tags": [],
       "content": {
-        "basic": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+        "basic": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
