@@ -1,42 +1,64 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-    "date": "2026-05-21",
-    "source": "The Verge AI",
-    "hotScore": 70,
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "hotScore": 67.5,
     "category": "policy",
     "tags": [],
-    "snippet": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact "
+    "snippet": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic says it’s about to have its first profitable quarter",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Roundtables: Can AI Learn to Understand the World?",
     "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 67.5,
-    "category": "startup",
+    "source": "MIT Technology Review",
+    "hotScore": 58.8,
+    "category": "research",
     "tags": [],
-    "snippet": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
+    "snippet": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
     "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 65,
-    "category": "hardware",
+    "source": "MIT Technology Review",
+    "hotScore": 56.3,
+    "category": "research",
     "tags": [
-      "Agent"
+      "Claude"
     ],
-    "snippet": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
+    "snippet": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "product",
+    "tags": [],
+    "snippet": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO fi"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "100 things we announced at I/O 2026",
     "date": "2026-05-20",
     "source": "Google AI Blog",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "research",
     "tags": [
       "Gemini"
@@ -48,7 +70,7 @@
     "title": "Will Robotics Have a ChatGPT Moment?",
     "date": "2026-05-20",
     "source": "IEEE Spectrum",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "startup",
     "tags": [
       "GPT",
@@ -58,35 +80,108 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "You can now remix other people’s YouTube Shorts with AI",
-    "date": "2026-05-20",
+    "title": "This AI guitar pedal let me roll my own effects",
+    "date": "2026-05-21",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "You can buy physical plates to pair with your AI effects. | Photo: Terrence O’Brien / The Verge I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would b"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Spotify is launching AI-generated remixes",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "AI video is moving beyond clip slop",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A still from Innovative Dreams, a new production company by Luma and Wonder Project | Image: Luma/X This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and enter"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Musk v. Altman: Much ado about nothing",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+    "date": "2026-05-21",
+    "source": "Wired",
+    "hotScore": 48.8,
     "category": "product",
     "tags": [
       "Gemini"
     ],
-    "snippet": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when yo"
+    "snippet": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google Search’s AI evolution includes more ads",
-    "date": "2026-05-20",
-    "source": "The Verge AI",
-    "hotScore": 56.3,
-    "category": "product",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Spotify takes on Google’s NotebookLM with its new app",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic says it’s about to have its first profitable quarter",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+    "date": "2026-05-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 47.5,
+    "category": "research",
     "tags": [
-      "Gemini",
-      "Multimodal"
+      "Robotics"
     ],
-    "snippet": "Some ads will have chatbots built in. | Image: Google Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surfa"
+    "snippet": "This sponsored article is brought to you by Wetour Robotics. A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic will pay xAI $1.25B per month for compute",
     "date": "2026-05-20",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "startup",
     "tags": [],
     "snippet": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
@@ -96,7 +191,7 @@
     "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
     "date": "2026-05-20",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "startup",
     "tags": [
       "Reasoning"
@@ -108,57 +203,167 @@
     "title": "OpenAI barrels toward IPO that may happen in September",
     "date": "2026-05-20",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "policy",
     "tags": [],
     "snippet": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "‘Solve all diseases,’ you say?",
-    "date": "2026-05-20",
+    "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+    "date": "2026-05-21",
     "source": "The Verge AI",
-    "hotScore": 52.5,
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "I can’t believe how fast Google vibe coded my first Android app",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "That’s my own Android app. Bad, yet impressive. | Photo by Sean Hollister / The Verge Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally type"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta lays off thousands of employees to offset AI investments",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 45,
     "category": "industry",
-    "tags": [],
-    "snippet": "Let’s unpack what Demis Hassabis said at the end of yesterday’s Google I/O keynote. This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the"
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Meta says it needs to “offset the other investments we're making.” | Image: Cath Virginia / The Verge, Getty Images Meta has reportedly notified thousands of employees that they've been laid off as th"
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "We’re announcing new community investments in Missouri.",
-    "date": "2026-05-20",
-    "source": "Google AI Blog",
-    "hotScore": 52.5,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Spotify will let you generate daily or weekly briefs based on your prompts"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
     "category": "research",
-    "tags": [],
-    "snippet": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "A new experiment brings better group meetings to Google Beam",
-    "date": "2026-05-20",
-    "source": "Google AI Blog",
-    "hotScore": 52.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
-    "date": "2026-05-20",
-    "source": "Wired",
-    "hotScore": 51.3,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
     "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
+  },
+  {
+    "id": "aHR0cHM6Ly9ldmVudHMu",
+    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+    "date": "2026-05-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 45,
+    "category": "research",
     "tags": [],
-    "snippet": "The long-awaited documents SpaceX filed with US regulators Wednesday included details about a lucrative deal to lend GPUs to a major AI rival."
+    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV,"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "I/O 2026: Welcome to the agentic Gemini era",
     "date": "2026-05-19",
     "source": "Google AI Blog",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "research",
     "tags": [
       "Gemini",
@@ -171,216 +376,12 @@
     "title": "Gemini 3.5: frontier intelligence with action",
     "date": "2026-05-19",
     "source": "Google AI Blog",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "startup",
     "tags": [
       "Gemini"
     ],
     "snippet": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "It&#8217;s make or break time for AI labeling systems",
-    "date": "2026-05-20",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "If robust AI labeling was in place when these swagged out images of Pope Francis went viral, it may have been easier for people to tell they were fake. | Image: via Reddit We're about to find out if t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "If Google can’t make AI agents useful, maybe no one can",
-    "date": "2026-05-20",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "OpenSource",
-      "Agent"
-    ],
-    "snippet": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, th"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI search startups are blowing up",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI search has quietly become one of the most attractive targets in consumer AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Figma adds an AI assistant to its collaborative canvas",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Roundtables: Inside the Musk v. Altman Trial",
-    "date": "2026-05-19",
-    "source": "MIT Technology Review",
-    "hotScore": 49.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "date": "2026-05-19",
-    "source": "MIT Technology Review",
-    "hotScore": 49.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
-    "date": "2026-04-30",
-    "source": "IEEE Spectrum",
-    "hotScore": 48.8,
-    "category": "policy",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Vibe coding is coming to your phone",
-    "date": "2026-05-20",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Coming to your homescreen soon: your own app. | Photo: Allison Johnson / The Verge \"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "I Gave My OpenClaw Agent a Physical Body",
-    "date": "2026-05-20",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [
-      "Agent",
-      "Robotics"
-    ],
-    "snippet": "The coding skills of AI models are about to make it much easier to build and deploy robots."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "How AI Mode is changing the way people search in the U.S.",
-    "date": "2026-05-19",
-    "source": "Google AI Blog",
-    "hotScore": 47,
-    "category": "product",
-    "tags": [],
-    "snippet": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New ways to create and get things done in Google Workspace",
-    "date": "2026-05-19",
-    "source": "Google AI Blog",
-    "hotScore": 47,
-    "category": "product",
-    "tags": [],
-    "snippet": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "A new era for AI Search",
-    "date": "2026-05-19",
-    "source": "Google AI Blog",
-    "hotScore": 47,
-    "category": "research",
-    "tags": [],
-    "snippet": "We shared the next step in our journey to bring together the best of a search engine with the best of AI."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-    "date": "2026-05-19",
-    "source": "The Verge AI",
-    "hotScore": 45.8,
-    "category": "research",
-    "tags": [],
-    "snippet": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and pr"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The biggest data center ever is becoming a huge problem in Utah",
-    "date": "2026-05-20",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Stability AI releases a new audio model that can create 6-minute songs",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a compute"
   },
   {
     "id": "aHR0cHM6Ly9ldmVudHMu",
@@ -396,86 +397,34 @@
     "snippet": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-    "date": "2026-05-19",
-    "source": "MIT Technology Review",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "We’re announcing new community investments in Missouri.",
+    "date": "2026-05-20",
+    "source": "Google AI Blog",
     "hotScore": 44.5,
-    "category": "policy",
+    "category": "research",
     "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk ha"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "date": "2026-05-19",
-    "source": "TechCrunch AI",
-    "hotScore": 43.3,
-    "category": "startup",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Clouted wants to take the guesswork out of making short videos go viral",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-    "date": "2026-05-20",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The future of Google is a search box that does everything",
-    "date": "2026-05-19",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to goo"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-    "date": "2026-05-19",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite"
+    "snippet": "We’re helping build the state’s next-generation workforce and investing in energy programs."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-    "date": "2026-05-19",
+    "title": "A new experiment brings better group meetings to Google Beam",
+    "date": "2026-05-20",
     "source": "Google AI Blog",
-    "hotScore": 42,
-    "category": "product",
+    "hotScore": 44.5,
+    "category": "research",
     "tags": [],
-    "snippet": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers."
+    "snippet": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "date": "2026-05-19",
+    "source": "MIT Technology Review",
+    "hotScore": 43.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -490,59 +439,103 @@
     "snippet": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "What to expect from Google this week",
-    "date": "2026-05-18",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "date": "2026-05-19",
+    "source": "Google AI Blog",
+    "hotScore": 41,
     "category": "product",
     "tags": [],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer "
+    "snippet": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New ways to create and get things done in Google Workspace",
+    "date": "2026-05-19",
+    "source": "Google AI Blog",
+    "hotScore": 41,
+    "category": "product",
+    "tags": [],
+    "snippet": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "A new era for AI Search",
+    "date": "2026-05-19",
+    "source": "Google AI Blog",
+    "hotScore": 41,
+    "category": "research",
+    "tags": [],
+    "snippet": "We shared the next step in our journey to bring together the best of a search engine with the best of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+    "date": "2026-05-20",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+    "date": "2026-05-20",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "date": "2026-05-20",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+    "date": "2026-05-19",
+    "source": "Google AI Blog",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The new AI-powered Google Finance is expanding to Europe.",
+    "date": "2026-05-11",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 gardening tips you can try right in Search",
+    "date": "2026-05-06",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in April 2026",
     "date": "2026-05-04",
-    "source": "IEEE Spectrum",
-    "hotScore": 37.5,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "This article is brought to you by DAIMON Robotics. This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical A"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "date": "2026-05-19",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
+    "source": "Google AI Blog",
+    "hotScore": 35,
     "category": "product",
     "tags": [],
-    "snippet": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How to use Google’s new AI agents to go beyond your standard searches",
-    "date": "2026-05-19",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-    "date": "2026-05-19",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts."
+    "snippet": "Here are Google’s latest AI updates from April 2026"
   }
 ]
