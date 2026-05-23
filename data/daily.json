@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-05-22",
-  "generatedAt": "2026-05-22T04:45:09.057Z",
+  "lastUpdate": "2026-05-23",
+  "generatedAt": "2026-05-23T04:26:13.356Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "date": "2026-05-22",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "hotScore": 67.5,
-      "category": "policy",
-      "tags": [],
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "date": "2026-05-21",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "hotScore": 58.8,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "The literary world isn’t prepared for AI",
+      "date": "2026-05-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [],
       "content": {
-        "basic": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
+        "basic": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted, as I write all things.) I'll admit I was initially unconvinced by the allegation that Nazir's story h",
         "highlights": [],
         "scenarios": [],
         "industry": [],
