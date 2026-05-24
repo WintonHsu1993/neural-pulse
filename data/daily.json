@@ -1,21 +1,22 @@
 {
-  "lastUpdate": "2026-05-23",
-  "generatedAt": "2026-05-23T04:26:13.356Z",
+  "lastUpdate": "2026-05-24",
+  "generatedAt": "2026-05-24T04:48:20.149Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "date": "2026-05-22",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "hotScore": 58.8,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "date": "2026-05-23",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "hotScore": 61.3,
+      "category": "industry",
       "tags": [
-        "Claude"
+        "Gemini",
+        "Multimodal"
       ],
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+        "basic": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +24,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "The literary world isn’t prepared for AI",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "date": "2026-05-22",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [],
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "hotScore": 50.8,
+      "category": "research",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted, as I write all things.) I'll admit I was initially unconvinced by the allegation that Nazir's story h",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

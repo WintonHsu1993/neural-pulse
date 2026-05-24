@@ -1,10 +1,23 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s new anything-to-anything AI model is wild",
+    "date": "2026-05-23",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "industry",
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to "
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
     "date": "2026-05-22",
     "source": "MIT Technology Review",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "research",
     "tags": [
       "Claude"
@@ -12,11 +25,31 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whethe"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "date": "2026-05-23",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "date": "2026-05-23",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "The literary world isn’t prepared for AI",
     "date": "2026-05-22",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "product",
     "tags": [],
     "snippet": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection"
@@ -26,7 +59,7 @@
     "title": "We tried Google’s AI glasses and they’re almost there",
     "date": "2026-05-22",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "startup",
     "tags": [
       "Gemini"
@@ -38,7 +71,7 @@
     "title": "Catch up on the Dialogues stage at Google I/O 2026.",
     "date": "2026-05-22",
     "source": "Google AI Blog",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "research",
     "tags": [
       "Robotics"
@@ -47,125 +80,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Google I/O showed how the path for AI-driven science is shifting",
-    "date": "2026-05-22",
-    "source": "MIT Technology Review",
-    "hotScore": 52.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Roundtables: Can AI Learn to Understand the World?",
     "date": "2026-05-21",
     "source": "MIT Technology Review",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "research",
     "tags": [],
     "snippet": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Elon, stop trying to make Grok happen",
-    "date": "2026-05-22",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [],
-    "snippet": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barel"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI is being used to resurrect the voices of dead pilots",
-    "date": "2026-05-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-    "date": "2026-05-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "You can no longer Google the word ‘disregard’",
-    "date": "2026-05-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-    "date": "2026-05-21",
-    "source": "MIT Technology Review",
-    "hotScore": 48.3,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-    "date": "2026-05-21",
-    "source": "The Verge AI",
-    "hotScore": 48.3,
-    "category": "policy",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-    "date": "2026-05-22",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
-    "date": "2026-05-22",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Prompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images AI covers and remixes of songs are already a blight on the internet. Sp"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -231,88 +152,80 @@
     "snippet": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Google I/O showed how the path for AI-driven science is shifting",
     "date": "2026-05-22",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
+    "source": "MIT Technology Review",
+    "hotScore": 44.5,
     "category": "hardware",
+    "tags": [],
+    "snippet": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "date": "2026-05-21",
+    "source": "MIT Technology Review",
+    "hotScore": 42.3,
+    "category": "research",
     "tags": [
-      "Multimodal"
+      "Claude"
     ],
-    "snippet": "48,000 Samsung workers had threatened to strike unless bonus caps were lifted. | Photo: Jung Yeon-je / AFP via Getty Images Details have emerged about a tentative deal struck between Samsung and semic"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-    "date": "2026-05-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "You can now disco ball-ify your entire Pixel home screen, says Google."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-    "date": "2026-05-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX files to go public, and the math requires a little faith",
-    "date": "2026-05-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
+    "snippet": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "This AI guitar pedal let me roll my own effects",
+    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
     "date": "2026-05-21",
     "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "industry",
-    "tags": [],
-    "snippet": "You can buy physical plates to pair with your AI effects. | Photo: Terrence O’Brien / The Verge I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would b"
+    "hotScore": 42.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Spotify is launching AI-generated remixes",
-    "date": "2026-05-21",
+    "title": "Elon, stop trying to make Grok happen",
+    "date": "2026-05-22",
     "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
-    "date": "2026-05-21",
-    "source": "IEEE Spectrum",
     "hotScore": 42,
     "category": "policy",
     "tags": [],
-    "snippet": "Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But t"
+    "snippet": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barel"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "date": "2026-05-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "date": "2026-05-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "You can no longer Google the word ‘disregard’",
+    "date": "2026-05-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "product",
+    "tags": [],
+    "snippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -357,38 +270,6 @@
     "snippet": "We shared the next step in our journey to bring together the best of a search engine with the best of AI."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify takes on Google’s NotebookLM with its new app",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
-    "date": "2026-05-21",
-    "source": "IEEE Spectrum",
-    "hotScore": 39.5,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "This sponsored article is brought to you by Wetour Robotics. A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at "
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "We’re announcing new community investments in Missouri.",
     "date": "2026-05-20",
@@ -410,131 +291,71 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-    "date": "2026-05-21",
+    "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+    "date": "2026-05-22",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives "
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd s"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
-    "date": "2026-05-21",
+    "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
+    "date": "2026-05-22",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "research",
+    "category": "industry",
     "tags": [
-      "Agent"
+      "Multimodal"
     ],
-    "snippet": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening "
+    "snippet": "Prompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images AI covers and remixes of songs are already a blight on the internet. Sp"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+    "date": "2026-05-22",
+    "source": "Ars Technica",
     "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Spotify will let you generate daily or weekly briefs based on your prompts"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "research",
+    "category": "policy",
     "tags": [
       "Safety"
     ],
-    "snippet": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
+    "snippet": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "This AI guitar pedal let me roll my own effects",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "industry",
+    "tags": [],
+    "snippet": "You can buy physical plates to pair with your AI effects. | Photo: Terrence O’Brien / The Verge I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would b"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Spotify is launching AI-generated remixes",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
     "date": "2026-05-21",
     "source": "TechCrunch AI",
-    "hotScore": 37,
+    "hotScore": 36,
     "category": "startup",
     "tags": [
-      "Agent"
+      "Multimodal"
     ],
-    "snippet": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "date": "2026-05-21",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
-  },
-  {
-    "id": "aHR0cHM6Ly9ldmVudHMu",
-    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-    "date": "2026-05-21",
-    "source": "IEEE Spectrum",
-    "hotScore": 37,
-    "category": "research",
-    "tags": [],
-    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV,"
+    "snippet": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -545,5 +366,181 @@
     "category": "product",
     "tags": [],
     "snippet": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
+    "date": "2026-05-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 36,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But t"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The new AI-powered Google Finance is expanding to Europe.",
+    "date": "2026-05-11",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 gardening tips you can try right in Search",
+    "date": "2026-05-06",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in April 2026",
+    "date": "2026-05-04",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "product",
+    "tags": [],
+    "snippet": "Here are Google’s latest AI updates from April 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
+    "date": "2026-05-22",
+    "source": "The Verge AI",
+    "hotScore": 34.5,
+    "category": "hardware",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "48,000 Samsung workers had threatened to strike unless bonus caps were lifted. | Photo: Jung Yeon-je / AFP via Getty Images Details have emerged about a tentative deal struck between Samsung and semic"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+    "date": "2026-05-22",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "You can now disco ball-ify your entire Pixel home screen, says Google."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+    "date": "2026-05-22",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX files to go public, and the math requires a little faith",
+    "date": "2026-05-22",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "date": "2026-05-04",
+    "source": "Google AI Blog",
+    "hotScore": 33.8,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Spotify takes on Google’s NotebookLM with its new app",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+    "date": "2026-05-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 33.5,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "This sponsored article is brought to you by Wetour Robotics. A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+    "date": "2026-05-18",
+    "source": "IEEE Spectrum",
+    "hotScore": 33.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia. Melbourne’s reputation as a global events city, from the Australian Open tennis an"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+    "date": "2026-05-12",
+    "source": "IEEE Spectrum",
+    "hotScore": 31.3,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This sponsored article is brought to you by Ampace. As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+    "date": "2026-05-21",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "date": "2026-05-21",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
   }
 ]
