@@ -1,22 +1,21 @@
 {
-  "lastUpdate": "2026-05-24",
-  "generatedAt": "2026-05-24T04:48:20.149Z",
+  "lastUpdate": "2026-05-27",
+  "generatedAt": "2026-05-27T04:56:30.912Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Google’s new anything-to-anything AI model is wild",
-      "date": "2026-05-23",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "date": "2026-05-27",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-      "hotScore": 61.3,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "hotScore": 81.3,
+      "category": "product",
       "tags": [
-        "Gemini",
-        "Multimodal"
+        "Claude"
       ],
       "content": {
-        "basic": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the",
+        "basic": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through P",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,17 +24,15 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "date": "2026-05-22",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "date": "2026-05-26",
       "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "hotScore": 50.8,
-      "category": "research",
-      "tags": [
-        "Claude"
-      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "hotScore": 52.5,
+      "category": "hardware",
+      "tags": [],
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+        "basic": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

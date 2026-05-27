@@ -1,107 +1,28 @@
 {
   "weekRange": {
-    "from": "2026-05-20",
-    "to": "2026-05-26"
+    "from": "2026-05-27",
+    "to": "2026-06-02"
   },
-  "weekKey": "2026-W21",
-  "lastUpdate": "2026-05-24",
-  "generatedAt": "2026-05-24T04:48:20.149Z",
-  "count": 5,
+  "weekKey": "2026-W22",
+  "lastUpdate": "2026-05-27",
+  "generatedAt": "2026-05-27T04:56:30.912Z",
+  "count": 1,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 1,
-      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-      "date": "2026-05-22",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "hotScore": 67.5,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W21",
-      "content": {
-        "basic": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Google’s new anything-to-anything AI model is wild",
-      "date": "2026-05-23",
+      "rank": 1,
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "date": "2026-05-27",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-      "hotScore": 61.3,
-      "category": "industry",
-      "tags": [
-        "Gemini",
-        "Multimodal"
-      ],
-      "week_key": "2026-W21",
-      "content": {
-        "basic": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 3,
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "date": "2026-05-22",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "hotScore": 50.8,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "hotScore": 81.3,
+      "category": "product",
       "tags": [
         "Claude"
       ],
-      "week_key": "2026-W21",
+      "week_key": "2026-W22",
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "date": "2026-05-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "hotScore": 50,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W21",
-      "content": {
-        "basic": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "date": "2026-05-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "hotScore": 50,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W21",
-      "content": {
-        "basic": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+        "basic": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through P",
         "highlights": [],
         "scenarios": [],
         "industry": [],
