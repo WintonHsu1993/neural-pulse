@@ -4,18 +4,77 @@
     "to": "2026-06-02"
   },
   "weekKey": "2026-W22",
-  "lastUpdate": "2026-05-27",
-  "generatedAt": "2026-05-27T04:56:30.912Z",
-  "count": 1,
+  "lastUpdate": "2026-05-28",
+  "generatedAt": "2026-05-28T04:51:06.114Z",
+  "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 1,
+      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "date": "2026-05-28",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "hotScore": 72.5,
+      "category": "policy",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "date": "2026-05-28",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "hotScore": 70,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "Google is embarrassing itself, again.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "The Pope isn’t AGI-pilled",
+      "date": "2026-05-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "hotScore": 65,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and interpretability team lead Christopher Olah, representing a partnership between the Catholic Church and one of the biggest players in AI. The letter elicited a wide range of reactions from in and around the tech industry. Nea",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Did the Pope use AI to write about the dangers of AI?",
       "date": "2026-05-27",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "hotScore": 81.3,
+      "hotScore": 61.3,
       "category": "product",
       "tags": [
         "Claude"
@@ -23,6 +82,25 @@
       "week_key": "2026-W22",
       "content": {
         "basic": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through P",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 5,
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "date": "2026-05-27",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "hotScore": 56.3,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

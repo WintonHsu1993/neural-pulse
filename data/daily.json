@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-05-27",
-  "generatedAt": "2026-05-27T04:56:30.912Z",
+  "lastUpdate": "2026-05-28",
+  "generatedAt": "2026-05-28T04:51:06.114Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "date": "2026-05-27",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "hotScore": 81.3,
-      "category": "product",
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "date": "2026-05-28",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "hotScore": 72.5,
+      "category": "policy",
       "tags": [
-        "Claude"
+        "Safety"
       ],
       "content": {
-        "basic": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through P",
+        "basic": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "date": "2026-05-26",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-      "hotScore": 52.5,
-      "category": "hardware",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "date": "2026-05-28",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "hotScore": 70,
+      "category": "startup",
       "tags": [],
       "content": {
-        "basic": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career…",
+        "basic": "Google is embarrassing itself, again.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
