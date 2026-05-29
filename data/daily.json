@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-05-28",
-  "generatedAt": "2026-05-28T04:51:06.114Z",
+  "lastUpdate": "2026-05-29",
+  "generatedAt": "2026-05-29T04:53:59.439Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-      "date": "2026-05-28",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "hotScore": 72.5,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "date": "2026-05-29",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+        "basic": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
       "date": "2026-05-28",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "hotScore": 70,
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "hotScore": 61.3,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "Google is embarrassing itself, again.",
+        "basic": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\" The AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus ",
         "highlights": [],
         "scenarios": [],
         "industry": [],

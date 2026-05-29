@@ -1,64 +1,288 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "date": "2026-05-29",
+    "source": "TechCrunch AI",
+    "hotScore": 65,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Claude’s new model is more ‘honest’ when it messes up",
     "date": "2026-05-28",
-    "source": "Wired",
-    "hotScore": 72.5,
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "startup",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Catch up on 12 major I/O 2026 moments",
+    "date": "2026-05-28",
+    "source": "Google AI Blog",
+    "hotScore": 58.8,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "RSI is the new AGI — and it’s just as hard to pin down",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "startup",
+    "tags": [],
+    "snippet": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+    "date": "2026-05-28",
+    "source": "Ars Technica",
+    "hotScore": 55,
     "category": "policy",
     "tags": [
       "Safety"
     ],
-    "snippet": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it."
+    "snippet": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "These new iOS 27 renders hint at Siri’s big redesign",
+    "date": "2026-05-28",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Multimodal"
+    ],
+    "snippet": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+    "date": "2026-05-28",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protesto"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+    "date": "2026-05-28",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "YouTube will let you ask AI to make a custom video feed",
+    "date": "2026-05-28",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "You can enter your own prompt, or select from the suggested options provided by YouTube. | Image: YouTube YouTube is launching a new AI feature that creates a personalized video feed based on descript"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The internet is being rebuilt for machines",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Asana will incorporate StackAI into its growing suite of AI workflow tools."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "General Compute is betting SambaNova will be the next breakout chipmaker."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "OpenSource",
+      "Agent"
+    ],
+    "snippet": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Why Google’s AI can’t spell Google (or anything else)",
     "date": "2026-05-28",
     "source": "TechCrunch AI",
-    "hotScore": 70,
+    "hotScore": 50,
     "category": "startup",
     "tags": [],
     "snippet": "Google is embarrassing itself, again."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The Pope isn’t AGI-pilled",
-    "date": "2026-05-27",
-    "source": "The Verge AI",
-    "hotScore": 65,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Finding Success in Industry as a Chip Designer",
+    "date": "2026-05-28",
+    "source": "IEEE Spectrum",
+    "hotScore": 50,
+    "category": "policy",
     "tags": [],
-    "snippet": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a pur"
+    "snippet": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I tran"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Did the Pope use AI to write about the dangers of AI?",
-    "date": "2026-05-27",
-    "source": "The Verge AI",
-    "hotScore": 61.3,
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "LLMs believe false statements even after explicit warnings that they're false",
+    "date": "2026-05-28",
+    "source": "Ars Technica",
+    "hotScore": 48.8,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\""
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+    "date": "2026-05-28",
+    "source": "Ars Technica",
+    "hotScore": 48.8,
     "category": "product",
     "tags": [
-      "Claude"
+      "Gemini"
     ],
-    "snippet": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma"
+    "snippet": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Download: keeping up with AI, and the future of IVF",
     "date": "2026-05-27",
     "source": "MIT Technology Review",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "hardware",
     "tags": [],
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT T"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+    "date": "2026-05-28",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "YouTube takes baby steps to being a real podcast app",
+    "date": "2026-05-28",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new \"on-the-go mode\" shifts YouTu"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "AI tried to bury this politician — now people have actually heard of him",
     "date": "2026-05-27",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "policy",
     "tags": [
       "Multimodal",
@@ -67,237 +291,88 @@
     "snippet": "NY-12 congressional candidate Alex Bores speaks during a campaign event. | Bloomberg via Getty Images By the time that the Democratic primary for New York's 12th congressional district wraps up in Jun"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences."
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
     "date": "2026-05-27",
     "source": "IEEE Spectrum",
-    "hotScore": 51.3,
+    "hotScore": 43.3,
     "category": "policy",
     "tags": [],
     "snippet": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligenc"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "YouTube is putting AI labels where you’ll actually see them",
-    "date": "2026-05-27",
+    "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+    "date": "2026-05-28",
     "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The labels are more prominent, and they actually say “AI” now. | Image: YouTube / The Verge In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start ta"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The AI fight brewing inside The New York Times",
-    "date": "2026-05-27",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Yellow taxis pass in front of The New York Times newspaper building. | Alexandra Schuler/dpa (Photo by Alexandra Schuler/picture alliance via Getty Images) How newsrooms should use AI - or if they sho"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "China is increasingly keeping its best AI talent to itself",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "YouTube will now automatically label AI videos",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Robinhood now lets your AI agents trade stocks",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "This smart bird feeder captures more of my backyard drama",
-    "date": "2026-05-27",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
+    "hotScore": 42.5,
     "category": "industry",
     "tags": [],
-    "snippet": "This smart bird feeder sees more but with less whimsy. | Photo by Jennifer Pattison Tuohy / The Verge Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds"
+    "snippet": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture k"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-    "date": "2026-05-27",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Visa invests in Replit to power agentic payments for developers",
+    "date": "2026-05-28",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
     "tags": [
       "Agent"
     ],
-    "snippet": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has sp"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscriptio"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-    "date": "2026-05-22",
-    "source": "MIT Technology Review",
-    "hotScore": 44.8,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whethe"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "It’s time to address the looming crisis in entry-level work.",
-    "date": "2026-05-26",
-    "source": "MIT Technology Review",
-    "hotScore": 44.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
-    "date": "2026-05-26",
-    "source": "The Verge AI",
-    "hotScore": 43.3,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Agent"
-    ],
-    "snippet": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you p"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-    "date": "2026-05-27",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The database provider is eyeing a public debut within the next few years."
+    "snippet": "Visa said that over 1,000 employees have been using Replit for prototyping and development."
   },
   {
     "id": "aHR0cHM6Ly9jb250ZW50",
@@ -310,70 +385,16 @@
     "snippet": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors withi"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI warfare is already here",
-    "date": "2026-05-26",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "industry",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "date": "2026-05-26",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-    "date": "2026-05-22",
-    "source": "Google AI Blog",
-    "hotScore": 41,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "This startup is betting India’s gig economy can train the world’s robots",
-    "date": "2026-05-26",
-    "source": "TechCrunch AI",
-    "hotScore": 40.8,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-    "date": "2026-05-26",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Roundtables: Can AI Learn to Understand the World?",
-    "date": "2026-05-21",
+    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+    "date": "2026-05-22",
     "source": "MIT Technology Review",
     "hotScore": 38.8,
     "category": "research",
-    "tags": [],
-    "snippet": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo"
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whethe"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -428,47 +449,57 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Google I/O showed how the path for AI-driven science is shifting",
-    "date": "2026-05-22",
+    "title": "It’s time to address the looming crisis in entry-level work.",
+    "date": "2026-05-26",
     "source": "MIT Technology Review",
     "hotScore": 38.5,
     "category": "hardware",
     "tags": [],
-    "snippet": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul"
+    "snippet": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-    "date": "2026-05-26",
+    "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+    "date": "2026-05-27",
     "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "date": "2026-05-26",
-    "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "product",
     "tags": [
       "Agent"
     ],
-    "snippet": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
+    "snippet": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "date": "2026-05-26",
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "date": "2026-05-27",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "date": "2026-05-27",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
+    "snippet": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+    "date": "2026-05-22",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -519,27 +550,5 @@
     "category": "research",
     "tags": [],
     "snippet": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "The latest AI news we announced in April 2026",
-    "date": "2026-05-04",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "product",
-    "tags": [],
-    "snippet": "Here are Google’s latest AI updates from April 2026"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-    "date": "2026-05-04",
-    "source": "Google AI Blog",
-    "hotScore": 33.8,
-    "category": "research",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
   }
 ]

@@ -4,8 +4,8 @@
     "to": "2026-06-02"
   },
   "weekKey": "2026-W22",
-  "lastUpdate": "2026-05-28",
-  "generatedAt": "2026-05-28T04:51:06.114Z",
+  "lastUpdate": "2026-05-29",
+  "generatedAt": "2026-05-29T04:53:59.439Z",
   "count": 5,
   "data": [
     {
@@ -32,16 +32,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
-      "date": "2026-05-28",
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "date": "2026-05-29",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "hotScore": 70,
+      "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "hotScore": 65,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W22",
       "content": {
-        "basic": "Google is embarrassing itself, again.",
+        "basic": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -51,37 +51,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "The Pope isn’t AGI-pilled",
-      "date": "2026-05-27",
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
+      "date": "2026-05-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-      "hotScore": 65,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W22",
-      "content": {
-        "basic": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and interpretability team lead Christopher Olah, representing a partnership between the Catholic Church and one of the biggest players in AI. The letter elicited a wide range of reactions from in and around the tech industry. Nea",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "date": "2026-05-27",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
       "hotScore": 61.3,
-      "category": "product",
+      "category": "startup",
       "tags": [
         "Claude"
       ],
       "week_key": "2026-W22",
       "content": {
-        "basic": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through P",
+        "basic": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\" The AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,18 +70,39 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 4,
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "date": "2026-05-28",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "date": "2026-05-27",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "date": "2026-05-28",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
       "hotScore": 56.3,
-      "category": "hardware",
+      "category": "startup",
       "tags": [],
       "week_key": "2026-W22",
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+        "basic": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
