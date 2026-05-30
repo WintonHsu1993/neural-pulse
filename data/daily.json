@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-05-29",
-  "generatedAt": "2026-05-29T04:53:59.439Z",
+  "lastUpdate": "2026-05-30",
+  "generatedAt": "2026-05-30T04:34:59.995Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "date": "2026-05-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [],
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Gemini"
+      ],
       "content": {
-        "basic": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+        "basic": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,18 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "date": "2026-05-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "hotScore": 61.3,
-      "category": "startup",
-      "tags": [
-        "Claude"
-      ],
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "date": "2026-05-29",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "hotScore": 55,
+      "category": "research",
+      "tags": [],
       "content": {
-        "basic": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\" The AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus ",
+        "basic": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

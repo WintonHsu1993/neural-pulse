@@ -4,65 +4,25 @@
     "to": "2026-06-02"
   },
   "weekKey": "2026-W22",
-  "lastUpdate": "2026-05-29",
-  "generatedAt": "2026-05-29T04:53:59.439Z",
+  "lastUpdate": "2026-05-30",
+  "generatedAt": "2026-05-30T04:34:59.996Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
       "rank": 1,
-      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-      "date": "2026-05-28",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "hotScore": 72.5,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W22",
-      "content": {
-        "basic": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "date": "2026-05-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W22",
-      "content": {
-        "basic": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "date": "2026-05-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "hotScore": 61.3,
-      "category": "startup",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "hotScore": 58.8,
+      "category": "research",
       "tags": [
-        "Claude"
+        "Gemini"
       ],
       "week_key": "2026-W22",
       "content": {
-        "basic": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\" The AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus ",
+        "basic": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -71,19 +31,17 @@
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 4,
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "date": "2026-05-28",
+      "rank": 2,
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "date": "2026-05-29",
       "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "hotScore": 58.8,
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "hotScore": 55,
       "category": "research",
-      "tags": [
-        "Gemini"
-      ],
+      "tags": [],
       "week_key": "2026-W22",
       "content": {
-        "basic": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+        "basic": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -91,18 +49,60 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "RSI is the new AGI — and it’s just as hard to pin down",
-      "date": "2026-05-28",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-      "hotScore": 56.3,
-      "category": "startup",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 3,
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "date": "2026-05-29",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "hotScore": 55,
+      "category": "research",
       "tags": [],
       "week_key": "2026-W22",
       "content": {
-        "basic": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+        "basic": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Tech companies desperately want to film you doing chores",
+      "date": "2026-05-29",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "hotScore": 53.8,
+      "category": "startup",
+      "tags": [
+        "Robotics"
+      ],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
+      "date": "2026-05-28",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "hotScore": 53.3,
+      "category": "startup",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\" The AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
