@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-05-30",
-  "generatedAt": "2026-05-30T04:34:59.995Z",
+  "lastUpdate": "2026-05-31",
+  "generatedAt": "2026-05-31T05:04:40.559Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "date": "2026-05-29",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "hotScore": 58.8,
-      "category": "research",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "date": "2026-05-30",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "hotScore": 51.3,
+      "category": "product",
       "tags": [
         "Gemini"
       ],
       "content": {
-        "basic": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+        "basic": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,15 +24,17 @@
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "date": "2026-05-29",
       "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "hotScore": 55,
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "hotScore": 50.8,
       "category": "research",
-      "tags": [],
+      "tags": [
+        "Gemini"
+      ],
       "content": {
-        "basic": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+        "basic": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

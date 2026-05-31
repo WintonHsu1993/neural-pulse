@@ -4,18 +4,39 @@
     "to": "2026-06-02"
   },
   "weekKey": "2026-W22",
-  "lastUpdate": "2026-05-30",
-  "generatedAt": "2026-05-30T04:34:59.996Z",
+  "lastUpdate": "2026-05-31",
+  "generatedAt": "2026-05-31T05:04:40.559Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "date": "2026-05-30",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "hotScore": 51.3,
+      "category": "product",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 2,
       "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
       "date": "2026-05-29",
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "hotScore": 58.8,
+      "hotScore": 50.8,
       "category": "research",
       "tags": [
         "Gemini"
@@ -30,58 +51,39 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 2,
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "date": "2026-05-29",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "hotScore": 55,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W22",
-      "content": {
-        "basic": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 3,
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "date": "2026-05-29",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "hotScore": 55,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W22",
-      "content": {
-        "basic": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Tech companies desperately want to film you doing chores",
-      "date": "2026-05-29",
+      "rank": 3,
+      "title": "How one founder’s bet on ‘the old school web’ is paying off",
+      "date": "2026-05-30",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "hotScore": 53.8,
-      "category": "startup",
+      "sourceUrl": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "hotScore": 50,
+      "category": "industry",
       "tags": [
-        "Robotics"
+        "Multimodal"
       ],
       "week_key": "2026-W22",
       "content": {
-        "basic": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for ",
+        "basic": "A good time with old maps. | Image: Past Maps Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use Shopify - right as the AI boom was booming. \"I had my prior VC investors breathing down my neck, going 'start something else. We'll write you a blank check.'\" He had other ideas. People generally aren't rushing to get into the website busine",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Meta is reportedly developing an AI pendant",
+      "date": "2026-05-30",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "hotScore": 50,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W22",
+      "content": {
+        "basic": "Meta seems to be making big bets on AI-powered hardware.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -91,18 +93,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "date": "2026-05-28",
+      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
+      "date": "2026-05-30",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "hotScore": 53.3,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+      "hotScore": 47.5,
       "category": "startup",
       "tags": [
-        "Claude"
+        "Multimodal"
       ],
       "week_key": "2026-W22",
       "content": {
-        "basic": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\" The AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus ",
+        "basic": "Number go up? | Image: Cath Virginia / The Verge, Getty Images I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bankers have their way, you are going to be their bagholder. Lots of the top-line details leaked long before the S-1 filing itself became public. There's the rumored valuation of more than $1 trillion. That's despite the nearly $5 billion in losses last year. The total addressable market (TAM) for SpaceX - the amount of revenue SpaceX thin",
         "highlights": [],
         "scenarios": [],
         "industry": [],
