@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-05-31",
-  "generatedAt": "2026-05-31T05:04:40.559Z",
+  "lastUpdate": "2026-06-04",
+  "generatedAt": "2026-06-04T05:23:18.001Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "date": "2026-05-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "hotScore": 51.3,
-      "category": "product",
-      "tags": [
-        "Gemini"
-      ],
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "date": "2026-06-04",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "hotScore": 72.5,
+      "category": "policy",
+      "tags": [],
       "content": {
-        "basic": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+        "basic": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +21,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "date": "2026-05-29",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "hotScore": 50.8,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "date": "2026-06-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "hotScore": 60,
+      "category": "policy",
       "tags": [
-        "Gemini"
+        "Reasoning",
+        "Agent"
       ],
       "content": {
-        "basic": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+        "basic": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's finally acting like it. For years, Microsoft's AI business leaned hard on its early and exclusive partnership with OpenAI. But the drama-filled marriage slowly devolved into a situationship, and the pair effectively separated in late April (though Microsoft is still ",
         "highlights": [],
         "scenarios": [],
         "industry": [],

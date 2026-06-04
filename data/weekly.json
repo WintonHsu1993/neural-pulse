@@ -1,28 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-05-27",
-    "to": "2026-06-02"
+    "from": "2026-06-03",
+    "to": "2026-06-09"
   },
-  "weekKey": "2026-W22",
-  "lastUpdate": "2026-05-31",
-  "generatedAt": "2026-05-31T05:04:40.559Z",
+  "weekKey": "2026-W23",
+  "lastUpdate": "2026-06-04",
+  "generatedAt": "2026-06-04T05:23:18.001Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 1,
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "date": "2026-05-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "hotScore": 51.3,
-      "category": "product",
-      "tags": [
-        "Gemini"
-      ],
-      "week_key": "2026-W22",
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "date": "2026-06-04",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "hotScore": 72.5,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W23",
       "content": {
-        "basic": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+        "basic": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,20 +28,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "date": "2026-05-29",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "hotScore": 50.8,
-      "category": "research",
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "date": "2026-06-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "hotScore": 60,
+      "category": "policy",
       "tags": [
-        "Gemini"
+        "Reasoning",
+        "Agent"
       ],
-      "week_key": "2026-W22",
+      "week_key": "2026-W23",
       "content": {
-        "basic": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+        "basic": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's finally acting like it. For years, Microsoft's AI business leaned hard on its early and exclusive partnership with OpenAI. But the drama-filled marriage slowly devolved into a situationship, and the pair effectively separated in late April (though Microsoft is still ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -53,18 +52,38 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "date": "2026-05-30",
+      "title": "As AI gets better, it reveals an empty promise",
+      "date": "2026-06-03",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "hotScore": 50,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [
-        "Multimodal"
+        "Gemini",
+        "Agent"
       ],
-      "week_key": "2026-W22",
+      "week_key": "2026-W23",
       "content": {
-        "basic": "A good time with old maps. | Image: Past Maps Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use Shopify - right as the AI boom was booming. \"I had my prior VC investors breathing down my neck, going 'start something else. We'll write you a blank check.'\" He had other ideas. People generally aren't rushing to get into the website busine",
+        "basic": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to me is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in our world. \"Productivity\" is often pitched as a panacea for what befalls us in our personal lives, even g",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "rank": 4,
+      "title": "7 Ways New Engineers Can Flourish in the Age of AI",
+      "date": "2026-06-03",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
+      "hotScore": 56.3,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W23",
+      "content": {
+        "basic": "New graduates’ careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition. Here are seven tips to help keep young professionals in demand no matter how quickly the field’s tools evolve. 1. Master the fundamentals first. AI tools can help you code, but you still need strong fundamentals in: Data structures and algorithms for problem-solving. Operating systems, databases, and networking for system-level understanding. Core programming languages such as C++, Java, and Python. AI can autocomplete syntax, but if ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -73,38 +92,19 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Meta is reportedly developing an AI pendant",
-      "date": "2026-05-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "hotScore": 50,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W22",
-      "content": {
-        "basic": "Meta seems to be making big bets on AI-powered hardware.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-      "date": "2026-05-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-      "hotScore": 47.5,
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "date": "2026-06-03",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "hotScore": 53.8,
       "category": "startup",
       "tags": [
-        "Multimodal"
+        "Claude"
       ],
-      "week_key": "2026-W22",
+      "week_key": "2026-W23",
       "content": {
-        "basic": "Number go up? | Image: Cath Virginia / The Verge, Getty Images I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bankers have their way, you are going to be their bagholder. Lots of the top-line details leaked long before the S-1 filing itself became public. There's the rumored valuation of more than $1 trillion. That's despite the nearly $5 billion in losses last year. The total addressable market (TAM) for SpaceX - the amount of revenue SpaceX thin",
+        "basic": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
