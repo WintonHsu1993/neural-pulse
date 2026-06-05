@@ -4,23 +4,23 @@
     "to": "2026-06-09"
   },
   "weekKey": "2026-W23",
-  "lastUpdate": "2026-06-04",
-  "generatedAt": "2026-06-04T05:23:18.001Z",
+  "lastUpdate": "2026-06-05",
+  "generatedAt": "2026-06-05T04:57:28.978Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
       "date": "2026-06-04",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-      "hotScore": 72.5,
-      "category": "policy",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W23",
       "content": {
-        "basic": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+        "basic": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,11 +30,49 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
+      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "date": "2026-06-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W23",
+      "content": {
+        "basic": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing what they say is an alarming biosecurity gap that could help trigger a global pandemic. Anthropic's Dario Amodei, OpenAI's Sam Altman, and Microsoft's Mustafa Suleyman are among the signatories urging US lawmakers to require companies selling synthetic DNA and RNA - genetic material that can ordered online and assemble",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 3,
+      "title": "These LLMs are the best at resisting Russian propaganda",
+      "date": "2026-06-04",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "hotScore": 53.8,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W23",
+      "content": {
+        "basic": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
       "date": "2026-06-03",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "hotScore": 60,
+      "hotScore": 52,
       "category": "policy",
       "tags": [
         "Reasoning",
@@ -51,60 +89,19 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "As AI gets better, it reveals an empty promise",
-      "date": "2026-06-03",
+      "rank": 5,
+      "title": "Let us filter AI slop, you cowards",
+      "date": "2026-06-04",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "hotScore": 56.3,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "hotScore": 50,
       "category": "product",
       "tags": [
-        "Gemini",
-        "Agent"
+        "Multimodal"
       ],
       "week_key": "2026-W23",
       "content": {
-        "basic": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to me is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in our world. \"Productivity\" is often pitched as a panacea for what befalls us in our personal lives, even g",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 4,
-      "title": "7 Ways New Engineers Can Flourish in the Age of AI",
-      "date": "2026-06-03",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
-      "hotScore": 56.3,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W23",
-      "content": {
-        "basic": "New graduates’ careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition. Here are seven tips to help keep young professionals in demand no matter how quickly the field’s tools evolve. 1. Master the fundamentals first. AI tools can help you code, but you still need strong fundamentals in: Data structures and algorithms for problem-solving. Operating systems, databases, and networking for system-level understanding. Core programming languages such as C++, Java, and Python. AI can autocomplete syntax, but if ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "date": "2026-06-03",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-      "hotScore": 53.8,
-      "category": "startup",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W23",
-      "content": {
-        "basic": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "basic": "Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last year, with many now automatically applying labels to distinguish AI-generated images, videos, and music from those made by real, human creators. That's all very well and good if we're just stumbling across labeled content at random, but you know what would be better? Let",
         "highlights": [],
         "scenarios": [],
         "industry": [],
