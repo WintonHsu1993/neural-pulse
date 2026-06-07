@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-06-06",
-  "generatedAt": "2026-06-06T04:37:56.420Z",
+  "lastUpdate": "2026-06-07",
+  "generatedAt": "2026-06-07T05:08:41.733Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "The latest AI news we announced in May 2026",
-      "date": "2026-06-05",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Here comes new Siri again",
+      "date": "2026-06-06",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "hotScore": 56.3,
+      "category": "hardware",
+      "tags": [
+        "GPT"
+      ],
       "content": {
-        "basic": "Here are Google’s latest AI updates from May 2026",
+        "basic": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "date": "2026-06-05",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "hotScore": 55,
-      "category": "tech",
-      "tags": [],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "date": "2026-06-06",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "hotScore": 56.3,
+      "category": "startup",
+      "tags": [
+        "GPT"
+      ],
       "content": {
-        "basic": "SpaceX won’t get easy access to billions of dollars from passive investors.",
+        "basic": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

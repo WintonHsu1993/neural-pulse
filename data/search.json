@@ -1,83 +1,59 @@
 [
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "The latest AI news we announced in May 2026",
-    "date": "2026-06-05",
-    "source": "Google AI Blog",
-    "hotScore": 55,
-    "category": "product",
-    "tags": [],
-    "snippet": "Here are Google’s latest AI updates from May 2026"
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Here comes new Siri again",
+    "date": "2026-06-06",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "hardware",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "date": "2026-06-05",
-    "source": "Ars Technica",
-    "hotScore": 55,
-    "category": "tech",
-    "tags": [],
-    "snippet": "SpaceX won’t get easy access to billions of dollars from passive investors."
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "date": "2026-06-06",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
   },
   {
     "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-    "date": "2026-06-05",
+    "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+    "date": "2026-06-06",
     "source": "Wired",
     "hotScore": 52.5,
     "category": "tech",
     "tags": [],
-    "snippet": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”"
+    "snippet": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "This is your laptop… on AI",
-    "date": "2026-06-05",
+    "title": "Meta made its own AI-generated clickbait news feed",
+    "date": "2026-06-06",
     "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | Image: Meta AI Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait arti"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "date": "2026-06-06",
+    "source": "TechCrunch AI",
     "hotScore": 50,
     "category": "startup",
     "tags": [],
-    "snippet": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "date": "2026-06-05",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 48.3,
-    "category": "product",
-    "tags": [],
-    "snippet": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "New York lawmakers pass one-year ban on new data centers",
-    "date": "2026-06-05",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mira Murati steps back into the spotlight, carefully",
-    "date": "2026-06-05",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist."
+    "snippet": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -92,74 +68,34 @@
     "snippet": "Learn how Googlers used AI to produce Google I/O 2026."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-    "date": "2026-06-04",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in May 2026",
+    "date": "2026-06-05",
+    "source": "Google AI Blog",
     "hotScore": 47,
-    "category": "policy",
+    "category": "product",
     "tags": [],
-    "snippet": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open le"
+    "snippet": "Here are Google’s latest AI updates from May 2026"
   },
   {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "These LLMs are the best at resisting Russian propaganda",
-    "date": "2026-06-04",
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "date": "2026-06-05",
     "source": "Ars Technica",
-    "hotScore": 45.8,
-    "category": "research",
+    "hotScore": 47,
+    "category": "tech",
     "tags": [],
-    "snippet": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "This AI startup says it can tell if a script will make a hit film",
-    "date": "2026-06-05",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to "
+    "snippet": "SpaceX won’t get easy access to billions of dollars from passive investors."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The most interesting startups right now want to get you off your phone",
-    "date": "2026-06-05",
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "date": "2026-06-06",
     "source": "TechCrunch AI",
     "hotScore": 45,
-    "category": "startup",
+    "category": "policy",
     "tags": [],
-    "snippet": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "date": "2026-06-05",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-    "date": "2026-06-05",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "date": "2026-06-05",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The Australian data center operator plans to set up 5GW of capacity in India."
+    "snippet": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -172,27 +108,34 @@
     "snippet": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "date": "2026-06-05",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+    "date": "2026-06-06",
+    "source": "The Verge AI",
     "hotScore": 42.5,
-    "category": "startup",
+    "category": "industry",
     "tags": [],
-    "snippet": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at"
+    "snippet": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caug"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "As AI gets better, it reveals an empty promise",
-    "date": "2026-06-03",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "date": "2026-06-06",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Apple's WWDC nears: Here's what you can look forward to."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "date": "2026-06-04",
+    "source": "TechCrunch AI",
     "hotScore": 42.3,
     "category": "product",
-    "tags": [
-      "Gemini",
-      "Agent"
-    ],
-    "snippet": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k"
+    "tags": [],
+    "snippet": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -206,58 +149,23 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Let us filter AI slop, you cowards",
-    "date": "2026-06-04",
+    "title": "This is your laptop… on AI",
+    "date": "2026-06-05",
     "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "date": "2026-06-05",
+    "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images It's almost impossible to avoid seeing AI-generated content online, but "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Amazon develops a warehouse robot that workers can speak to",
-    "date": "2026-06-04",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [
-      "Multimodal",
-      "Robotics"
-    ],
-    "snippet": "The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will in"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
     "tags": [],
-    "snippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta rolls out a new AI creator assistant on Facebook",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 40.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place"
+    "snippet": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -272,14 +180,34 @@
     "snippet": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "These LLMs are the best at resisting Russian propaganda",
     "date": "2026-06-04",
+    "source": "Ars Technica",
+    "hotScore": 39.8,
+    "category": "research",
+    "tags": [],
+    "snippet": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "New York lawmakers pass one-year ban on new data centers",
+    "date": "2026-06-05",
     "source": "The Verge AI",
     "hotScore": 39.5,
-    "category": "industry",
+    "category": "policy",
     "tags": [],
-    "snippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s"
+    "snippet": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "date": "2026-06-05",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -332,25 +260,53 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-    "date": "2026-06-04",
+    "title": "This AI startup says it can tell if a script will make a hit film",
+    "date": "2026-06-05",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "policy",
+    "category": "startup",
     "tags": [],
-    "snippet": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports "
+    "snippet": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-    "date": "2026-06-04",
+    "title": "The most interesting startups right now want to get you off your phone",
+    "date": "2026-06-05",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform."
+    "tags": [],
+    "snippet": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringi"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "date": "2026-06-05",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+    "date": "2026-06-05",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringi"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "date": "2026-06-05",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The Australian data center operator plans to set up 5GW of capacity in India."
   },
   {
     "id": "aHR0cHM6Ly9jb250ZW50",
@@ -361,6 +317,38 @@
     "category": "policy",
     "tags": [],
     "snippet": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors withi"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Let us filter AI slop, you cowards",
+    "date": "2026-06-04",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images It's almost impossible to avoid seeing AI-generated content online, but "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "date": "2026-06-04",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "date": "2026-06-04",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -455,68 +443,34 @@
     "snippet": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
-    "date": "2026-05-31",
-    "source": "IEEE Spectrum",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "date": "2026-06-04",
+    "source": "TechCrunch AI",
     "hotScore": 34.8,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "date": "2026-06-05",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
     "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like car"
+    "tags": [],
+    "snippet": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+    "title": "Kevin O’Leary agrees to downsize massive Utah data center",
     "date": "2026-06-04",
     "source": "The Verge AI",
-    "hotScore": 34.5,
+    "hotScore": 33.5,
     "category": "industry",
     "tags": [],
-    "snippet": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Meta may have found one way to slash its massive data center bill: tents."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Apple's WWDC nears: Here's what you can look forward to."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The California startup released the fourth-generation of its home assistance robot, Stretch."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-    "date": "2026-06-04",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods."
+    "snippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -527,5 +481,45 @@
     "category": "research",
     "tags": [],
     "snippet": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "100 things we announced at I/O 2026",
+    "date": "2026-05-20",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "A new experiment brings better group meetings to Google Beam",
+    "date": "2026-05-20",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
+    "date": "2026-05-27",
+    "source": "IEEE Spectrum",
+    "hotScore": 31.3,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligenc"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+    "date": "2026-06-04",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports "
   }
 ]
