@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-06-07",
-  "generatedAt": "2026-06-07T05:08:41.733Z",
+  "lastUpdate": "2026-06-08",
+  "generatedAt": "2026-06-08T05:14:40.014Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Here comes new Siri again",
-      "date": "2026-06-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "hotScore": 56.3,
-      "category": "hardware",
-      "tags": [
-        "GPT"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "OpenAI is still working on that ‘super app’",
+      "date": "2026-06-07",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "hotScore": 55,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact",
+        "basic": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,17 +22,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "date": "2026-06-06",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "date": "2026-06-07",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "hotScore": 52.5,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+        "basic": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
