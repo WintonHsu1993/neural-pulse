@@ -1,106 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-06-03",
-    "to": "2026-06-09"
+    "from": "2026-06-10",
+    "to": "2026-06-16"
   },
-  "weekKey": "2026-W23",
-  "lastUpdate": "2026-06-08",
-  "generatedAt": "2026-06-08T05:14:40.014Z",
-  "count": 5,
+  "weekKey": "2026-W24",
+  "lastUpdate": "2026-06-10",
+  "generatedAt": "2026-06-10T05:00:53.077Z",
+  "count": 1,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "OpenAI is still working on that ‘super app’",
-      "date": "2026-06-07",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "date": "2026-06-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W23",
-      "content": {
-        "basic": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Notion restores access to Anthropic after service disruption",
-      "date": "2026-06-07",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "hotScore": 52.5,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W23",
-      "content": {
-        "basic": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "AI ‘content creators’ are getting harder to spot",
-      "date": "2026-06-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
-      "hotScore": 50,
-      "category": "industry",
-      "tags": [
-        "Multimodal"
-      ],
-      "week_key": "2026-W23",
-      "content": {
-        "basic": "Aitana Lopez, AI avatar by creative agency The Clueless. | Image: The Clueless This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to ignore. Aside from the occasional bursts of hype, they didn't seem to change much about the way social media worked. The earliest virtual influencers - Lil Miquela with her blunt fringe and freckles, Imma w",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "date": "2026-06-07",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "hotScore": 50,
+      "sourceUrl": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "hotScore": 65,
       "category": "startup",
       "tags": [],
-      "week_key": "2026-W23",
+      "week_key": "2026-W24",
       "content": {
-        "basic": "We're likely to see more price increases as the big AI companies plan to go public.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Here comes new Siri again",
-      "date": "2026-06-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "hotScore": 48.3,
-      "category": "hardware",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W23",
-      "content": {
-        "basic": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact",
+        "basic": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
