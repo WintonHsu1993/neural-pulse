@@ -4,23 +4,106 @@
     "to": "2026-06-16"
   },
   "weekKey": "2026-W24",
-  "lastUpdate": "2026-06-10",
-  "generatedAt": "2026-06-10T05:00:53.077Z",
-  "count": 1,
+  "lastUpdate": "2026-06-12",
+  "generatedAt": "2026-06-12T05:15:56.986Z",
+  "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "date": "2026-06-10",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "date": "2026-06-12",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
       "hotScore": 65,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W24",
       "content": {
-        "basic": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+        "basic": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "date": "2026-06-12",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "hotScore": 62.5,
+      "category": "startup",
+      "tags": [
+        "Robotics"
+      ],
+      "week_key": "2026-W24",
+      "content": {
+        "basic": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "date": "2026-06-11",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "hotScore": 61.3,
+      "category": "research",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W24",
+      "content": {
+        "basic": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are too dangerous for public release. Anthropic says it has addressed some of those risks by launching Fable with safeguards th",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "date": "2026-06-11",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Safety",
+        "Agent"
+      ],
+      "week_key": "2026-W24",
+      "content": {
+        "basic": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "date": "2026-06-11",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W24",
+      "content": {
+        "basic": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
