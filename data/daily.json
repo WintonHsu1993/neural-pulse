@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-06-12",
-  "generatedAt": "2026-06-12T05:15:56.986Z",
+  "lastUpdate": "2026-06-13",
+  "generatedAt": "2026-06-13T05:05:38.341Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "date": "2026-06-12",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "date": "2026-06-13",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "hotScore": 71.3,
+      "category": "tech",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+        "basic": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,17 +24,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "date": "2026-06-12",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "date": "2026-06-13",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "hotScore": 62.5,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "hotScore": 70,
+      "category": "policy",
       "tags": [
-        "Robotics"
+        "Safety"
       ],
       "content": {
-        "basic": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+        "basic": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

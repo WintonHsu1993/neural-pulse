@@ -4,23 +4,25 @@
     "to": "2026-06-16"
   },
   "weekKey": "2026-W24",
-  "lastUpdate": "2026-06-12",
-  "generatedAt": "2026-06-12T05:15:56.986Z",
+  "lastUpdate": "2026-06-13",
+  "generatedAt": "2026-06-13T05:05:38.341Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 1,
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "date": "2026-06-12",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [],
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "date": "2026-06-13",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "hotScore": 71.3,
+      "category": "tech",
+      "tags": [
+        "Claude"
+      ],
       "week_key": "2026-W24",
       "content": {
-        "basic": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+        "basic": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,61 +32,56 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "date": "2026-06-12",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "date": "2026-06-13",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "hotScore": 70,
+      "category": "policy",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W24",
+      "content": {
+        "basic": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 3,
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "date": "2026-06-13",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "hotScore": 67.5,
+      "category": "tech",
+      "tags": [],
+      "week_key": "2026-W24",
+      "content": {
+        "basic": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "date": "2026-06-13",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
       "hotScore": 62.5,
       "category": "startup",
-      "tags": [
-        "Robotics"
-      ],
+      "tags": [],
       "week_key": "2026-W24",
       "content": {
-        "basic": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "date": "2026-06-11",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "hotScore": 61.3,
-      "category": "research",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W24",
-      "content": {
-        "basic": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are too dangerous for public release. Anthropic says it has addressed some of those risks by launching Fable with safeguards th",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 4,
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "date": "2026-06-11",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "hotScore": 58.8,
-      "category": "research",
-      "tags": [
-        "Safety",
-        "Agent"
-      ],
-      "week_key": "2026-W24",
-      "content": {
-        "basic": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other…",
+        "basic": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,16 +91,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "date": "2026-06-11",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "date": "2026-06-12",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "hotScore": 55,
+      "sourceUrl": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "hotScore": 60,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W24",
       "content": {
-        "basic": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+        "basic": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same window, and it’s a stress test for investors, for valuations, and for […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],
