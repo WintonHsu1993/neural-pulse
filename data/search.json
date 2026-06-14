@@ -1,54 +1,64 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-    "date": "2026-06-13",
-    "source": "Wired",
-    "hotScore": 71.3,
-    "category": "tech",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "date": "2026-06-13",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "date": "2026-06-14",
     "source": "TechCrunch AI",
     "hotScore": 70,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-    "date": "2026-06-13",
-    "source": "Ars Technica",
-    "hotScore": 67.5,
-    "category": "tech",
+    "category": "startup",
     "tags": [],
-    "snippet": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
+    "snippet": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "date": "2026-06-13",
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "date": "2026-06-14",
     "source": "TechCrunch AI",
     "hotScore": 62.5,
     "category": "startup",
     "tags": [],
-    "snippet": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
+    "snippet": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+    "date": "2026-06-13",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind For all the noise that's been made about how generative AI is pois"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI faces investigation from state attorneys general",
+    "date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "My yard is dying, so I made an app for that",
+    "date": "2026-06-13",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
     "date": "2026-06-12",
     "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 52,
     "category": "startup",
     "tags": [],
     "snippet": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N"
@@ -58,17 +68,91 @@
     "title": "It’s hot IPO summer, and the MANGOS are ripe",
     "date": "2026-06-12",
     "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 52,
     "category": "startup",
     "tags": [],
     "snippet": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "date": "2026-06-13",
+    "source": "Wired",
+    "hotScore": 51.3,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Once again, AI proves to be an unreliable source of information about AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "date": "2026-06-13",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conv"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "date": "2026-06-13",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "industry",
+    "tags": [],
+    "snippet": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+    "date": "2026-06-13",
+    "source": "Ars Technica",
+    "hotScore": 47.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Siri won’t be your AI girlfriend",
     "date": "2026-06-12",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "product",
     "tags": [
       "Multimodal"
@@ -77,32 +161,20 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "date": "2026-06-11",
+    "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "date": "2026-06-13",
     "source": "The Verge AI",
-    "hotScore": 53.3,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "China Didn’t Make Americans Hate Data Centers",
-    "date": "2026-06-12",
-    "source": "Wired",
-    "hotScore": 52.5,
-    "category": "policy",
+    "hotScore": 45,
+    "category": "product",
     "tags": [],
-    "snippet": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that."
+    "snippet": "iPhone owners are getting real, native AI photo editing for the first time. The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of u"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "date": "2026-06-11",
     "source": "MIT Technology Review",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "research",
     "tags": [
       "Safety",
@@ -111,11 +183,31 @@
     "snippet": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A"
   },
   {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "China Didn’t Make Americans Hate Data Centers",
+    "date": "2026-06-12",
+    "source": "Wired",
+    "hotScore": 44.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "date": "2026-06-13",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Siri is good now??",
     "date": "2026-06-12",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [],
     "snippet": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest"
@@ -125,7 +217,7 @@
     "title": "Elon Musk is the world&#8217;s first trillionaire",
     "date": "2026-06-12",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [],
     "snippet": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac"
@@ -135,150 +227,10 @@
     "title": "SpaceX’s massive IPO: all the latest news",
     "date": "2026-06-12",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [],
     "snippet": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-    "date": "2026-06-12",
-    "source": "Ars Technica",
-    "hotScore": 48.8,
-    "category": "tech",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
-    "date": "2026-06-12",
-    "source": "Ars Technica",
-    "hotScore": 48.8,
-    "category": "policy",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX IPO: Live updates on everything you need to know",
-    "date": "2026-06-12",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mistral is rumored to be raising €3B at €20B valuation",
-    "date": "2026-06-12",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Claude Fable won’t answer basic biology questions",
-    "date": "2026-06-10",
-    "source": "The Verge AI",
-    "hotScore": 47.3,
-    "category": "product",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s Dario Amodei has just one direct report",
-    "date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "startup",
-    "tags": [],
-    "snippet": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-    "date": "2026-06-12",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [],
-    "snippet": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "date": "2026-06-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-    "date": "2026-06-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-    "date": "2026-06-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-    "date": "2026-06-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
-    "date": "2026-06-12",
-    "source": "IEEE Spectrum",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. D"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-    "date": "2026-06-12",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -293,34 +245,48 @@
     "snippet": "Learn how Googlers used AI to produce Google I/O 2026."
   },
   {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+    "date": "2026-06-12",
+    "source": "Ars Technica",
+    "hotScore": 40.8,
+    "category": "tech",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+    "date": "2026-06-12",
+    "source": "Ars Technica",
+    "hotScore": 40.8,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Pool’s new app turns your screenshots into something useful",
-    "date": "2026-06-11",
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "date": "2026-06-12",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
     "category": "product",
     "tags": [],
-    "snippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t"
+    "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "date": "2026-06-11",
-    "source": "Google AI Blog",
-    "hotScore": 39.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "We’re helping build the state’s next-generation workforce and investing in energy programs."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
-    "date": "2026-06-11",
-    "source": "IEEE Spectrum",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Mistral is rumored to be raising €3B at €20B valuation",
+    "date": "2026-06-12",
+    "source": "TechCrunch AI",
     "hotScore": 39.5,
     "category": "startup",
     "tags": [],
-    "snippet": "“Space computing, the final frontier, has arrived,” Nvidia CEO Jensen Huang declared at the Nvidia GTC conference in March. Indeed, the idea of data centers in orbit has gone from science fiction to a"
+    "snippet": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -383,53 +349,65 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-    "date": "2026-06-11",
+    "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+    "date": "2026-06-12",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "industry",
+    "category": "research",
     "tags": [],
-    "snippet": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Deezer launches an AI music detector for other streaming services",
-    "date": "2026-06-11",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered "
+    "snippet": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-    "date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-    "date": "2026-06-11",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "date": "2026-06-11",
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "date": "2026-06-12",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "The decision comes as India emerges as the world’s largest GCC market."
+    "snippet": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "date": "2026-06-12",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "date": "2026-06-12",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "date": "2026-06-12",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+    "date": "2026-06-12",
+    "source": "IEEE Spectrum",
+    "hotScore": 37,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. D"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -515,22 +493,44 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-    "date": "2026-06-11",
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "date": "2026-06-12",
     "source": "TechCrunch AI",
     "hotScore": 34.5,
     "category": "startup",
-    "tags": [],
-    "snippet": "Wits its official share pricing announcement, SpaceX's IPO has begun."
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+    "title": "Pool’s new app turns your screenshots into something useful",
     "date": "2026-06-11",
     "source": "TechCrunch AI",
-    "hotScore": 34.5,
+    "hotScore": 33.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "date": "2026-06-11",
+    "source": "Google AI Blog",
+    "hotScore": 33.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
+    "date": "2026-06-11",
+    "source": "IEEE Spectrum",
+    "hotScore": 33.5,
     "category": "startup",
     "tags": [],
-    "snippet": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud."
+    "snippet": "“Space computing, the final frontier, has arrived,” Nvidia CEO Jensen Huang declared at the Nvidia GTC conference in March. Indeed, the idea of data centers in orbit has gone from science fiction to a"
   }
 ]
