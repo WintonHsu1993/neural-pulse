@@ -1,19 +1,23 @@
 {
-  "lastUpdate": "2026-06-14",
-  "generatedAt": "2026-06-14T05:16:50.606Z",
+  "lastUpdate": "2026-06-17",
+  "generatedAt": "2026-06-17T05:25:45.266Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "date": "2026-06-14",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "date": "2026-06-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "hotScore": 70,
+      "sourceUrl": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "hotScore": 68.8,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Claude",
+        "Gemini"
+      ],
       "content": {
-        "basic": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "basic": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +25,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "date": "2026-06-14",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "hotScore": 62.5,
-      "category": "startup",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Inside the fight over Claude Mythos 5",
+      "date": "2026-06-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+        "basic": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 AI models by \"any foreign national\" inside or outside the US, \"including foreign national Anthropic employees.\" The only way that was possible, Anthropic determined, was to completely disable products it spent the past week hyping - and travel to Washington, DC in hopes of changing",
         "highlights": [],
         "scenarios": [],
         "industry": [],

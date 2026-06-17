@@ -1,111 +1,11 @@
 {
   "weekRange": {
-    "from": "2026-06-10",
-    "to": "2026-06-16"
+    "from": "2026-06-17",
+    "to": "2026-06-23"
   },
-  "weekKey": "2026-W24",
-  "lastUpdate": "2026-06-14",
-  "generatedAt": "2026-06-14T05:16:50.606Z",
-  "count": 5,
-  "data": [
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 1,
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "date": "2026-06-14",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "hotScore": 70,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W24",
-      "content": {
-        "basic": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "date": "2026-06-14",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "hotScore": 62.5,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W24",
-      "content": {
-        "basic": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "date": "2026-06-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "hotScore": 55,
-      "category": "industry",
-      "tags": [
-        "Multimodal"
-      ],
-      "week_key": "2026-W24",
-      "content": {
-        "basic": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of visually inconsistent footage. And some of Hollywood's biggest AI partnerships have suddenly evaporated in ways that make it seem like stud",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "OpenAI faces investigation from state attorneys general",
-      "date": "2026-06-13",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "hotScore": 55,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W24",
-      "content": {
-        "basic": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "My yard is dying, so I made an app for that",
-      "date": "2026-06-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "hotScore": 53.8,
-      "category": "product",
-      "tags": [
-        "Gemini"
-      ],
-      "week_key": "2026-W24",
-      "content": {
-        "basic": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was t",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    }
-  ]
+  "weekKey": "2026-W25",
+  "lastUpdate": "2026-06-17",
+  "generatedAt": "2026-06-17T05:25:45.266Z",
+  "count": 0,
+  "data": []
 }
