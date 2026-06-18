@@ -1,23 +1,21 @@
 {
-  "lastUpdate": "2026-06-17",
-  "generatedAt": "2026-06-17T05:25:45.266Z",
+  "lastUpdate": "2026-06-18",
+  "generatedAt": "2026-06-18T05:19:41.744Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "ChatGPT’s market share slips below 50% for first time",
-      "date": "2026-06-16",
+      "title": "How to turn off AI in your Google Docs",
+      "date": "2026-06-18",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-      "hotScore": 68.8,
+      "sourceUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "hotScore": 76.3,
       "category": "startup",
       "tags": [
-        "GPT",
-        "Claude",
         "Gemini"
       ],
       "content": {
-        "basic": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+        "basic": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -26,17 +24,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Inside the fight over Claude Mythos 5",
-      "date": "2026-06-16",
+      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "date": "2026-06-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-      "hotScore": 61.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "hotScore": 65,
+      "category": "hardware",
       "tags": [
-        "Claude"
+        "Multimodal"
       ],
       "content": {
-        "basic": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 AI models by \"any foreign national\" inside or outside the US, \"including foreign national Anthropic employees.\" The only way that was possible, Anthropic determined, was to completely disable products it spent the past week hyping - and travel to Washington, DC in hopes of changing",
+        "basic": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said",
         "highlights": [],
         "scenarios": [],
         "industry": [],

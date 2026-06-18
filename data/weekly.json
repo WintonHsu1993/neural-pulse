@@ -4,8 +4,112 @@
     "to": "2026-06-23"
   },
   "weekKey": "2026-W25",
-  "lastUpdate": "2026-06-17",
-  "generatedAt": "2026-06-17T05:25:45.266Z",
-  "count": 0,
-  "data": []
+  "lastUpdate": "2026-06-18",
+  "generatedAt": "2026-06-18T05:19:41.744Z",
+  "count": 5,
+  "data": [
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 1,
+      "title": "How to turn off AI in your Google Docs",
+      "date": "2026-06-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "hotScore": 76.3,
+      "category": "startup",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W25",
+      "content": {
+        "basic": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "date": "2026-06-18",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "hotScore": 65,
+      "category": "hardware",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W25",
+      "content": {
+        "basic": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "date": "2026-06-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "hotScore": 61.3,
+      "category": "startup",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W25",
+      "content": {
+        "basic": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "date": "2026-06-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "hotScore": 56.3,
+      "category": "research",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W25",
+      "content": {
+        "basic": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society. Interestingly, it's the younger generations who both report using AI more and who are inclined to have a mor",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "rank": 5,
+      "title": "How Musicians Can Get Paid for Training AI",
+      "date": "2026-06-17",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/ai-music-attribution",
+      "hotScore": 56.3,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W25",
+      "content": {
+        "basic": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is used, the more money it makes. Generative AI has complicated the definition of use. On the one hand, you could argue that the use of a piece of musical training data happens just once, at the point of training. On the other hand, creators would be right to complain that the creative essence of their ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    }
+  ]
 }
