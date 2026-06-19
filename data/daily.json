@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-06-18",
-  "generatedAt": "2026-06-18T05:19:41.744Z",
+  "lastUpdate": "2026-06-19",
+  "generatedAt": "2026-06-19T05:34:30.774Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "How to turn off AI in your Google Docs",
-      "date": "2026-06-18",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "hotScore": 76.3,
-      "category": "startup",
-      "tags": [
-        "Gemini"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "date": "2026-06-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "hotScore": 75,
+      "category": "industry",
+      "tags": [],
       "content": {
-        "basic": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "basic": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. OpenAI co",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
-      "date": "2026-06-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "date": "2026-06-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "hotScore": 65,
-      "category": "hardware",
-      "tags": [
-        "Multimodal"
-      ],
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said",
+        "basic": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
