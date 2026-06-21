@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-06-19",
-  "generatedAt": "2026-06-19T05:34:30.774Z",
+  "lastUpdate": "2026-06-21",
+  "generatedAt": "2026-06-21T05:26:22.458Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
       "date": "2026-06-19",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "hotScore": 75,
-      "category": "industry",
-      "tags": [],
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "hotScore": 55.8,
+      "category": "research",
+      "tags": [
+        "Reasoning"
+      ],
       "content": {
-        "basic": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. OpenAI co",
+        "basic": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications. While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,15 +24,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "date": "2026-06-19",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "date": "2026-06-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "hotScore": 52.5,
       "category": "startup",
       "tags": [],
       "content": {
-        "basic": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+        "basic": "Jumper isn't the only big name leaving Google DeepMind.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
