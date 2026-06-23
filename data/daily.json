@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-06-21",
-  "generatedAt": "2026-06-21T05:26:22.458Z",
+  "lastUpdate": "2026-06-23",
+  "generatedAt": "2026-06-23T04:42:05.580Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
-      "date": "2026-06-19",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/large-language-models-ieee-course",
-      "hotScore": 55.8,
-      "category": "research",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "date": "2026-06-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "hotScore": 75,
+      "category": "product",
       "tags": [
-        "Reasoning"
+        "OpenSource"
       ],
       "content": {
-        "basic": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications. While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for ",
+        "basic": "OpenAI is attempting to tackle the security issues of the open source software community.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,15 +24,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "date": "2026-06-20",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "date": "2026-06-23",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "hotScore": 52.5,
+      "sourceUrl": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "hotScore": 65,
       "category": "startup",
       "tags": [],
       "content": {
-        "basic": "Jumper isn't the only big name leaving Google DeepMind.",
+        "basic": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
