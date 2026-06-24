@@ -1,42 +1,54 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
     "date": "2026-06-23",
     "source": "TechCrunch AI",
-    "hotScore": 75,
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Hollywood is bending the knee to OpenAI",
+    "date": "2026-06-23",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [],
+    "snippet": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
+    "date": "2026-06-23",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
     "category": "product",
     "tags": [
       "OpenSource"
     ],
-    "snippet": "OpenAI is attempting to tackle the security issues of the open source software community."
+    "snippet": "OpenAI is using AI to help the open source community better protect itself."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Is Learning to Read the Room",
     "date": "2026-06-23",
-    "source": "TechCrunch AI",
-    "hotScore": 65,
-    "category": "startup",
+    "source": "IEEE Spectrum",
+    "hotScore": 52.5,
+    "category": "product",
     "tags": [],
-    "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "How Anthropic may have talked itself into an AI export ban",
-    "date": "2026-06-22",
-    "source": "Ars Technica",
-    "hotScore": 60,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The company warned about dangers of advanced AI far more than rival OpenAI."
+    "snippet": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how "
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Commemorating 70 Years of Artificial Intelligence",
     "date": "2026-06-22",
     "source": "IEEE Spectrum",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "research",
     "tags": [
       "Claude"
@@ -44,93 +56,14 @@
     "snippet": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no o"
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-    "date": "2026-06-22",
-    "source": "Wired",
-    "hotScore": 58.8,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "OpenSource"
-    ],
-    "snippet": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Three things to watch amid Anthropic’s latest feud with the government",
-    "date": "2026-06-22",
-    "source": "MIT Technology Review",
-    "hotScore": 52.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-    "date": "2026-06-21",
-    "source": "Wired",
-    "hotScore": 50.8,
-    "category": "tech",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI is cursing renters with the promise of impossible homes",
-    "date": "2026-06-22",
+    "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+    "date": "2026-06-23",
     "source": "The Verge AI",
     "hotScore": 50,
     "category": "industry",
     "tags": [],
-    "snippet": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The AI world is getting ‘loopy’",
-    "date": "2026-06-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-    "date": "2026-06-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon is testing Alexa+ in India with Hindi support",
-    "date": "2026-06-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-    "date": "2026-06-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne"
+    "snippet": "I’m sorry Sony, your AI isn’t very good at photography. When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. The"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -146,93 +79,165 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Read this before you vibe-code another app",
-    "date": "2026-06-22",
+    "title": "Google Home will soon get better at recognizing you",
+    "date": "2026-06-23",
     "source": "The Verge AI",
     "hotScore": 47.5,
     "category": "product",
-    "tags": [],
-    "snippet": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month"
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-    "date": "2026-06-22",
+    "title": "Meta launches cheaper smart glasses without Ray-Ban",
+    "date": "2026-06-23",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different st"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Why corporate AI super PACs spent $27 million on a local election",
+    "date": "2026-06-23",
     "source": "The Verge AI",
     "hotScore": 45,
-    "category": "hardware",
+    "category": "industry",
     "tags": [],
-    "snippet": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da"
+    "snippet": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjectiv"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+    "date": "2026-06-23",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Last week, Midjourney, an AI startup best known for its ima"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "date": "2026-06-23",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "The Google Fitbit Air is one of the better attempts at an AI-compatible health tracker. Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-    "date": "2026-06-22",
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "date": "2026-06-23",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "date": "2026-06-23",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "date": "2026-06-23",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-    "date": "2026-06-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: AI bottleneck debates, and BCI trials take off",
-    "date": "2026-06-19",
-    "source": "MIT Technology Review",
-    "hotScore": 44.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-    "date": "2026-06-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today."
+    "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
   },
   {
     "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-    "date": "2026-06-22",
+    "title": "The Best Movies to Stream This Month (June 2026)",
+    "date": "2026-06-23",
     "source": "Wired",
-    "hotScore": 42.5,
-    "category": "startup",
+    "hotScore": 45,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "How Musicians Can Get Paid for Training AI",
-    "date": "2026-06-17",
-    "source": "IEEE Spectrum",
-    "hotScore": 42.3,
-    "category": "product",
-    "tags": [],
-    "snippet": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in p"
+    "snippet": "I Am Frankelda, A.I. Artificial Intelligence, and From Russia With Love are among the films deserving of your eyeballs this month."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "date": "2026-06-21",
+    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+    "date": "2026-06-23",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "AI is cursing renters with the promise of impossible homes",
+    "date": "2026-06-22",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The AI world is getting ‘loopy’",
+    "date": "2026-06-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "date": "2026-06-22",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+    "snippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon is testing Alexa+ in India with Hindi support",
+    "date": "2026-06-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "date": "2026-06-22",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "hardware",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -248,43 +253,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The film about Sam Altman has been dropped by Amazon MGM",
-    "date": "2026-06-19",
+    "title": "Read this before you vibe-code another app",
+    "date": "2026-06-22",
     "source": "The Verge AI",
-    "hotScore": 41,
+    "hotScore": 39.5,
     "category": "product",
     "tags": [],
-    "snippet": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Barret Zoph is out at OpenAI again after just five months",
-    "date": "2026-06-19",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as cofounder "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Who decides when AI is too dangerous?",
-    "date": "2026-06-18",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "product",
-    "tags": [],
-    "snippet": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-    "date": "2026-06-19",
-    "source": "MIT Technology Review",
-    "hotScore": 39.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language model"
+    "snippet": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -321,27 +296,54 @@
     "snippet": "Jumper isn't the only big name leaving Google DeepMind."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-    "date": "2026-06-21",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "date": "2026-06-22",
+    "source": "The Verge AI",
     "hotScore": 37,
-    "category": "product",
+    "category": "hardware",
     "tags": [],
-    "snippet": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+    "snippet": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Photoshop and Premiere now have AI assistants",
-    "date": "2026-06-18",
-    "source": "The Verge AI",
-    "hotScore": 36,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "date": "2026-06-22",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+    "date": "2026-06-22",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "How Musicians Can Get Paid for Training AI",
+    "date": "2026-06-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 36.3,
     "category": "product",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now"
+    "tags": [],
+    "snippet": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in p"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "date": "2026-06-21",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -352,36 +354,6 @@
     "category": "startup",
     "tags": [],
     "snippet": "So ... what's your In the Weights score?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "date": "2026-06-19",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Reliance is weaving AI into telecom services used by more than 500 million people."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-    "date": "2026-06-17",
-    "source": "Google AI Blog",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [],
-    "snippet": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Behind the Scenes of a Technical Interview",
-    "date": "2026-06-17",
-    "source": "IEEE Spectrum",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -414,14 +386,14 @@
     "snippet": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The Atlantic created a searchable database of the music used to train AI",
-    "date": "2026-06-20",
-    "source": "The Verge AI",
-    "hotScore": 34.8,
-    "category": "research",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+    "date": "2026-06-22",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill"
+    "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -435,55 +407,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "date": "2026-06-19",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "date": "2026-06-21",
     "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-    "date": "2026-06-19",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The US says ASML’s top chip tool may be in China, but how?",
-    "date": "2026-06-19",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
-    "date": "2026-06-08",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "New York City was the backdrop of this year’s IEEE Honors Ceremony, held on 24 April. The event celebrates engineering pioneers who have developed technologies that have changed how people connect and"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-    "date": "2026-06-18",
-    "source": "The Verge AI",
     "hotScore": 31,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Give your characters, objects, and backgrounds a name to easily replicate them without changing the design. | Image: Adobe Adobe is introducing some new capabilities for its Firefly AI assistant, alon"
+    "category": "product",
+    "tags": [],
+    "snippet": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -496,14 +426,14 @@
     "snippet": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
-    "date": "2026-06-19",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "date": "2026-06-17",
+    "source": "Google AI Blog",
+    "hotScore": 30,
+    "category": "research",
     "tags": [],
-    "snippet": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
+    "snippet": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -517,6 +447,16 @@
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Behind the Scenes of a Technical Interview",
+    "date": "2026-06-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Engineering Is Critical to Boosting Food Security",
     "date": "2026-06-15",
     "source": "IEEE Spectrum",
@@ -524,5 +464,47 @@
     "category": "research",
     "tags": [],
     "snippet": "Nearly 750 million people face hunger today, according to the U.N. World Food Program. And by 2050, global demand for food is expected to increase by 50 percent from 2010 levels, the World Resources I"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "date": "2026-06-15",
+    "source": "Google AI Blog",
+    "hotScore": 27.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "date": "2026-06-11",
+    "source": "Google AI Blog",
+    "hotScore": 27.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
+    "date": "2026-06-11",
+    "source": "IEEE Spectrum",
+    "hotScore": 27.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "“Space computing, the final frontier, has arrived,” Nvidia CEO Jensen Huang declared at the Nvidia GTC conference in March. Indeed, the idea of data centers in orbit has gone from science fiction to a"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+    "date": "2026-06-12",
+    "source": "IEEE Spectrum",
+    "hotScore": 25,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. D"
   }
 ]
