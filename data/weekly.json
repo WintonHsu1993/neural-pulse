@@ -4,8 +4,109 @@
     "to": "2026-06-30"
   },
   "weekKey": "2026-W26",
-  "lastUpdate": "2026-06-24",
-  "generatedAt": "2026-06-24T04:47:15.701Z",
-  "count": 0,
-  "data": []
+  "lastUpdate": "2026-06-27",
+  "generatedAt": "2026-06-27T04:35:57.578Z",
+  "count": 5,
+  "data": [
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 1,
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "date": "2026-06-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "hotScore": 72.5,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement. The letter, dated June 26th and sent by Commerce Secretary Howard Lutnick to Anthropic co-founder Tom Brown, who had been recently leading negotiations, states that th",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "date": "2026-06-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "hotScore": 67.5,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 3,
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "date": "2026-06-27",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "hotScore": 67.5,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 4,
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "date": "2026-06-26",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "hotScore": 63.8,
+      "category": "tech",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "date": "2026-06-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI tasks. Per million tokens, GPT-5.6 Sol is priced at $5 input / $30 output (nearly half the cost of Anthr",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    }
+  ]
 }
