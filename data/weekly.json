@@ -4,18 +4,83 @@
     "to": "2026-06-30"
   },
   "weekKey": "2026-W26",
-  "lastUpdate": "2026-06-27",
-  "generatedAt": "2026-06-27T04:35:57.578Z",
+  "lastUpdate": "2026-06-28",
+  "generatedAt": "2026-06-28T05:04:17.741Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "date": "2026-06-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "hotScore": 56.3,
+      "category": "startup",
+      "tags": [
+        "Claude",
+        "Multimodal"
+      ],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well: \"Claude gave m",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "date": "2026-06-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "hotScore": 55,
+      "category": "hardware",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "date": "2026-06-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "hotScore": 53.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI tasks. Per million tokens, GPT-5.6 Sol is priced at $5 input / $30 output (nearly half the cost of Anthr",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Anthropic&#8217;s Mythos 5 is back",
       "date": "2026-06-27",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "hotScore": 72.5,
+      "hotScore": 52.5,
       "category": "product",
       "tags": [],
       "week_key": "2026-W26",
@@ -29,79 +94,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-      "date": "2026-06-27",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "hotScore": 67.5,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W26",
-      "content": {
-        "basic": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 3,
-      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-      "date": "2026-06-27",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "hotScore": 67.5,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W26",
-      "content": {
-        "basic": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 4,
-      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "date": "2026-06-26",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "hotScore": 63.8,
-      "category": "tech",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W26",
-      "content": {
-        "basic": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
       "date": "2026-06-26",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Agent"
-      ],
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "hotScore": 52,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W26",
       "content": {
-        "basic": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI tasks. Per million tokens, GPT-5.6 Sol is priced at $5 input / $30 output (nearly half the cost of Anthr",
+        "basic": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
