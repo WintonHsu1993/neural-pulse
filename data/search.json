@@ -1,83 +1,36 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-    "date": "2026-06-27",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "date": "2026-06-28",
     "source": "The Verge AI",
-    "hotScore": 56.3,
-    "category": "startup",
-    "tags": [
-      "Claude",
-      "Multimodal"
-    ],
-    "snippet": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed"
+    "hotScore": 60,
+    "category": "research",
+    "tags": [],
+    "snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "date": "2026-06-27",
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "date": "2026-06-28",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 53.8,
     "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team."
+    "tags": [],
+    "snippet": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-    "date": "2026-06-26",
+    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "date": "2026-06-28",
     "source": "The Verge AI",
-    "hotScore": 53.3,
-    "category": "product",
+    "hotScore": 48.8,
+    "category": "industry",
     "tags": [
       "GPT",
-      "Agent"
+      "Multimodal"
     ],
-    "snippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic&#8217;s Mythos 5 is back",
-    "date": "2026-06-27",
-    "source": "The Verge AI",
-    "hotScore": 52.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "date": "2026-06-26",
-    "source": "TechCrunch AI",
-    "hotScore": 52,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "date": "2026-06-27",
-    "source": "TechCrunch AI",
-    "hotScore": 51.3,
-    "category": "startup",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "date": "2026-06-27",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+    "snippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -93,36 +46,30 @@
     "snippet": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "date": "2026-06-26",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+    "date": "2026-06-27",
+    "source": "The Verge AI",
     "hotScore": 48.3,
     "category": "startup",
     "tags": [
-      "GPT"
+      "Claude",
+      "Multimodal"
     ],
-    "snippet": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa"
+    "snippet": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-    "date": "2026-06-27",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "date": "2026-06-26",
+    "source": "The Verge AI",
+    "hotScore": 47.3,
     "category": "product",
-    "tags": [],
-    "snippet": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-    "date": "2026-06-27",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies."
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -137,58 +84,56 @@
     "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-    "date": "2026-06-26",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "date": "2026-06-27",
+    "source": "TechCrunch AI",
     "hotScore": 47,
-    "category": "product",
-    "tags": [],
-    "snippet": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-    "date": "2026-06-24",
-    "source": "The Verge AI",
-    "hotScore": 46,
-    "category": "policy",
+    "category": "hardware",
     "tags": [
       "Multimodal"
     ],
-    "snippet": "Alex Bores (D-NY) enters his watch party at The Freehand Hotel after conceding the congressional race to Micah Lasher who will replace Rep Jerry Nadler (D-NY) in NY's 12th Congressional District on Ju"
+    "snippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "date": "2026-06-26",
+    "source": "TechCrunch AI",
+    "hotScore": 46,
+    "category": "startup",
+    "tags": [],
+    "snippet": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-    "date": "2026-06-27",
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "date": "2026-06-28",
     "source": "The Verge AI",
     "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "date": "2026-06-28",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic&#8217;s Mythos 5 is back",
+    "date": "2026-06-27",
+    "source": "The Verge AI",
+    "hotScore": 44.5,
     "category": "product",
     "tags": [],
-    "snippet": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Commemorating 70 Years of Artificial Intelligence",
-    "date": "2026-06-22",
-    "source": "IEEE Spectrum",
-    "hotScore": 44.8,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no o"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-    "date": "2026-06-26",
-    "source": "MIT Technology Review",
-    "hotScore": 44.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figu"
+    "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -213,28 +158,28 @@
     "snippet": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment comp"
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
-    "date": "2026-06-26",
-    "source": "Wired",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "date": "2026-06-27",
+    "source": "TechCrunch AI",
     "hotScore": 43.3,
-    "category": "tech",
+    "category": "startup",
     "tags": [
       "Claude"
     ],
-    "snippet": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram."
+    "snippet": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "date": "2026-06-27",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "date": "2026-06-26",
     "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "policy",
+    "hotScore": 42.3,
+    "category": "startup",
     "tags": [
-      "Multimodal"
+      "GPT"
     ],
-    "snippet": "Not everyone is buying Elon Musk’s vision for orbital data centers."
+    "snippet": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -261,47 +206,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "date": "2026-06-26",
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "date": "2026-06-27",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "date": "2026-06-26",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "hardware",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-    "date": "2026-06-26",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "hardware",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with "
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-    "date": "2026-06-26",
-    "source": "Ars Technica",
-    "hotScore": 42,
-    "category": "tech",
-    "tags": [],
-    "snippet": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony."
+    "snippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -316,6 +227,16 @@
     "snippet": "Learn how Googlers used AI to produce Google I/O 2026."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+    "date": "2026-06-26",
+    "source": "The Verge AI",
+    "hotScore": 41,
+    "category": "product",
+    "tags": [],
+    "snippet": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o"
+  },
+  {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
     "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
     "date": "2026-06-25",
@@ -328,16 +249,46 @@
     "snippet": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-    "date": "2026-05-29",
-    "source": "Google AI Blog",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "date": "2026-06-27",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "date": "2026-06-27",
+    "source": "Wired",
+    "hotScore": 39.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Commemorating 70 Years of Artificial Intelligence",
+    "date": "2026-06-22",
+    "source": "IEEE Spectrum",
     "hotScore": 38.8,
     "category": "research",
     "tags": [
-      "Gemini"
+      "Claude"
     ],
-    "snippet": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026."
+    "snippet": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no o"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "date": "2026-06-26",
+    "source": "MIT Technology Review",
+    "hotScore": 38.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figu"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -390,16 +341,26 @@
     "snippet": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Congresswoman denies staff used AI to write defense funding amendment",
-    "date": "2026-06-24",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
+    "date": "2026-06-26",
+    "source": "Wired",
     "hotScore": 37.3,
-    "category": "startup",
+    "category": "tech",
     "tags": [
       "Claude"
     ],
-    "snippet": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever"
+    "snippet": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+    "date": "2026-06-27",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -412,6 +373,50 @@
     "snippet": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in p"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "date": "2026-06-26",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "date": "2026-06-26",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "hardware",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "date": "2026-06-26",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "hardware",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with "
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "date": "2026-06-26",
+    "source": "Ars Technica",
+    "hotScore": 36,
+    "category": "tech",
+    "tags": [],
+    "snippet": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The latest AI news we announced in May 2026",
     "date": "2026-06-05",
@@ -422,34 +427,16 @@
     "snippet": "Here are Google’s latest AI updates from May 2026"
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-    "date": "2026-05-29",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Check out real-life AI prototypes from the Futures Lab.",
-    "date": "2026-05-29",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-    "date": "2026-06-26",
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "date": "2026-06-27",
     "source": "TechCrunch AI",
     "hotScore": 34.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Not everyone is buying Elon Musk’s vision for orbital data centers."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -472,18 +459,6 @@
       "Robotics"
     ],
     "snippet": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reli"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-    "date": "2026-06-25",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -532,16 +507,6 @@
     "snippet": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "date": "2026-06-25",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
     "date": "2026-06-17",
@@ -550,5 +515,35 @@
     "category": "research",
     "tags": [],
     "snippet": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "date": "2026-06-03",
+    "source": "Google AI Blog",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "Uncover second-hand scores with AI tools in Google Search and Shopping."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Behind the Scenes of a Technical Interview",
+    "date": "2026-06-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Engineering Is Critical to Boosting Food Security",
+    "date": "2026-06-15",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "Nearly 750 million people face hunger today, according to the U.N. World Food Program. And by 2050, global demand for food is expected to increase by 50 percent from 2010 levels, the World Resources I"
   }
 ]

@@ -1,22 +1,19 @@
 {
-  "lastUpdate": "2026-06-28",
-  "generatedAt": "2026-06-28T05:04:17.741Z",
+  "lastUpdate": "2026-06-29",
+  "generatedAt": "2026-06-29T05:13:36.051Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "date": "2026-06-27",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "date": "2026-06-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "Claude",
-        "Multimodal"
-      ],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "hotScore": 60,
+      "category": "research",
+      "tags": [],
       "content": {
-        "basic": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well: \"Claude gave m",
+        "basic": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of the US. This level of advancement is particularly concerning to the US government, which has worked to restrict China's access to powerful models like Anthropic's Mythos and Fable, as well as the hardware necessary to train and run them. The T",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,17 +22,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "date": "2026-06-27",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "date": "2026-06-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "hotScore": 55,
+      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "hotScore": 53.8,
       "category": "hardware",
-      "tags": [
-        "Multimodal"
-      ],
+      "tags": [],
       "content": {
-        "basic": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+        "basic": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
         "highlights": [],
         "scenarios": [],
         "industry": [],

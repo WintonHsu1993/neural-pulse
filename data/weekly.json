@@ -4,26 +4,23 @@
     "to": "2026-06-30"
   },
   "weekKey": "2026-W26",
-  "lastUpdate": "2026-06-28",
-  "generatedAt": "2026-06-28T05:04:17.741Z",
+  "lastUpdate": "2026-06-29",
+  "generatedAt": "2026-06-29T05:13:36.051Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "date": "2026-06-27",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "date": "2026-06-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "Claude",
-        "Multimodal"
-      ],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "hotScore": 60,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W26",
       "content": {
-        "basic": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well: \"Claude gave m",
+        "basic": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of the US. This level of advancement is particularly concerning to the US government, which has worked to restrict China's access to powerful models like Anthropic's Mythos and Fable, as well as the hardware necessary to train and run them. The T",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -33,18 +30,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "date": "2026-06-27",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "date": "2026-06-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "hotScore": 55,
+      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "hotScore": 53.8,
       "category": "hardware",
-      "tags": [
-        "Multimodal"
-      ],
+      "tags": [],
       "week_key": "2026-W26",
       "content": {
-        "basic": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+        "basic": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -54,38 +49,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "date": "2026-06-26",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "date": "2026-06-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "hotScore": 53.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "hotScore": 48.8,
+      "category": "industry",
       "tags": [
         "GPT",
-        "Agent"
+        "Multimodal"
       ],
       "week_key": "2026-W26",
       "content": {
-        "basic": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI tasks. Per million tokens, GPT-5.6 Sol is priced at $5 input / $30 output (nearly half the cost of Anthr",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "date": "2026-06-27",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "hotScore": 52.5,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W26",
-      "content": {
-        "basic": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement. The letter, dated June 26th and sent by Commerce Secretary Howard Lutnick to Anthropic co-founder Tom Brown, who had been recently leading negotiations, states that th",
+        "basic": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone c",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,17 +70,42 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "date": "2026-06-26",
+      "rank": 4,
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "date": "2026-06-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "hotScore": 52,
+      "sourceUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "hotScore": 48.5,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Claude"
+      ],
       "week_key": "2026-W26",
       "content": {
-        "basic": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+        "basic": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "date": "2026-06-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "hotScore": 48.3,
+      "category": "startup",
+      "tags": [
+        "Claude",
+        "Multimodal"
+      ],
+      "week_key": "2026-W26",
+      "content": {
+        "basic": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well: \"Claude gave m",
         "highlights": [],
         "scenarios": [],
         "industry": [],
