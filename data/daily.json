@@ -1,19 +1,23 @@
 {
-  "lastUpdate": "2026-06-29",
-  "generatedAt": "2026-06-29T05:13:36.051Z",
+  "lastUpdate": "2026-07-02",
+  "generatedAt": "2026-07-02T04:41:34.062Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "date": "2026-06-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "hotScore": 60,
-      "category": "research",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "date": "2026-07-01",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "hotScore": 70,
+      "category": "startup",
+      "tags": [
+        "GPT",
+        "Claude",
+        "Gemini"
+      ],
       "content": {
-        "basic": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of the US. This level of advancement is particularly concerning to the US government, which has worked to restrict China's access to powerful models like Anthropic's Mythos and Fable, as well as the hardware necessary to train and run them. The T",
+        "basic": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,15 +26,21 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "date": "2026-06-28",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "date": "2026-06-30",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "hotScore": 53.8,
-      "category": "hardware",
-      "tags": [],
+      "sourceUrl": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "hotScore": 58.3,
+      "category": "policy",
+      "tags": [
+        "GPT",
+        "Claude",
+        "Gemini",
+        "Safety",
+        "Agent"
+      ],
       "content": {
-        "basic": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+        "basic": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
