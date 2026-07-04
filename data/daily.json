@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2026-07-02",
-  "generatedAt": "2026-07-02T04:41:34.062Z",
+  "lastUpdate": "2026-07-04",
+  "generatedAt": "2026-07-04T04:20:43.948Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "date": "2026-07-01",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "date": "2026-07-02",
       "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "hotScore": 70,
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "hotScore": 62,
       "category": "startup",
       "tags": [
         "GPT",
@@ -17,7 +17,7 @@
         "Gemini"
       ],
       "content": {
-        "basic": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,22 +25,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "date": "2026-06-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "hotScore": 58.3,
-      "category": "policy",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic wants to develop its own drugs",
+      "date": "2026-07-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "hotScore": 61.3,
+      "category": "research",
       "tags": [
-        "GPT",
-        "Claude",
-        "Gemini",
-        "Safety",
-        "Agent"
+        "Claude"
       ],
       "content": {
-        "basic": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+        "basic": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. Anthropic also went a step",
         "highlights": [],
         "scenarios": [],
         "industry": [],

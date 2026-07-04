@@ -1,10 +1,46 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: a startup has a solution for AI’s groupthink problem",
+    "date": "2026-07-02",
+    "source": "MIT Technology Review",
+    "hotScore": 62,
+    "category": "startup",
+    "tags": [
+      "GPT",
+      "Claude",
+      "Gemini"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic wants to develop its own drugs",
+    "date": "2026-07-03",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "research",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+    "date": "2026-07-03",
+    "source": "IEEE Spectrum",
+    "hotScore": 56.3,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The Internat"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "date": "2026-07-01",
     "source": "MIT Technology Review",
-    "hotScore": 70,
+    "hotScore": 56,
     "category": "startup",
     "tags": [
       "GPT",
@@ -15,70 +51,40 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "date": "2026-06-30",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
-    "hotScore": 58.3,
-    "category": "policy",
-    "tags": [
-      "GPT",
-      "Claude",
-      "Gemini",
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-    "date": "2026-07-01",
-    "source": "MIT Technology Review",
-    "hotScore": 56.3,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an ev"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "The latest AI news we announced in June 2026",
-    "date": "2026-07-01",
-    "source": "Google AI Blog",
-    "hotScore": 55,
-    "category": "product",
+    "hotScore": 52,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Here are Google’s latest AI updates from June 2026."
+    "snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Building tech in the world’s secret R&D hub",
-    "date": "2026-06-30",
-    "source": "MIT Technology Review",
-    "hotScore": 54.5,
-    "category": "research",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The only AI glossary you’ll need this year",
+    "date": "2026-07-03",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
     "tags": [],
-    "snippet": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of "
+    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-    "date": "2026-07-01",
-    "source": "The Verge AI",
-    "hotScore": 53.8,
-    "category": "product",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W"
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+    "date": "2026-07-03",
+    "source": "Wired",
+    "hotScore": 50,
+    "category": "tech",
+    "tags": [],
+    "snippet": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Claude Science is Anthropic’s newest flagship product",
     "date": "2026-06-30",
     "source": "MIT Technology Review",
-    "hotScore": 53.3,
+    "hotScore": 47.3,
     "category": "research",
     "tags": [
       "Claude"
@@ -86,179 +92,14 @@
     "snippet": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-    "date": "2026-07-01",
-    "source": "The Verge AI",
-    "hotScore": 51.3,
-    "category": "hardware",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge Smart speakers have spent the past few years searching for a compelling s"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
-    "date": "2026-07-01",
-    "source": "IEEE Spectrum",
-    "hotScore": 51.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia. As artificial intelligence accelerates global demand for compute, a parallel constraint is e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-    "date": "2026-07-01",
-    "source": "Wired",
-    "hotScore": 51.3,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "date": "2026-07-01",
-    "source": "Google AI Blog",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Why Public Speaking Skills Are Worth Investing In",
-    "date": "2026-07-01",
-    "source": "IEEE Spectrum",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-    "date": "2026-07-01",
-    "source": "Ars Technica",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "US lifts curbs on Anthropic’s advanced Fable and Mythos models."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 48.8,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 48.8,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Agent"
-    ],
-    "snippet": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The ‘Father of the Internet’ is finally retiring",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-    "date": "2026-07-01",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meet the lawyer who beat Elon Musk — twice",
-    "date": "2026-06-30",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-    "date": "2026-06-30",
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 47,
     "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-    "date": "2026-06-28",
-    "source": "The Verge AI",
-    "hotScore": 46,
-    "category": "research",
     "tags": [],
-    "snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from"
+    "snippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -272,165 +113,144 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-    "date": "2026-06-30",
+    "title": "Yep, we’re using OpenClaw to date now",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 45.8,
-    "category": "research",
+    "category": "policy",
     "tags": [
       "Claude"
     ],
-    "snippet": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-    "date": "2026-07-01",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Agriculture is ready for AI, but its data isn’t",
-    "date": "2026-06-30",
-    "source": "MIT Technology Review",
-    "hotScore": 44.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenClaw is finally available on Android and iOS",
-    "date": "2026-06-30",
-    "source": "TechCrunch AI",
-    "hotScore": 44.5,
-    "category": "policy",
-    "tags": [
-      "OpenSource",
-      "Agent"
-    ],
-    "snippet": "The free open source agentic program is finally invading your phone."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
-    "date": "2026-06-19",
-    "source": "IEEE Spectrum",
-    "hotScore": 43.8,
-    "category": "research",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in"
+    "snippet": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Lawmakers want to ban AI companies from selling your health data",
-    "date": "2026-06-29",
+    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "date": "2026-07-03",
     "source": "The Verge AI",
-    "hotScore": 43.5,
-    "category": "policy",
+    "hotScore": 45,
+    "category": "startup",
     "tags": [
-      "GPT",
-      "Claude"
+      "Multimodal"
     ],
-    "snippet": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena"
+    "snippet": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuristic medical scanner"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "New attack provides one more reason why AI browsers are a bad idea",
-    "date": "2026-06-30",
-    "source": "Ars Technica",
-    "hotScore": 43.3,
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Teaching AI to run with the turbines",
+    "date": "2026-07-02",
+    "source": "MIT Technology Review",
+    "hotScore": 44.5,
+    "category": "policy",
+    "tags": [
+      "Multimodal",
+      "Safety"
+    ],
+    "snippet": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+    "date": "2026-07-02",
+    "source": "Wired",
+    "hotScore": 44.5,
     "category": "tech",
     "tags": [],
-    "snippet": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
+    "snippet": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-    "date": "2026-07-01",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "date": "2026-07-03",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scal"
+    "snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+    "date": "2026-07-01",
+    "source": "MIT Technology Review",
+    "hotScore": 42.3,
+    "category": "research",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an ev"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Libby will filter out AI content, kind of",
-    "date": "2026-06-30",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "date": "2026-07-02",
     "source": "The Verge AI",
     "hotScore": 42,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa"
+    "snippet": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "date": "2026-06-30",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "research",
-    "tags": [],
-    "snippet": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Acti puts AI agents directly into your smartphone keyboard",
-    "date": "2026-06-30",
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat"
+    "tags": [],
+    "snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "date": "2026-06-30",
-    "source": "Google AI Blog",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "date": "2026-07-02",
+    "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "product",
     "tags": [],
-    "snippet": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
+    "snippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "date": "2026-07-02",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI "
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+    "date": "2026-07-02",
+    "source": "Ars Technica",
+    "hotScore": 42,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Insiders say Sam Altman is in active talks with the Trump administration."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI is teasing new hardware… for Codex",
-    "date": "2026-06-29",
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "date": "2026-06-30",
     "source": "The Verge AI",
     "hotScore": 41,
-    "category": "hardware",
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which "
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in June 2026",
+    "date": "2026-07-01",
+    "source": "Google AI Blog",
+    "hotScore": 41,
+    "category": "product",
     "tags": [],
-    "snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid"
+    "snippet": "Here are Google’s latest AI updates from June 2026."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -441,6 +261,18 @@
     "category": "product",
     "tags": [],
     "snippet": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+    "date": "2026-07-01",
+    "source": "The Verge AI",
+    "hotScore": 39.8,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -456,67 +288,47 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-    "date": "2026-06-30",
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "date": "2026-07-01",
     "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-    "date": "2026-06-30",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "date": "2026-06-30",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "policy",
+    "hotScore": 37.3,
+    "category": "hardware",
     "tags": [
-      "Multimodal"
+      "Gemini"
     ],
-    "snippet": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content."
+    "snippet": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge Smart speakers have spent the past few years searching for a compelling s"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
+    "date": "2026-07-01",
+    "source": "IEEE Spectrum",
+    "hotScore": 37.3,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia. As artificial intelligence accelerates global demand for compute, a parallel constraint is e"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "date": "2026-06-30",
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [
-      "Reasoning"
+      "Agent"
     ],
-    "snippet": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip."
+    "snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-    "date": "2026-06-30",
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "product",
     "tags": [],
-    "snippet": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Podcasting platform Riverside enters the newsletter publishing game",
-    "date": "2026-06-30",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Users will be able use AI to create newsletters based on their recordings."
+    "snippet": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -529,6 +341,76 @@
     "snippet": "This article is brought to you by Capital One. After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional m"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Libby will filter out AI content, kind of",
+    "date": "2026-06-30",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "date": "2026-07-01",
+    "source": "Google AI Blog",
+    "hotScore": 36,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "date": "2026-06-30",
+    "source": "Google AI Blog",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Why Public Speaking Skills Are Worth Investing In",
+    "date": "2026-07-01",
+    "source": "IEEE Spectrum",
+    "hotScore": 36,
+    "category": "research",
+    "tags": [],
+    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The latest AI news we announced in May 2026",
     "date": "2026-06-05",
@@ -539,6 +421,41 @@
     "snippet": "Here are Google’s latest AI updates from May 2026"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 34.8,
+    "category": "policy",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 34.8,
+    "category": "product",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "snippet": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The ‘Father of the Internet’ is finally retiring",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Our latest Google Finance upgrades, including a new app",
     "date": "2026-06-25",
@@ -547,5 +464,75 @@
     "category": "product",
     "tags": [],
     "snippet": "The new Google Finance is coming out of beta and launching a new Android app."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "What it Means to Be a Mathematician When AI Does the Math",
+    "date": "2026-06-25",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My res"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Is Learning to Read the Room",
+    "date": "2026-06-23",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "date": "2026-06-30",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [],
+    "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "date": "2026-06-30",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+    "date": "2026-06-29",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure a"
   }
 ]
