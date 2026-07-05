@@ -1,10 +1,24 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The fanfiction community is at war with AI — and itself",
+    "date": "2026-07-04",
+    "source": "The Verge AI",
+    "hotScore": 67.5,
+    "category": "industry",
+    "tags": [
+      "GPT",
+      "Claude",
+      "Multimodal"
+    ],
+    "snippet": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, wi"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Download: a startup has a solution for AI’s groupthink problem",
     "date": "2026-07-02",
     "source": "MIT Technology Review",
-    "hotScore": 62,
+    "hotScore": 56,
     "category": "startup",
     "tags": [
       "GPT",
@@ -12,28 +26,6 @@
       "Gemini"
     ],
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic wants to develop its own drugs",
-    "date": "2026-07-03",
-    "source": "The Verge AI",
-    "hotScore": 61.3,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-    "date": "2026-07-03",
-    "source": "IEEE Spectrum",
-    "hotScore": 56.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The Internat"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -51,33 +43,49 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "date": "2026-07-02",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "date": "2026-07-04",
     "source": "TechCrunch AI",
-    "hotScore": 52,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The only AI glossary you’ll need this year",
-    "date": "2026-07-03",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "date": "2026-07-04",
     "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    "hotScore": 53.8,
+    "category": "policy",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Alibaba has reportedly classified Claude Code as high-risk software."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic wants to develop its own drugs",
     "date": "2026-07-03",
-    "source": "Wired",
-    "hotScore": 50,
-    "category": "tech",
+    "source": "The Verge AI",
+    "hotScore": 53.3,
+    "category": "research",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+    "date": "2026-07-03",
+    "source": "IEEE Spectrum",
+    "hotScore": 48.3,
+    "category": "hardware",
     "tags": [],
-    "snippet": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization."
+    "snippet": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The Internat"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -93,13 +101,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
     "date": "2026-07-02",
     "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "product",
+    "hotScore": 46,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+    "snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -113,60 +121,23 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Yep, we’re using OpenClaw to date now",
-    "date": "2026-07-02",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "date": "2026-07-04",
     "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "policy",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-    "date": "2026-07-03",
-    "source": "The Verge AI",
     "hotScore": 45,
     "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuristic medical scanner"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Teaching AI to run with the turbines",
-    "date": "2026-07-02",
-    "source": "MIT Technology Review",
-    "hotScore": 44.5,
-    "category": "policy",
-    "tags": [
-      "Multimodal",
-      "Safety"
-    ],
-    "snippet": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-    "date": "2026-07-02",
-    "source": "Wired",
-    "hotScore": 44.5,
-    "category": "tech",
     "tags": [],
-    "snippet": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs."
+    "snippet": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "date": "2026-07-03",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "date": "2026-07-04",
     "source": "TechCrunch AI",
-    "hotScore": 42.5,
+    "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    "snippet": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -181,54 +152,24 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an ev"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-    "date": "2026-07-02",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-    "date": "2026-07-02",
+    "title": "The only AI glossary you’ll need this year",
+    "date": "2026-07-03",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
+    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta quietly launches vibe-coded gaming app Pocket",
-    "date": "2026-07-02",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "date": "2026-07-02",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI "
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-    "date": "2026-07-02",
-    "source": "Ars Technica",
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+    "date": "2026-07-03",
+    "source": "Wired",
     "hotScore": 42,
     "category": "tech",
     "tags": [],
-    "snippet": "Insiders say Sam Altman is in active talks with the Trump administration."
+    "snippet": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -241,6 +182,16 @@
       "Multimodal"
     ],
     "snippet": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "date": "2026-07-02",
+    "source": "TechCrunch AI",
+    "hotScore": 41,
+    "category": "product",
+    "tags": [],
+    "snippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -275,6 +226,18 @@
     "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Yep, we’re using OpenClaw to date now",
+    "date": "2026-07-02",
+    "source": "TechCrunch AI",
+    "hotScore": 39.8,
+    "category": "policy",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Commemorating 70 Years of Artificial Intelligence",
     "date": "2026-06-22",
@@ -285,6 +248,19 @@
       "Claude"
     ],
     "snippet": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no o"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Teaching AI to run with the turbines",
+    "date": "2026-07-02",
+    "source": "MIT Technology Review",
+    "hotScore": 38.5,
+    "category": "policy",
+    "tags": [
+      "Multimodal",
+      "Safety"
+    ],
+    "snippet": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -309,26 +285,16 @@
     "snippet": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia. As artificial intelligence accelerates global demand for compute, a parallel constraint is e"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "date": "2026-07-02",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "date": "2026-07-03",
+    "source": "The Verge AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [
-      "Agent"
+      "Multimodal"
     ],
-    "snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-    "date": "2026-07-02",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
+    "snippet": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuristic medical scanner"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -342,6 +308,16 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "date": "2026-07-02",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Libby will filter out AI content, kind of",
     "date": "2026-06-30",
     "source": "The Verge AI",
@@ -352,33 +328,33 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "date": "2026-07-01",
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 36,
     "category": "startup",
     "tags": [],
-    "snippet": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou"
+    "snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "date": "2026-07-01",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "policy",
+    "category": "product",
     "tags": [],
-    "snippet": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
+    "snippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-    "date": "2026-07-01",
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "date": "2026-07-02",
     "source": "TechCrunch AI",
     "hotScore": 36,
     "category": "startup",
     "tags": [],
-    "snippet": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
+    "snippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -409,6 +385,16 @@
     "category": "research",
     "tags": [],
     "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+    "date": "2026-07-02",
+    "source": "Ars Technica",
+    "hotScore": 36,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Insiders say Sam Altman is in active talks with the Trump administration."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -447,13 +433,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The ‘Father of the Internet’ is finally retiring",
-    "date": "2026-07-01",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "date": "2026-07-03",
     "source": "TechCrunch AI",
-    "hotScore": 33.5,
+    "hotScore": 34.5,
     "category": "startup",
     "tags": [],
-    "snippet": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week."
+    "snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -506,14 +492,26 @@
     "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-    "date": "2026-06-29",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "date": "2026-07-02",
+    "source": "TechCrunch AI",
     "hotScore": 31,
-    "category": "policy",
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "date": "2026-07-02",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
     "tags": [],
-    "snippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil"
+    "snippet": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -534,5 +532,15 @@
     "category": "product",
     "tags": [],
     "snippet": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure a"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "date": "2026-07-01",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said."
   }
 ]

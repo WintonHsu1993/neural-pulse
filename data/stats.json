@@ -1,6 +1,6 @@
 {
-  "totalArticles": 74,
-  "lastUpdate": "2026-07-04",
+  "totalArticles": 73,
+  "lastUpdate": "2026-07-05",
   "categories": [
     {
       "category": "research",
@@ -15,16 +15,20 @@
       "count": 11
     },
     {
-      "category": "hardware",
-      "count": 6
-    },
-    {
       "category": "policy",
       "count": 6
     },
     {
+      "category": "hardware",
+      "count": 6
+    },
+    {
       "category": "tech",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "industry",
+      "count": 1
     }
   ],
   "sources": [
@@ -38,7 +42,7 @@
     },
     {
       "source": "The Verge AI",
-      "count": 7
+      "count": 8
     },
     {
       "source": "IEEE Spectrum",
@@ -54,7 +58,7 @@
     },
     {
       "source": "Wired",
-      "count": 2
+      "count": 1
     },
     {
       "source": "Ars Technica",

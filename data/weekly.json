@@ -4,18 +4,41 @@
     "to": "2026-07-07"
   },
   "weekKey": "2026-W27",
-  "lastUpdate": "2026-07-04",
-  "generatedAt": "2026-07-04T04:20:43.948Z",
+  "lastUpdate": "2026-07-05",
+  "generatedAt": "2026-07-05T04:41:36.080Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
+      "title": "The fanfiction community is at war with AI — and itself",
+      "date": "2026-07-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "hotScore": 67.5,
+      "category": "industry",
+      "tags": [
+        "GPT",
+        "Claude",
+        "Multimodal"
+      ],
+      "week_key": "2026-W27",
+      "content": {
+        "basic": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generate",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 2,
       "title": "The Download: a startup has a solution for AI’s groupthink problem",
       "date": "2026-07-02",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "hotScore": 62,
+      "hotScore": 56,
       "category": "startup",
       "tags": [
         "GPT",
@@ -32,48 +55,8 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Anthropic wants to develop its own drugs",
-      "date": "2026-07-03",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "hotScore": 61.3,
-      "category": "research",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W27",
-      "content": {
-        "basic": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. Anthropic also went a step",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 3,
-      "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-      "date": "2026-07-03",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/data-centers-grid-instability",
-      "hotScore": 56.3,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W27",
-      "content": {
-        "basic": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade. Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters. This framing captures scale. It misses behavior. The emerging issue is not simply how much power large-scale compute systems consume, bu",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 4,
+      "rank": 3,
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "date": "2026-07-01",
       "source": "MIT Technology Review",
@@ -96,17 +79,40 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "date": "2026-07-02",
+      "rank": 4,
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "date": "2026-07-04",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "hotScore": 52,
-      "category": "hardware",
-      "tags": [],
+      "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [
+        "OpenSource"
+      ],
       "week_key": "2026-W27",
       "content": {
-        "basic": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+        "basic": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "date": "2026-07-04",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "hotScore": 53.8,
+      "category": "policy",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W27",
+      "content": {
+        "basic": "Alibaba has reportedly classified Claude Code as high-risk software.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

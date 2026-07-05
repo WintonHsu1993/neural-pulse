@@ -1,15 +1,36 @@
 {
-  "lastUpdate": "2026-07-04",
-  "generatedAt": "2026-07-04T04:20:43.948Z",
+  "lastUpdate": "2026-07-05",
+  "generatedAt": "2026-07-05T04:41:36.080Z",
   "count": 2,
   "data": [
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "date": "2026-07-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "hotScore": 67.5,
+      "category": "industry",
+      "tags": [
+        "GPT",
+        "Claude",
+        "Multimodal"
+      ],
+      "content": {
+        "basic": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generate",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
     {
       "id": "aHR0cHM6Ly93d3cudGVj",
       "title": "The Download: a startup has a solution for AI’s groupthink problem",
       "date": "2026-07-02",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "hotScore": 62,
+      "hotScore": 56,
       "category": "startup",
       "tags": [
         "GPT",
@@ -18,25 +39,6 @@
       ],
       "content": {
         "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic wants to develop its own drugs",
-      "date": "2026-07-03",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "hotScore": 61.3,
-      "category": "research",
-      "tags": [
-        "Claude"
-      ],
-      "content": {
-        "basic": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. Anthropic also went a step",
         "highlights": [],
         "scenarios": [],
         "industry": [],
