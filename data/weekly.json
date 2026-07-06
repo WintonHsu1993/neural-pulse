@@ -4,8 +4,8 @@
     "to": "2026-07-07"
   },
   "weekKey": "2026-W27",
-  "lastUpdate": "2026-07-05",
-  "generatedAt": "2026-07-05T04:41:36.080Z",
+  "lastUpdate": "2026-07-06",
+  "generatedAt": "2026-07-06T04:53:05.001Z",
   "count": 5,
   "data": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-07-04",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "hotScore": 67.5,
+      "hotScore": 59.5,
       "category": "industry",
       "tags": [
         "GPT",
@@ -78,20 +78,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "date": "2026-07-04",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "hotScore": 55,
-      "category": "startup",
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "date": "2026-07-05",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "hotScore": 51.3,
+      "category": "industry",
       "tags": [
-        "OpenSource"
+        "Gemini",
+        "Multimodal"
       ],
       "week_key": "2026-W27",
       "content": {
-        "basic": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+        "basic": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google \"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to check on the status of a draft, who takes a photo and uses AI to transcribe it into a Google Doc. Franklin and Adams hop in to make edits in suggestion mode, Gemini ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -99,20 +100,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "date": "2026-07-04",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "hotScore": 53.8,
-      "category": "policy",
-      "tags": [
-        "Claude"
-      ],
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "date": "2026-07-05",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "hotScore": 50,
+      "category": "industry",
+      "tags": [],
       "week_key": "2026-W27",
       "content": {
-        "basic": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "basic": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told t",
         "highlights": [],
         "scenarios": [],
         "industry": [],

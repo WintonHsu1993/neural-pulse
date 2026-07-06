@@ -4,7 +4,7 @@
     "title": "The fanfiction community is at war with AI — and itself",
     "date": "2026-07-04",
     "source": "The Verge AI",
-    "hotScore": 67.5,
+    "hotScore": 59.5,
     "category": "industry",
     "tags": [
       "GPT",
@@ -42,50 +42,37 @@
     "snippet": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "date": "2026-07-04",
-    "source": "TechCrunch AI",
-    "hotScore": 55,
-    "category": "startup",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "date": "2026-07-05",
+    "source": "The Verge AI",
+    "hotScore": 51.3,
+    "category": "industry",
     "tags": [
-      "OpenSource"
+      "Gemini",
+      "Multimodal"
     ],
-    "snippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "date": "2026-07-04",
-    "source": "TechCrunch AI",
-    "hotScore": 53.8,
-    "category": "policy",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Alibaba has reportedly classified Claude Code as high-risk software."
+    "snippet": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google \"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things "
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic wants to develop its own drugs",
-    "date": "2026-07-03",
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "date": "2026-07-05",
     "source": "The Verge AI",
-    "hotScore": 53.3,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, "
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-    "date": "2026-07-03",
-    "source": "IEEE Spectrum",
-    "hotScore": 48.3,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "date": "2026-07-05",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The Internat"
+    "snippet": "These may be the last days of Amazon’s Mechanical Turk."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -100,6 +87,30 @@
     "snippet": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic wants to develop its own drugs",
+    "date": "2026-07-03",
+    "source": "The Verge AI",
+    "hotScore": 47.3,
+    "category": "research",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "date": "2026-07-04",
+    "source": "TechCrunch AI",
+    "hotScore": 47,
+    "category": "startup",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic is discussing a new custom chip with Samsung",
     "date": "2026-07-02",
@@ -110,34 +121,16 @@
     "snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The Lab Mistake That Might Revolutionize Computing",
-    "date": "2026-06-29",
-    "source": "IEEE Spectrum",
-    "hotScore": 46,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
     "date": "2026-07-04",
     "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "date": "2026-07-04",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    "hotScore": 45.8,
+    "category": "policy",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Alibaba has reportedly classified Claude Code as high-risk software."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -152,36 +145,14 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an ev"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The only AI glossary you’ll need this year",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
     "date": "2026-07-03",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
+    "source": "IEEE Spectrum",
+    "hotScore": 42.3,
+    "category": "hardware",
     "tags": [],
-    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "date": "2026-07-03",
-    "source": "Wired",
-    "hotScore": 42,
-    "category": "tech",
-    "tags": [],
-    "snippet": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meet the lawyer who beat Elon Musk — twice",
-    "date": "2026-06-30",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which "
+    "snippet": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The Internat"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -204,14 +175,14 @@
     "snippet": "Here are Google’s latest AI updates from June 2026."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Ask an AI expert: What exactly is the full stack?",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The Lab Mistake That Might Revolutionize Computing",
     "date": "2026-06-29",
-    "source": "Google AI Blog",
-    "hotScore": 41,
-    "category": "product",
+    "source": "IEEE Spectrum",
+    "hotScore": 40,
+    "category": "hardware",
     "tags": [],
-    "snippet": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
+    "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -285,16 +256,24 @@
     "snippet": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia. As artificial intelligence accelerates global demand for compute, a parallel constraint is e"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-    "date": "2026-07-03",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "date": "2026-07-04",
+    "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuristic medical scanner"
+    "tags": [],
+    "snippet": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "date": "2026-07-04",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -317,14 +296,14 @@
     "snippet": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Libby will filter out AI content, kind of",
-    "date": "2026-06-30",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The only AI glossary you’ll need this year",
+    "date": "2026-07-03",
+    "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa"
+    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -397,14 +376,24 @@
     "snippet": "Insiders say Sam Altman is in active talks with the Trump administration."
   },
   {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+    "date": "2026-07-03",
+    "source": "Wired",
+    "hotScore": 36,
+    "category": "tech",
+    "tags": [],
+    "snippet": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "The latest AI news we announced in May 2026",
-    "date": "2026-06-05",
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "date": "2026-06-29",
     "source": "Google AI Blog",
     "hotScore": 35,
     "category": "product",
     "tags": [],
-    "snippet": "Here are Google’s latest AI updates from May 2026"
+    "snippet": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -430,16 +419,6 @@
       "Agent"
     ],
     "snippet": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "date": "2026-07-03",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -470,6 +449,18 @@
     "category": "product",
     "tags": [],
     "snippet": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "date": "2026-07-03",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuristic medical scanner"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -542,5 +533,15 @@
     "category": "startup",
     "tags": [],
     "snippet": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "date": "2026-06-17",
+    "source": "Google AI Blog",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
   }
 ]

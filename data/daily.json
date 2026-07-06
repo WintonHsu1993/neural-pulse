@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-05",
-  "generatedAt": "2026-07-05T04:41:36.080Z",
+  "lastUpdate": "2026-07-06",
+  "generatedAt": "2026-07-06T04:53:05.001Z",
   "count": 2,
   "data": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-07-04",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "hotScore": 67.5,
+      "hotScore": 59.5,
       "category": "industry",
       "tags": [
         "GPT",
