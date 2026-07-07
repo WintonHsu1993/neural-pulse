@@ -1,23 +1,19 @@
 {
-  "lastUpdate": "2026-07-06",
-  "generatedAt": "2026-07-06T04:53:05.001Z",
+  "lastUpdate": "2026-07-07",
+  "generatedAt": "2026-07-07T04:33:51.312Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "date": "2026-07-04",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "hotScore": 59.5,
-      "category": "industry",
-      "tags": [
-        "GPT",
-        "Claude",
-        "Multimodal"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Your family’s $300 stake in OpenAI",
+      "date": "2026-07-06",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "hotScore": 57.5,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generate",
+        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,20 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "date": "2026-07-02",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "hotScore": 56,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "date": "2026-07-06",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "hotScore": 56.3,
       "category": "startup",
-      "tags": [
-        "GPT",
-        "Claude",
-        "Gemini"
-      ],
+      "tags": [],
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
+        "basic": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
