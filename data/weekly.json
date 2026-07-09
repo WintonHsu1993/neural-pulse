@@ -1,26 +1,50 @@
 {
   "weekRange": {
-    "from": "2026-07-01",
-    "to": "2026-07-07"
+    "from": "2026-07-08",
+    "to": "2026-07-14"
   },
-  "weekKey": "2026-W27",
-  "lastUpdate": "2026-07-07",
-  "generatedAt": "2026-07-07T04:33:51.312Z",
+  "weekKey": "2026-W28",
+  "lastUpdate": "2026-07-09",
+  "generatedAt": "2026-07-09T04:31:57.631Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Your family’s $300 stake in OpenAI",
-      "date": "2026-07-06",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "hotScore": 57.5,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W27",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "date": "2026-07-08",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "hotScore": 65,
+      "category": "hardware",
+      "tags": [
+        "GPT",
+        "Claude"
+      ],
+      "week_key": "2026-W28",
       "content": {
-        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
+        "basic": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "date": "2026-07-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "hotScore": 61.3,
+      "category": "research",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's \"smartest voice model\" yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it to more quickly transition from researching the topic you've asked about to talking about its findin",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -29,40 +53,20 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "date": "2026-07-06",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W27",
-      "content": {
-        "basic": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 3,
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "date": "2026-07-02",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "hotScore": 56,
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "date": "2026-07-08",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "hotScore": 61.3,
       "category": "startup",
       "tags": [
         "GPT",
-        "Claude",
-        "Gemini"
+        "Claude"
       ],
-      "week_key": "2026-W27",
+      "week_key": "2026-W28",
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
+        "basic": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -72,18 +76,18 @@
     {
       "id": "aHR0cHM6Ly9hcnN0ZWNo",
       "rank": 4,
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-      "date": "2026-07-06",
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "date": "2026-07-08",
       "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "hotScore": 53.8,
-      "category": "tech",
+      "sourceUrl": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "hotScore": 55,
+      "category": "product",
       "tags": [
-        "Claude"
+        "Gemini"
       ],
-      "week_key": "2026-W27",
+      "week_key": "2026-W28",
       "content": {
-        "basic": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+        "basic": "Android Bench is evolving, and developers can help guide that process.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -91,22 +95,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "The fanfiction community is at war with AI — and itself",
-      "date": "2026-07-04",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "hotScore": 53.5,
-      "category": "industry",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "date": "2026-07-08",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "hotScore": 51.3,
+      "category": "startup",
       "tags": [
         "GPT",
-        "Claude",
-        "Multimodal"
+        "Robotics"
       ],
-      "week_key": "2026-W27",
+      "week_key": "2026-W28",
       "content": {
-        "basic": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generate",
+        "basic": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
