@@ -4,26 +4,25 @@
     "to": "2026-07-14"
   },
   "weekKey": "2026-W28",
-  "lastUpdate": "2026-07-09",
-  "generatedAt": "2026-07-09T04:31:57.631Z",
+  "lastUpdate": "2026-07-10",
+  "generatedAt": "2026-07-10T04:34:30.083Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "date": "2026-07-08",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "date": "2026-07-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "hotScore": 65,
-      "category": "hardware",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "hotScore": 76.3,
+      "category": "product",
       "tags": [
-        "GPT",
-        "Claude"
+        "GPT"
       ],
       "week_key": "2026-W28",
       "content": {
-        "basic": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
+        "basic": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -33,18 +32,37 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "date": "2026-07-08",
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "date": "2026-07-10",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "hotScore": 61.3,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "hotScore": 67.5,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's decision last February to stop purchasing \"non-additional, unbundled renewable energy certificates.\" Several years ago, Microsoft set itself a goal to be carbon negative by 2030, meaning",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "The ChatGPT browser is already dead",
+      "date": "2026-07-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "hotScore": 66.3,
+      "category": "product",
       "tags": [
         "GPT"
       ],
       "week_key": "2026-W28",
       "content": {
-        "basic": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's \"smartest voice model\" yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it to more quickly transition from researching the topic you've asked about to talking about its findin",
+        "basic": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation. The shutdown follows OpenAI's push to reduce \"side quests\" and catch up with Anthropic on productivity features. As part of that push, in March, The Wall Street Journal reported that OpenAI planned to combine the ChatGPT app, Codex, and Atlas into a desktop \"s",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -52,21 +70,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "date": "2026-07-08",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Say hello to Claude Wrapped",
+      "date": "2026-07-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
       "hotScore": 61.3,
-      "category": "startup",
+      "category": "product",
       "tags": [
-        "GPT",
         "Claude"
       ],
       "week_key": "2026-W28",
       "content": {
-        "basic": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
+        "basic": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, three months, six months, or year. Anthropic bills the reflection dashboard as a way to \"see your patterns and shape them,\" the company wrote in a blog post. It begins with a summary of an individual's key topics brought up with Claude, as well as types of tasks they delegate and the",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -74,42 +91,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "rank": 4,
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "date": "2026-07-08",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [
-        "Gemini"
-      ],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "Android Bench is evolving, and developers can help guide that process.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "date": "2026-07-08",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "hotScore": 51.3,
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "date": "2026-07-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "hotScore": 61.3,
       "category": "startup",
-      "tags": [
-        "GPT",
-        "Robotics"
-      ],
+      "tags": [],
       "week_key": "2026-W28",
       "content": {
-        "basic": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+        "basic": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting into the microdrama space isn't surprising considering that it's projected to become a $26 billion ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
