@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-07-10",
-  "generatedAt": "2026-07-10T04:34:30.083Z",
+  "lastUpdate": "2026-07-11",
+  "generatedAt": "2026-07-11T03:52:32.814Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "date": "2026-07-10",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "hotScore": 76.3,
-      "category": "product",
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "date": "2026-07-11",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "hotScore": 72.5,
+      "category": "research",
       "tags": [
-        "GPT"
+        "Safety"
       ],
       "content": {
-        "basic": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+        "basic": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "date": "2026-07-10",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "hotScore": 67.5,
-      "category": "hardware",
-      "tags": [],
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "hotScore": 63.8,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's decision last February to stop purchasing \"non-additional, unbundled renewable energy certificates.\" Several years ago, Microsoft set itself a goal to be carbon negative by 2030, meaning",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

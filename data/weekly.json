@@ -4,18 +4,81 @@
     "to": "2026-07-14"
   },
   "weekKey": "2026-W28",
-  "lastUpdate": "2026-07-10",
-  "generatedAt": "2026-07-10T04:34:30.083Z",
+  "lastUpdate": "2026-07-11",
+  "generatedAt": "2026-07-11T03:52:32.814Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 1,
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "date": "2026-07-11",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "hotScore": 72.5,
+      "category": "research",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 2,
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "date": "2026-07-10",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "hotScore": 63.8,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "The ChatGPT browser is already dead",
+      "date": "2026-07-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "hotScore": 58.3,
+      "category": "product",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation. The shutdown follows OpenAI's push to reduce \"side quests\" and catch up with Anthropic on productivity features. As part of that push, in March, The Wall Street Journal reported that OpenAI planned to combine the ChatGPT app, Codex, and Atlas into a desktop \"s",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "date": "2026-07-10",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "hotScore": 76.3,
+      "hotScore": 56.3,
       "category": "product",
       "tags": [
         "GPT"
@@ -31,78 +94,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "rank": 5,
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "date": "2026-07-10",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "hotScore": 67.5,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's decision last February to stop purchasing \"non-additional, unbundled renewable energy certificates.\" Several years ago, Microsoft set itself a goal to be carbon negative by 2030, meaning",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "The ChatGPT browser is already dead",
-      "date": "2026-07-09",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "hotScore": 66.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation. The shutdown follows OpenAI's push to reduce \"side quests\" and catch up with Anthropic on productivity features. As part of that push, in March, The Wall Street Journal reported that OpenAI planned to combine the ChatGPT app, Codex, and Atlas into a desktop \"s",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Say hello to Claude Wrapped",
-      "date": "2026-07-09",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, three months, six months, or year. Anthropic bills the reflection dashboard as a way to \"see your patterns and shape them,\" the company wrote in a blog post. It begins with a summary of an individual's key topics brought up with Claude, as well as types of tasks they delegate and the",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "date": "2026-07-09",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "hotScore": 61.3,
+      "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "hotScore": 55,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W28",
       "content": {
-        "basic": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting into the microdrama space isn't surprising considering that it's projected to become a $26 billion ",
+        "basic": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, which OpenAI bought in 2025 - along with two specific employees, Tang Tan (OpenAI's chief hardware officer) and Chang Liu (who joined OpenAI from Apple in January). An Apple spokesperson shared this statement with 9to5Mac: At Apple, our teams are constantly develo",
         "highlights": [],
         "scenarios": [],
         "industry": [],

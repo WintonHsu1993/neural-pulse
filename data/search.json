@@ -1,10 +1,46 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "date": "2026-07-11",
+    "source": "Wired",
+    "hotScore": 72.5,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "date": "2026-07-10",
+    "source": "MIT Technology Review",
+    "hotScore": 63.8,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over conce"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The ChatGPT browser is already dead",
+    "date": "2026-07-09",
+    "source": "The Verge AI",
+    "hotScore": 58.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
     "date": "2026-07-10",
     "source": "TechCrunch AI",
-    "hotScore": 76.3,
+    "hotScore": 56.3,
     "category": "product",
     "tags": [
       "GPT"
@@ -13,54 +49,30 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft’s carbon emissions went up 25 percent last year",
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
     "date": "2026-07-10",
     "source": "The Verge AI",
-    "hotScore": 67.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The ChatGPT browser is already dead",
-    "date": "2026-07-09",
-    "source": "The Verge AI",
-    "hotScore": 66.3,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Say hello to Claude Wrapped",
-    "date": "2026-07-09",
-    "source": "The Verge AI",
-    "hotScore": 61.3,
-    "category": "product",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Character.AI wants a piece of the microdrama pie",
-    "date": "2026-07-09",
-    "source": "The Verge AI",
-    "hotScore": 61.3,
+    "hotScore": 55,
     "category": "startup",
     "tags": [],
-    "snippet": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-"
+    "snippet": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "date": "2026-07-10",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "OpenAI launches its new family of models with GPT-5.6",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 61.3,
+    "hotScore": 53.3,
     "category": "product",
     "tags": [
       "GPT"
@@ -69,22 +81,10 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 61.3,
-    "category": "product",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 52,
     "category": "startup",
     "tags": [],
     "snippet": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes"
@@ -94,7 +94,7 @@
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "date": "2026-07-09",
     "source": "MIT Technology Review",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "research",
     "tags": [
       "Claude"
@@ -102,33 +102,21 @@
     "snippet": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they"
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-    "date": "2026-07-09",
-    "source": "Wired",
-    "hotScore": 58.8,
-    "category": "tech",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Would you host part of an AI data center in your home?",
+    "date": "2026-07-10",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
     "tags": [],
-    "snippet": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-    "date": "2026-07-09",
-    "source": "Wired",
-    "hotScore": 58.8,
-    "category": "tech",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending."
+    "snippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
     "date": "2026-07-09",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "policy",
     "tags": [],
     "snippet": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in Apri"
@@ -138,7 +126,7 @@
     "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
     "date": "2026-07-09",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "product",
     "tags": [
       "GPT",
@@ -151,7 +139,7 @@
     "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "research",
     "tags": [
       "GPT"
@@ -159,66 +147,137 @@
     "snippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-    "date": "2026-07-09",
-    "source": "Ars Technica",
-    "hotScore": 56.3,
-    "category": "tech",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight."
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft’s carbon emissions went up 25 percent last year",
+    "date": "2026-07-10",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "date": "2026-07-10",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Google will now tell you if an ad was made with AI",
     "date": "2026-07-09",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "product",
     "tags": [],
     "snippet": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced o"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta says its new AI model is ready to compete on coding",
-    "date": "2026-07-09",
-    "source": "The Verge AI",
-    "hotScore": 55,
-    "category": "product",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "How did the government decide OpenAI’s frontier model was safe to release?",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "product",
     "tags": [],
     "snippet": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "date": "2026-07-10",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "date": "2026-07-10",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out "
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-    "date": "2026-07-09",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "date": "2026-07-10",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "date": "2026-07-10",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "research",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "date": "2026-07-10",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000."
+    "snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "date": "2026-07-10",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "research",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
+    "date": "2026-07-10",
+    "source": "IEEE Spectrum",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The computing community recently lost one of its enduring voices: IEEE Fellow Peter G. Neumann. The renowned computer scientist and respected risk analyst died on 17 May at the age of 93. For almost 7"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Quantum error correction can constantly recalibrate a processor",
+    "date": "2026-07-10",
+    "source": "Ars Technica",
+    "hotScore": 42.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Reinforcement learning uses error information to adjust control algorithms."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Microsoft’s patch Tuesdays are about to get bigger",
     "date": "2026-07-09",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [],
     "snippet": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"cust"
@@ -228,7 +287,7 @@
     "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [
       "Agent"
@@ -240,7 +299,7 @@
     "title": "Can AI answer the $3 trillion question?",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences."
@@ -250,7 +309,7 @@
     "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [
       "Agent"
@@ -262,7 +321,7 @@
     "title": "Google will now disclose which ads are made with AI",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required electio"
@@ -272,129 +331,20 @@
     "title": "Meta’s new AI chips will begin production in September",
     "date": "2026-07-09",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "hardware",
     "tags": [],
     "snippet": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Llama",
-      "OpenSource"
-    ],
-    "snippet": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
   },
   {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
     "title": "OpenAI wants its new tool to do your work for you and with you",
     "date": "2026-07-09",
     "source": "Ars Technica",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "tech",
     "tags": [],
     "snippet": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia is a victim of the compute marketplace it created",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sideli"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-    "date": "2026-07-09",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "An AI agent startup just let its agent run its $100M fundraise",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Your family’s $300 stake in OpenAI",
-    "date": "2026-07-06",
-    "source": "MIT Technology Review",
-    "hotScore": 43.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -420,6 +370,26 @@
     "snippet": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "date": "2026-07-09",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia is a victim of the compute marketplace it created",
+    "date": "2026-07-09",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sideli"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "date": "2026-07-07",
@@ -428,6 +398,40 @@
     "category": "research",
     "tags": [],
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
+    "date": "2026-07-09",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "date": "2026-07-09",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+    "date": "2026-07-09",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -528,15 +532,5 @@
     "category": "research",
     "tags": [],
     "snippet": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Why Public Speaking Skills Are Worth Investing In",
-    "date": "2026-07-01",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   }
 ]
