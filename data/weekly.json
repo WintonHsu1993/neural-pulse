@@ -4,25 +4,25 @@
     "to": "2026-07-14"
   },
   "weekKey": "2026-W28",
-  "lastUpdate": "2026-07-11",
-  "generatedAt": "2026-07-11T03:52:32.814Z",
+  "lastUpdate": "2026-07-12",
+  "generatedAt": "2026-07-12T04:07:13.705Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "date": "2026-07-11",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "hotScore": 72.5,
-      "category": "research",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [
-        "Safety"
+        "GPT"
       ],
       "week_key": "2026-W28",
       "content": {
-        "basic": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+        "basic": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -36,7 +36,7 @@
       "date": "2026-07-10",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "hotScore": 63.8,
+      "hotScore": 55.8,
       "category": "product",
       "tags": [
         "Claude"
@@ -51,13 +51,34 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 3,
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "date": "2026-07-11",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "hotScore": 52.5,
+      "category": "research",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "The ChatGPT browser is already dead",
       "date": "2026-07-09",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "hotScore": 58.3,
+      "hotScore": 52.3,
       "category": "product",
       "tags": [
         "GPT"
@@ -73,12 +94,12 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
+      "rank": 5,
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "date": "2026-07-10",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "hotScore": 56.3,
+      "hotScore": 48.3,
       "category": "product",
       "tags": [
         "GPT"
@@ -86,25 +107,6 @@
       "week_key": "2026-W28",
       "content": {
         "basic": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "date": "2026-07-10",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "hotScore": 55,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, which OpenAI bought in 2025 - along with two specific employees, Tang Tan (OpenAI's chief hardware officer) and Chang Liu (who joined OpenAI from Apple in January). An Apple spokesperson shared this statement with 9to5Mac: At Apple, our teams are constantly develo",
         "highlights": [],
         "scenarios": [],
         "industry": [],

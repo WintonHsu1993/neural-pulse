@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-07-11",
-  "generatedAt": "2026-07-11T03:52:32.814Z",
+  "lastUpdate": "2026-07-12",
+  "generatedAt": "2026-07-12T04:07:13.705Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "date": "2026-07-11",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "hotScore": 72.5,
-      "category": "research",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [
-        "Safety"
+        "GPT"
       ],
       "content": {
-        "basic": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+        "basic": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -28,7 +28,7 @@
       "date": "2026-07-10",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "hotScore": 63.8,
+      "hotScore": 55.8,
       "category": "product",
       "tags": [
         "Claude"
