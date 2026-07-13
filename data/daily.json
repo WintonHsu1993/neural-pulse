@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-07-12",
-  "generatedAt": "2026-07-12T04:07:13.705Z",
+  "lastUpdate": "2026-07-13",
+  "generatedAt": "2026-07-13T04:09:27.151Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "date": "2026-07-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "hotScore": 56.3,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "The ChatGPT browser is already dead",
+      "date": "2026-07-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "hotScore": 52.3,
       "category": "product",
       "tags": [
         "GPT"
       ],
       "content": {
-        "basic": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "basic": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation. The shutdown follows OpenAI's push to reduce \"side quests\" and catch up with Anthropic on productivity features. As part of that push, in March, The Wall Street Journal reported that OpenAI planned to combine the ChatGPT app, Codex, and Atlas into a desktop \"s",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "date": "2026-07-10",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "hotScore": 55.8,
-      "category": "product",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "date": "2026-07-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "hotScore": 50,
+      "category": "policy",
       "tags": [
-        "Claude"
+        "Multimodal"
       ],
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+        "basic": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. The comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know is",
         "highlights": [],
         "scenarios": [],
         "industry": [],

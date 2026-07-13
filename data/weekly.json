@@ -4,76 +4,13 @@
     "to": "2026-07-14"
   },
   "weekKey": "2026-W28",
-  "lastUpdate": "2026-07-12",
-  "generatedAt": "2026-07-12T04:07:13.705Z",
+  "lastUpdate": "2026-07-13",
+  "generatedAt": "2026-07-13T04:09:27.151Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 1,
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "date": "2026-07-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 2,
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "date": "2026-07-10",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "hotScore": 55.8,
-      "category": "product",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 3,
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "date": "2026-07-11",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "hotScore": 52.5,
-      "category": "research",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W28",
-      "content": {
-        "basic": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
+      "rank": 1,
       "title": "The ChatGPT browser is already dead",
       "date": "2026-07-09",
       "source": "The Verge AI",
@@ -93,12 +30,75 @@
       }
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "date": "2026-07-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "hotScore": 50,
+      "category": "policy",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. The comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know is",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "The fight against AI data centers is just beginning",
+      "date": "2026-07-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "hotScore": 50,
+      "category": "product",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power grids, a small group of protesters set the stage for the battles cropping up across communities today. In 2015, Apple announced plans to build ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "date": "2026-07-10",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "hotScore": 49.8,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W28",
+      "content": {
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "date": "2026-07-10",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "date": "2026-07-11",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "hotScore": 48.3,
       "category": "product",
       "tags": [
@@ -106,7 +106,7 @@
       ],
       "week_key": "2026-W28",
       "content": {
-        "basic": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+        "basic": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
