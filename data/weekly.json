@@ -4,25 +4,23 @@
     "to": "2026-07-14"
   },
   "weekKey": "2026-W28",
-  "lastUpdate": "2026-07-13",
-  "generatedAt": "2026-07-13T04:09:27.151Z",
+  "lastUpdate": "2026-07-14",
+  "generatedAt": "2026-07-14T03:44:47.522Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "The ChatGPT browser is already dead",
-      "date": "2026-07-09",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "hotScore": 52.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "date": "2026-07-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W28",
       "content": {
-        "basic": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation. The shutdown follows OpenAI's push to reduce \"side quests\" and catch up with Anthropic on productivity features. As part of that push, in March, The Wall Street Journal reported that OpenAI planned to combine the ChatGPT app, Codex, and Atlas into a desktop \"s",
+        "basic": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,20 +28,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "date": "2026-07-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "hotScore": 50,
-      "category": "policy",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "date": "2026-07-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "hotScore": 65,
+      "category": "product",
       "tags": [
-        "Multimodal"
+        "Robotics"
       ],
       "week_key": "2026-W28",
       "content": {
-        "basic": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. The comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know is",
+        "basic": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -51,20 +49,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "The fight against AI data centers is just beginning",
-      "date": "2026-07-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "hotScore": 50,
-      "category": "product",
-      "tags": [
-        "Multimodal"
-      ],
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "date": "2026-07-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "hotScore": 62.5,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W28",
       "content": {
-        "basic": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power grids, a small group of protesters set the stage for the battles cropping up across communities today. In 2015, Apple announced plans to build ",
+        "basic": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -74,18 +70,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 4,
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "date": "2026-07-10",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "date": "2026-07-13",
       "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "hotScore": 49.8,
-      "category": "product",
-      "tags": [
-        "Claude"
-      ],
+      "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "hotScore": 57.5,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W28",
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -93,20 +87,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "date": "2026-07-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "hotScore": 48.3,
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "date": "2026-07-13",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "hotScore": 56.3,
       "category": "product",
       "tags": [
-        "GPT"
+        "Gemini"
       ],
       "week_key": "2026-W28",
       "content": {
-        "basic": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "basic": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, to allow drivers to use conversational voice commands to report traffic incidents and suggest map updates, like a road closure or outdated house number. In addition, Waze introduced Destination Search, enabling drivers to use (again) use conversation voice com",
         "highlights": [],
         "scenarios": [],
         "industry": [],

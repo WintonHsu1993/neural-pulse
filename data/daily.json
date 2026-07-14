@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-07-13",
-  "generatedAt": "2026-07-13T04:09:27.151Z",
+  "lastUpdate": "2026-07-14",
+  "generatedAt": "2026-07-14T03:44:47.522Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "The ChatGPT browser is already dead",
-      "date": "2026-07-09",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "hotScore": 52.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "date": "2026-07-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation. The shutdown follows OpenAI's push to reduce \"side quests\" and catch up with Anthropic on productivity features. As part of that push, in March, The Wall Street Journal reported that OpenAI planned to combine the ChatGPT app, Codex, and Atlas into a desktop \"s",
+        "basic": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "date": "2026-07-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "hotScore": 50,
-      "category": "policy",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "date": "2026-07-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "hotScore": 65,
+      "category": "product",
       "tags": [
-        "Multimodal"
+        "Robotics"
       ],
       "content": {
-        "basic": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. The comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know is",
+        "basic": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

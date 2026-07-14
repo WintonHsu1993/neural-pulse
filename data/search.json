@@ -1,39 +1,143 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The ChatGPT browser is already dead",
-    "date": "2026-07-09",
-    "source": "The Verge AI",
-    "hotScore": 52.3,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "date": "2026-07-14",
+    "source": "TechCrunch AI",
+    "hotScore": 65,
+    "category": "startup",
+    "tags": [],
+    "snippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "date": "2026-07-14",
+    "source": "TechCrunch AI",
+    "hotScore": 65,
     "category": "product",
     "tags": [
-      "GPT"
+      "Robotics"
     ],
-    "snippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n"
+    "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "date": "2026-07-14",
+    "source": "TechCrunch AI",
+    "hotScore": 62.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "date": "2026-07-13",
+    "source": "MIT Technology Review",
+    "hotScore": 57.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-    "date": "2026-07-12",
+    "title": "Waze is getting a bunch of new AI-powered features",
+    "date": "2026-07-13",
     "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new upda"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Waze adds new AI-powered features and customization updates",
+    "date": "2026-07-13",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Building a Foundation Stack for General-Purpose Robots",
+    "date": "2026-07-13",
+    "source": "IEEE Spectrum",
+    "hotScore": 56.3,
+    "category": "hardware",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "This article is brought to you by X Square Robot. Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics ha"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+    "date": "2026-07-13",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "date": "2026-07-13",
+    "source": "TechCrunch AI",
+    "hotScore": 53.8,
+    "category": "startup",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Claude users in India are starting to see Indian rupee-denominated subscription plans."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Siri AI is already changing how I use my iPhone",
+    "date": "2026-07-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Siri AI in iOS 27. iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it c"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "date": "2026-07-13",
+    "source": "TechCrunch AI",
     "hotScore": 50,
     "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her se"
+    "tags": [],
+    "snippet": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The fight against AI data centers is just beginning",
-    "date": "2026-07-12",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Should AI help you get away with killing your spouse?",
+    "date": "2026-07-13",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "What does a world of total user-aligned AI actually look like?"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+    "date": "2026-07-13",
+    "source": "Ars Technica",
     "hotScore": 50,
     "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one"
+    "tags": [],
+    "snippet": "OpenAI accused of conspiring with former Apple employees to steal trade secrets."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -46,18 +150,6 @@
       "Claude"
     ],
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over conce"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "date": "2026-07-11",
-    "source": "TechCrunch AI",
-    "hotScore": 48.3,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -82,14 +174,14 @@
     "snippet": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-    "date": "2026-07-12",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "date": "2026-07-13",
+    "source": "TechCrunch AI",
     "hotScore": 45,
-    "category": "policy",
+    "category": "startup",
     "tags": [],
-    "snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving p"
+    "snippet": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -104,26 +196,39 @@
     "snippet": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they"
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI’s Head of Safety Is Leaving the Company",
-    "date": "2026-07-11",
-    "source": "Wired",
-    "hotScore": 44.5,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "date": "2026-07-13",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
     "category": "research",
     "tags": [
-      "Safety"
+      "Agent",
+      "Robotics"
     ],
-    "snippet": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams."
+    "snippet": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-    "date": "2026-07-09",
-    "source": "The Verge AI",
-    "hotScore": 42.3,
-    "category": "policy",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+    "date": "2026-07-13",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
     "tags": [],
-    "snippet": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in Apri"
+    "snippet": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "date": "2026-07-11",
+    "source": "TechCrunch AI",
+    "hotScore": 42.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -138,16 +243,28 @@
     "snippet": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 42.3,
-    "category": "research",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "date": "2026-07-12",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "policy",
     "tags": [
-      "GPT"
+      "Multimodal"
     ],
-    "snippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
+    "snippet": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The fight against AI data centers is just beginning",
+    "date": "2026-07-12",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -170,16 +287,6 @@
     "snippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "product",
-    "tags": [],
-    "snippet": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "The Lab Mistake That Might Revolutionize Computing",
     "date": "2026-06-29",
@@ -190,27 +297,14 @@
     "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a"
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "date": "2026-07-07",
-    "source": "Google AI Blog",
-    "hotScore": 39.8,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Agent"
-    ],
-    "snippet": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-    "date": "2026-07-07",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "research",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "date": "2026-07-12",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "policy",
     "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that "
+    "snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving p"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -223,16 +317,6 @@
     "snippet": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The Internat"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Why Does a Bank Need a Chief Scientist?",
-    "date": "2026-06-25",
-    "source": "IEEE Spectrum",
-    "hotScore": 36.3,
-    "category": "research",
-    "tags": [],
-    "snippet": "This article is brought to you by Capital One. After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional m"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Would you host part of an AI data center in your home?",
     "date": "2026-07-10",
@@ -241,60 +325,6 @@
     "category": "product",
     "tags": [],
     "snippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Can AI answer the $3 trillion question?",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google will now disclose which ads are made with AI",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required electio"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta’s new AI chips will begin production in September",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -317,34 +347,27 @@
     "snippet": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft’s carbon emissions went up 25 percent last year",
-    "date": "2026-07-10",
-    "source": "The Verge AI",
-    "hotScore": 33.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions "
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "date": "2026-07-07",
+    "source": "Google AI Blog",
+    "hotScore": 33.8,
+    "category": "product",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "snippet": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "startup",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "date": "2026-07-07",
+    "source": "MIT Technology Review",
+    "hotScore": 32.5,
+    "category": "research",
     "tags": [],
-    "snippet": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-    "date": "2026-07-10",
-    "source": "Wired",
-    "hotScore": 33.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details."
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -355,16 +378,6 @@
     "category": "product",
     "tags": [],
     "snippet": "The new Google Finance is coming out of beta and launching a new Android app."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "What it Means to Be a Mathematician When AI Does the Math",
-    "date": "2026-06-25",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My res"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -455,28 +468,6 @@
     "snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-    "date": "2026-07-09",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an"
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
     "date": "2026-07-10",
@@ -535,5 +526,15 @@
     "category": "tech",
     "tags": [],
     "snippet": "Reinforcement learning uses error information to adjust control algorithms."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "date": "2026-06-15",
+    "source": "Google AI Blog",
+    "hotScore": 27.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
   }
 ]
