@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-07-14",
-  "generatedAt": "2026-07-14T03:44:47.522Z",
+  "lastUpdate": "2026-07-16",
+  "generatedAt": "2026-07-16T03:47:41.717Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "date": "2026-07-14",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "date": "2026-07-15",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "hotScore": 68.8,
+      "category": "product",
+      "tags": [
+        "GPT"
+      ],
       "content": {
-        "basic": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+        "basic": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,18 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "date": "2026-07-14",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "hotScore": 65,
-      "category": "product",
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "date": "2026-07-15",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "hotScore": 62.5,
+      "category": "tech",
       "tags": [
-        "Robotics"
+        "OpenSource"
       ],
       "content": {
-        "basic": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+        "basic": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
