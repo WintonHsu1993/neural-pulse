@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-07-16",
-  "generatedAt": "2026-07-16T03:47:41.717Z",
+  "lastUpdate": "2026-07-17",
+  "generatedAt": "2026-07-17T03:47:49.766Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "date": "2026-07-15",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "date": "2026-07-16",
       "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "hotScore": 68.8,
-      "category": "product",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "hotScore": 65,
+      "category": "research",
       "tags": [
         "GPT"
       ],
       "content": {
-        "basic": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "Thinking Machines Lab Drops Its First Model",
-      "date": "2026-07-15",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "hotScore": 62.5,
-      "category": "tech",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Claude can now use your 1Password credentials for you",
+      "date": "2026-07-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "hotScore": 61.3,
+      "category": "product",
       "tags": [
-        "OpenSource"
+        "Claude"
       ],
       "content": {
-        "basic": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+        "basic": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password. That's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting ",
         "highlights": [],
         "scenarios": [],
         "industry": [],

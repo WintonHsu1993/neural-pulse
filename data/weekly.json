@@ -4,18 +4,81 @@
     "to": "2026-07-21"
   },
   "weekKey": "2026-W29",
-  "lastUpdate": "2026-07-16",
-  "generatedAt": "2026-07-16T03:47:41.717Z",
+  "lastUpdate": "2026-07-17",
+  "generatedAt": "2026-07-17T03:47:49.766Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 1,
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "date": "2026-07-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "hotScore": 65,
+      "category": "research",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W29",
+      "content": {
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Claude can now use your 1Password credentials for you",
+      "date": "2026-07-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W29",
+      "content": {
+        "basic": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password. That's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "date": "2026-07-16",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "hotScore": 61.3,
+      "category": "hardware",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W29",
+      "content": {
+        "basic": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "date": "2026-07-15",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "hotScore": 68.8,
+      "hotScore": 60.8,
       "category": "product",
       "tags": [
         "GPT"
@@ -30,82 +93,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 2,
-      "title": "Thinking Machines Lab Drops Its First Model",
-      "date": "2026-07-15",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "hotScore": 62.5,
-      "category": "tech",
-      "tags": [
-        "OpenSource"
-      ],
-      "week_key": "2026-W29",
-      "content": {
-        "basic": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "date": "2026-07-15",
+      "rank": 5,
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "date": "2026-07-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "hotScore": 58.8,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W29",
-      "content": {
-        "basic": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly92ZW50dXJl",
-      "rank": 4,
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "date": "2026-07-15",
-      "source": "VentureBeat AI",
-      "sourceUrl": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "hotScore": 56.3,
+      "sourceUrl": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "hotScore": 60,
       "category": "research",
       "tags": [
-        "Claude",
-        "Agent"
+        "GPT"
       ],
       "week_key": "2026-W29",
       "content": {
-        "basic": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception. This wave of VentureBeat Pulse Research examines enterprise agent orchestration: which platforms enterprises run on, what dri",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "OpenAI finally launches hardware… for Codex",
-      "date": "2026-07-15",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W29",
-      "content": {
-        "basic": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder. OpenAI said it is a limited-run collaboration that will give users more ways to monitor and manage their agents. The pad closely resembles Work Louder's Creator Micro 2, and marketing",
+        "basic": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
