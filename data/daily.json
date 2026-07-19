@@ -1,21 +1,22 @@
 {
-  "lastUpdate": "2026-07-18",
-  "generatedAt": "2026-07-18T03:41:50.590Z",
+  "lastUpdate": "2026-07-19",
+  "generatedAt": "2026-07-19T04:04:04.997Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "date": "2026-07-16",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "hotScore": 57,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "date": "2026-07-18",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [
-        "GPT"
+        "GPT",
+        "Multimodal"
       ],
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+        "basic": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. Acc",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +24,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Apple’s plot to crush OpenAI",
-      "date": "2026-07-17",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "date": "2026-07-15",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "hotScore": 54.8,
+      "category": "product",
+      "tags": [
+        "GPT"
+      ],
       "content": {
-        "basic": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The Vergecast, Nilay and David go through the lawsuit, and look at Apple's history of splashy litigation to determine whether Apple is worried about a possible competitor or simply looking to capitalize on a weak moment for OpenAI. All this is happening as Apple ships the public betas of its new software, ",
+        "basic": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

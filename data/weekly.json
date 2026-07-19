@@ -4,18 +4,61 @@
     "to": "2026-07-21"
   },
   "weekKey": "2026-W29",
-  "lastUpdate": "2026-07-18",
-  "generatedAt": "2026-07-18T03:41:50.590Z",
+  "lastUpdate": "2026-07-19",
+  "generatedAt": "2026-07-19T04:04:04.997Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "date": "2026-07-18",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "hotScore": 56.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Multimodal"
+      ],
+      "week_key": "2026-W29",
+      "content": {
+        "basic": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. Acc",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 2,
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "date": "2026-07-15",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "hotScore": 54.8,
+      "category": "product",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W29",
+      "content": {
+        "basic": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 3,
       "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
       "date": "2026-07-16",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "hotScore": 57,
+      "hotScore": 51,
       "category": "research",
       "tags": [
         "GPT"
@@ -30,56 +73,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Apple’s plot to crush OpenAI",
-      "date": "2026-07-17",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W29",
-      "content": {
-        "basic": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The Vergecast, Nilay and David go through the lawsuit, and look at Apple's history of splashy litigation to determine whether Apple is worried about a possible competitor or simply looking to capitalize on a weak moment for OpenAI. All this is happening as Apple ships the public betas of its new software, ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "date": "2026-07-17",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W29",
-      "content": {
-        "basic": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 4,
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "date": "2026-07-17",
+      "title": "Kimi: Threat or menace?",
+      "date": "2026-07-18",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "hotScore": 55,
-      "category": "policy",
+      "sourceUrl": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "hotScore": 50,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W29",
       "content": {
-        "basic": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+        "basic": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -87,20 +92,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "date": "2026-07-15",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "hotScore": 54.8,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "date": "2026-07-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "hotScore": 50,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W29",
       "content": {
-        "basic": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+        "basic": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
