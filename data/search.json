@@ -1,89 +1,139 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "date": "2026-07-22",
+    "source": "TechCrunch AI",
+    "hotScore": 80,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "America needs to stop getting shocked by Chinese AI",
+    "date": "2026-07-21",
+    "source": "The Verge AI",
+    "hotScore": 66.3,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publ"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+    "date": "2026-07-21",
+    "source": "Wired",
+    "hotScore": 58.8,
+    "category": "tech",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "date": "2026-07-21",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Multimodal",
+      "OpenSource",
+      "Agent"
+    ],
+    "snippet": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+    "date": "2026-07-21",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyb"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "startup",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
     "date": "2026-07-21",
     "source": "TechCrunch AI",
-    "hotScore": 75,
+    "hotScore": 55,
     "category": "product",
     "tags": [],
     "snippet": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+    "date": "2026-07-21",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "tech",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "AI is more likely than humans to form biases when hiring",
     "date": "2026-07-20",
     "source": "MIT Technology Review",
-    "hotScore": 62.5,
+    "hotScore": 54.5,
     "category": "research",
     "tags": [],
     "snippet": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+    "date": "2026-07-21",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "policy",
+    "tags": [],
+    "snippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "OpenAI is scared of open-weight models. Should the US be?",
     "date": "2026-07-20",
     "source": "TechCrunch AI",
-    "hotScore": 61.3,
+    "hotScore": 53.3,
     "category": "policy",
     "tags": [],
     "snippet": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "China delivers a one-two punch to America’s AI dominance",
-    "date": "2026-07-20",
-    "source": "The Verge AI",
-    "hotScore": 60,
-    "category": "product",
-    "tags": [],
-    "snippet": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
-    "date": "2026-07-20",
-    "source": "The Verge AI",
-    "hotScore": 55,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "date": "2026-07-15",
-    "source": "MIT Technology Review",
-    "hotScore": 54.8,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "China’s AI models have Trump’s AI world at war with itself",
-    "date": "2026-07-20",
-    "source": "MIT Technology Review",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Why AI Needs a “Genie Coefficient”",
+    "date": "2026-07-21",
+    "source": "IEEE Spectrum",
     "hotScore": 52.5,
-    "category": "product",
+    "category": "research",
     "tags": [],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to Presi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "date": "2026-07-20",
-    "source": "TechCrunch AI",
-    "hotScore": 51.3,
-    "category": "hardware",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+    "snippet": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We p"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -98,108 +148,128 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its mod"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Trump’s latest AI czar has already resigned",
-    "date": "2026-07-20",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "date": "2026-07-21",
+    "source": "The Verge AI",
     "hotScore": 50,
     "category": "startup",
     "tags": [],
-    "snippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
+    "snippet": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "SpaceX in your index fund, explained",
-    "date": "2026-07-20",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI and the rise of the universal entertainment app",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+    "date": "2026-07-21",
+    "source": "MIT Technology Review",
     "hotScore": 47.5,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "X relaunches a rebuilt Android app after year-long effort",
-    "date": "2026-07-20",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "X says the rebuilt version of its Android app is now available globally."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "I hate that I don’t hate this song made with Suno",
-    "date": "2026-07-19",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "date": "2026-07-19",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "policy",
-    "tags": [],
-    "snippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-    "date": "2026-07-20",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI’s most important protocol is getting a little bit easier to use",
-    "date": "2026-07-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Adobe camera app’s new feature will critique your photos using AI",
-    "date": "2026-07-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "YouTube clarifies policies around AI slop and upsetting videos",
-    "date": "2026-07-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue."
-  },
-  {
-    "id": "aHR0cHM6Ly9ldmVudC5v",
-    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-    "date": "2026-07-20",
-    "source": "IEEE Spectrum",
-    "hotScore": 45,
     "category": "research",
     "tags": [],
-    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV,"
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Las"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Data centers expected to use 4x more electricity by 2035",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "New data centers built through 2033 could consume as much electricity as India uses today."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+    "date": "2026-07-21",
+    "source": "Ars Technica",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "date": "2026-07-20",
+    "source": "The Verge AI",
+    "hotScore": 47,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "date": "2026-07-21",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -214,60 +284,80 @@
     "snippet": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever."
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "China’s AI models have Trump’s AI world at war with itself",
     "date": "2026-07-20",
-    "source": "Ars Technica",
-    "hotScore": 42.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Many will say Spa is the best racetrack on earth, but not for these F1 cars."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-    "date": "2026-07-18",
-    "source": "The Verge AI",
-    "hotScore": 42.3,
+    "source": "MIT Technology Review",
+    "hotScore": 44.5,
     "category": "product",
-    "tags": [
-      "GPT",
-      "Multimodal"
-    ],
-    "snippet": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to arou"
+    "tags": [],
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to Presi"
   },
   {
-    "id": "aHR0cHM6Ly92ZW50dXJl",
-    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "date": "2026-07-15",
-    "source": "VentureBeat AI",
-    "hotScore": 42.3,
-    "category": "research",
-    "tags": [
-      "Claude",
-      "Agent"
-    ],
-    "snippet": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple’s plot to crush OpenAI",
-    "date": "2026-07-17",
-    "source": "The Verge AI",
-    "hotScore": 41,
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "date": "2026-07-21",
+    "source": "Wired",
+    "hotScore": 43.8,
     "category": "policy",
     "tags": [],
-    "snippet": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple"
+    "snippet": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-    "date": "2026-07-17",
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "date": "2026-07-20",
+    "source": "TechCrunch AI",
+    "hotScore": 43.3,
+    "category": "hardware",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Halliday’s latest smart glasses feature a much-improved display",
+    "date": "2026-07-21",
+    "source": "The Verge AI",
+    "hotScore": 42.5,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, mov"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+    "date": "2026-07-21",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Trump’s latest AI czar has already resigned",
+    "date": "2026-07-20",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "date": "2026-07-19",
     "source": "TechCrunch AI",
     "hotScore": 41,
     "category": "policy",
     "tags": [],
-    "snippet": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer an"
+    "snippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -280,14 +370,26 @@
     "snippet": "You’ll be able to securely link and interact with your go-to services directly in AI Mode."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "SpaceX in your index fund, explained",
+    "date": "2026-07-20",
+    "source": "The Verge AI",
+    "hotScore": 39.5,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "What to watch for after Jensen Huang’s Japan visit",
-    "date": "2026-07-19",
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "date": "2026-07-20",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
-    "category": "startup",
+    "category": "product",
     "tags": [],
-    "snippet": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
+    "snippet": "X says the rebuilt version of its Android app is now available globally."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -302,46 +404,67 @@
     "snippet": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs reveal"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The First Chatbot’s Multiple Personalities",
-    "date": "2026-07-15",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "date": "2026-07-20",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "date": "2026-07-20",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Adobe camera app’s new feature will critique your photos using AI",
+    "date": "2026-07-20",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "date": "2026-07-20",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue."
+  },
+  {
+    "id": "aHR0cHM6Ly9ldmVudC5v",
+    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+    "date": "2026-07-20",
     "source": "IEEE Spectrum",
-    "hotScore": 38.5,
+    "hotScore": 37,
     "category": "research",
     "tags": [],
-    "snippet": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given t"
+    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV,"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Agility Robotics plants its flag in Tesla’s backyard",
-    "date": "2026-07-17",
-    "source": "TechCrunch AI",
-    "hotScore": 37.3,
-    "category": "startup",
+    "id": "aHR0cHM6Ly92ZW50dXJl",
+    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+    "date": "2026-07-15",
+    "source": "VentureBeat AI",
+    "hotScore": 36.3,
+    "category": "research",
     "tags": [
-      "Robotics"
+      "Claude",
+      "Agent"
     ],
-    "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "date": "2026-07-19",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "\"Everybody knows the Greeks are inside.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "date": "2026-07-19",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more."
+    "snippet": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -354,46 +477,6 @@
       "Robotics"
     ],
     "snippet": "This article is brought to you by X Square Robot. Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics ha"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "TikTok is testing an AI likeness detection tool",
-    "date": "2026-07-17",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "industry",
-    "tags": [],
-    "snippet": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Kimi: Threat or menace?",
-    "date": "2026-07-18",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [],
-    "snippet": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "date": "2026-07-18",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI-driven memory crunch jolts India’s smartphone market",
-    "date": "2026-07-17",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -426,18 +509,6 @@
     "snippet": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model"
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-    "date": "2026-07-18",
-    "source": "Wired",
-    "hotScore": 34.8,
-    "category": "tech",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before."
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
     "date": "2026-07-07",
@@ -451,24 +522,14 @@
     "snippet": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The apps, gadgets, and tools every reader needs",
-    "date": "2026-07-18",
-    "source": "The Verge AI",
-    "hotScore": 33.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The Zoom hack that says, ‘Don’t record me’",
-    "date": "2026-07-17",
+    "title": "What to watch for after Jensen Huang’s Japan visit",
+    "date": "2026-07-19",
     "source": "TechCrunch AI",
     "hotScore": 33.5,
     "category": "startup",
     "tags": [],
-    "snippet": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
+    "snippet": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -481,61 +542,5 @@
       "Multimodal"
     ],
     "snippet": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Our latest Google Finance upgrades, including a new app",
-    "date": "2026-06-25",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "The new Google Finance is coming out of beta and launching a new Android app."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-    "date": "2026-07-16",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "policy",
-    "tags": [],
-    "snippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "date": "2026-07-17",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "date": "2026-07-17",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
-  },
-  {
-    "id": "aHR0cHM6Ly92ZW50dXJl",
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "date": "2026-07-16",
-    "source": "VentureBeat AI",
-    "hotScore": 31,
-    "category": "industry",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide"
   }
 ]
