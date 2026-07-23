@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-22",
-  "generatedAt": "2026-07-22T03:57:35.615Z",
+  "lastUpdate": "2026-07-23",
+  "generatedAt": "2026-07-23T03:55:01.398Z",
   "count": 2,
   "data": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-07-22",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "hotScore": 80,
+      "hotScore": 60,
       "category": "hardware",
       "tags": [],
       "content": {
@@ -22,17 +22,15 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "America needs to stop getting shocked by Chinese AI",
-      "date": "2026-07-21",
+      "title": "AMD commits up to $5 billion to  Anthropic",
+      "date": "2026-07-22",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "hotScore": 66.3,
-      "category": "startup",
-      "tags": [
-        "Multimodal"
-      ],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "hotScore": 58.8,
+      "category": "hardware",
+      "tags": [],
       "content": {
-        "basic": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a Chinese mode",
+        "basic": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported earlier by The Wall Street Journal. The companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached with SpaceX and TeraWulf. Anthropic has also signed AI infrastructure deals with Google, Broadcom,",
         "highlights": [],
         "scenarios": [],
         "industry": [],

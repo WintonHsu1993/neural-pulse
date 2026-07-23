@@ -4,9 +4,9 @@
     "to": "2026-07-28"
   },
   "weekKey": "2026-W30",
-  "lastUpdate": "2026-07-22",
-  "generatedAt": "2026-07-22T03:57:35.615Z",
-  "count": 1,
+  "lastUpdate": "2026-07-23",
+  "generatedAt": "2026-07-23T03:55:01.398Z",
+  "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -15,12 +15,88 @@
       "date": "2026-07-22",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "hotScore": 80,
+      "hotScore": 60,
       "category": "hardware",
       "tags": [],
       "week_key": "2026-W30",
       "content": {
         "basic": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "AMD commits up to $5 billion to  Anthropic",
+      "date": "2026-07-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "hotScore": 58.8,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W30",
+      "content": {
+        "basic": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported earlier by The Wall Street Journal. The companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached with SpaceX and TeraWulf. Anthropic has also signed AI infrastructure deals with Google, Broadcom,",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "date": "2026-07-22",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W30",
+      "content": {
+        "basic": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "date": "2026-07-22",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "hotScore": 52.5,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W30",
+      "content": {
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 5,
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "date": "2026-07-22",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "hotScore": 52.5,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W30",
+      "content": {
+        "basic": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
