@@ -1,40 +1,241 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "date": "2026-07-22",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "date": "2026-07-24",
     "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 75,
+    "category": "research",
+    "tags": [],
+    "snippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "date": "2026-07-23",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Reasoning"
+    ],
+    "snippet": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "date": "2026-07-23",
+    "source": "The Verge AI",
+    "hotScore": 58.8,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 58.8,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "date": "2026-07-23",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google’s Gemini nears billion-user milestone",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 53.8,
+    "category": "startup",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Gemini had over 750 million monthly users in February."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+    "date": "2026-07-23",
+    "source": "Ars Technica",
+    "hotScore": 53.8,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Aggressive training techniques sharpens threat of bad behavior by leading models."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia is sending GPUs to the moon",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
     "category": "hardware",
     "tags": [],
-    "snippet": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
+    "snippet": "If there's a place in the universe without GPUs, Nvidia is sending them there."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "AMD commits up to $5 billion to  Anthropic",
     "date": "2026-07-22",
     "source": "The Verge AI",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "hardware",
     "tags": [],
     "snippet": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Patreon is laying off 20 percent of workers",
+    "date": "2026-07-23",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these cha"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+    "date": "2026-07-23",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s AI spending spree has ballooned to $750B",
-    "date": "2026-07-22",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "date": "2026-07-23",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "startup",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
     "category": "startup",
     "tags": [],
-    "snippet": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
+    "snippet": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "date": "2026-07-23",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+    "date": "2026-07-23",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Fl"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "date": "2026-07-23",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
     "date": "2026-07-22",
     "source": "MIT Technology Review",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "product",
     "tags": [],
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unv"
@@ -44,41 +245,17 @@
     "title": "3 Google updates from Galaxy Unpacked 2026",
     "date": "2026-07-22",
     "source": "Google AI Blog",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "product",
     "tags": [],
     "snippet": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-    "date": "2026-07-22",
-    "source": "Wired",
-    "hotScore": 52.5,
-    "category": "tech",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-    "date": "2026-07-21",
-    "source": "Wired",
-    "hotScore": 50.8,
-    "category": "tech",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Meta made its own AI detection system. It should have just used Google’s",
     "date": "2026-07-22",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "industry",
     "tags": [
       "Multimodal"
@@ -86,23 +263,11 @@
     "snippet": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Utility companies promise to spare us from AI’s energy bill",
-    "date": "2026-07-22",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consume"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
     "date": "2026-07-22",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin"
@@ -112,7 +277,7 @@
     "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
     "date": "2026-07-22",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [
       "Robotics"
@@ -124,7 +289,7 @@
     "title": "Monday.com lays off hundreds to focus on AI",
     "date": "2026-07-22",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
@@ -134,7 +299,7 @@
     "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
     "date": "2026-07-22",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [
       "OpenSource"
@@ -142,21 +307,11 @@
     "snippet": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i"
-  },
-  {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
     "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
     "date": "2026-07-22",
     "source": "Ars Technica",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "tech",
     "tags": [
       "Agent"
@@ -165,223 +320,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 48.8,
-    "category": "product",
-    "tags": [],
-    "snippet": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI is more likely than humans to form biases when hiring",
-    "date": "2026-07-20",
-    "source": "MIT Technology Review",
-    "hotScore": 48.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-    "date": "2026-07-21",
-    "source": "The Verge AI",
-    "hotScore": 48.3,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Multimodal",
-      "OpenSource",
-      "Agent"
-    ],
-    "snippet": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-    "date": "2026-07-21",
-    "source": "The Verge AI",
-    "hotScore": 48.3,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Agent"
-    ],
-    "snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyb"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
     "date": "2026-07-22",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
+    "hotScore": 39.5,
     "category": "startup",
     "tags": [],
     "snippet": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-    "date": "2026-07-21",
-    "source": "The Verge AI",
-    "hotScore": 45.8,
-    "category": "policy",
-    "tags": [],
-    "snippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
-    "date": "2026-07-22",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge Samsung has given us our first chance to check out its upc"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google justifies its massive AI spending with a booming cloud business",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Why AI Needs a “Genie Coefficient”",
-    "date": "2026-07-21",
-    "source": "IEEE Spectrum",
-    "hotScore": 44.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We p"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "date": "2026-07-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-    "date": "2026-07-22",
-    "source": "Wired",
-    "hotScore": 42.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-    "date": "2026-07-21",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "date": "2026-07-21",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI and the rise of the universal entertainment app",
-    "date": "2026-07-21",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-    "date": "2026-07-21",
-    "source": "MIT Technology Review",
-    "hotScore": 39.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Las"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-    "date": "2026-07-21",
-    "source": "Ars Technica",
-    "hotScore": 39.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -418,49 +363,54 @@
     "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to Presi"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Why AI Needs a “Genie Coefficient”",
     "date": "2026-07-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 38.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We p"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+    "date": "2026-07-22",
     "source": "The Verge AI",
     "hotScore": 37,
     "category": "product",
     "tags": [],
-    "snippet": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o"
+    "snippet": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge Samsung has given us our first chance to check out its upc"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta is testing an AI bedtime story app for people with no imagination",
-    "date": "2026-07-21",
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "date": "2026-07-22",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "product",
+    "category": "hardware",
     "tags": [],
-    "snippet": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations."
+    "snippet": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "date": "2026-07-21",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "date": "2026-07-22",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
+    "tags": [],
+    "snippet": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits."
   },
   {
-    "id": "aHR0cHM6Ly92ZW50dXJl",
-    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "date": "2026-07-15",
-    "source": "VentureBeat AI",
-    "hotScore": 36.3,
-    "category": "research",
-    "tags": [
-      "Claude",
-      "Agent"
-    ],
-    "snippet": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "date": "2026-07-22",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -473,16 +423,6 @@
       "Robotics"
     ],
     "snippet": "This article is brought to you by X Square Robot. Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics ha"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-    "date": "2026-07-21",
-    "source": "Wired",
-    "hotScore": 35.8,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -515,16 +455,14 @@
     "snippet": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Halliday’s latest smart glasses feature a much-improved display",
-    "date": "2026-07-21",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+    "date": "2026-07-22",
+    "source": "Wired",
     "hotScore": 34.5,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, mov"
+    "category": "tech",
+    "tags": [],
+    "snippet": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -538,5 +476,67 @@
       "Agent"
     ],
     "snippet": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+    "date": "2026-07-21",
+    "source": "MIT Technology Review",
+    "hotScore": 33.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Las"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Celebrating 25 years of visual search innovation",
+    "date": "2026-07-14",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Our latest Google Finance upgrades, including a new app",
+    "date": "2026-06-25",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "The new Google Finance is coming out of beta and launching a new Android app."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The First Chatbot’s Multiple Personalities",
+    "date": "2026-07-15",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given t"
+  },
+  {
+    "id": "aHR0cHM6Ly9ldmVudC5v",
+    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+    "date": "2026-07-20",
+    "source": "IEEE Spectrum",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [],
+    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV,"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "date": "2026-07-01",
+    "source": "Google AI Blog",
+    "hotScore": 30,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
   }
 ]

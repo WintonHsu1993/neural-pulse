@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-07-23",
-  "generatedAt": "2026-07-23T03:55:01.398Z",
+  "lastUpdate": "2026-07-24",
+  "generatedAt": "2026-07-24T03:54:53.611Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "date": "2026-07-22",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "date": "2026-07-24",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "hotScore": 60,
-      "category": "hardware",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "hotScore": 75,
+      "category": "research",
       "tags": [],
       "content": {
-        "basic": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "basic": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,15 +22,18 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "AMD commits up to $5 billion to  Anthropic",
-      "date": "2026-07-22",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "date": "2026-07-23",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "hotScore": 58.8,
-      "category": "hardware",
-      "tags": [],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Reasoning"
+      ],
       "content": {
-        "basic": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported earlier by The Wall Street Journal. The companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached with SpaceX and TeraWulf. Anthropic has also signed AI infrastructure deals with Google, Broadcom,",
+        "basic": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" When asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there",
         "highlights": [],
         "scenarios": [],
         "industry": [],
