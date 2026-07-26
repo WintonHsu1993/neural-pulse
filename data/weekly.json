@@ -4,23 +4,23 @@
     "to": "2026-07-28"
   },
   "weekKey": "2026-W30",
-  "lastUpdate": "2026-07-24",
-  "generatedAt": "2026-07-24T03:54:53.611Z",
+  "lastUpdate": "2026-07-26",
+  "generatedAt": "2026-07-26T04:07:16.792Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "date": "2026-07-24",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "date": "2026-07-26",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "hotScore": 75,
-      "category": "research",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "hotScore": 65,
+      "category": "startup",
       "tags": [],
       "week_key": "2026-W30",
       "content": {
-        "basic": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "basic": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,40 +30,21 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "date": "2026-07-23",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "date": "2026-07-24",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "hotScore": 61.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "hotScore": 60.8,
+      "category": "research",
       "tags": [
         "GPT",
-        "Reasoning"
+        "Claude",
+        "Gemini",
+        "Multimodal"
       ],
       "week_key": "2026-W30",
       "content": {
-        "basic": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" When asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "date": "2026-07-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W30",
-      "content": {
-        "basic": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+        "basic": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. In a blog post, Meta says this update marks its \"next step toward personal superintelligence,\" something CEO Mark Zuckerberg has touted as the future of AI. Meta is powering the updat",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -72,19 +53,41 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Claude’s voice mode is now available for Opus and Sonnet",
-      "date": "2026-07-23",
+      "rank": 3,
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "date": "2026-07-24",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "hotScore": 58.8,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "hotScore": 53.3,
       "category": "product",
       "tags": [
         "Claude"
       ],
       "week_key": "2026-W30",
       "content": {
-        "basic": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. Th",
+        "basic": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model that drew the government's ire, was taken offline for a few weeks along with Mythos 5, and then brought back with even stronger cyber safeguards than before.) The Fable 5 concerns - ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "date": "2026-07-24",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "hotScore": 53.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
+      "week_key": "2026-W30",
+      "content": {
+        "basic": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,18 +97,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "date": "2026-07-23",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "date": "2026-07-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "hotScore": 58.8,
-      "category": "product",
-      "tags": [
-        "Claude"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "hotScore": 50,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W30",
       "content": {
-        "basic": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "basic": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

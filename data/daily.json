@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-07-24",
-  "generatedAt": "2026-07-24T03:54:53.611Z",
+  "lastUpdate": "2026-07-26",
+  "generatedAt": "2026-07-26T04:07:16.792Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "date": "2026-07-24",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "date": "2026-07-26",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "hotScore": 75,
-      "category": "research",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "hotScore": 65,
+      "category": "startup",
       "tags": [],
       "content": {
-        "basic": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "basic": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,18 +22,20 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "date": "2026-07-23",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "date": "2026-07-24",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "hotScore": 61.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "hotScore": 60.8,
+      "category": "research",
       "tags": [
         "GPT",
-        "Reasoning"
+        "Claude",
+        "Gemini",
+        "Multimodal"
       ],
       "content": {
-        "basic": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" When asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there",
+        "basic": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. In a blog post, Meta says this update marks its \"next step toward personal superintelligence,\" something CEO Mark Zuckerberg has touted as the future of AI. Meta is powering the updat",
         "highlights": [],
         "scenarios": [],
         "industry": [],
