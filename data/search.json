@@ -1,20 +1,20 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "date": "2026-07-26",
+    "title": "Are brain waves the next unlock for physical AI?",
+    "date": "2026-07-27",
     "source": "TechCrunch AI",
-    "hotScore": 65,
+    "hotScore": 70,
     "category": "startup",
     "tags": [],
-    "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    "snippet": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Meta is making its AI chatbot more like an assistant",
     "date": "2026-07-24",
     "source": "The Verge AI",
-    "hotScore": 60.8,
+    "hotScore": 54.8,
     "category": "research",
     "tags": [
       "GPT",
@@ -25,49 +25,38 @@
     "snippet": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals l"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Making sense of the panic over Chinese AI",
+    "date": "2026-07-26",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "date": "2026-07-26",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
     "date": "2026-07-24",
     "source": "The Verge AI",
-    "hotScore": 53.3,
+    "hotScore": 47.3,
     "category": "product",
     "tags": [
       "Claude"
     ],
     "snippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-    "date": "2026-07-24",
-    "source": "TechCrunch AI",
-    "hotScore": 53.3,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "snippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "date": "2026-07-25",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-    "date": "2026-07-25",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -84,55 +73,26 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI makes ChatGPT Health available to all US users",
-    "date": "2026-07-23",
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "date": "2026-07-24",
     "source": "TechCrunch AI",
     "hotScore": 47.3,
     "category": "product",
     "tags": [
-      "GPT"
+      "GPT",
+      "Agent"
     ],
-    "snippet": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+    "snippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "date": "2026-07-24",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "research",
-    "tags": [],
-    "snippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "You can’t ignore Google Zero anymore",
-    "date": "2026-07-24",
-    "source": "The Verge AI",
-    "hotScore": 45.8,
-    "category": "product",
-    "tags": [],
-    "snippet": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "date": "2026-07-25",
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "date": "2026-07-26",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "date": "2026-07-25",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+    "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -160,67 +120,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic launches Opus 5",
-    "date": "2026-07-24",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "date": "2026-07-25",
     "source": "TechCrunch AI",
-    "hotScore": 44.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-    "date": "2026-07-24",
-    "source": "Wired",
-    "hotScore": 44.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Midjourney bought the astrology app Co-Star",
-    "date": "2026-07-24",
-    "source": "The Verge AI",
     "hotScore": 42,
     "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Midjourney acquired the astrology app Co-Star",
-    "date": "2026-07-24",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-    "date": "2026-07-24",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
     "tags": [],
-    "snippet": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unrelease"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
-    "date": "2026-07-24",
-    "source": "IEEE Spectrum",
-    "hotScore": 42,
-    "category": "research",
-    "tags": [],
-    "snippet": "Unlike many budding engineers, K.J. Ray Liu wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answer"
+    "snippet": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -233,37 +139,34 @@
     "snippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 41,
+    "category": "research",
+    "tags": [],
+    "snippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The tech-broification of American science has officially begun",
+    "title": "You can’t ignore Google Zero anymore",
     "date": "2026-07-24",
     "source": "The Verge AI",
-    "hotScore": 40.8,
-    "category": "policy",
-    "tags": [
-      "Multimodal",
-      "Robotics"
-    ],
-    "snippet": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion to"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Canadian legislator reads out apparent LLM response in floor speech",
-    "date": "2026-07-24",
-    "source": "Ars Technica",
-    "hotScore": 40.8,
+    "hotScore": 39.8,
     "category": "product",
     "tags": [],
-    "snippet": "\"Here’s a more natural, flowing version of that section...\""
+    "snippet": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it "
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-    "date": "2026-07-24",
-    "source": "Ars Technica",
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+    "date": "2026-07-25",
+    "source": "Wired",
     "hotScore": 39.5,
-    "category": "tech",
+    "category": "policy",
     "tags": [],
-    "snippet": "Models are improving quickly, but the cheaper options are often good enough."
+    "snippet": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -300,6 +203,16 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unv"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic launches Opus 5",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 38.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "3 Google updates from Galaxy Unpacked 2026",
     "date": "2026-07-22",
@@ -320,56 +233,34 @@
     "snippet": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We p"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia is sending GPUs to the moon",
-    "date": "2026-07-23",
-    "source": "TechCrunch AI",
-    "hotScore": 37.3,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+    "date": "2026-07-24",
+    "source": "Wired",
+    "hotScore": 38.5,
+    "category": "tech",
     "tags": [],
-    "snippet": "If there's a place in the universe without GPUs, Nvidia is sending them there."
+    "snippet": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "date": "2026-07-24",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "date": "2026-07-25",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+    "snippet": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "date": "2026-07-24",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "date": "2026-07-25",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "date": "2026-07-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "policy",
     "tags": [],
-    "snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-    "date": "2026-07-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "research",
-    "tags": [],
-    "snippet": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
+    "snippet": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -385,6 +276,18 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Midjourney bought the astrology app Co-Star",
+    "date": "2026-07-24",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Patreon is laying off 20 percent of workers",
     "date": "2026-07-23",
     "source": "The Verge AI",
@@ -392,6 +295,28 @@
     "category": "product",
     "tags": [],
     "snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these cha"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Midjourney acquired the astrology app Co-Star",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unrelease"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -414,6 +339,16 @@
       "Multimodal"
     ],
     "snippet": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
+    "date": "2026-07-24",
+    "source": "IEEE Spectrum",
+    "hotScore": 36,
+    "category": "research",
+    "tags": [],
+    "snippet": "Unlike many budding engineers, K.J. Ray Liu wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answer"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -446,6 +381,29 @@
     "snippet": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The tech-broification of American science has officially begun",
+    "date": "2026-07-24",
+    "source": "The Verge AI",
+    "hotScore": 34.8,
+    "category": "policy",
+    "tags": [
+      "Multimodal",
+      "Robotics"
+    ],
+    "snippet": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion to"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Canadian legislator reads out apparent LLM response in floor speech",
+    "date": "2026-07-24",
+    "source": "Ars Technica",
+    "hotScore": 34.8,
+    "category": "product",
+    "tags": [],
+    "snippet": "\"Here’s a more natural, flowing version of that section...\""
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
     "date": "2026-07-07",
@@ -467,6 +425,16 @@
     "category": "research",
     "tags": [],
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Las"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+    "date": "2026-07-24",
+    "source": "Ars Technica",
+    "hotScore": 33.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Models are improving quickly, but the cheaper options are often good enough."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -504,6 +472,48 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+    "date": "2026-07-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [],
+    "snippet": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "date": "2026-07-23",
     "source": "TechCrunch AI",
@@ -515,26 +525,6 @@
     "snippet": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "date": "2026-07-23",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [],
-    "snippet": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
-  },
-  {
-    "id": "aHR0cHM6Ly9ldmVudC5v",
-    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-    "date": "2026-07-20",
-    "source": "IEEE Spectrum",
-    "hotScore": 31,
-    "category": "research",
-    "tags": [],
-    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV,"
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
     "date": "2026-07-01",
@@ -543,5 +533,15 @@
     "category": "policy",
     "tags": [],
     "snippet": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "date": "2026-06-30",
+    "source": "Google AI Blog",
+    "hotScore": 30,
+    "category": "product",
+    "tags": [],
+    "snippet": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
   }
 ]
