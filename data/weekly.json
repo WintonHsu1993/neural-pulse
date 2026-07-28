@@ -4,23 +4,23 @@
     "to": "2026-07-28"
   },
   "weekKey": "2026-W30",
-  "lastUpdate": "2026-07-27",
-  "generatedAt": "2026-07-27T04:22:59.296Z",
+  "lastUpdate": "2026-07-28",
+  "generatedAt": "2026-07-28T03:47:31.839Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Are brain waves the next unlock for physical AI?",
-      "date": "2026-07-27",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "date": "2026-07-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "hotScore": 70,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W30",
       "content": {
-        "basic": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "basic": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,6 +30,49 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
+      "title": "Why China is giving away its best AI models",
+      "date": "2026-07-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "hotScore": 56.3,
+      "category": "startup",
+      "tags": [
+        "Multimodal"
+      ],
+      "week_key": "2026-W30",
+      "content": {
+        "basic": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "date": "2026-07-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [
+        "Safety",
+        "OpenSource"
+      ],
+      "week_key": "2026-W30",
+      "content": {
+        "basic": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Meta is making its AI chatbot more like an assistant",
       "date": "2026-07-24",
       "source": "The Verge AI",
@@ -52,60 +95,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Making sense of the panic over Chinese AI",
-      "date": "2026-07-26",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "hotScore": 50,
-      "category": "startup",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 5,
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "date": "2026-07-27",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "hotScore": 52.5,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W30",
       "content": {
-        "basic": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "date": "2026-07-26",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "hotScore": 50,
-      "category": "startup",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W30",
-      "content": {
-        "basic": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "date": "2026-07-24",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "hotScore": 47.3,
-      "category": "product",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W30",
-      "content": {
-        "basic": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model that drew the government's ire, was taken offline for a few weeks along with Mythos 5, and then brought back with even stronger cyber safeguards than before.) The Fable 5 concerns - ",
+        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

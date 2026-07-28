@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-07-27",
-  "generatedAt": "2026-07-27T04:22:59.296Z",
+  "lastUpdate": "2026-07-28",
+  "generatedAt": "2026-07-28T03:47:31.839Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "date": "2026-07-27",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "date": "2026-07-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "hotScore": 70,
       "category": "startup",
       "tags": [],
       "content": {
-        "basic": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "basic": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,20 +22,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "date": "2026-07-24",
+      "title": "Why China is giving away its best AI models",
+      "date": "2026-07-27",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "hotScore": 54.8,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "hotScore": 56.3,
+      "category": "startup",
       "tags": [
-        "GPT",
-        "Claude",
-        "Gemini",
         "Multimodal"
       ],
       "content": {
-        "basic": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. In a blog post, Meta says this update marks its \"next step toward personal superintelligence,\" something CEO Mark Zuckerberg has touted as the future of AI. Meta is powering the updat",
+        "basic": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
