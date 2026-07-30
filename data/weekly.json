@@ -1,26 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-07-22",
-    "to": "2026-07-28"
+    "from": "2026-07-29",
+    "to": "2026-08-04"
   },
-  "weekKey": "2026-W30",
-  "lastUpdate": "2026-07-28",
-  "generatedAt": "2026-07-28T03:47:31.839Z",
+  "weekKey": "2026-W31",
+  "lastUpdate": "2026-07-30",
+  "generatedAt": "2026-07-30T03:41:54.806Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "date": "2026-07-28",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "date": "2026-07-30",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "hotScore": 70,
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "hotScore": 75,
       "category": "startup",
       "tags": [],
-      "week_key": "2026-W30",
+      "week_key": "2026-W31",
       "content": {
-        "basic": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "basic": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,18 +30,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "Why China is giving away its best AI models",
-      "date": "2026-07-27",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "date": "2026-07-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "hotScore": 56.3,
-      "category": "startup",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "hotScore": 55,
+      "category": "product",
       "tags": [
-        "Multimodal"
+        "Agent"
       ],
-      "week_key": "2026-W30",
+      "week_key": "2026-W31",
       "content": {
-        "basic": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and ",
+        "basic": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog post detailing its ongoing investigation into the incident, OpenAI said the wayward AI agent attacked several \"publicly-available services\" in its efforts to reach Hugging Face. \"This includes four accounts on four services,\" the company said, addin",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -51,19 +51,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "date": "2026-07-27",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "date": "2026-07-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
       "hotScore": 55,
       "category": "policy",
       "tags": [
-        "Safety",
-        "OpenSource"
+        "Safety"
       ],
-      "week_key": "2026-W30",
+      "week_key": "2026-W31",
       "content": {
-        "basic": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting ",
+        "basic": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO of AI safety organization FAR.AI, put it, \"a visceral example of how misaligned AI could cause harm.\" According to OpenAI, the models escaped the sandbox meant to contain them, moved through the company's internal systems, found a route to the internet, and then started ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -71,23 +70,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 4,
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "date": "2026-07-24",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "hotScore": 54.8,
-      "category": "research",
-      "tags": [
-        "GPT",
-        "Claude",
-        "Gemini",
-        "Multimodal"
-      ],
-      "week_key": "2026-W30",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "date": "2026-07-29",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W31",
       "content": {
-        "basic": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. In a blog post, Meta says this update marks its \"next step toward personal superintelligence,\" something CEO Mark Zuckerberg has touted as the future of AI. Meta is powering the updat",
+        "basic": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -95,18 +89,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 5,
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "date": "2026-07-27",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
+      "date": "2026-07-29",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
       "hotScore": 52.5,
-      "category": "product",
+      "category": "research",
       "tags": [],
-      "week_key": "2026-W30",
+      "week_key": "2026-W31",
       "content": {
-        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
+        "basic": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and access to industry networks, resources that remain unevenly distributed across higher education. At North Carolina Central University, Siobahn Day Grady is trying to change that equation. In January 2025, Grady, an associate professor in the NCCU School of Library and Information Sciences, launched ",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-07-28",
-  "generatedAt": "2026-07-28T03:47:31.839Z",
+  "lastUpdate": "2026-07-30",
+  "generatedAt": "2026-07-30T03:41:54.806Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "date": "2026-07-28",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "date": "2026-07-30",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "hotScore": 70,
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "hotScore": 75,
       "category": "startup",
       "tags": [],
       "content": {
-        "basic": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "basic": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,17 +22,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Why China is giving away its best AI models",
-      "date": "2026-07-27",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "date": "2026-07-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "hotScore": 56.3,
-      "category": "startup",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "hotScore": 55,
+      "category": "product",
       "tags": [
-        "Multimodal"
+        "Agent"
       ],
       "content": {
-        "basic": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and ",
+        "basic": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog post detailing its ongoing investigation into the incident, OpenAI said the wayward AI agent attacked several \"publicly-available services\" in its efforts to reach Hugging Face. \"This includes four accounts on four services,\" the company said, addin",
         "highlights": [],
         "scenarios": [],
         "industry": [],
