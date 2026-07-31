@@ -4,23 +4,66 @@
     "to": "2026-08-04"
   },
   "weekKey": "2026-W31",
-  "lastUpdate": "2026-07-30",
-  "generatedAt": "2026-07-30T03:41:54.806Z",
+  "lastUpdate": "2026-07-31",
+  "generatedAt": "2026-07-31T04:01:24.949Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 1,
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "date": "2026-07-30",
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "date": "2026-07-31",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "hotScore": 78.8,
+      "category": "startup",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W31",
+      "content": {
+        "basic": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "date": "2026-07-31",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "hotScore": 75,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W31",
       "content": {
-        "basic": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "basic": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 3,
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "date": "2026-07-30",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "hotScore": 65,
+      "category": "tech",
+      "tags": [
+        "Gemini",
+        "Robotics"
+      ],
+      "week_key": "2026-W31",
+      "content": {
+        "basic": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -29,78 +72,38 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "date": "2026-07-29",
+      "rank": 4,
+      "title": "The loss of Situational Awareness",
+      "date": "2026-07-30",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "hotScore": 55,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "hotScore": 58.8,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W31",
+      "content": {
+        "basic": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\" Anyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, dep",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 5,
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
+      "date": "2026-07-30",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "hotScore": 57.5,
+      "category": "tech",
       "tags": [
         "Agent"
       ],
       "week_key": "2026-W31",
       "content": {
-        "basic": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog post detailing its ongoing investigation into the incident, OpenAI said the wayward AI agent attacked several \"publicly-available services\" in its efforts to reach Hugging Face. \"This includes four accounts on four services,\" the company said, addin",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "We’re running out of reasons to ignore AI safety",
-      "date": "2026-07-29",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W31",
-      "content": {
-        "basic": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO of AI safety organization FAR.AI, put it, \"a visceral example of how misaligned AI could cause harm.\" According to OpenAI, the models escaped the sandbox meant to contain them, moved through the company's internal systems, found a route to the internet, and then started ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "date": "2026-07-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "hotScore": 55,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W31",
-      "content": {
-        "basic": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 5,
-      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
-      "date": "2026-07-29",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-      "hotScore": 52.5,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W31",
-      "content": {
-        "basic": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and access to industry networks, resources that remain unevenly distributed across higher education. At North Carolina Central University, Siobahn Day Grady is trying to change that equation. In January 2025, Grady, an associate professor in the NCCU School of Library and Information Sciences, launched ",
+        "basic": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
