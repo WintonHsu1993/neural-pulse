@@ -4,25 +4,25 @@
     "to": "2026-08-04"
   },
   "weekKey": "2026-W31",
-  "lastUpdate": "2026-07-31",
-  "generatedAt": "2026-07-31T04:01:24.949Z",
+  "lastUpdate": "2026-08-02",
+  "generatedAt": "2026-08-02T04:04:18.519Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "title": "Anthropic says Claude accidentally hacked real companies too",
       "date": "2026-07-31",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "hotScore": 78.8,
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "hotScore": 58.3,
       "category": "startup",
       "tags": [
         "Claude"
       ],
       "week_key": "2026-W31",
       "content": {
-        "basic": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+        "basic": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. In a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happen",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -32,16 +32,37 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "date": "2026-07-31",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "date": "2026-08-01",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "hotScore": 75,
+      "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "hotScore": 56.3,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W31",
       "content": {
-        "basic": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "basic": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "date": "2026-08-01",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "hotScore": 56.3,
+      "category": "startup",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W31",
+      "content": {
+        "basic": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -50,20 +71,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 3,
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "date": "2026-07-30",
+      "rank": 4,
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "date": "2026-08-01",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "hotScore": 65,
-      "category": "tech",
-      "tags": [
-        "Gemini",
-        "Robotics"
-      ],
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "hotScore": 52.5,
+      "category": "policy",
+      "tags": [],
       "week_key": "2026-W31",
       "content": {
-        "basic": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+        "basic": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -72,38 +90,19 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "The loss of Situational Awareness",
-      "date": "2026-07-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "hotScore": 58.8,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W31",
-      "content": {
-        "basic": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\" Anyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, dep",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 5,
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "date": "2026-07-30",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "hotScore": 57.5,
-      "category": "tech",
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "date": "2026-08-01",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "hotScore": 50,
+      "category": "startup",
       "tags": [
-        "Agent"
+        "Multimodal"
       ],
       "week_key": "2026-W31",
       "content": {
-        "basic": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+        "basic": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them. Part of the suspicion is certainly due to the fact that the song is a dramatic left turn. Fenix has primar",
         "highlights": [],
         "scenarios": [],
         "industry": [],

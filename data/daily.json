@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-07-31",
-  "generatedAt": "2026-07-31T04:01:24.949Z",
+  "lastUpdate": "2026-08-02",
+  "generatedAt": "2026-08-02T04:04:18.519Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic says Claude accidentally hacked real companies too",
       "date": "2026-07-31",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "hotScore": 78.8,
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "hotScore": 58.3,
       "category": "startup",
       "tags": [
         "Claude"
       ],
       "content": {
-        "basic": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+        "basic": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. In a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happen",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,15 +24,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "date": "2026-07-31",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "date": "2026-08-01",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "hotScore": 75,
+      "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "hotScore": 56.3,
       "category": "startup",
       "tags": [],
       "content": {
-        "basic": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "basic": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
