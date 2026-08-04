@@ -1,10 +1,68 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "hotScore": 61.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "date": "2026-08-03",
+    "source": "MIT Technology Review",
+    "hotScore": 57.5,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "date": "2026-08-03",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tech giant Alibaba released what it says is its largest and \"mo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "date": "2026-08-02",
+    "source": "The Verge AI",
+    "hotScore": 54.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is ta"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "date": "2026-08-03",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When t"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Anthropic says Claude accidentally hacked real companies too",
     "date": "2026-07-31",
     "source": "The Verge AI",
-    "hotScore": 58.3,
+    "hotScore": 52.3,
     "category": "startup",
     "tags": [
       "Claude"
@@ -13,128 +71,75 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "date": "2026-08-01",
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "date": "2026-08-03",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "date": "2026-08-01",
-    "source": "TechCrunch AI",
-    "hotScore": 56.3,
-    "category": "startup",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-    "date": "2026-08-01",
-    "source": "Wired",
-    "hotScore": 52.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "date": "2026-08-01",
-    "source": "The Verge AI",
     "hotScore": 50,
     "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the t"
+    "tags": [],
+    "snippet": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "This $9 key physically locks your most addictive apps",
-    "date": "2026-08-01",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "date": "2026-08-03",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
+    "hotScore": 50,
     "category": "product",
     "tags": [],
-    "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+    "snippet": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "It’s time to panic about AI safety",
-    "date": "2026-07-31",
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "date": "2026-08-03",
     "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "startup",
-    "tags": [],
-    "snippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "date": "2026-08-01",
-    "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "policy",
     "tags": [
       "Multimodal"
     ],
-    "snippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+    "snippet": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge The European Union has ushered in some additional rules that aim to make "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The loss of Situational Awareness",
-    "date": "2026-07-30",
-    "source": "The Verge AI",
-    "hotScore": 44.8,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
     "tags": [],
-    "snippet": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if "
+    "snippet": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "date": "2026-07-28",
-    "source": "Google AI Blog",
-    "hotScore": 44.8,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Agent"
-    ],
-    "snippet": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Here’s the problem with putting an AI image generator in Google Earth",
-    "date": "2026-07-31",
-    "source": "The Verge AI",
-    "hotScore": 43.3,
-    "category": "policy",
-    "tags": [
-      "Gemini",
-      "Multimodal"
-    ],
-    "snippet": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Diggin"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "date": "2026-08-03",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -147,128 +152,37 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-    "date": "2026-07-30",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "date": "2026-08-01",
+    "source": "TechCrunch AI",
     "hotScore": 42.3,
-    "category": "hardware",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-    "date": "2026-07-30",
-    "source": "The Verge AI",
-    "hotScore": 42.3,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Multimodal",
-      "Robotics"
-    ],
-    "snippet": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While th"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-    "date": "2026-07-31",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts usin"
+    "category": "startup",
+    "tags": [],
+    "snippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "date": "2026-07-31",
+    "title": "Sam Altman and AI’s decel debate",
+    "date": "2026-08-02",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
+    "tags": [],
+    "snippet": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "It’s time to panic about AI safety",
+    "date": "2026-07-31",
+    "source": "The Verge AI",
+    "hotScore": 41,
+    "category": "research",
     "tags": [
+      "Safety",
       "Agent"
     ],
-    "snippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Siri AI could come with a paywall for power users",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "date": "2026-07-30",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "research",
-    "tags": [],
-    "snippet": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "date": "2026-07-28",
-    "source": "Google AI Blog",
-    "hotScore": 41,
-    "category": "research",
-    "tags": [],
-    "snippet": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "5 ways to host the ultimate dinner party with Google Search",
-    "date": "2026-07-28",
-    "source": "Google AI Blog",
-    "hotScore": 41,
-    "category": "product",
-    "tags": [],
-    "snippet": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-    "date": "2026-07-31",
-    "source": "Ars Technica",
-    "hotScore": 40.8,
-    "category": "tech",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Had the hacks used conventional methods, someone would likely go to prison."
+    "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -283,24 +197,17 @@
     "snippet": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
     "date": "2026-07-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 39.8,
-    "category": "research",
-    "tags": [],
-    "snippet": "In shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America? The answer she landed on was training them for tech jobs. M"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "India is starting to pay for apps, not just download them",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
+    "source": "Google AI Blog",
+    "hotScore": 38.8,
     "category": "product",
-    "tags": [],
-    "snippet": "India's app market generated a record $345 million in Q2."
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "snippet": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -313,16 +220,6 @@
       "Gemini"
     ],
     "snippet": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-    "date": "2026-07-28",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -345,96 +242,99 @@
     "snippet": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is inc"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "date": "2026-07-31",
+    "source": "The Verge AI",
+    "hotScore": 37.3,
+    "category": "policy",
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Diggin"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "date": "2026-07-30",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "date": "2026-08-01",
     "source": "TechCrunch AI",
     "hotScore": 37.3,
-    "category": "product",
-    "tags": [],
-    "snippet": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and "
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The major labels propose rules to keep AI slop off the charts",
-    "date": "2026-07-31",
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "date": "2026-08-02",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. T"
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on A"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "date": "2026-08-01",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "date": "2026-07-31",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts usin"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "date": "2026-07-31",
     "source": "TechCrunch AI",
-    "hotScore": 37,
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "date": "2026-07-31",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Siri AI could come with a paywall for power users",
+    "date": "2026-07-31",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
     "category": "product",
     "tags": [
       "Multimodal"
     ],
-    "snippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "date": "2026-07-31",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The startup is building voice models designed to make AI phone calls pass the Turing test."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-    "date": "2026-07-30",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "date": "2026-07-30",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "date": "2026-07-30",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [],
-    "snippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
+    "snippet": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -448,6 +348,26 @@
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "date": "2026-07-28",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [],
+    "snippet": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "date": "2026-07-28",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "product",
+    "tags": [],
+    "snippet": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Connect more of your apps to Search",
     "date": "2026-07-16",
     "source": "Google AI Blog",
@@ -455,6 +375,18 @@
     "category": "product",
     "tags": [],
     "snippet": "You’ll be able to securely link and interact with your go-to services directly in AI Mode."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+    "date": "2026-07-31",
+    "source": "Ars Technica",
+    "hotScore": 34.8,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Had the hacks used conventional methods, someone would likely go to prison."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -470,14 +402,34 @@
     "snippet": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
   },
   {
-    "id": "aHR0cHM6Ly9jb250ZW50",
-    "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
-    "date": "2026-07-27",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
+    "date": "2026-07-28",
     "source": "IEEE Spectrum",
-    "hotScore": 33.5,
+    "hotScore": 33.8,
     "category": "research",
     "tags": [],
-    "snippet": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-ag"
+    "snippet": "In shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America? The answer she landed on was training them for tech jobs. M"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "This $9 key physically locks your most addictive apps",
+    "date": "2026-08-01",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "India is starting to pay for apps, not just download them",
+    "date": "2026-07-31",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "India's app market generated a record $345 million in Q2."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -512,24 +464,68 @@
     "snippet": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We p"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "date": "2026-07-30",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "date": "2026-07-31",
+    "source": "The Verge AI",
     "hotScore": 31,
-    "category": "startup",
+    "category": "industry",
     "tags": [],
-    "snippet": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
+    "snippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. T"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "date": "2026-07-30",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "date": "2026-08-01",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "date": "2026-07-31",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "date": "2026-07-31",
     "source": "TechCrunch AI",
     "hotScore": 31,
     "category": "startup",
     "tags": [],
-    "snippet": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
+    "snippet": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "date": "2026-07-31",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "date": "2026-07-31",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The startup is building voice models designed to make AI phone calls pass the Turing test."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -540,5 +536,15 @@
     "category": "research",
     "tags": [],
     "snippet": "Unlike many budding engineers, K.J. Ray Liu wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answer"
+  },
+  {
+    "id": "aHR0cHM6Ly9jb250ZW50",
+    "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+    "date": "2026-07-27",
+    "source": "IEEE Spectrum",
+    "hotScore": 27.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-ag"
   }
 ]

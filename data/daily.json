@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-08-02",
-  "generatedAt": "2026-08-02T04:04:18.519Z",
+  "lastUpdate": "2026-08-04",
+  "generatedAt": "2026-08-04T03:49:17.110Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "date": "2026-07-31",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "hotScore": 58.3,
-      "category": "startup",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "date": "2026-08-03",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "hotScore": 61.3,
+      "category": "policy",
       "tags": [
-        "Claude"
+        "GPT"
       ],
       "content": {
-        "basic": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. In a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happen",
+        "basic": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "date": "2026-08-01",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "hotScore": 56.3,
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "date": "2026-08-03",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "hotScore": 57.5,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "Agent"
+      ],
       "content": {
-        "basic": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "basic": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
