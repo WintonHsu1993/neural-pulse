@@ -1,21 +1,23 @@
 {
-  "lastUpdate": "2026-08-04",
-  "generatedAt": "2026-08-04T03:49:17.110Z",
+  "lastUpdate": "2026-08-07",
+  "generatedAt": "2026-08-07T03:30:18.804Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "date": "2026-08-03",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "hotScore": 61.3,
-      "category": "policy",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "date": "2026-08-06",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "hotScore": 66.3,
+      "category": "industry",
       "tags": [
-        "GPT"
+        "GPT",
+        "Multimodal",
+        "Reasoning"
       ],
       "content": {
-        "basic": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+        "basic": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will be going away soon. Messages that include things like file uploads and images will continue to have limits. Next week, OpenAI is also adding a \"Think\" button for free and Go users that they can use to \"access higher reasoning for harder questions.\" This week, for those users, the",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +25,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "date": "2026-08-03",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "hotScore": 57.5,
-      "category": "startup",
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "date": "2026-08-06",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "hotScore": 66.3,
+      "category": "hardware",
       "tags": [
-        "Agent"
+        "Claude"
       ],
       "content": {
-        "basic": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+        "basic": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

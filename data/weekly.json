@@ -1,49 +1,91 @@
 {
   "weekRange": {
-    "from": "2026-07-29",
-    "to": "2026-08-04"
+    "from": "2026-08-05",
+    "to": "2026-08-11"
   },
-  "weekKey": "2026-W31",
-  "lastUpdate": "2026-08-04",
-  "generatedAt": "2026-08-04T03:49:17.110Z",
+  "weekKey": "2026-W32",
+  "lastUpdate": "2026-08-07",
+  "generatedAt": "2026-08-07T03:30:18.804Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "date": "2026-08-03",
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "date": "2026-08-06",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "hotScore": 66.3,
+      "category": "industry",
+      "tags": [
+        "GPT",
+        "Multimodal",
+        "Reasoning"
+      ],
+      "week_key": "2026-W32",
+      "content": {
+        "basic": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will be going away soon. Messages that include things like file uploads and images will continue to have limits. Next week, OpenAI is also adding a \"Think\" button for free and Go users that they can use to \"access higher reasoning for harder questions.\" This week, for those users, the",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 2,
+      "title": "Anthropic will design its own hardware to power Claude",
+      "date": "2026-08-06",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "hotScore": 66.3,
+      "category": "hardware",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W32",
+      "content": {
+        "basic": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 3,
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "date": "2026-08-07",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "hotScore": 62.5,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W32",
+      "content": {
+        "basic": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "date": "2026-08-06",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "hotScore": 61.3,
-      "category": "policy",
+      "category": "startup",
       "tags": [
         "GPT"
       ],
-      "week_key": "2026-W31",
+      "week_key": "2026-W32",
       "content": {
-        "basic": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 2,
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "date": "2026-08-03",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "hotScore": 57.5,
-      "category": "startup",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W31",
-      "content": {
-        "basic": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+        "basic": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -52,59 +94,19 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "date": "2026-08-03",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [
-        "Multimodal"
-      ],
-      "week_key": "2026-W31",
-      "content": {
-        "basic": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was \"second ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "date": "2026-08-02",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "hotScore": 54.5,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W31",
-      "content": {
-        "basic": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition. Like most companies selling access to text-to-video models, Pippa's main product is short bursts of ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 5,
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "date": "2026-08-03",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "hotScore": 52.5,
-      "category": "research",
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "date": "2026-08-06",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "hotScore": 56.3,
+      "category": "startup",
       "tags": [
-        "Agent"
+        "GPT"
       ],
-      "week_key": "2026-W31",
+      "week_key": "2026-W32",
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
+        "basic": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information as \"trade secrets,\" adding that Apple made no reasonable efforts to maintain such secrecy. The dismissal request is in response to a lawsuit filed by Apple in July, alleging that former Apple employees that went on to work for OpenA",
         "highlights": [],
         "scenarios": [],
         "industry": [],
