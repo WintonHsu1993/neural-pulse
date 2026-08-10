@@ -4,42 +4,25 @@
     "to": "2026-08-11"
   },
   "weekKey": "2026-W32",
-  "lastUpdate": "2026-08-08",
-  "generatedAt": "2026-08-08T02:28:55.294Z",
+  "lastUpdate": "2026-08-10",
+  "generatedAt": "2026-08-10T02:41:34.512Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "date": "2026-08-07",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-      "hotScore": 62.5,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W32",
-      "content": {
-        "basic": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "rank": 2,
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "date": "2026-08-07",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "date": "2026-08-09",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "hotScore": 58.8,
-      "category": "tech",
-      "tags": [],
+      "category": "startup",
+      "tags": [
+        "Claude"
+      ],
       "week_key": "2026-W32",
       "content": {
-        "basic": "TikTok owner training a model with 10 trillion parameters.",
+        "basic": "Programming with Claude Code will soon require even less human oversight.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -48,12 +31,54 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "AI detectors are creating a new era of distrust",
+      "date": "2026-08-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "hotScore": 56.3,
+      "category": "industry",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W32",
+      "content": {
+        "basic": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phra",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "date": "2026-08-08",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "hotScore": 53.3,
+      "category": "startup",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W32",
+      "content": {
+        "basic": "NextSlide says its team members are now working on ChatGPT.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "OpenAI is giving ChatGPT free users unlimited text chats",
       "date": "2026-08-06",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "hotScore": 58.3,
+      "hotScore": 52.3,
       "category": "industry",
       "tags": [
         "GPT",
@@ -70,41 +95,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "rank": 4,
-      "title": "Anthropic will design its own hardware to power Claude",
-      "date": "2026-08-06",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "hotScore": 58.3,
-      "category": "hardware",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W32",
-      "content": {
-        "basic": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 5,
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "date": "2026-08-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "hotScore": 55,
-      "category": "startup",
-      "tags": [
-        "Agent"
-      ],
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "date": "2026-08-09",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "hotScore": 51.3,
+      "category": "hardware",
+      "tags": [],
       "week_key": "2026-W32",
       "content": {
-        "basic": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. Recent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to exp",
+        "basic": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
         "highlights": [],
         "scenarios": [],
         "industry": [],

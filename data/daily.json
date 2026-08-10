@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-08-08",
-  "generatedAt": "2026-08-08T02:28:55.294Z",
+  "lastUpdate": "2026-08-10",
+  "generatedAt": "2026-08-10T02:41:34.512Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "date": "2026-08-07",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "date": "2026-08-09",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "hotScore": 58.8,
-      "category": "tech",
-      "tags": [],
+      "category": "startup",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "TikTok owner training a model with 10 trillion parameters.",
+        "basic": "Programming with Claude Code will soon require even less human oversight.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,19 +24,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "date": "2026-08-06",
+      "title": "AI detectors are creating a new era of distrust",
+      "date": "2026-08-09",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "hotScore": 58.3,
+      "sourceUrl": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "hotScore": 56.3,
       "category": "industry",
       "tags": [
-        "GPT",
-        "Multimodal",
-        "Reasoning"
+        "GPT"
       ],
       "content": {
-        "basic": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will be going away soon. Messages that include things like file uploads and images will continue to have limits. Next week, OpenAI is also adding a \"Think\" button for free and Go users that they can use to \"access higher reasoning for harder questions.\" This week, for those users, the",
+        "basic": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phra",
         "highlights": [],
         "scenarios": [],
         "industry": [],
