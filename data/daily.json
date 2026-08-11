@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-08-10",
-  "generatedAt": "2026-08-10T02:41:34.512Z",
+  "lastUpdate": "2026-08-11",
+  "generatedAt": "2026-08-11T02:35:36.347Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "date": "2026-08-09",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "date": "2026-08-11",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "hotScore": 58.8,
+      "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "hotScore": 70,
       "category": "startup",
-      "tags": [
-        "Claude"
-      ],
+      "tags": [],
       "content": {
-        "basic": "Programming with Claude Code will soon require even less human oversight.",
+        "basic": "San Francisco's housing market is in trouble again.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "AI detectors are creating a new era of distrust",
-      "date": "2026-08-09",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "hotScore": 56.3,
-      "category": "industry",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "AI for science needs reasoning, not just data",
+      "date": "2026-08-10",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "hotScore": 61.3,
+      "category": "hardware",
       "tags": [
-        "GPT"
+        "Reasoning"
       ],
       "content": {
-        "basic": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phra",
+        "basic": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
