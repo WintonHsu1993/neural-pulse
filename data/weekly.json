@@ -1,66 +1,29 @@
 {
   "weekRange": {
-    "from": "2026-08-05",
-    "to": "2026-08-11"
+    "from": "2026-08-12",
+    "to": "2026-08-18"
   },
-  "weekKey": "2026-W32",
-  "lastUpdate": "2026-08-11",
-  "generatedAt": "2026-08-11T02:35:36.347Z",
+  "weekKey": "2026-W33",
+  "lastUpdate": "2026-08-13",
+  "generatedAt": "2026-08-13T03:08:23.913Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "date": "2026-08-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "hotScore": 70,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W32",
-      "content": {
-        "basic": "San Francisco's housing market is in trouble again.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 2,
-      "title": "AI for science needs reasoning, not just data",
-      "date": "2026-08-10",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "hotScore": 61.3,
-      "category": "hardware",
-      "tags": [
-        "Reasoning"
-      ],
-      "week_key": "2026-W32",
-      "content": {
-        "basic": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 3,
-      "title": "These startups are chasing the next big thing in LLMs",
-      "date": "2026-08-10",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "date": "2026-08-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "hotScore": 58.8,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W32",
+      "category": "policy",
+      "tags": [
+        "Multimodal",
+        "Safety"
+      ],
+      "week_key": "2026-W33",
       "content": {
-        "basic": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new…",
+        "basic": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -68,20 +31,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 4,
-      "title": "Evolve your marketing with new AI tools",
-      "date": "2026-08-10",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "hotScore": 55,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "date": "2026-08-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "hotScore": 56.3,
+      "category": "startup",
       "tags": [
-        "Agent"
+        "GPT"
       ],
-      "week_key": "2026-W32",
+      "week_key": "2026-W33",
       "content": {
-        "basic": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+        "basic": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans. At the center of Gamgee's origin story is Rosie, Conyngham's",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -90,19 +53,59 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "date": "2026-08-09",
+      "rank": 3,
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "date": "2026-08-12",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "hotScore": 50.8,
+      "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "hotScore": 53.8,
       "category": "startup",
       "tags": [
         "Claude"
       ],
-      "week_key": "2026-W32",
+      "week_key": "2026-W33",
       "content": {
-        "basic": "Programming with Claude Code will soon require even less human oversight.",
+        "basic": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 4,
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "date": "2026-08-12",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "hotScore": 52.5,
+      "category": "tech",
+      "tags": [],
+      "week_key": "2026-W33",
+      "content": {
+        "basic": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "date": "2026-08-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "hotScore": 51.3,
+      "category": "industry",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W33",
+      "content": {
+        "basic": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam.\" Saber describes Rideshare \"Stimulator\" as an \"immersive driving ",
         "highlights": [],
         "scenarios": [],
         "industry": [],

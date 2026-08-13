@@ -1,19 +1,23 @@
 {
-  "lastUpdate": "2026-08-11",
-  "generatedAt": "2026-08-11T02:35:36.347Z",
+  "lastUpdate": "2026-08-13",
+  "generatedAt": "2026-08-13T03:08:23.913Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
       "date": "2026-08-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "hotScore": 70,
-      "category": "startup",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "hotScore": 59.5,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Gemini",
+        "Multimodal"
+      ],
       "content": {
-        "basic": "San Francisco's housing market is in trouble again.",
+        "basic": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an otherwise anodyne blog post about how people use AI. External data sugges",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,18 +25,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "AI for science needs reasoning, not just data",
-      "date": "2026-08-10",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "hotScore": 61.3,
-      "category": "hardware",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "date": "2026-08-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "hotScore": 58.8,
+      "category": "policy",
       "tags": [
-        "Reasoning"
+        "Multimodal",
+        "Safety"
       ],
       "content": {
-        "basic": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
+        "basic": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern",
         "highlights": [],
         "scenarios": [],
         "industry": [],
