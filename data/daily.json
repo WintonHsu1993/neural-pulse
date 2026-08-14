@@ -1,23 +1,21 @@
 {
-  "lastUpdate": "2026-08-13",
-  "generatedAt": "2026-08-13T03:08:23.913Z",
+  "lastUpdate": "2026-08-14",
+  "generatedAt": "2026-08-14T03:06:56.931Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "date": "2026-08-11",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "hotScore": 59.5,
-      "category": "product",
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "date": "2026-08-13",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "hotScore": 58.8,
+      "category": "tech",
       "tags": [
-        "GPT",
-        "Gemini",
-        "Multimodal"
+        "Claude"
       ],
       "content": {
-        "basic": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an otherwise anodyne blog post about how people use AI. External data sugges",
+        "basic": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,19 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "date": "2026-08-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "hotScore": 58.8,
-      "category": "policy",
-      "tags": [
-        "Multimodal",
-        "Safety"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "How kids feel about AI, in their own words",
+      "date": "2026-08-13",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "hotScore": 56.3,
+      "category": "hardware",
+      "tags": [],
       "content": {
-        "basic": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern",
+        "basic": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

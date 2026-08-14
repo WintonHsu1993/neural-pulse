@@ -4,26 +4,25 @@
     "to": "2026-08-18"
   },
   "weekKey": "2026-W33",
-  "lastUpdate": "2026-08-13",
-  "generatedAt": "2026-08-13T03:08:23.913Z",
+  "lastUpdate": "2026-08-14",
+  "generatedAt": "2026-08-14T03:06:56.931Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
       "rank": 1,
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "date": "2026-08-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "date": "2026-08-13",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
       "hotScore": 58.8,
-      "category": "policy",
+      "category": "tech",
       "tags": [
-        "Multimodal",
-        "Safety"
+        "Claude"
       ],
       "week_key": "2026-W33",
       "content": {
-        "basic": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern",
+        "basic": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,20 +30,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 2,
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "date": "2026-08-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "title": "How kids feel about AI, in their own words",
+      "date": "2026-08-13",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
       "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "category": "hardware",
+      "tags": [],
       "week_key": "2026-W33",
       "content": {
-        "basic": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans. At the center of Gamgee's origin story is Rosie, Conyngham's",
+        "basic": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -54,18 +51,18 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "date": "2026-08-12",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "date": "2026-08-13",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "hotScore": 53.8,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [
-        "Claude"
+        "GPT"
       ],
       "week_key": "2026-W33",
       "content": {
-        "basic": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "basic": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -73,18 +70,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "date": "2026-08-12",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "hotScore": 52.5,
-      "category": "tech",
+      "title": "OpenAI is losing its second executive this week",
+      "date": "2026-08-13",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "hotScore": 55,
+      "category": "industry",
       "tags": [],
       "week_key": "2026-W33",
       "content": {
-        "basic": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+        "basic": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says. Dresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects r",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,18 +91,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-      "date": "2026-08-12",
+      "title": "Does Google even want to win at AI?",
+      "date": "2026-08-13",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "hotScore": 51.3,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "hotScore": 55,
+      "category": "research",
       "tags": [
-        "GPT"
+        "Multimodal"
       ],
       "week_key": "2026-W33",
       "content": {
-        "basic": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam.\" Saber describes Rideshare \"Stimulator\" as an \"immersive driving ",
+        "basic": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is leaving to form his own startup and DeepMind cofounder and CEO Demis Hassabis is stepping aside to focus on longer-term research. You can read these moves, and Google’s reaction, in a lot of different ways. So I really wanted to sit down with Hayden to di",
         "highlights": [],
         "scenarios": [],
         "industry": [],

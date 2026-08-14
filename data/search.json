@@ -1,24 +1,133 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "ChatGPT and Gemini both just passed 1 billion users",
-    "date": "2026-08-11",
-    "source": "The Verge AI",
-    "hotScore": 59.5,
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic could be worth $2 trillion when it goes public",
+    "date": "2026-08-13",
+    "source": "Ars Technica",
+    "hotScore": 58.8,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "How kids feel about AI, in their own words",
+    "date": "2026-08-13",
+    "source": "MIT Technology Review",
+    "hotScore": 56.3,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
     "category": "product",
     "tags": [
-      "GPT",
-      "Gemini",
+      "GPT"
+    ],
+    "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI is losing its second executive this week",
+    "date": "2026-08-13",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Does Google even want to win at AI?",
+    "date": "2026-08-13",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [
       "Multimodal"
     ],
-    "snippet": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people a"
+    "snippet": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 53.8,
+    "category": "startup",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+    "date": "2026-08-13",
+    "source": "Ars Technica",
+    "hotScore": 53.8,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "The mark flags anything Claude processed, even human writing it only edited."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "date": "2026-08-13",
+    "source": "Google AI Blog",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "The Safety Reckoning Inside OpenAI",
+    "date": "2026-08-13",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "policy",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Twitch streamers can now opt out from training Amazon’s AI",
     "date": "2026-08-12",
     "source": "The Verge AI",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "policy",
     "tags": [
       "Multimodal",
@@ -28,10 +137,65 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Suno is trying to look more like a real music production tool",
+    "date": "2026-08-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
+    "date": "2026-08-13",
+    "source": "IEEE Spectrum",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "date": "2026-08-13",
+    "source": "Ars Technica",
+    "hotScore": 48.8,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
     "date": "2026-08-12",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "startup",
     "tags": [
       "GPT"
@@ -43,7 +207,7 @@
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "date": "2026-08-12",
     "source": "TechCrunch AI",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "startup",
     "tags": [
       "Claude"
@@ -51,80 +215,97 @@
     "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "date": "2026-08-11",
-    "source": "TechCrunch AI",
-    "hotScore": 53.3,
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "date": "2026-08-13",
+    "source": "The Verge AI",
+    "hotScore": 45,
     "category": "product",
     "tags": [
-      "GPT"
+      "Multimodal"
     ],
-    "snippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-    "date": "2026-08-12",
-    "source": "Wired",
-    "hotScore": 52.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning."
+    "snippet": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's goin"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-    "date": "2026-08-12",
+    "title": "I looked inside an AI generated movie, and the best parts were all human",
+    "date": "2026-08-13",
     "source": "The Verge AI",
-    "hotScore": 51.3,
-    "category": "industry",
+    "hotScore": 45,
+    "category": "startup",
     "tags": [
-      "GPT"
+      "Multimodal"
     ],
-    "snippet": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an"
+    "snippet": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+    "date": "2026-08-13",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"s"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "research",
+    "tags": [],
+    "snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "date": "2026-08-13",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
     "date": "2026-08-12",
     "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Maybe don’t let the AI shred next time. | Image: D’Addario After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent pro"
+    "hotScore": 42,
+    "category": "product",
+    "tags": [],
+    "snippet": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denie"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
     "date": "2026-08-12",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "hardware",
     "tags": [],
     "snippet": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Grok is now an AI ‘teammate’ you can assign work",
-    "date": "2026-08-12",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "As AI safety concerns mount, three pioneers make the case for staying open",
     "date": "2026-08-12",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "policy",
     "tags": [
       "Safety",
@@ -137,7 +318,7 @@
     "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
     "date": "2026-08-12",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
@@ -147,212 +328,10 @@
     "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
     "date": "2026-08-12",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [],
     "snippet": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 48.8,
-    "category": "startup",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Made by Google 2026: all the Pixel news and announcements",
-    "date": "2026-08-11",
-    "source": "The Verge AI",
-    "hotScore": 48.3,
-    "category": "policy",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI for science needs reasoning, not just data",
-    "date": "2026-08-10",
-    "source": "MIT Technology Review",
-    "hotScore": 47.3,
-    "category": "hardware",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Another OpenAI executive takes off",
-    "date": "2026-08-11",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told col"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "date": "2026-08-11",
-    "source": "MIT Technology Review",
-    "hotScore": 45.8,
-    "category": "research",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine yea"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s Gemini app surges to 1 billion users",
-    "date": "2026-08-11",
-    "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "product",
-    "tags": [
-      "Gemini",
-      "Multimodal"
-    ],
-    "snippet": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Blacksmith says revenue has grown more than tenfold over the past year."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-    "date": "2026-08-12",
-    "source": "Ars Technica",
-    "hotScore": 45,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "These startups are chasing the next big thing in LLMs",
-    "date": "2026-08-10",
-    "source": "MIT Technology Review",
-    "hotScore": 44.8,
-    "category": "research",
-    "tags": [],
-    "snippet": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017,"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "date": "2026-08-11",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "date": "2026-08-11",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic says it will watermark text generated by its AI models",
-    "date": "2026-08-11",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic will extend support for watermarking AI generations for older models as well."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "date": "2026-08-11",
-    "source": "Google AI Blog",
-    "hotScore": 42,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -367,26 +346,26 @@
     "snippet": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-    "date": "2026-08-11",
-    "source": "Ars Technica",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "date": "2026-08-12",
+    "source": "TechCrunch AI",
     "hotScore": 40.8,
-    "category": "product",
+    "category": "startup",
     "tags": [
       "Gemini"
     ],
-    "snippet": "But will Gemini's surge survive slowing model releases?"
+    "snippet": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-    "date": "2026-08-11",
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "date": "2026-08-12",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might "
+    "snippet": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -414,36 +393,54 @@
     "snippet": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-    "date": "2026-08-11",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "date": "2026-08-11",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "date": "2026-08-12",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa"
+    "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-    "date": "2026-08-11",
-    "source": "IEEE Spectrum",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "date": "2026-08-12",
+    "source": "TechCrunch AI",
     "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "date": "2026-08-12",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+    "date": "2026-08-12",
+    "source": "Ars Technica",
+    "hotScore": 37,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "date": "2026-08-11",
+    "source": "Google AI Blog",
+    "hotScore": 36,
     "category": "research",
     "tags": [],
-    "snippet": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit. Held on 9 and 10 June in Paro, in the eastern Himalayas, th"
+    "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -499,13 +496,23 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "date": "2026-08-11",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "date": "2026-08-12",
     "source": "TechCrunch AI",
     "hotScore": 34.5,
     "category": "startup",
     "tags": [],
-    "snippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+    "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "date": "2026-08-12",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -526,18 +533,6 @@
     "category": "product",
     "tags": [],
     "snippet": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Celebrating 25 years of visual search innovation",
-    "date": "2026-07-14",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
