@@ -4,25 +4,25 @@
     "to": "2026-08-18"
   },
   "weekKey": "2026-W33",
-  "lastUpdate": "2026-08-14",
-  "generatedAt": "2026-08-14T03:06:56.931Z",
+  "lastUpdate": "2026-08-16",
+  "generatedAt": "2026-08-16T02:06:54.386Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "date": "2026-08-13",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "hotScore": 58.8,
-      "category": "tech",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "date": "2026-08-15",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "hotScore": 56.3,
+      "category": "industry",
       "tags": [
-        "Claude"
+        "Multimodal"
       ],
       "week_key": "2026-W33",
       "content": {
-        "basic": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+        "basic": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond. Just like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump on",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,18 +30,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "How kids feel about AI, in their own words",
-      "date": "2026-08-13",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "hotScore": 56.3,
-      "category": "hardware",
-      "tags": [],
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "date": "2026-08-15",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "hotScore": 53.8,
+      "category": "startup",
+      "tags": [
+        "Claude"
+      ],
       "week_key": "2026-W33",
       "content": {
-        "basic": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
+        "basic": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -51,37 +53,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "date": "2026-08-13",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "date": "2026-08-15",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W33",
-      "content": {
-        "basic": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "OpenAI is losing its second executive this week",
-      "date": "2026-08-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "hotScore": 55,
-      "category": "industry",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "hotScore": 50,
+      "category": "startup",
       "tags": [],
       "week_key": "2026-W33",
       "content": {
-        "basic": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says. Dresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects r",
+        "basic": "AI coding startup Cursor is now officially a part of SpaceX.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,20 +70,39 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 4,
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "date": "2026-08-14",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "hotScore": 47,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W33",
+      "content": {
+        "basic": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Does Google even want to win at AI?",
-      "date": "2026-08-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "hotScore": 55,
-      "category": "research",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "date": "2026-08-15",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "hotScore": 45,
+      "category": "startup",
       "tags": [
         "Multimodal"
       ],
       "week_key": "2026-W33",
       "content": {
-        "basic": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is leaving to form his own startup and DeepMind cofounder and CEO Demis Hassabis is stepping aside to focus on longer-term research. You can read these moves, and Google’s reaction, in a lot of different ways. So I really wanted to sit down with Hayden to di",
+        "basic": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],

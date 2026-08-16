@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-08-14",
-  "generatedAt": "2026-08-14T03:06:56.931Z",
+  "lastUpdate": "2026-08-16",
+  "generatedAt": "2026-08-16T02:06:54.386Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "date": "2026-08-13",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "hotScore": 58.8,
-      "category": "tech",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "date": "2026-08-15",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "hotScore": 56.3,
+      "category": "industry",
       "tags": [
-        "Claude"
+        "Multimodal"
       ],
       "content": {
-        "basic": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+        "basic": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond. Just like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump on",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "How kids feel about AI, in their own words",
-      "date": "2026-08-13",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "hotScore": 56.3,
-      "category": "hardware",
-      "tags": [],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "date": "2026-08-15",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "hotScore": 53.8,
+      "category": "startup",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
+        "basic": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
         "highlights": [],
         "scenarios": [],
         "industry": [],
