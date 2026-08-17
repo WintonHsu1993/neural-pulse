@@ -1,6 +1,6 @@
 {
   "totalArticles": 66,
-  "lastUpdate": "2026-08-16",
+  "lastUpdate": "2026-08-17",
   "categories": [
     {
       "category": "product",
@@ -8,19 +8,19 @@
     },
     {
       "category": "research",
-      "count": 12
+      "count": 10
     },
     {
       "category": "startup",
       "count": 9
     },
     {
-      "category": "hardware",
+      "category": "policy",
       "count": 5
     },
     {
-      "category": "policy",
-      "count": 3
+      "category": "hardware",
+      "count": 5
     },
     {
       "category": "industry",
@@ -53,15 +53,15 @@
       "count": 3
     },
     {
+      "source": "MIT Technology Review",
+      "count": 1
+    },
+    {
       "source": "Ars Technica",
       "count": 1
     },
     {
       "source": "Wired",
-      "count": 1
-    },
-    {
-      "source": "MIT Technology Review",
       "count": 1
     }
   ]

@@ -1,10 +1,67 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "date": "2026-08-16",
+    "source": "The Verge AI",
+    "hotScore": 65,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left h"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "date": "2026-08-16",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [],
+    "snippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Rogue AI aren’t science fiction anymore",
+    "date": "2026-08-16",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "date": "2026-08-16",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "date": "2026-08-16",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
     "date": "2026-08-15",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "industry",
     "tags": [
       "Multimodal"
@@ -16,7 +73,7 @@
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "date": "2026-08-15",
     "source": "TechCrunch AI",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "startup",
     "tags": [
       "Claude"
@@ -25,71 +82,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "date": "2026-08-15",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "date": "2026-08-14",
-    "source": "Ars Technica",
-    "hotScore": 47,
-    "category": "product",
-    "tags": [],
-    "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "date": "2026-08-15",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "date": "2026-08-16",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "date": "2026-08-14",
-    "source": "The Verge AI",
-    "hotScore": 43.3,
-    "category": "policy",
-    "tags": [
-      "Gemini",
-      "Multimodal"
-    ],
-    "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "date": "2026-08-14",
-    "source": "TechCrunch AI",
-    "hotScore": 43.3,
-    "category": "startup",
-    "tags": [
-      "Reasoning",
-      "Agent"
-    ],
-    "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "date": "2026-08-15",
-    "source": "Wired",
-    "hotScore": 42.5,
-    "category": "tech",
     "tags": [],
-    "snippet": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place."
+    "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -115,23 +114,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "date": "2026-08-14",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "date": "2026-08-15",
     "source": "TechCrunch AI",
     "hotScore": 42,
-    "category": "hardware",
+    "category": "startup",
     "tags": [],
-    "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-    "date": "2026-08-14",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
+    "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -142,18 +131,6 @@
     "category": "industry",
     "tags": [],
     "snippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Does Google even want to win at AI?",
-    "date": "2026-08-13",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -176,16 +153,14 @@
     "snippet": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Evolve your marketing with new AI tools",
-    "date": "2026-08-10",
-    "source": "Google AI Blog",
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "date": "2026-08-14",
+    "source": "Ars Technica",
     "hotScore": 41,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+    "category": "product",
+    "tags": [],
+    "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -198,28 +173,6 @@
       "OpenSource"
     ],
     "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 39.8,
-    "category": "startup",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Mark Zuckerberg has an Instagzam",
-    "date": "2026-08-14",
-    "source": "The Verge AI",
-    "hotScore": 39.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -246,33 +199,41 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
     "date": "2026-08-14",
     "source": "The Verge AI",
-    "hotScore": 37,
+    "hotScore": 37.3,
     "category": "policy",
-    "tags": [],
-    "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing"
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
     "date": "2026-08-14",
     "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "research",
-    "tags": [],
-    "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+    "hotScore": 37.3,
+    "category": "startup",
+    "tags": [
+      "Reasoning",
+      "Agent"
+    ],
+    "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "date": "2026-08-14",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "date": "2026-08-15",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
-    "tags": [],
-    "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -283,6 +244,26 @@
     "category": "product",
     "tags": [],
     "snippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "date": "2026-08-14",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "date": "2026-08-14",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -316,6 +297,18 @@
     "category": "product",
     "tags": [],
     "snippet": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer "
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Evolve your marketing with new AI tools",
+    "date": "2026-08-10",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -370,6 +363,26 @@
     "snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
   },
   {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "date": "2026-08-15",
+    "source": "Wired",
+    "hotScore": 34.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Mark Zuckerberg has an Instagzam",
+    "date": "2026-08-14",
+    "source": "The Verge AI",
+    "hotScore": 33.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "3 Google updates from Galaxy Unpacked 2026",
     "date": "2026-07-22",
@@ -411,6 +424,16 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "date": "2026-08-14",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
     "date": "2026-08-13",
     "source": "The Verge AI",
@@ -422,28 +445,24 @@
     "snippet": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's goin"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "I looked inside an AI generated movie, and the best parts were all human",
-    "date": "2026-08-13",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "date": "2026-08-14",
+    "source": "TechCrunch AI",
     "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each"
+    "category": "research",
+    "tags": [],
+    "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-    "date": "2026-08-13",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "date": "2026-08-14",
+    "source": "TechCrunch AI",
     "hotScore": 31,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"s"
+    "category": "startup",
+    "tags": [],
+    "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -464,16 +483,6 @@
     "category": "research",
     "tags": [],
     "snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -504,15 +513,5 @@
     "category": "product",
     "tags": [],
     "snippet": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "date": "2026-08-12",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
   }
 ]
