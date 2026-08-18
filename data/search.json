@@ -1,10 +1,48 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "date": "2026-08-17",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "policy",
+    "tags": [
+      "Claude",
+      "Multimodal",
+      "OpenSource"
+    ],
+    "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Get closer to the game with Gemini and Pixel",
+    "date": "2026-08-17",
+    "source": "Google AI Blog",
+    "hotScore": 61.3,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "From AI Copilots to Agent Swarms",
+    "date": "2026-08-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 58.8,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
     "date": "2026-08-16",
     "source": "The Verge AI",
-    "hotScore": 65,
+    "hotScore": 57,
     "category": "product",
     "tags": [
       "GPT"
@@ -12,11 +50,51 @@
     "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left h"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The model maker added $18 billion in annualized revenue in two months."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
+    "date": "2026-08-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mob"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI reportedly disbanded its preparedness team",
     "date": "2026-08-16",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "policy",
     "tags": [],
     "snippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti"
@@ -26,7 +104,7 @@
     "title": "Rogue AI aren’t science fiction anymore",
     "date": "2026-08-16",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "policy",
     "tags": [
       "Safety",
@@ -35,11 +113,65 @@
     "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. "
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "date": "2026-08-17",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights in"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "date": "2026-08-15",
+    "source": "The Verge AI",
+    "hotScore": 42.3,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "date": "2026-08-16",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [
       "Multimodal"
@@ -51,116 +183,22 @@
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "date": "2026-08-16",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "date": "2026-08-15",
-    "source": "The Verge AI",
-    "hotScore": 48.3,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "date": "2026-08-15",
     "source": "TechCrunch AI",
-    "hotScore": 45.8,
+    "hotScore": 39.8,
     "category": "startup",
     "tags": [
       "Claude"
     ],
     "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "date": "2026-08-16",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "How kids feel about AI, in their own words",
-    "date": "2026-08-13",
-    "source": "MIT Technology Review",
-    "hotScore": 42.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 42.3,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "date": "2026-08-15",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI is losing its second executive this week",
-    "date": "2026-08-13",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "startup",
-    "tags": [],
-    "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "product",
-    "tags": [],
-    "snippet": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "date": "2026-08-14",
-    "source": "Ars Technica",
-    "hotScore": 41,
-    "category": "product",
-    "tags": [],
-    "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -225,25 +263,33 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "date": "2026-08-15",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "date": "2026-08-16",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+    "tags": [],
+    "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Suno is trying to look more like a real music production tool",
-    "date": "2026-08-13",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "date": "2026-08-15",
+    "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest "
+    "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "date": "2026-08-15",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -264,29 +310,6 @@
     "category": "hardware",
     "tags": [],
     "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "date": "2026-08-11",
-    "source": "Google AI Blog",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -353,26 +376,6 @@
     "snippet": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "date": "2026-08-15",
-    "source": "Wired",
-    "hotScore": 34.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Mark Zuckerberg has an Instagzam",
     "date": "2026-08-14",
@@ -403,26 +406,6 @@
     "snippet": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record sur"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
-    "date": "2026-07-29",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that pr"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Is Hyper-Scaling Digital Inequality",
-    "date": "2026-07-29",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is inc"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Apple trained its own AI model for China with help from Alibaba",
     "date": "2026-08-14",
@@ -443,6 +426,18 @@
       "Multimodal"
     ],
     "snippet": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's goin"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "date": "2026-08-15",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -475,24 +470,14 @@
     "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "research",
-    "tags": [],
-    "snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
     "date": "2026-08-11",
-    "source": "IEEE Spectrum",
-    "hotScore": 31,
+    "source": "Google AI Blog",
+    "hotScore": 30,
     "category": "research",
     "tags": [],
-    "snippet": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit. Held on 9 and 10 June in Paro, in the eastern Himalayas, th"
+    "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -505,13 +490,13 @@
     "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "product",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+    "date": "2026-08-11",
+    "source": "IEEE Spectrum",
+    "hotScore": 25,
+    "category": "research",
     "tags": [],
-    "snippet": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
+    "snippet": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit. Held on 9 and 10 June in Paro, in the eastern Himalayas, th"
   }
 ]
