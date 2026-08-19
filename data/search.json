@@ -1,10 +1,120 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "We still don’t know how people are really using AI",
+    "date": "2026-08-18",
+    "source": "MIT Technology Review",
+    "hotScore": 75,
+    "category": "research",
+    "tags": [
+      "GPT",
+      "Claude"
+    ],
+    "snippet": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “Ther"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "date": "2026-08-18",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Multimodal",
+      "Safety"
+    ],
+    "snippet": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features u"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 58.8,
+    "category": "startup",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: how people really use AI, and Flock’s design choices",
+    "date": "2026-08-18",
+    "source": "MIT Technology Review",
+    "hotScore": 57.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companie"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "date": "2026-08-18",
+    "source": "MIT Technology Review",
+    "hotScore": 57.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "date": "2026-08-18",
+    "source": "Wired",
+    "hotScore": 57.5,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Safety"
+    ],
+    "snippet": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "date": "2026-08-18",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "date": "2026-08-18",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
     "date": "2026-08-17",
     "source": "The Verge AI",
-    "hotScore": 61.3,
+    "hotScore": 53.3,
     "category": "policy",
     "tags": [
       "Claude",
@@ -18,7 +128,7 @@
     "title": "Get closer to the game with Gemini and Pixel",
     "date": "2026-08-17",
     "source": "Google AI Blog",
-    "hotScore": 61.3,
+    "hotScore": 53.3,
     "category": "research",
     "tags": [
       "Gemini"
@@ -30,7 +140,7 @@
     "title": "From AI Copilots to Agent Swarms",
     "date": "2026-08-17",
     "source": "IEEE Spectrum",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "hardware",
     "tags": [
       "Agent"
@@ -39,32 +149,124 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-    "date": "2026-08-16",
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "date": "2026-08-18",
     "source": "The Verge AI",
-    "hotScore": 57,
-    "category": "product",
+    "hotScore": 50,
+    "category": "industry",
     "tags": [
-      "GPT"
+      "Multimodal"
     ],
-    "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left h"
+    "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now aut"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+    "date": "2026-08-18",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "industry",
+    "tags": [],
+    "snippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "date": "2026-08-18",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+    "date": "2026-08-18",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "date": "2026-08-17",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "startup",
     "tags": [],
     "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "date": "2026-08-18",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic’s annualized revenue surges to $65B",
     "date": "2026-08-17",
     "source": "TechCrunch AI",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "startup",
     "tags": [],
     "snippet": "The model maker added $18 billion in annualized revenue in two months."
@@ -74,7 +276,7 @@
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "date": "2026-08-17",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "policy",
     "tags": [],
     "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
@@ -84,7 +286,7 @@
     "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
     "date": "2026-08-17",
     "source": "IEEE Spectrum",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [],
     "snippet": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mob"
@@ -94,99 +296,10 @@
     "title": "OpenAI reportedly disbanded its preparedness team",
     "date": "2026-08-16",
     "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "policy",
+    "hotScore": 41,
+    "category": "research",
     "tags": [],
     "snippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Rogue AI aren’t science fiction anymore",
-    "date": "2026-08-16",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "policy",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "date": "2026-08-17",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights in"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "date": "2026-08-17",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "date": "2026-08-17",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "date": "2026-08-17",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "date": "2026-08-15",
-    "source": "The Verge AI",
-    "hotScore": 42.3,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "date": "2026-08-16",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "date": "2026-08-16",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -199,18 +312,6 @@
       "Claude"
     ],
     "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 39.8,
-    "category": "startup",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -237,39 +338,57 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "date": "2026-08-14",
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "date": "2026-08-17",
     "source": "The Verge AI",
-    "hotScore": 37.3,
-    "category": "policy",
+    "hotScore": 37,
+    "category": "product",
     "tags": [
-      "Gemini",
-      "Multimodal"
+      "Robotics"
     ],
-    "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's"
+    "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights in"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "date": "2026-08-14",
-    "source": "TechCrunch AI",
-    "hotScore": 37.3,
-    "category": "startup",
-    "tags": [
-      "Reasoning",
-      "Agent"
-    ],
-    "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "date": "2026-08-16",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "date": "2026-08-17",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
+    "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "date": "2026-08-16",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "date": "2026-08-16",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -290,26 +409,6 @@
     "category": "startup",
     "tags": [],
     "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "date": "2026-08-14",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-    "date": "2026-08-14",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -376,14 +475,14 @@
     "snippet": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Mark Zuckerberg has an Instagzam",
-    "date": "2026-08-14",
-    "source": "The Verge AI",
-    "hotScore": 33.5,
-    "category": "product",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't"
+    "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -406,26 +505,14 @@
     "snippet": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record sur"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple trained its own AI model for China with help from Alibaba",
-    "date": "2026-08-14",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "date": "2026-08-16",
+    "source": "TechCrunch AI",
     "hotScore": 31,
-    "category": "policy",
+    "category": "startup",
     "tags": [],
-    "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "date": "2026-08-13",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's goin"
+    "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -438,36 +525,6 @@
       "Multimodal"
     ],
     "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "date": "2026-08-14",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "research",
-    "tags": [],
-    "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "date": "2026-08-14",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "date": "2026-08-13",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -488,15 +545,5 @@
     "category": "research",
     "tags": [],
     "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-    "date": "2026-08-11",
-    "source": "IEEE Spectrum",
-    "hotScore": 25,
-    "category": "research",
-    "tags": [],
-    "snippet": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit. Held on 9 and 10 June in Paro, in the eastern Himalayas, th"
   }
 ]

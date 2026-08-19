@@ -1,23 +1,22 @@
 {
-  "lastUpdate": "2026-08-18",
-  "generatedAt": "2026-08-18T01:58:58.939Z",
+  "lastUpdate": "2026-08-19",
+  "generatedAt": "2026-08-19T02:03:19.991Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "date": "2026-08-17",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "hotScore": 61.3,
-      "category": "policy",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "We still don’t know how people are really using AI",
+      "date": "2026-08-18",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "hotScore": 75,
+      "category": "research",
       "tags": [
-        "Claude",
-        "Multimodal",
-        "OpenSource"
+        "GPT",
+        "Claude"
       ],
       "content": {
-        "basic": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic's obligations under the European Union's AI Act, which requires synthetic audio, image, v",
+        "basic": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,18 +24,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "date": "2026-08-17",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "date": "2026-08-18",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
       "hotScore": 61.3,
-      "category": "research",
+      "category": "policy",
       "tags": [
-        "Gemini"
+        "GPT",
+        "Multimodal",
+        "Safety"
       ],
       "content": {
-        "basic": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+        "basic": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens learn, think critically, deepen understanding, and use AI with confidence,\" OpenAI said in a blog post published Tuesday. Teen mode will automatically apply t",
         "highlights": [],
         "scenarios": [],
         "industry": [],
