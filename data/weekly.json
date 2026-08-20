@@ -4,8 +4,111 @@
     "to": "2026-08-25"
   },
   "weekKey": "2026-W34",
-  "lastUpdate": "2026-08-19",
-  "generatedAt": "2026-08-19T02:03:19.991Z",
-  "count": 0,
-  "data": []
+  "lastUpdate": "2026-08-20",
+  "generatedAt": "2026-08-20T02:00:53.206Z",
+  "count": 5,
+  "data": [
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 1,
+      "title": "OpenAI hit the brakes. Now what?",
+      "date": "2026-08-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "hotScore": 63.8,
+      "category": "policy",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W34",
+      "content": {
+        "basic": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended for deployment,\" and an ongoing delay to its \"largest planned frontier RL run.\" The decision is a very public test of an idea AI safety advocates have pushed for for years: that companies should be wi",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "date": "2026-08-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W34",
+      "content": {
+        "basic": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "date": "2026-08-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W34",
+      "content": {
+        "basic": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "date": "2026-08-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W34",
+      "content": {
+        "basic": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Google Gemini is getting a dedicated student hub",
+      "date": "2026-08-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "hotScore": 53.8,
+      "category": "research",
+      "tags": [
+        "Gemini",
+        "Multimodal"
+      ],
+      "week_key": "2026-W34",
+      "content": {
+        "basic": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus. Google is also adding Deep Research to Gemini Live. You can ask Gemini to generate complicated research reports and talk through the results. If it's taking a while, you can close the chat and l",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    }
+  ]
 }

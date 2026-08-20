@@ -4,7 +4,7 @@
     "title": "We still don’t know how people are really using AI",
     "date": "2026-08-18",
     "source": "MIT Technology Review",
-    "hotScore": 75,
+    "hotScore": 67,
     "category": "research",
     "tags": [
       "GPT",
@@ -14,10 +14,91 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI hit the brakes. Now what?",
+    "date": "2026-08-19",
+    "source": "The Verge AI",
+    "hotScore": 63.8,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google Gemini is getting a dedicated student hub",
+    "date": "2026-08-19",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "research",
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "date": "2026-08-19",
+    "source": "Wired",
+    "hotScore": 53.8,
+    "category": "policy",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Google Pixel Watch 5 Review: More Health, More AI",
+    "date": "2026-08-19",
+    "source": "Wired",
+    "hotScore": 53.8,
+    "category": "tech",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "ChatGPT is getting a dedicated mode for teens",
     "date": "2026-08-18",
     "source": "The Verge AI",
-    "hotScore": 61.3,
+    "hotScore": 53.3,
     "category": "policy",
     "tags": [
       "GPT",
@@ -27,11 +108,21 @@
     "snippet": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features u"
   },
   {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 new ways to level up your learning with Search",
+    "date": "2026-08-19",
+    "source": "Google AI Blog",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Here’s how you can use Google Search tools to study for classes and standardized tests."
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "OpenAI institutes new safeguards after Hugging Face breach",
     "date": "2026-08-18",
     "source": "TechCrunch AI",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "startup",
     "tags": [
       "Safety"
@@ -39,11 +130,43 @@
     "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta AI is getting a Mac app",
+    "date": "2026-08-19",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Download: how people really use AI, and Flock’s design choices",
     "date": "2026-08-18",
     "source": "MIT Technology Review",
-    "hotScore": 57.5,
+    "hotScore": 49.5,
     "category": "product",
     "tags": [],
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companie"
@@ -53,31 +176,27 @@
     "title": "AI’s recursive self-improvement might not come so quickly after all",
     "date": "2026-08-18",
     "source": "MIT Technology Review",
-    "hotScore": 57.5,
+    "hotScore": 49.5,
     "category": "research",
     "tags": [],
     "snippet": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz"
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-    "date": "2026-08-18",
-    "source": "Wired",
-    "hotScore": 57.5,
-    "category": "policy",
-    "tags": [
-      "GPT",
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards."
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
     "date": "2026-08-18",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "policy",
     "tags": [
       "GPT",
@@ -87,10 +206,44 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Nvidia’s new financial strategy does not compute",
+    "date": "2026-08-19",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon is m"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Calendly throws its hat into meeting note-taker circus",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Calendly is also releasing a meeting scheduling assistant called Callie."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Get closer to the game with Gemini and Pixel",
+    "date": "2026-08-17",
+    "source": "Google AI Blog",
+    "hotScore": 47.3,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
     "date": "2026-08-18",
     "source": "The Verge AI",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "research",
     "tags": [
       "Safety"
@@ -102,7 +255,7 @@
     "title": "Google&#8217;s Pet Memory forgot who my cats are",
     "date": "2026-08-18",
     "source": "The Verge AI",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "product",
     "tags": [
       "Gemini"
@@ -110,37 +263,61 @@
     "snippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-    "date": "2026-08-17",
-    "source": "The Verge AI",
-    "hotScore": 53.3,
-    "category": "policy",
-    "tags": [
-      "Claude",
-      "Multimodal",
-      "OpenSource"
-    ],
-    "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Get closer to the game with Gemini and Pixel",
-    "date": "2026-08-17",
-    "source": "Google AI Blog",
-    "hotScore": 53.3,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "It's the data, stupid."
+  },
+  {
+    "id": "aHR0cHM6Ly92ZW50dXJl",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "date": "2026-08-19",
+    "source": "VentureBeat AI",
+    "hotScore": 45,
     "category": "research",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+    "tags": [],
+    "snippet": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "From AI Copilots to Agent Swarms",
     "date": "2026-08-17",
     "source": "IEEE Spectrum",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "hardware",
     "tags": [
       "Agent"
@@ -148,11 +325,21 @@
     "snippet": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "date": "2026-08-19",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Firefox&#8217;s Smart Window promises a better AI browser",
     "date": "2026-08-18",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "industry",
     "tags": [
       "Multimodal"
@@ -164,7 +351,7 @@
     "title": "Etched’s valuation doubles to $21B in a month",
     "date": "2026-08-18",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
@@ -174,144 +361,10 @@
     "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
     "date": "2026-08-18",
     "source": "The Verge AI",
-    "hotScore": 47.5,
+    "hotScore": 39.5,
     "category": "industry",
     "tags": [],
     "snippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-    "date": "2026-08-18",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
-    "date": "2026-08-18",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "date": "2026-08-17",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-    "date": "2026-08-18",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "date": "2026-08-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-    "date": "2026-08-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-    "date": "2026-08-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Perplexity’s free AI offer left it with millions more users in India",
-    "date": "2026-08-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s annualized revenue surges to $65B",
-    "date": "2026-08-17",
-    "source": "TechCrunch AI",
-    "hotScore": 44.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The model maker added $18 billion in annualized revenue in two months."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "date": "2026-08-17",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
-    "date": "2026-08-17",
-    "source": "IEEE Spectrum",
-    "hotScore": 42,
-    "category": "research",
-    "tags": [],
-    "snippet": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mob"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI reportedly disbanded its preparedness team",
-    "date": "2026-08-16",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "research",
-    "tags": [],
-    "snippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "date": "2026-08-15",
-    "source": "TechCrunch AI",
-    "hotScore": 39.8,
-    "category": "startup",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -327,98 +380,74 @@
     "snippet": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "date": "2026-08-13",
-    "source": "Google AI Blog",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "date": "2026-08-17",
+    "source": "TechCrunch AI",
     "hotScore": 38.5,
-    "category": "research",
+    "category": "startup",
     "tags": [],
-    "snippet": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
+    "snippet": "The model maker added $18 billion in annualized revenue in two months."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "date": "2026-08-17",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "date": "2026-08-18",
     "source": "The Verge AI",
     "hotScore": 37,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
     "category": "product",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights in"
+    "tags": [],
+    "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "date": "2026-08-17",
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "date": "2026-08-18",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "date": "2026-08-18",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
+    "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "date": "2026-08-17",
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "date": "2026-08-18",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "date": "2026-08-16",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "date": "2026-08-16",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "date": "2026-08-15",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "date": "2026-08-15",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
+    "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
-    "date": "2026-08-13",
+    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
+    "date": "2026-08-17",
     "source": "IEEE Spectrum",
     "hotScore": 36,
-    "category": "product",
+    "category": "research",
     "tags": [],
-    "snippet": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer "
+    "snippet": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mob"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -475,14 +504,14 @@
     "snippet": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "date": "2026-08-17",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "date": "2026-08-13",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
     "tags": [],
-    "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
+    "snippet": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -505,28 +534,6 @@
     "snippet": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record sur"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "date": "2026-08-16",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "date": "2026-08-15",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
     "date": "2026-08-11",
@@ -535,15 +542,5 @@
     "category": "research",
     "tags": [],
     "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Negotiating Your Salary Is About More Than Money",
-    "date": "2026-07-29",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   }
 ]
