@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-08-21",
-  "generatedAt": "2026-08-21T02:08:27.531Z",
+  "lastUpdate": "2026-08-22",
+  "generatedAt": "2026-08-22T01:58:21.421Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "date": "2026-08-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "hotScore": 68.8,
+      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "hotScore": 58.8,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "basic": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,19 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "date": "2026-08-20",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "hotScore": 61.3,
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "When AI designs a drug, who gets the credit?",
+      "date": "2026-08-21",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "hotScore": 57.5,
       "category": "product",
-      "tags": [
-        "Claude",
-        "Agent"
-      ],
+      "tags": [],
       "content": {
-        "basic": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like Anthropic's Claude or Cognition's Devin, and that agent then spins up a code channel to tackle the task,\" Sla",
+        "basic": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
