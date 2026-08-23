@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-08-22",
-  "generatedAt": "2026-08-22T01:58:21.421Z",
+  "lastUpdate": "2026-08-23",
+  "generatedAt": "2026-08-23T02:09:28.110Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "date": "2026-08-21",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "date": "2026-08-22",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "hotScore": 58.8,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "hotScore": 60,
+      "category": "research",
       "tags": [
-        "Claude"
+        "Agent"
       ],
       "content": {
-        "basic": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "basic": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "When AI designs a drug, who gets the credit?",
-      "date": "2026-08-21",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "hotScore": 57.5,
-      "category": "product",
-      "tags": [],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "date": "2026-08-22",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [
+        "Safety"
+      ],
       "content": {
-        "basic": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
+        "basic": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
