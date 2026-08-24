@@ -4,8 +4,8 @@
     "to": "2026-08-25"
   },
   "weekKey": "2026-W34",
-  "lastUpdate": "2026-08-23",
-  "generatedAt": "2026-08-23T02:09:28.110Z",
+  "lastUpdate": "2026-08-24",
+  "generatedAt": "2026-08-24T02:08:21.149Z",
   "count": 5,
   "data": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-08-22",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "hotScore": 60,
+      "hotScore": 52,
       "category": "research",
       "tags": [
         "Agent"
@@ -32,39 +32,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "date": "2026-08-22",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "date": "2026-08-23",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W34",
-      "content": {
-        "basic": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "date": "2026-08-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "hotScore": 50.8,
+      "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "hotScore": 50,
       "category": "startup",
-      "tags": [
-        "Claude"
-      ],
+      "tags": [],
       "week_key": "2026-W34",
       "content": {
-        "basic": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "basic": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -73,7 +50,7 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
+      "rank": 3,
       "title": "OpenAI hit the brakes. Now what?",
       "date": "2026-08-19",
       "source": "The Verge AI",
@@ -93,18 +70,42 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 5,
-      "title": "When AI designs a drug, who gets the credit?",
-      "date": "2026-08-21",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "hotScore": 49.5,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "date": "2026-08-20",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "hotScore": 47.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "Claude",
+        "Agent"
+      ],
       "week_key": "2026-W34",
       "content": {
-        "basic": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
+        "basic": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like Anthropic's Claude or Cognition's Devin, and that agent then spins up a code channel to tackle the task,\" Sla",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "date": "2026-08-22",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "hotScore": 47,
+      "category": "policy",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W34",
+      "content": {
+        "basic": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

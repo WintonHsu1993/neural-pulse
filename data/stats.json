@@ -1,10 +1,10 @@
 {
-  "totalArticles": 63,
-  "lastUpdate": "2026-08-23",
+  "totalArticles": 64,
+  "lastUpdate": "2026-08-24",
   "categories": [
     {
       "category": "product",
-      "count": 21
+      "count": 20
     },
     {
       "category": "research",
@@ -12,7 +12,7 @@
     },
     {
       "category": "startup",
-      "count": 8
+      "count": 9
     },
     {
       "category": "policy",

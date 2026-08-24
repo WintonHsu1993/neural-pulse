@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-23",
-  "generatedAt": "2026-08-23T02:09:28.110Z",
+  "lastUpdate": "2026-08-24",
+  "generatedAt": "2026-08-24T02:08:21.149Z",
   "count": 2,
   "data": [
     {
@@ -9,7 +9,7 @@
       "date": "2026-08-22",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "hotScore": 60,
+      "hotScore": 52,
       "category": "research",
       "tags": [
         "Agent"
@@ -24,17 +24,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "date": "2026-08-22",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "date": "2026-08-23",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "hotScore": 50,
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "basic": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

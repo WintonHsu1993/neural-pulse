@@ -4,7 +4,7 @@
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "date": "2026-08-22",
     "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 52,
     "category": "research",
     "tags": [
       "Agent"
@@ -13,27 +13,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "date": "2026-08-22",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "date": "2026-08-23",
     "source": "TechCrunch AI",
-    "hotScore": 55,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "date": "2026-08-21",
-    "source": "TechCrunch AI",
-    "hotScore": 50.8,
+    "hotScore": 50,
     "category": "startup",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+    "tags": [],
+    "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -46,16 +32,6 @@
       "Safety"
     ],
     "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "When AI designs a drug, who gets the credit?",
-    "date": "2026-08-21",
-    "source": "MIT Technology Review",
-    "hotScore": 49.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -71,68 +47,82 @@
     "snippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "date": "2026-08-22",
+    "source": "TechCrunch AI",
+    "hotScore": 47,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "date": "2026-08-23",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "date": "2026-08-23",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "date": "2026-08-21",
+    "source": "TechCrunch AI",
+    "hotScore": 44.8,
+    "category": "startup",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "When AI designs a drug, who gets the credit?",
+    "date": "2026-08-21",
+    "source": "MIT Technology Review",
+    "hotScore": 43.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "date": "2026-08-23",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Get closer to the game with Gemini and Pixel",
     "date": "2026-08-17",
     "source": "Google AI Blog",
-    "hotScore": 47.3,
+    "hotScore": 41.3,
     "category": "research",
     "tags": [
       "Gemini"
     ],
     "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "date": "2026-08-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "date": "2026-08-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "From AI Copilots to Agent Swarms",
-    "date": "2026-08-17",
-    "source": "IEEE Spectrum",
-    "hotScore": 44.8,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "date": "2026-08-21",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "date": "2026-08-21",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -165,16 +155,6 @@
     "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "date": "2026-08-21",
-    "source": "TechCrunch AI",
-    "hotScore": 40.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Google Gemini is getting a dedicated student hub",
     "date": "2026-08-19",
@@ -201,6 +181,18 @@
     "snippet": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
   },
   {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "From AI Copilots to Agent Swarms",
+    "date": "2026-08-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 38.8,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "5 new ways to level up your learning with Search",
     "date": "2026-08-19",
@@ -212,37 +204,33 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-    "date": "2026-08-20",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "date": "2026-08-22",
     "source": "TechCrunch AI",
-    "hotScore": 37.3,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "ChatGPT and other AI models are now authoring and editing much of the new web."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Major YouTube creators are facing backlash for accepting AI money",
-    "date": "2026-08-21",
-    "source": "The Verge AI",
     "hotScore": 37,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" "
+    "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "date": "2026-08-21",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "date": "2026-08-22",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+    "category": "startup",
+    "tags": [],
+    "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "date": "2026-08-21",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -268,23 +256,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ramp launches its own AI model router, called Router",
-    "date": "2026-08-20",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "date": "2026-08-21",
     "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "product",
+    "category": "hardware",
     "tags": [],
-    "snippet": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
-    "date": "2026-08-17",
-    "source": "IEEE Spectrum",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [],
-    "snippet": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mob"
+    "snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -342,6 +320,16 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "date": "2026-08-21",
+    "source": "TechCrunch AI",
+    "hotScore": 34.8,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "date": "2026-08-20",
     "source": "TechCrunch AI",
@@ -351,26 +339,6 @@
       "GPT"
     ],
     "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "date": "2026-08-21",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "There's about to be a big fight to secure access to space."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "date": "2026-08-21",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -405,6 +373,18 @@
     "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
   },
   {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+    "date": "2026-08-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 33.5,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathe"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Bring your spreadsheet data to life with Sheets canvas",
     "date": "2026-08-13",
@@ -425,6 +405,28 @@
     "snippet": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record sur"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Major YouTube creators are facing backlash for accepting AI money",
+    "date": "2026-08-21",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "date": "2026-08-21",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Google gives publishers a new way to fight AI-driven traffic losses",
     "date": "2026-08-20",
@@ -433,26 +435,6 @@
     "category": "startup",
     "tags": [],
     "snippet": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "date": "2026-08-20",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [],
-    "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "date": "2026-08-20",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [],
-    "snippet": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
   },
   {
     "id": "aHR0cHM6Ly92ZW50dXJl",
@@ -476,6 +458,16 @@
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
+    "date": "2026-08-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mob"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
     "date": "2026-08-13",
     "source": "IEEE Spectrum",
@@ -483,6 +475,26 @@
     "category": "product",
     "tags": [],
     "snippet": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "date": "2026-08-21",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "date": "2026-08-21",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "There's about to be a big fight to secure access to space."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
