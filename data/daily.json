@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-08-24",
-  "generatedAt": "2026-08-24T02:08:21.149Z",
+  "lastUpdate": "2026-08-25",
+  "generatedAt": "2026-08-25T02:03:41.332Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "date": "2026-08-22",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "date": "2026-08-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "hotScore": 52,
-      "category": "research",
-      "tags": [
-        "Agent"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "basic": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "date": "2026-08-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "hotScore": 50,
-      "category": "startup",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "How to encourage smarter AI use in the classroom",
+      "date": "2026-08-24",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "hotScore": 58.8,
+      "category": "product",
       "tags": [],
       "content": {
-        "basic": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "basic": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

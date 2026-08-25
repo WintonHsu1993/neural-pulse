@@ -1,25 +1,79 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "date": "2026-08-22",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "date": "2026-08-25",
     "source": "TechCrunch AI",
-    "hotScore": 52,
+    "hotScore": 65,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "How to encourage smarter AI use in the classroom",
+    "date": "2026-08-24",
+    "source": "MIT Technology Review",
+    "hotScore": 58.8,
+    "category": "product",
+    "tags": [],
+    "snippet": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: kids outlearning AI, and space travel agents",
+    "date": "2026-08-24",
+    "source": "MIT Technology Review",
+    "hotScore": 58.8,
     "category": "research",
     "tags": [
       "Agent"
     ],
-    "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a comput"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "date": "2026-08-24",
+    "source": "MIT Technology Review",
+    "hotScore": 58.8,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "date": "2026-08-23",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "date": "2026-08-24",
     "source": "TechCrunch AI",
     "hotScore": 50,
     "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Senior Membership Demystified",
+    "date": "2026-08-24",
+    "source": "IEEE Spectrum",
+    "hotScore": 50,
+    "category": "research",
     "tags": [],
-    "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+    "snippet": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I under"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Building Technology People Can Trust",
+    "date": "2026-08-24",
+    "source": "IEEE Spectrum",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "This article is brought to you by Emerson. I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology "
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -32,6 +86,26 @@
       "Safety"
     ],
     "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "date": "2026-08-24",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "date": "2026-08-24",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -48,35 +122,38 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI says California should strengthen its AI safety bill",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "date": "2026-08-22",
     "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "policy",
+    "hotScore": 46,
+    "category": "research",
     "tags": [
-      "Safety"
+      "Agent"
     ],
-    "snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+    "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "date": "2026-08-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "date": "2026-08-23",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "date": "2026-08-24",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+    "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "date": "2026-08-24",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent",
+      "Robotics"
+    ],
+    "snippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -102,15 +179,33 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "date": "2026-08-23",
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "date": "2026-08-24",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+    "category": "startup",
+    "tags": [],
+    "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Data centers become \"killer application\" for new power transformer tech",
+    "date": "2026-08-24",
+    "source": "Ars Technica",
+    "hotScore": 42.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Solid-state transformers could also benefit EV charging and someday households."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "date": "2026-08-23",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -146,13 +241,15 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "date": "2026-08-20",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "date": "2026-08-22",
     "source": "TechCrunch AI",
     "hotScore": 41,
-    "category": "product",
-    "tags": [],
-    "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -204,23 +301,23 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "date": "2026-08-22",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "date": "2026-08-23",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "startup",
+    "category": "product",
     "tags": [],
-    "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+    "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "date": "2026-08-22",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "date": "2026-08-23",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
+    "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -320,25 +417,25 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "date": "2026-08-21",
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "date": "2026-08-22",
     "source": "TechCrunch AI",
     "hotScore": 34.8,
     "category": "startup",
     "tags": [],
-    "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+    "snippet": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "date": "2026-08-20",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "date": "2026-08-23",
     "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "product",
+    "hotScore": 34.5,
+    "category": "policy",
     "tags": [
-      "GPT"
+      "Safety"
     ],
-    "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+    "snippet": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -351,26 +448,6 @@
       "Multimodal"
     ],
     "snippet": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon is m"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OK, can we actually cool data centers with our pee?",
-    "date": "2026-08-20",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Grok keeps sending gibberish responses to users",
-    "date": "2026-08-20",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -416,6 +493,26 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "date": "2026-08-22",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "date": "2026-08-22",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "date": "2026-08-21",
     "source": "TechCrunch AI",
@@ -425,16 +522,6 @@
       "Agent"
     ],
     "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "date": "2026-08-20",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to "
   },
   {
     "id": "aHR0cHM6Ly92ZW50dXJl",
@@ -455,65 +542,5 @@
     "category": "research",
     "tags": [],
     "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
-    "date": "2026-08-17",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mob"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
-    "date": "2026-08-13",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "product",
-    "tags": [],
-    "snippet": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "date": "2026-08-21",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "date": "2026-08-21",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "There's about to be a big fight to secure access to space."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "date": "2026-08-20",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-    "date": "2026-08-11",
-    "source": "IEEE Spectrum",
-    "hotScore": 25,
-    "category": "research",
-    "tags": [],
-    "snippet": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit. Held on 9 and 10 June in Paro, in the eastern Himalayas, th"
   }
 ]
