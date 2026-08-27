@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-08-25",
-  "generatedAt": "2026-08-25T02:03:41.332Z",
+  "lastUpdate": "2026-08-27",
+  "generatedAt": "2026-08-27T10:10:05.072Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "date": "2026-08-25",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "date": "2026-08-27",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
       "hotScore": 65,
-      "category": "startup",
-      "tags": [],
+      "category": "hardware",
+      "tags": [
+        "OpenSource"
+      ],
       "content": {
-        "basic": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "basic": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +23,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "How to encourage smarter AI use in the classroom",
-      "date": "2026-08-24",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "hotScore": 58.8,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "date": "2026-08-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "hotScore": 61.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Multimodal",
+        "Agent"
+      ],
       "content": {
-        "basic": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+        "basic": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to find out about any of it. Over a month later, two new reports offer nearly 130 pages of details on the incident and OpenAI's response, many of them previously unreleased. One was written by Open",
         "highlights": [],
         "scenarios": [],
         "industry": [],

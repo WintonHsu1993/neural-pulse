@@ -1,66 +1,70 @@
 {
   "weekRange": {
-    "from": "2026-08-19",
-    "to": "2026-08-25"
+    "from": "2026-08-26",
+    "to": "2026-09-01"
   },
-  "weekKey": "2026-W34",
-  "lastUpdate": "2026-08-25",
-  "generatedAt": "2026-08-25T02:03:41.332Z",
+  "weekKey": "2026-W35",
+  "lastUpdate": "2026-08-27",
+  "generatedAt": "2026-08-27T10:10:05.072Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "date": "2026-08-25",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "date": "2026-08-27",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
       "hotScore": 65,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W34",
-      "content": {
-        "basic": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 2,
-      "title": "How to encourage smarter AI use in the classroom",
-      "date": "2026-08-24",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "hotScore": 58.8,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W34",
-      "content": {
-        "basic": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 3,
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "date": "2026-08-24",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "hotScore": 58.8,
-      "category": "research",
+      "category": "hardware",
       "tags": [
+        "OpenSource"
+      ],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "date": "2026-08-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Multimodal",
         "Agent"
       ],
-      "week_key": "2026-W34",
+      "week_key": "2026-W35",
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+        "basic": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to find out about any of it. Over a month later, two new reports offer nearly 130 pages of details on the incident and OpenAI's response, many of them previously unreleased. One was written by Open",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "date": "2026-08-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "hotScore": 60,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,18 +74,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 4,
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "date": "2026-08-24",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "date": "2026-08-26",
       "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "hotScore": 58.8,
+      "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "hotScore": 57.5,
       "category": "product",
       "tags": [
-        "GPT"
+        "Agent"
       ],
-      "week_key": "2026-W34",
+      "week_key": "2026-W35",
       "content": {
-        "basic": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT,…",
+        "basic": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -91,18 +95,19 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "date": "2026-08-24",
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "date": "2026-08-26",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "hotScore": 50,
+      "sourceUrl": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "hotScore": 56.3,
       "category": "startup",
       "tags": [
-        "Agent"
+        "GPT",
+        "Robotics"
       ],
-      "week_key": "2026-W34",
+      "week_key": "2026-W35",
       "content": {
-        "basic": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+        "basic": "Robot bodies are waiting for their AI brains to catch up.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
