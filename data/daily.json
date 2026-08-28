@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-08-27",
-  "generatedAt": "2026-08-27T10:10:05.072Z",
+  "lastUpdate": "2026-08-28",
+  "generatedAt": "2026-08-28T11:41:07.643Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "date": "2026-08-27",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "date": "2026-08-28",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
       "hotScore": 65,
-      "category": "hardware",
-      "tags": [
-        "OpenSource"
-      ],
+      "category": "policy",
+      "tags": [],
       "content": {
-        "basic": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "basic": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red lines,\" or unacceptable military use cases of its AI technology. \"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita F. Lin, a district judge in the norther",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,20 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "date": "2026-08-26",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "date": "2026-08-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
       "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Multimodal",
-        "Agent"
-      ],
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to find out about any of it. Over a month later, two new reports offer nearly 130 pages of details on the incident and OpenAI's response, many of them previously unreleased. One was written by Open",
+        "basic": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
