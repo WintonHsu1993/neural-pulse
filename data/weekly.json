@@ -4,51 +4,13 @@
     "to": "2026-09-01"
   },
   "weekKey": "2026-W35",
-  "lastUpdate": "2026-08-28",
-  "generatedAt": "2026-08-28T11:41:07.643Z",
+  "lastUpdate": "2026-08-29",
+  "generatedAt": "2026-08-29T07:17:17.952Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 1,
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "date": "2026-08-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "hotScore": 65,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red lines,\" or unacceptable military use cases of its AI technology. \"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita F. Lin, a district judge in the norther",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "date": "2026-08-27",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "hotScore": 61.3,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 3,
+      "rank": 1,
       "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
       "date": "2026-08-28",
       "source": "Wired",
@@ -66,18 +28,56 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
       "date": "2026-08-27",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "hotScore": 56.3,
-      "category": "hardware",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "hotScore": 53.3,
+      "category": "startup",
       "tags": [],
       "week_key": "2026-W35",
       "content": {
-        "basic": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus on what artificial general intelligence means, let alone how we'll know when we've actually got there, which makes achieving it equally arbitrary. Asked about OpenAI's pursuit of AGI, Huang said that when it comes to Nvidia, \"for many tasks, we c",
+        "basic": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "date": "2026-08-28",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "hotScore": 50,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red lines,\" or unacceptable military use cases of its AI technology. \"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita F. Lin, a district judge in the norther",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "date": "2026-08-28",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "hotScore": 50,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -87,18 +87,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "date": "2026-08-27",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "date": "2026-08-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "hotScore": 50,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W35",
       "content": {
-        "basic": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+        "basic": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

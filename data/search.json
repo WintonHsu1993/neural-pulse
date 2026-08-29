@@ -1,40 +1,70 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "date": "2026-08-27",
+    "source": "TechCrunch AI",
+    "hotScore": 53.3,
+    "category": "startup",
+    "tags": [],
+    "snippet": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
     "date": "2026-08-28",
     "source": "The Verge AI",
-    "hotScore": 65,
+    "hotScore": 50,
     "category": "policy",
     "tags": [],
     "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Here’s all the times AI has gone rogue and hacked other companies",
-    "date": "2026-08-27",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "date": "2026-08-28",
     "source": "TechCrunch AI",
-    "hotScore": 61.3,
+    "hotScore": 50,
     "category": "startup",
     "tags": [],
-    "snippet": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+    "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "date": "2026-08-28",
-    "source": "Wired",
-    "hotScore": 60,
-    "category": "tech",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
     "tags": [],
-    "snippet": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”"
+    "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "date": "2026-08-28",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "date": "2026-08-28",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
     "date": "2026-08-27",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "hardware",
     "tags": [],
     "snippet": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing."
@@ -44,7 +74,7 @@
     "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
     "date": "2026-08-27",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "startup",
     "tags": [
       "GPT"
@@ -53,22 +83,34 @@
   },
   {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-    "date": "2026-08-27",
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "date": "2026-08-28",
     "source": "Ars Technica",
-    "hotScore": 56.3,
+    "hotScore": 47.5,
     "category": "tech",
+    "tags": [],
+    "snippet": "Anthropic refused to support lethal autonomous warfare and mass surveillance."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "date": "2026-08-26",
+    "source": "The Verge AI",
+    "hotScore": 47.3,
+    "category": "product",
     "tags": [
+      "GPT",
+      "Multimodal",
       "Agent"
     ],
-    "snippet": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
+    "snippet": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get acc"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI&#8217;s executive exodus has one big winner",
     "date": "2026-08-27",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "industry",
     "tags": [],
     "snippet": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power un"
@@ -78,7 +120,7 @@
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "date": "2026-08-27",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "startup",
     "tags": [],
     "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
@@ -88,7 +130,7 @@
     "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "date": "2026-08-27",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "startup",
     "tags": [],
     "snippet": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of"
@@ -98,7 +140,7 @@
     "title": "Nvidia closes in on Hugging Face acquisition",
     "date": "2026-08-27",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "hardware",
     "tags": [
       "OpenSource"
@@ -110,31 +152,27 @@
     "title": "3 new ways to plan and book travel in Search",
     "date": "2026-08-27",
     "source": "Google AI Blog",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "research",
     "tags": [],
     "snippet": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI’s rogue AI model incident was worse than we thought",
-    "date": "2026-08-26",
-    "source": "The Verge AI",
-    "hotScore": 53.3,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get acc"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "date": "2026-08-28",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "There's a lot of capital pouring into the business of giving models away."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
     "date": "2026-08-27",
     "source": "MIT Technology Review",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "research",
     "tags": [
       "Agent"
@@ -142,11 +180,23 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The "
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "date": "2026-08-26",
+    "source": "MIT Technology Review",
+    "hotScore": 43.5,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Google’s AI note-taking app now allows you to interact with books",
     "date": "2026-08-27",
     "source": "The Verge AI",
-    "hotScore": 51.3,
+    "hotScore": 43.3,
     "category": "hardware",
     "tags": [
       "Gemini"
@@ -155,10 +205,20 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "date": "2026-08-28",
+    "source": "The Verge AI",
+    "hotScore": 42.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those cente"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Hugging Face’s new robot is an adorable rollerskating duck",
     "date": "2026-08-27",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [
       "Robotics"
@@ -170,7 +230,7 @@
     "title": "Plaud is launching AI earbuds",
     "date": "2026-08-27",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [],
     "snippet": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition ca"
@@ -180,7 +240,7 @@
     "title": "Adobe is adding more AI to Photoshop",
     "date": "2026-08-27",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "product",
     "tags": [
       "Multimodal"
@@ -192,7 +252,7 @@
     "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
     "date": "2026-08-27",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
@@ -202,7 +262,7 @@
     "title": "AI’s memory crunch is coming for Android apps",
     "date": "2026-08-27",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "hardware",
     "tags": [],
     "snippet": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
@@ -212,7 +272,7 @@
     "title": "Make a Portable Wide-screen Mechanical TV",
     "date": "2026-08-27",
     "source": "IEEE Spectrum",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [
       "Multimodal"
@@ -224,195 +284,12 @@
     "title": "Anthropic's new hardware standard lets AI agents control the physical world",
     "date": "2026-08-27",
     "source": "Ars Technica",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "hardware",
     "tags": [
       "Agent"
     ],
     "snippet": "Standardized driver interface aims to let devices talk to AI and each other."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "date": "2026-08-26",
-    "source": "MIT Technology Review",
-    "hotScore": 49.5,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-    "date": "2026-08-27",
-    "source": "Ars Technica",
-    "hotScore": 48.8,
-    "category": "tech",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "227 install commands were found in corporate docs pointing at code nobody owns."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [
-      "OpenSource",
-      "Robotics"
-    ],
-    "snippet": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How do we explain OpenAI’s executive exodus?",
-    "date": "2026-08-26",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Was Greg Brockman the right executive all along?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
-  },
-  {
-    "id": "aHR0cHM6Ly92ZW50dXJl",
-    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-    "date": "2026-08-27",
-    "source": "VentureBeat AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it "
-  },
-  {
-    "id": "aHR0cHM6Ly92ZW50dXJl",
-    "title": "When agents act on their own, governance has to live in the data layer",
-    "date": "2026-08-27",
-    "source": "VentureBeat AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    "date": "2026-08-27",
-    "source": "Ars Technica",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia is nabbing critical infrastructure for open models as interest grows."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "date": "2026-08-26",
-    "source": "MIT Technology Review",
-    "hotScore": 43.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-    "date": "2026-08-26",
-    "source": "The Verge AI",
-    "hotScore": 43.3,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini famil"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-    "date": "2026-08-26",
-    "source": "TechCrunch AI",
-    "hotScore": 43.3,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Consumer AI apps need to stop making users learn their product architecture."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "date": "2026-08-26",
-    "source": "Ars Technica",
-    "hotScore": 43.3,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "date": "2026-08-26",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "date": "2026-08-26",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -428,13 +305,16 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "date": "2026-08-26",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "date": "2026-08-27",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
     "category": "startup",
-    "tags": [],
-    "snippet": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+    "tags": [
+      "OpenSource",
+      "Robotics"
+    ],
+    "snippet": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -459,58 +339,94 @@
     "snippet": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
     "date": "2026-08-26",
-    "source": "TechCrunch AI",
-    "hotScore": 38.3,
+    "source": "MIT Technology Review",
+    "hotScore": 37.3,
     "category": "hardware",
     "tags": [],
-    "snippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
+    "snippet": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
     "date": "2026-08-26",
     "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-    "date": "2026-08-26",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
+    "hotScore": 37.3,
+    "category": "product",
     "tags": [
-      "Robotics"
+      "Gemini"
     ],
-    "snippet": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
+    "snippet": "Consumer AI apps need to stop making users learn their product architecture."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "date": "2026-08-26",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "date": "2026-08-27",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "research",
-    "tags": [],
-    "snippet": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
-  },
-  {
-    "id": "aHR0cHM6Ly92ZW50dXJl",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "date": "2026-08-26",
-    "source": "VentureBeat AI",
-    "hotScore": 37,
-    "category": "industry",
+    "category": "product",
     "tags": [
       "Agent"
     ],
-    "snippet": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t"
+    "snippet": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "date": "2026-08-27",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "date": "2026-08-27",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
+  },
+  {
+    "id": "aHR0cHM6Ly92ZW50dXJl",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "date": "2026-08-27",
+    "source": "VentureBeat AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it "
+  },
+  {
+    "id": "aHR0cHM6Ly92ZW50dXJl",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "date": "2026-08-27",
+    "source": "VentureBeat AI",
+    "hotScore": 37,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "date": "2026-08-27",
+    "source": "Ars Technica",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia is nabbing critical infrastructure for open models as interest grows."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -553,5 +469,79 @@
     "category": "product",
     "tags": [],
     "snippet": "Here are Google’s latest AI updates from July 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Inside our 353,000-person vibe coding course",
+    "date": "2026-08-03",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "date": "2026-08-26",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 new ways to level up your learning with Search",
+    "date": "2026-08-19",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Here’s how you can use Google Search tools to study for classes and standardized tests."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "date": "2026-08-13",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "date": "2026-08-26",
+    "source": "TechCrunch AI",
+    "hotScore": 32.3,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
+  },
+  {
+    "id": "aHR0cHM6Ly92ZW50dXJl",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "date": "2026-08-26",
+    "source": "VentureBeat AI",
+    "hotScore": 31,
+    "category": "industry",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "date": "2026-08-11",
+    "source": "Google AI Blog",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
   }
 ]
