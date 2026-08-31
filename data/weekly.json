@@ -4,18 +4,77 @@
     "to": "2026-09-01"
   },
   "weekKey": "2026-W35",
-  "lastUpdate": "2026-08-30",
-  "generatedAt": "2026-08-30T05:41:30.728Z",
+  "lastUpdate": "2026-08-31",
+  "generatedAt": "2026-08-31T05:57:48.953Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "date": "2026-08-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "hotScore": 62.5,
+      "category": "startup",
+      "tags": [
+        "Robotics"
+      ],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "date": "2026-08-30",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "hotScore": 50,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally c",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "date": "2026-08-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "hotScore": 47.3,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Musicians-turned-detectives are hunting for AI grifters",
       "date": "2026-08-29",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "hotScore": 55,
+      "hotScore": 47,
       "category": "industry",
       "tags": [],
       "week_key": "2026-W35",
@@ -29,74 +88,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
+      "rank": 5,
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "date": "2026-08-29",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "hotScore": 53.8,
+      "hotScore": 45.8,
       "category": "hardware",
       "tags": [],
       "week_key": "2026-W35",
       "content": {
         "basic": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "date": "2026-08-29",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "hotScore": 52.5,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount. This is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 b",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "date": "2026-08-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "hotScore": 47.5,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "date": "2026-08-27",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "hotScore": 47.3,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

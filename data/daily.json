@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-08-30",
-  "generatedAt": "2026-08-30T05:41:30.728Z",
+  "lastUpdate": "2026-08-31",
+  "generatedAt": "2026-08-31T05:57:48.953Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "date": "2026-08-29",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "hotScore": 55,
-      "category": "industry",
-      "tags": [],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "date": "2026-08-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "hotScore": 62.5,
+      "category": "startup",
+      "tags": [
+        "Robotics"
+      ],
       "content": {
-        "basic": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. For musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and wh",
+        "basic": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "date": "2026-08-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "hotScore": 53.8,
-      "category": "hardware",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "date": "2026-08-30",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "hotScore": 50,
+      "category": "startup",
       "tags": [],
       "content": {
-        "basic": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "basic": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally c",
         "highlights": [],
         "scenarios": [],
         "industry": [],
