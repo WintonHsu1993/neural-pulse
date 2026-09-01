@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-08-31",
-  "generatedAt": "2026-08-31T05:57:48.953Z",
+  "lastUpdate": "2026-09-01",
+  "generatedAt": "2026-09-01T05:30:27.940Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "date": "2026-08-31",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "date": "2026-09-01",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "hotScore": 62.5,
-      "category": "startup",
-      "tags": [
-        "Robotics"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "hotScore": 70,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "basic": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +21,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "date": "2026-08-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "hotScore": 50,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "date": "2026-08-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "hotScore": 67.5,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Gemini"
+      ],
       "content": {
-        "basic": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally c",
+        "basic": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,65 +1,155 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 70,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
     "date": "2026-08-31",
     "source": "TechCrunch AI",
-    "hotScore": 62.5,
+    "hotScore": 67.5,
     "category": "startup",
     "tags": [
-      "Robotics"
+      "GPT",
+      "Gemini"
     ],
-    "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
+    "snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "date": "2026-08-30",
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "date": "2026-08-31",
     "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+    "date": "2026-08-31",
+    "source": "IEEE Spectrum",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactorie"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "date": "2026-08-31",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "date": "2026-08-31",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "date": "2026-08-31",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez Instagram is finally taking steps to address the rise of fake AI-influencer accounts that hav"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "date": "2026-08-31",
+    "source": "TechCrunch AI",
     "hotScore": 50,
     "category": "startup",
     "tags": [],
-    "snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that "
+    "snippet": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Here’s all the times AI has gone rogue and hacked other companies",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 47.3,
-    "category": "startup",
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+    "date": "2026-08-31",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "policy",
     "tags": [],
-    "snippet": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+    "snippet": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+    "date": "2026-08-31",
+    "source": "Ars Technica",
+    "hotScore": 48.8,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Safety"
+    ],
+    "snippet": "Explosive growth comes with a new regulatory burden in the European Union."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "date": "2026-08-29",
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "date": "2026-08-31",
     "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "industry",
+    "hotScore": 45,
+    "category": "policy",
     "tags": [],
-    "snippet": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive"
+    "snippet": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and G"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "date": "2026-08-29",
-    "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "date": "2026-08-30",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "date": "2026-08-31",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+    "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "date": "2026-08-31",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "date": "2026-08-31",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -75,23 +165,35 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-    "date": "2026-08-30",
+    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+    "date": "2026-08-31",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
-    "category": "policy",
+    "category": "startup",
     "tags": [],
-    "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg"
+    "snippet": "Circleback is also introducing new pricing plans starting from $14 per month."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
+    "date": "2026-08-31",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-    "date": "2026-08-27",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "date": "2026-08-30",
     "source": "The Verge AI",
-    "hotScore": 42.3,
-    "category": "hardware",
+    "hotScore": 42,
+    "category": "startup",
     "tags": [],
-    "snippet": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing."
+    "snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -107,33 +209,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI&#8217;s executive exodus has one big winner",
-    "date": "2026-08-27",
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "date": "2026-08-29",
     "source": "The Verge AI",
     "hotScore": 41,
     "category": "industry",
     "tags": [],
-    "snippet": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power un"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "startup",
-    "tags": [],
-    "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of"
+    "snippet": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -146,24 +228,14 @@
     "snippet": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "date": "2026-08-29",
-    "source": "The Verge AI",
-    "hotScore": 39.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "date": "2026-08-29",
     "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "policy",
+    "hotScore": 39.8,
+    "category": "hardware",
     "tags": [],
-    "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+    "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -190,16 +262,6 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The "
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "date": "2026-08-25",
-    "source": "Google AI Blog",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "AI models flub these intelligence tests. Can you fare any better?",
     "date": "2026-08-26",
@@ -223,23 +285,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-    "date": "2026-08-29",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "date": "2026-08-30",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "research",
+    "category": "startup",
     "tags": [],
-    "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "How to Run a Chatbot on Your Own Computer",
-    "date": "2026-08-29",
-    "source": "Wired",
-    "hotScore": 37,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy."
+    "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -250,28 +302,6 @@
     "category": "policy",
     "tags": [],
     "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-    "date": "2026-08-27",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, la"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Plaud is launching AI earbuds",
-    "date": "2026-08-27",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [],
-    "snippet": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition ca"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -314,26 +344,6 @@
     "snippet": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI’s memory crunch is coming for Android apps",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Make a Portable Wide-screen Mechanical TV",
     "date": "2026-08-27",
@@ -344,18 +354,6 @@
       "Multimodal"
     ],
     "snippet": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me t"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "date": "2026-08-27",
-    "source": "Ars Technica",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Standardized driver interface aims to let devices talk to AI and each other."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -393,26 +391,43 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-    "date": "2026-08-27",
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "date": "2026-08-30",
     "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "startup",
-    "tags": [
-      "OpenSource",
-      "Robotics"
-    ],
-    "snippet": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
+    "hotScore": 34.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-    "date": "2026-08-28",
-    "source": "Ars Technica",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+    "date": "2026-08-29",
+    "source": "The Verge AI",
     "hotScore": 33.5,
-    "category": "tech",
+    "category": "product",
     "tags": [],
-    "snippet": "Anthropic refused to support lethal autonomous warfare and mass surveillance."
+    "snippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
+    "date": "2026-08-29",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "date": "2026-08-25",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -436,6 +451,26 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "date": "2026-08-29",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
+    "date": "2026-08-29",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [],
+    "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "date": "2026-08-28",
     "source": "TechCrunch AI",
@@ -443,30 +478,6 @@
     "category": "startup",
     "tags": [],
     "snippet": "There's a lot of capital pouring into the business of giving models away."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "date": "2026-08-27",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
   },
   {
     "id": "aHR0cHM6Ly92ZW50dXJl",
@@ -503,16 +514,6 @@
       "Agent"
     ],
     "snippet": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    "date": "2026-08-27",
-    "source": "Ars Technica",
-    "hotScore": 31,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia is nabbing critical infrastructure for open models as interest grows."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",

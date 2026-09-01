@@ -4,25 +4,45 @@
     "to": "2026-09-01"
   },
   "weekKey": "2026-W35",
-  "lastUpdate": "2026-08-31",
-  "generatedAt": "2026-08-31T05:57:48.953Z",
+  "lastUpdate": "2026-09-01",
+  "generatedAt": "2026-09-01T05:30:27.940Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "date": "2026-09-01",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "hotScore": 70,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "date": "2026-08-31",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "hotScore": 62.5,
+      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "hotScore": 67.5,
       "category": "startup",
       "tags": [
-        "Robotics"
+        "GPT",
+        "Gemini"
       ],
       "week_key": "2026-W35",
       "content": {
-        "basic": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "basic": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,36 +51,38 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "date": "2026-08-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "hotScore": 50,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally c",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "date": "2026-08-27",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "hotScore": 47.3,
-      "category": "startup",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "date": "2026-08-31",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "hotScore": 61.3,
+      "category": "policy",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W35",
+      "content": {
+        "basic": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and platforms. Along with ChatGPT, the European Commission also announced that Reddit and Roblox are considered Very Large Online Platforms, subjecting them to the same rules. The DSA restricts platforms from targeting ads to minors or using a person's sexual orienta",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "rank": 4,
+      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+      "date": "2026-08-31",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/europes-ai-drive",
+      "hotScore": 56.3,
+      "category": "policy",
       "tags": [],
       "week_key": "2026-W35",
       "content": {
-        "basic": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+        "basic": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpin artificial intelligence. Yet Europe produces fewer than 10 percent of the world’s chips and remains heavily dependent on U.S. designers and Asian manufacturers for the most advanced processors. That tension sits at the heart of Chips Act 2.0, the European Commission’s planned overhaul of its fla",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -69,36 +91,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "date": "2026-08-29",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "hotScore": 47,
-      "category": "industry",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. For musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and wh",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "date": "2026-08-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "hotScore": 45.8,
-      "category": "hardware",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "date": "2026-08-31",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "hotScore": 55,
+      "category": "policy",
       "tags": [],
       "week_key": "2026-W35",
       "content": {
-        "basic": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "basic": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\" The project's voting developers considered several other proposals on how to handle AI, including some that would have banned contributions made using AI tools. As It's FOSS reports, some users and co",
         "highlights": [],
         "scenarios": [],
         "industry": [],
