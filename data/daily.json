@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-09-01",
-  "generatedAt": "2026-09-01T05:30:27.940Z",
+  "lastUpdate": "2026-09-02",
+  "generatedAt": "2026-09-02T04:56:29.811Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Apple accuses OpenAI of destroying evidence",
       "date": "2026-09-01",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "hotScore": 70,
-      "category": "product",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "hotScore": 61.3,
+      "category": "policy",
+      "tags": [
+        "GPT"
+      ],
       "content": {
-        "basic": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "basic": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying the types of forensic data Apple needs.\" This is the latest development in Apple's lawsuit against OpenAI, which accuses the ChatGPT-maker of stealing trade secrets to build an AI device. The lawsuit revolves around three former Apple employees who re",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,19 +23,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "date": "2026-08-31",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "hotScore": 67.5,
-      "category": "startup",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "date": "2026-09-01",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "hotScore": 61.3,
+      "category": "policy",
       "tags": [
-        "GPT",
-        "Gemini"
+        "Gemini",
+        "Multimodal"
       ],
       "content": {
-        "basic": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "basic": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing users to tap on specific objects or text, and describe what they want to change - features that may avoid the ugly results that chatbo",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,112 +1,11 @@
 {
   "weekRange": {
-    "from": "2026-08-26",
-    "to": "2026-09-01"
+    "from": "2026-09-02",
+    "to": "2026-09-08"
   },
-  "weekKey": "2026-W35",
-  "lastUpdate": "2026-09-01",
-  "generatedAt": "2026-09-01T05:30:27.940Z",
-  "count": 5,
-  "data": [
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 1,
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "date": "2026-09-01",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "hotScore": 70,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "date": "2026-08-31",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "hotScore": 67.5,
-      "category": "startup",
-      "tags": [
-        "GPT",
-        "Gemini"
-      ],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "date": "2026-08-31",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "hotScore": 61.3,
-      "category": "policy",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and platforms. Along with ChatGPT, the European Commission also announced that Reddit and Roblox are considered Very Large Online Platforms, subjecting them to the same rules. The DSA restricts platforms from targeting ads to minors or using a person's sexual orienta",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 4,
-      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-      "date": "2026-08-31",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/europes-ai-drive",
-      "hotScore": 56.3,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpin artificial intelligence. Yet Europe produces fewer than 10 percent of the world’s chips and remains heavily dependent on U.S. designers and Asian manufacturers for the most advanced processors. That tension sits at the heart of Chips Act 2.0, the European Commission’s planned overhaul of its fla",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "date": "2026-08-31",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W35",
-      "content": {
-        "basic": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\" The project's voting developers considered several other proposals on how to handle AI, including some that would have banned contributions made using AI tools. As It's FOSS reports, some users and co",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    }
-  ]
+  "weekKey": "2026-W36",
+  "lastUpdate": "2026-09-02",
+  "generatedAt": "2026-09-02T04:56:29.811Z",
+  "count": 0,
+  "data": []
 }

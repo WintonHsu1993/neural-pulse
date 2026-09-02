@@ -1,20 +1,35 @@
 [
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple accuses OpenAI of destroying evidence",
     "date": "2026-09-01",
-    "source": "TechCrunch AI",
-    "hotScore": 70,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "policy",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google Pics is like Canva, but with even more AI",
+    "date": "2026-09-01",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "policy",
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google Google has a new suite of creative design tools for Workspace users called Google Pics, which aims t"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
     "date": "2026-08-31",
     "source": "TechCrunch AI",
-    "hotScore": 67.5,
+    "hotScore": 59.5,
     "category": "startup",
     "tags": [
       "GPT",
@@ -24,42 +39,237 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "date": "2026-08-31",
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "date": "2026-09-01",
     "source": "The Verge AI",
-    "hotScore": 61.3,
-    "category": "policy",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "snippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers str"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "startup",
     "tags": [
       "GPT"
     ],
-    "snippet": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is "
+    "snippet": "OpenAI said that the integration provides read-only access to health records for clinicians."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in August 2026",
+    "date": "2026-09-01",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [],
+    "snippet": "Here are Google’s latest AI updates from August 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+    "date": "2026-09-01",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "date": "2026-09-01",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fert"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google needs Hollywood more than the studios need AI",
+    "date": "2026-09-01",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "date": "2026-09-01",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "date": "2026-09-01",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguis"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "John Deere launched an AI chatbot for farmers",
+    "date": "2026-09-01",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "startup",
+    "tags": [],
+    "snippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
     "date": "2026-08-31",
     "source": "IEEE Spectrum",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "policy",
     "tags": [],
     "snippet": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactorie"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "date": "2026-09-01",
+    "source": "Google AI Blog",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "date": "2026-09-01",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Debian won&#8217;t ban AI code from its Linux distribution",
     "date": "2026-08-31",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "policy",
     "tags": [],
     "snippet": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "date": "2026-08-31",
     "source": "MIT Technology Review",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "product",
     "tags": [
       "Agent"
@@ -67,23 +277,31 @@
     "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Instagram cracks down on AI accounts pretending to be human",
-    "date": "2026-08-31",
-    "source": "The Verge AI",
-    "hotScore": 50,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "date": "2026-09-01",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
     "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez Instagram is finally taking steps to address the rise of fake AI-influencer accounts that hav"
+    "tags": [],
+    "snippet": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Instagram puts new limits on undisclosed AI profiles",
     "date": "2026-08-31",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
     "snippet": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
@@ -93,107 +311,10 @@
     "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
     "date": "2026-08-31",
     "source": "Ars Technica",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "policy",
     "tags": [],
     "snippet": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-    "date": "2026-08-31",
-    "source": "Ars Technica",
-    "hotScore": 48.8,
-    "category": "policy",
-    "tags": [
-      "GPT",
-      "Safety"
-    ],
-    "snippet": "Explosive growth comes with a new regulatory burden in the European Union."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-    "date": "2026-08-31",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and G"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-    "date": "2026-08-31",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "date": "2026-08-31",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-    "date": "2026-08-31",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "date": "2026-08-26",
-    "source": "MIT Technology Review",
-    "hotScore": 43.5,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-    "date": "2026-08-31",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Circleback is also introducing new pricing plans starting from $14 per month."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-    "date": "2026-08-31",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "date": "2026-08-30",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -208,16 +329,6 @@
     "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "date": "2026-08-29",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "industry",
-    "tags": [],
-    "snippet": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive"
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "3 new ways to plan and book travel in Search",
     "date": "2026-08-27",
@@ -228,14 +339,17 @@
     "snippet": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "date": "2026-08-29",
-    "source": "TechCrunch AI",
-    "hotScore": 39.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+    "date": "2026-08-31",
+    "source": "Ars Technica",
+    "hotScore": 40.8,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Safety"
+    ],
+    "snippet": "Explosive growth comes with a new regulatory burden in the European Union."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -262,86 +376,44 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "date": "2026-08-26",
-    "source": "MIT Technology Review",
-    "hotScore": 37.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google’s AI note-taking app now allows you to interact with books",
-    "date": "2026-08-27",
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "date": "2026-08-31",
     "source": "The Verge AI",
-    "hotScore": 37.3,
-    "category": "hardware",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly"
+    "hotScore": 37,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and G"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "date": "2026-08-30",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "date": "2026-08-31",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "date": "2026-08-28",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [],
-    "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad"
+    "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "date": "2026-08-28",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "date": "2026-08-31",
     "source": "TechCrunch AI",
-    "hotScore": 36,
+    "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
+    "snippet": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "date": "2026-08-28",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "date": "2026-08-31",
     "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "research",
+    "hotScore": 37,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "date": "2026-08-28",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [],
-    "snippet": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "date": "2026-08-28",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
+    "snippet": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -391,33 +463,25 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-    "date": "2026-08-30",
+    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+    "date": "2026-08-31",
     "source": "TechCrunch AI",
     "hotScore": 34.5,
-    "category": "policy",
+    "category": "startup",
     "tags": [],
-    "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "date": "2026-08-29",
-    "source": "The Verge AI",
-    "hotScore": 33.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. "
+    "snippet": "Circleback is also introducing new pricing plans starting from $14 per month."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-    "date": "2026-08-29",
+    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
+    "date": "2026-08-31",
     "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -451,33 +515,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-    "date": "2026-08-29",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-    "date": "2026-08-29",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "research",
-    "tags": [],
-    "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "date": "2026-08-28",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "date": "2026-08-30",
     "source": "TechCrunch AI",
     "hotScore": 31,
     "category": "startup",
     "tags": [],
-    "snippet": "There's a lot of capital pouring into the business of giving models away."
+    "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
   },
   {
     "id": "aHR0cHM6Ly92ZW50dXJl",
@@ -502,37 +546,5 @@
       "Agent"
     ],
     "snippet": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar"
-  },
-  {
-    "id": "aHR0cHM6Ly92ZW50dXJl",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "date": "2026-08-26",
-    "source": "VentureBeat AI",
-    "hotScore": 31,
-    "category": "industry",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "date": "2026-08-11",
-    "source": "Google AI Blog",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Senior Membership Demystified",
-    "date": "2026-08-24",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I under"
   }
 ]
