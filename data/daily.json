@@ -1,21 +1,23 @@
 {
-  "lastUpdate": "2026-09-02",
-  "generatedAt": "2026-09-02T04:56:29.811Z",
+  "lastUpdate": "2026-09-04",
+  "generatedAt": "2026-09-04T05:01:18.126Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "date": "2026-09-01",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "date": "2026-09-03",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "hotScore": 61.3,
-      "category": "policy",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "hotScore": 72.5,
+      "category": "research",
       "tags": [
-        "GPT"
+        "GPT",
+        "Claude",
+        "Multimodal"
       ],
       "content": {
-        "basic": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying the types of forensic data Apple needs.\" This is the latest development in Apple's lawsuit against OpenAI, which accuses the ChatGPT-maker of stealing trade secrets to build an AI device. The lawsuit revolves around three former Apple employees who re",
+        "basic": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations with ChatGPT, the outage affected logins, file uploads, voice mode, search, deep research, image generation, and more. The incident occurred while OpenAI teased the launch of Astra, its new AI model. Meanwhile, Anthropi",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,19 +25,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "date": "2026-09-01",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "hotScore": 61.3,
-      "category": "policy",
-      "tags": [
-        "Gemini",
-        "Multimodal"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "date": "2026-09-04",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "hotScore": 70,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing users to tap on specific objects or text, and describe what they want to change - features that may avoid the ugly results that chatbo",
+        "basic": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
