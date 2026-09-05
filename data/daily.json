@@ -1,23 +1,21 @@
 {
-  "lastUpdate": "2026-09-04",
-  "generatedAt": "2026-09-04T05:01:18.126Z",
+  "lastUpdate": "2026-09-05",
+  "generatedAt": "2026-09-05T04:51:01.429Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "date": "2026-09-03",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "date": "2026-09-04",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "hotScore": 72.5,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "hotScore": 62.5,
+      "category": "product",
       "tags": [
-        "GPT",
-        "Claude",
-        "Multimodal"
+        "GPT"
       ],
       "content": {
-        "basic": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations with ChatGPT, the outage affected logins, file uploads, voice mode, search, deep research, image generation, and more. The incident occurred while OpenAI teased the launch of Astra, its new AI model. Meanwhile, Anthropi",
+        "basic": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,16 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "date": "2026-09-04",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "hotScore": 70,
-      "category": "product",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "date": "2026-09-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "hotScore": 59.5,
+      "category": "industry",
+      "tags": [
+        "GPT"
+      ],
       "content": {
-        "basic": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+        "basic": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems. \"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about thi",
         "highlights": [],
         "scenarios": [],
         "industry": [],

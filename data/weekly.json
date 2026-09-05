@@ -4,55 +4,13 @@
     "to": "2026-09-08"
   },
   "weekKey": "2026-W36",
-  "lastUpdate": "2026-09-04",
-  "generatedAt": "2026-09-04T05:01:18.126Z",
+  "lastUpdate": "2026-09-05",
+  "generatedAt": "2026-09-05T04:51:01.429Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 1,
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "date": "2026-09-03",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "hotScore": 72.5,
-      "category": "research",
-      "tags": [
-        "GPT",
-        "Claude",
-        "Multimodal"
-      ],
-      "week_key": "2026-W36",
-      "content": {
-        "basic": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations with ChatGPT, the outage affected logins, file uploads, voice mode, search, deep research, image generation, and more. The incident occurred while OpenAI teased the launch of Astra, its new AI model. Meanwhile, Anthropi",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "date": "2026-09-04",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "hotScore": 70,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W36",
-      "content": {
-        "basic": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 3,
+      "rank": 1,
       "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
       "date": "2026-09-03",
       "source": "Wired",
@@ -73,22 +31,60 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "rank": 4,
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "date": "2026-09-03",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "hotScore": 68.8,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "date": "2026-09-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "hotScore": 62.5,
       "category": "product",
       "tags": [
-        "GPT",
-        "Claude",
-        "Gemini"
+        "GPT"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
+        "basic": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "date": "2026-09-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "hotScore": 59.5,
+      "category": "industry",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W36",
+      "content": {
+        "basic": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems. \"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about thi",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "date": "2026-09-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "hotScore": 55,
+      "category": "industry",
+      "tags": [],
+      "week_key": "2026-W36",
+      "content": {
+        "basic": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that. Unlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -98,18 +94,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "date": "2026-09-03",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "date": "2026-09-04",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "hotScore": 67.5,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "hotScore": 55,
+      "category": "product",
       "tags": [
-        "GPT"
+        "Multimodal"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems. \"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about thi",
+        "basic": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all. The precise causes of this tagging seem to vary. Many people said the label appeared on images that were edited using to",
         "highlights": [],
         "scenarios": [],
         "industry": [],

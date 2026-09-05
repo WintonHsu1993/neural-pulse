@@ -1,61 +1,22 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "ChatGPT, Grok, and Claude all went down at the same time",
-    "date": "2026-09-03",
-    "source": "The Verge AI",
-    "hotScore": 72.5,
-    "category": "research",
-    "tags": [
-      "GPT",
-      "Claude",
-      "Multimodal"
-    ],
-    "snippet": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
     "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 70,
-    "category": "product",
-    "tags": [],
-    "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "date": "2026-09-03",
-    "source": "Wired",
-    "hotScore": 70,
-    "category": "tech",
-    "tags": [
-      "GPT",
-      "Claude"
-    ],
-    "snippet": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Four major AI models suffer rare overlapping downtime",
-    "date": "2026-09-03",
-    "source": "Ars Technica",
-    "hotScore": 68.8,
+    "source": "The Verge AI",
+    "hotScore": 62.5,
     "category": "product",
     "tags": [
-      "GPT",
-      "Claude",
-      "Gemini"
+      "GPT"
     ],
-    "snippet": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
+    "snippet": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left "
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
     "date": "2026-09-03",
     "source": "The Verge AI",
-    "hotScore": 67.5,
+    "hotScore": 59.5,
     "category": "industry",
     "tags": [
       "GPT"
@@ -63,90 +24,181 @@
     "snippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [],
+    "snippet": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Instagram’s AI detection is a mess (again)",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+    "date": "2026-09-04",
+    "source": "Ars Technica",
+    "hotScore": 53.8,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
+    "category": "startup",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Why AI food looks like that",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "This NAS company wants to run your local smart home",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugreen, known for its pho"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "date": "2026-09-04",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "tech",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "What will Apple’s John Ternus era look like?",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
     "date": "2026-09-04",
     "source": "TechCrunch AI",
-    "hotScore": 67.5,
+    "hotScore": 47.5,
     "category": "startup",
     "tags": [],
     "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-    "date": "2026-09-03",
-    "source": "Wired",
-    "hotScore": 60,
-    "category": "tech",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google now lets you chat with Gmail, Docs, and Keep",
-    "date": "2026-09-03",
-    "source": "The Verge AI",
-    "hotScore": 56.3,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "date": "2026-09-02",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "date": "2026-09-04",
     "source": "TechCrunch AI",
-    "hotScore": 55.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia is buying Hugging Face for almost $13 billion",
-    "date": "2026-09-03",
-    "source": "The Verge AI",
-    "hotScore": 53.8,
-    "category": "research",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest A"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-    "date": "2026-09-03",
-    "source": "Wired",
-    "hotScore": 52.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "date": "2026-09-02",
-    "source": "TechCrunch AI",
-    "hotScore": 52,
+    "hotScore": 45,
     "category": "policy",
-    "tags": [
-      "Safety",
-      "Reasoning"
-    ],
-    "snippet": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
+    "tags": [],
+    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "date": "2026-09-03",
     "source": "TechCrunch AI",
-    "hotScore": 51.3,
+    "hotScore": 43.3,
     "category": "startup",
     "tags": [
       "Gemini"
@@ -155,157 +207,45 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google says its AI weather model is getting better",
-    "date": "2026-09-03",
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "date": "2026-09-04",
     "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now ab"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42.5,
     "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+    "tags": [],
+    "snippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-    "date": "2026-09-03",
+    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+    "date": "2026-09-04",
     "source": "The Verge AI",
-    "hotScore": 48.8,
-    "category": "startup",
-    "tags": [
-      "Llama",
-      "OpenSource",
-      "Reasoning",
-      "Agent"
-    ],
-    "snippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious "
+    "hotScore": 42.5,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "date": "2026-09-03",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "date": "2026-09-04",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The round is being raised just months after the robot data startup exited from stealth."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-    "date": "2026-09-03",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "date": "2026-09-02",
-    "source": "The Verge AI",
-    "hotScore": 45.8,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
     "category": "product",
-    "tags": [
-      "Gemini",
-      "Reasoning"
-    ],
-    "snippet": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
     "tags": [],
-    "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "date": "2026-09-02",
-    "source": "Google AI Blog",
-    "hotScore": 44.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-    "date": "2026-09-02",
-    "source": "IEEE Spectrum",
-    "hotScore": 44.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the w"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: AI puzzles and a path to our nearest star system",
-    "date": "2026-09-02",
-    "source": "MIT Technology Review",
-    "hotScore": 43.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-    "date": "2026-09-03",
-    "source": "Wired",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets."
+    "snippet": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -318,27 +258,28 @@
     "snippet": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactorie"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-    "date": "2026-09-02",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "date": "2026-09-03",
+    "source": "TechCrunch AI",
     "hotScore": 42,
-    "category": "research",
+    "category": "startup",
     "tags": [
-      "Safety",
       "Agent"
     ],
-    "snippet": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about"
+    "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-    "date": "2026-09-02",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "date": "2026-09-03",
+    "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "policy",
-    "tags": [],
-    "snippet": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that "
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -363,128 +304,79 @@
     "snippet": "Here are Google’s latest AI updates from August 2026"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-    "date": "2026-09-02",
-    "source": "Ars Technica",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "date": "2026-09-03",
+    "source": "The Verge AI",
     "hotScore": 40.8,
-    "category": "product",
+    "category": "startup",
     "tags": [
-      "Gemini"
+      "Llama",
+      "OpenSource",
+      "Reasoning",
+      "Agent"
     ],
-    "snippet": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+    "snippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-    "date": "2026-09-01",
-    "source": "MIT Technology Review",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "date": "2026-09-03",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "date": "2026-09-02",
+    "source": "Google AI Blog",
     "hotScore": 38.5,
     "category": "research",
     "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fert"
+    "snippet": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+    "date": "2026-09-02",
+    "source": "IEEE Spectrum",
+    "hotScore": 38.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the w"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "date": "2026-08-31",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "date": "2026-09-02",
     "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Amazon’s AI assistant can now spot fake emails from the company",
-    "date": "2026-09-02",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "date": "2026-09-02",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "date": "2026-09-02",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
+    "hotScore": 37.3,
     "category": "hardware",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+    "tags": [],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "date": "2026-09-02",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "date": "2026-09-02",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "date": "2026-09-02",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "date": "2026-09-03",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
+    "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "date": "2026-09-02",
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "date": "2026-09-03",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-    "date": "2026-09-02",
-    "source": "Ars Technica",
-    "hotScore": 37,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says."
+    "category": "startup",
+    "tags": [],
+    "snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -510,23 +402,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "date": "2026-09-02",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "date": "2026-09-03",
     "source": "TechCrunch AI",
     "hotScore": 34.5,
     "category": "startup",
     "tags": [],
-    "snippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "date": "2026-09-02",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+    "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -559,5 +441,89 @@
     "category": "research",
     "tags": [],
     "snippet": "Here’s how you can use Google Search tools to study for classes and standardized tests."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "date": "2026-08-13",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "date": "2026-09-02",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "date": "2026-08-11",
+    "source": "Google AI Blog",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Make a Portable Wide-screen Mechanical TV",
+    "date": "2026-08-27",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me t"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Senior Membership Demystified",
+    "date": "2026-08-24",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I under"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Building Technology People Can Trust",
+    "date": "2026-08-24",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [],
+    "snippet": "This article is brought to you by Emerson. I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "date": "2026-09-02",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+    "date": "2026-08-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 27.5,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathe"
   }
 ]
