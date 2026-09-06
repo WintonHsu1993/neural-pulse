@@ -4,26 +4,26 @@
     "to": "2026-09-08"
   },
   "weekKey": "2026-W36",
-  "lastUpdate": "2026-09-05",
-  "generatedAt": "2026-09-05T04:51:01.429Z",
+  "lastUpdate": "2026-09-06",
+  "generatedAt": "2026-09-06T04:58:39.583Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "date": "2026-09-03",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "hotScore": 70,
-      "category": "tech",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "date": "2026-09-05",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "hotScore": 55,
+      "category": "industry",
       "tags": [
-        "GPT",
-        "Claude"
+        "Safety",
+        "Agent"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+        "basic": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\" OpenAI said it has typically treated cases of AI agents acting in unint",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -37,7 +37,7 @@
       "date": "2026-09-04",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "hotScore": 62.5,
+      "hotScore": 54.5,
       "category": "product",
       "tags": [
         "GPT"
@@ -52,13 +52,34 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "date": "2026-09-05",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "hotScore": 53.8,
+      "category": "startup",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W36",
+      "content": {
+        "basic": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
       "date": "2026-09-03",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "hotScore": 59.5,
+      "hotScore": 53.5,
       "category": "industry",
       "tags": [
         "GPT"
@@ -73,39 +94,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "date": "2026-09-04",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "hotScore": 55,
-      "category": "industry",
-      "tags": [],
-      "week_key": "2026-W36",
-      "content": {
-        "basic": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that. Unlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 5,
-      "title": "Instagram’s AI detection is a mess (again)",
-      "date": "2026-09-04",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "hotScore": 55,
-      "category": "product",
+      "title": "OpenAI Agents Hacked Another Website",
+      "date": "2026-09-05",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "hotScore": 52.5,
+      "category": "tech",
       "tags": [
-        "Multimodal"
+        "Agent"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all. The precise causes of this tagging seem to vary. Many people said the label appeared on images that were edited using to",
+        "basic": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

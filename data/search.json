@@ -1,10 +1,23 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "date": "2026-09-05",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
     "date": "2026-09-04",
     "source": "The Verge AI",
-    "hotScore": 62.5,
+    "hotScore": 54.5,
     "category": "product",
     "tags": [
       "GPT"
@@ -12,11 +25,23 @@
     "snippet": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left "
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "date": "2026-09-05",
+    "source": "TechCrunch AI",
+    "hotScore": 53.8,
+    "category": "startup",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
     "date": "2026-09-03",
     "source": "The Verge AI",
-    "hotScore": 59.5,
+    "hotScore": 53.5,
     "category": "industry",
     "tags": [
       "GPT"
@@ -24,11 +49,45 @@
     "snippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use."
   },
   {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI Agents Hacked Another Website",
+    "date": "2026-09-05",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "tech",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "date": "2026-09-05",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "date": "2026-09-05",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Roland is getting into generative AI music with Melody Flip",
     "date": "2026-09-04",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "industry",
     "tags": [],
     "snippet": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW"
@@ -38,7 +97,7 @@
     "title": "Instagram’s AI detection is a mess (again)",
     "date": "2026-09-04",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "product",
     "tags": [
       "Multimodal"
@@ -50,7 +109,7 @@
     "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
     "date": "2026-09-04",
     "source": "Ars Technica",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "tech",
     "tags": [
       "Claude"
@@ -62,190 +121,12 @@
     "title": "Google’s Gemini Spark can now manage your Google Photos library",
     "date": "2026-09-04",
     "source": "TechCrunch AI",
-    "hotScore": 51.3,
-    "category": "startup",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Why AI food looks like that",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "This NAS company wants to run your local smart home",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugreen, known for its pho"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "date": "2026-09-04",
-    "source": "Ars Technica",
-    "hotScore": 50,
-    "category": "tech",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "What will Apple’s John Ternus era look like?",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
     "hotScore": 43.3,
     "category": "startup",
     "tags": [
       "Gemini"
     ],
-    "snippet": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The round is being raised just months after the robot data startup exited from stealth."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
+    "snippet": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -258,28 +139,98 @@
     "snippet": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactorie"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Why AI food looks like that",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "This NAS company wants to run your local smart home",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "policy",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugreen, known for its pho"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "date": "2026-09-03",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "date": "2026-09-04",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [
       "Agent"
     ],
-    "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m"
+    "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "date": "2026-09-03",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "date": "2026-09-04",
     "source": "TechCrunch AI",
     "hotScore": 42,
-    "category": "policy",
+    "category": "product",
+    "tags": [],
+    "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "date": "2026-09-04",
+    "source": "Ars Technica",
+    "hotScore": 42,
+    "category": "tech",
     "tags": [
-      "Safety"
+      "Agent"
     ],
-    "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+    "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -304,29 +255,24 @@
     "snippet": "Here are Google’s latest AI updates from August 2026"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-    "date": "2026-09-03",
-    "source": "The Verge AI",
-    "hotScore": 40.8,
-    "category": "startup",
-    "tags": [
-      "Llama",
-      "OpenSource",
-      "Reasoning",
-      "Agent"
-    ],
-    "snippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious "
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "What will Apple’s John Ternus era look like?",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "date": "2026-09-03",
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "date": "2026-09-04",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
-    "category": "hardware",
+    "category": "startup",
     "tags": [],
-    "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+    "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -360,23 +306,49 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "date": "2026-09-03",
     "source": "TechCrunch AI",
-    "hotScore": 37,
+    "hotScore": 37.3,
     "category": "startup",
-    "tags": [],
-    "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "date": "2026-09-03",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "date": "2026-09-04",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "startup",
+    "category": "policy",
     "tags": [],
-    "snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
+    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "date": "2026-09-03",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "date": "2026-09-03",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -401,14 +373,46 @@
     "snippet": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 34.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+    "date": "2026-09-04",
+    "source": "The Verge AI",
+    "hotScore": 34.5,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this "
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "date": "2026-09-03",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "date": "2026-09-04",
     "source": "TechCrunch AI",
     "hotScore": 34.5,
     "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The round is being raised just months after the robot data startup exited from stealth."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "date": "2026-09-04",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "product",
     "tags": [],
-    "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
+    "snippet": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -454,13 +458,23 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "date": "2026-09-02",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "date": "2026-09-03",
     "source": "TechCrunch AI",
     "hotScore": 31,
     "category": "startup",
     "tags": [],
-    "snippet": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+    "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "date": "2026-09-03",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -506,13 +520,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "date": "2026-09-02",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "date": "2026-09-03",
     "source": "TechCrunch AI",
     "hotScore": 28.5,
     "category": "startup",
     "tags": [],
-    "snippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+    "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
