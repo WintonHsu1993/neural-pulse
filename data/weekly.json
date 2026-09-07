@@ -4,26 +4,26 @@
     "to": "2026-09-08"
   },
   "weekKey": "2026-W36",
-  "lastUpdate": "2026-09-06",
-  "generatedAt": "2026-09-06T04:58:39.583Z",
+  "lastUpdate": "2026-09-07",
+  "generatedAt": "2026-09-07T05:05:54.879Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "date": "2026-09-05",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "date": "2026-09-06",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "hotScore": 55,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "hotScore": 60,
       "category": "industry",
       "tags": [
-        "Safety",
-        "Agent"
+        "GPT",
+        "Multimodal"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\" OpenAI said it has typically treated cases of AI agents acting in unint",
+        "basic": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -37,7 +37,7 @@
       "date": "2026-09-04",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "hotScore": 54.5,
+      "hotScore": 48.5,
       "category": "product",
       "tags": [
         "GPT"
@@ -54,18 +54,18 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "date": "2026-09-05",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "date": "2026-09-06",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "hotScore": 53.8,
+      "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "hotScore": 47.5,
       "category": "startup",
       "tags": [
-        "Gemini"
+        "Agent"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "basic": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -75,18 +75,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "date": "2026-09-03",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "date": "2026-09-05",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "hotScore": 53.5,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "hotScore": 47,
       "category": "industry",
       "tags": [
-        "GPT"
+        "Safety",
+        "Agent"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems. \"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about thi",
+        "basic": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\" OpenAI said it has typically treated cases of AI agents acting in unint",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,20 +95,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "OpenAI Agents Hacked Another Website",
+      "title": "Hikers rescued after using Google Gemini for planning",
       "date": "2026-09-05",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "hotScore": 52.5,
-      "category": "tech",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "hotScore": 45.8,
+      "category": "startup",
       "tags": [
-        "Agent"
+        "Gemini"
       ],
       "week_key": "2026-W36",
       "content": {
-        "basic": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+        "basic": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
