@@ -1,22 +1,21 @@
 {
-  "lastUpdate": "2026-09-07",
-  "generatedAt": "2026-09-07T05:05:54.879Z",
+  "lastUpdate": "2026-09-08",
+  "generatedAt": "2026-09-08T05:03:13.022Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "date": "2026-09-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "hotScore": 60,
-      "category": "industry",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "date": "2026-09-07",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "hotScore": 52.5,
+      "category": "research",
       "tags": [
-        "GPT",
-        "Multimodal"
+        "Agent"
       ],
       "content": {
-        "basic": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in ",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,17 +24,18 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "date": "2026-09-04",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "date": "2026-09-06",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "hotScore": 48.5,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "hotScore": 52,
+      "category": "industry",
       "tags": [
-        "GPT"
+        "GPT",
+        "Multimodal"
       ],
       "content": {
-        "basic": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand",
+        "basic": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in ",
         "highlights": [],
         "scenarios": [],
         "industry": [],

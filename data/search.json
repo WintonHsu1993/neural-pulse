@@ -1,10 +1,22 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "date": "2026-09-07",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
     "date": "2026-09-06",
     "source": "The Verge AI",
-    "hotScore": 60,
+    "hotScore": 52,
     "category": "industry",
     "tags": [
       "GPT",
@@ -26,86 +38,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "date": "2026-09-06",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "date": "2026-09-07",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "date": "2026-09-05",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "industry",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "date": "2026-09-05",
-    "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "startup",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Agents Hacked Another Website",
-    "date": "2026-09-05",
-    "source": "Wired",
-    "hotScore": 44.5,
-    "category": "tech",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "date": "2026-09-06",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "date": "2026-09-05",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
+    "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "date": "2026-09-05",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -118,6 +57,19 @@
       "Gemini"
     ],
     "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "date": "2026-09-05",
+    "source": "The Verge AI",
+    "hotScore": 41,
+    "category": "industry",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of "
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -142,14 +94,16 @@
     "snippet": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone"
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "The latest AI news we announced in August 2026",
-    "date": "2026-09-01",
-    "source": "Google AI Blog",
-    "hotScore": 41,
-    "category": "product",
-    "tags": [],
-    "snippet": "Here are Google’s latest AI updates from August 2026"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "date": "2026-09-05",
+    "source": "TechCrunch AI",
+    "hotScore": 39.8,
+    "category": "startup",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
   },
   {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
@@ -162,6 +116,18 @@
       "Claude"
     ],
     "snippet": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "date": "2026-09-06",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -254,6 +220,28 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "date": "2026-09-05",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "date": "2026-09-05",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "date": "2026-09-04",
     "source": "TechCrunch AI",
@@ -335,6 +323,16 @@
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in August 2026",
+    "date": "2026-09-01",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "product",
+    "tags": [],
+    "snippet": "Here are Google’s latest AI updates from August 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "3 new ways to plan and book travel in Search",
     "date": "2026-08-27",
     "source": "Google AI Blog",
@@ -357,6 +355,18 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "date": "2026-09-06",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "What will Apple’s John Ternus era look like?",
     "date": "2026-09-04",
     "source": "TechCrunch AI",
@@ -374,18 +384,6 @@
     "category": "startup",
     "tags": [],
     "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-    "date": "2026-09-01",
-    "source": "Google AI Blog",
-    "hotScore": 33.5,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -501,7 +499,7 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "date": "2026-09-04",
     "source": "TechCrunch AI",
     "hotScore": 28.5,
@@ -532,15 +530,15 @@
     "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
-    "date": "2026-08-21",
-    "source": "IEEE Spectrum",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "date": "2026-09-01",
+    "source": "Google AI Blog",
     "hotScore": 27.5,
-    "category": "research",
+    "category": "policy",
     "tags": [
       "Multimodal"
     ],
-    "snippet": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathe"
+    "snippet": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
   }
 ]

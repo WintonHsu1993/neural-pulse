@@ -4,18 +4,39 @@
     "to": "2026-09-08"
   },
   "weekKey": "2026-W36",
-  "lastUpdate": "2026-09-07",
-  "generatedAt": "2026-09-07T05:05:54.879Z",
+  "lastUpdate": "2026-09-08",
+  "generatedAt": "2026-09-08T05:03:13.022Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 1,
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "date": "2026-09-07",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "hotScore": 52.5,
+      "category": "research",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W36",
+      "content": {
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "date": "2026-09-06",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "hotScore": 60,
+      "hotScore": 52,
       "category": "industry",
       "tags": [
         "GPT",
@@ -32,7 +53,7 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
+      "rank": 3,
       "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
       "date": "2026-09-04",
       "source": "The Verge AI",
@@ -53,19 +74,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "date": "2026-09-06",
+      "rank": 4,
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "date": "2026-09-07",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "hotScore": 47.5,
+      "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "hotScore": 45,
       "category": "startup",
-      "tags": [
-        "Agent"
-      ],
+      "tags": [],
       "week_key": "2026-W36",
       "content": {
-        "basic": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "basic": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -74,12 +93,12 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
+      "rank": 5,
       "title": "OpenAI admits to German wiki ‘incident’",
       "date": "2026-09-05",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "hotScore": 47,
+      "hotScore": 41,
       "category": "industry",
       "tags": [
         "Safety",
@@ -88,27 +107,6 @@
       "week_key": "2026-W36",
       "content": {
         "basic": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\" OpenAI said it has typically treated cases of AI agents acting in unint",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "date": "2026-09-05",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "hotScore": 45.8,
-      "category": "startup",
-      "tags": [
-        "Gemini"
-      ],
-      "week_key": "2026-W36",
-      "content": {
-        "basic": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
