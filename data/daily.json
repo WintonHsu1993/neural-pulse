@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-09-08",
-  "generatedAt": "2026-09-08T05:03:13.022Z",
+  "lastUpdate": "2026-09-10",
+  "generatedAt": "2026-09-10T05:05:22.866Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "date": "2026-09-07",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "hotScore": 52.5,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "date": "2026-09-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "hotScore": 65,
       "category": "research",
-      "tags": [
-        "Agent"
-      ],
+      "tags": [],
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+        "basic": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,19 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "date": "2026-09-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "hotScore": 52,
-      "category": "industry",
-      "tags": [
-        "GPT",
-        "Multimodal"
-      ],
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "title": "Recreating a 70-year love story frame by frame",
+      "date": "2026-09-09",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "hotScore": 60,
+      "category": "research",
+      "tags": [],
       "content": {
-        "basic": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in ",
+        "basic": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],

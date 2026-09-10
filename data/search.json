@@ -1,50 +1,409 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "date": "2026-09-10",
+    "source": "TechCrunch AI",
+    "hotScore": 65,
+    "category": "research",
+    "tags": [],
+    "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Recreating a 70-year love story frame by frame",
+    "date": "2026-09-09",
+    "source": "Google AI Blog",
+    "hotScore": 60,
+    "category": "research",
+    "tags": [],
+    "snippet": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 58.8,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned ove"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+    "date": "2026-09-09",
+    "source": "Ars Technica",
+    "hotScore": 56.3,
+    "category": "tech",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Superintelligence is coming. Should we let it?",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI sys"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-    "date": "2026-09-07",
+    "title": "The Download: OpenAI’s turning point for math and a battery record",
+    "date": "2026-09-09",
     "source": "MIT Technology Review",
     "hotScore": 52.5,
     "category": "research",
     "tags": [
       "Agent"
     ],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati"
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "date": "2026-09-09",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Get ready for the game with new football features in Search",
+    "date": "2026-09-09",
+    "source": "Google AI Blog",
+    "hotScore": 52.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "date": "2026-09-06",
+    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+    "date": "2026-09-08",
     "source": "The Verge AI",
     "hotScore": 52,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images) OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Mille"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft has new AI privacy rules for schools",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Students who use AI generally score worse at school",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 50,
     "category": "industry",
+    "tags": [],
+    "snippet": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds thoug"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI sys"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+    "date": "2026-09-09",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "\"We really do earnestly believe AI could kill all humans!\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Suno releases its first AI music model made with record industry help",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 48.8,
+    "category": "product",
+    "tags": [],
+    "snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not inc"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "date": "2026-09-08",
+    "source": "The Verge AI",
+    "hotScore": 48.3,
+    "category": "product",
     "tags": [
       "GPT",
       "Multimodal"
     ],
-    "snippet": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 48.5,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left "
+    "snippet": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "date": "2026-09-07",
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+    "date": "2026-09-09",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supp"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+    "date": "2026-09-09",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English du"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "date": "2026-09-09",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    "snippet": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "The company also argued that its on-device models offer consumers more privacy."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" S"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Instacart is the latest app to bake a conversational AI assistant into its platform."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+    "date": "2026-09-09",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The update uses Apple Intelligence to make better sense of your health data."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Rivian’s Gambit for Full Autonomy",
+    "date": "2026-09-08",
+    "source": "IEEE Spectrum",
+    "hotScore": 42,
+    "category": "research",
+    "tags": [],
+    "snippet": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -59,117 +418,16 @@
     "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "date": "2026-09-05",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "industry",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Roland is getting into generative AI music with Melody Flip",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "industry",
-    "tags": [],
-    "snippet": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Instagram’s AI detection is a mess (again)",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "date": "2026-09-05",
-    "source": "TechCrunch AI",
-    "hotScore": 39.8,
-    "category": "startup",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-    "date": "2026-09-04",
-    "source": "Ars Technica",
-    "hotScore": 39.8,
-    "category": "tech",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "date": "2026-09-06",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "date": "2026-09-02",
-    "source": "Google AI Blog",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-    "date": "2026-09-02",
-    "source": "IEEE Spectrum",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the w"
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: AI puzzles and a path to our nearest star system",
-    "date": "2026-09-02",
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "date": "2026-09-07",
     "source": "MIT Technology Review",
-    "hotScore": 37.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any bett"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s Gemini Spark can now manage your Google Photos library",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 37.3,
-    "category": "startup",
+    "hotScore": 38.5,
+    "category": "research",
     "tags": [
-      "Gemini"
+      "Agent"
     ],
-    "snippet": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of explorati"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -180,146 +438,6 @@
     "category": "policy",
     "tags": [],
     "snippet": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactorie"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Why AI food looks like that",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "This NAS company wants to run your local smart home",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugreen, known for its pho"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "date": "2026-09-05",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "date": "2026-09-05",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [],
-    "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "date": "2026-09-04",
-    "source": "Ars Technica",
-    "hotScore": 36,
-    "category": "tech",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -343,47 +461,13 @@
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Evolve your marketing with new AI tools",
-    "date": "2026-08-10",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "date": "2026-09-02",
     "source": "Google AI Blog",
-    "hotScore": 35,
+    "hotScore": 32.5,
     "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "date": "2026-09-06",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "What will Apple’s John Ternus era look like?",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "policy",
     "tags": [],
-    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+    "snippet": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -416,24 +500,14 @@
     "snippet": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "policy",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+    "date": "2026-09-02",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "research",
     "tags": [],
-    "snippet": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+    "snippet": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the w"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -466,79 +540,5 @@
     "category": "research",
     "tags": [],
     "snippet": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I under"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Building Technology People Can Trust",
-    "date": "2026-08-24",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "This article is brought to you by Emerson. I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 28.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-    "date": "2026-09-04",
-    "source": "The Verge AI",
-    "hotScore": 28.5,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The round is being raised just months after the robot data startup exited from stealth."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-    "date": "2026-09-04",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "date": "2026-09-03",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-    "date": "2026-09-01",
-    "source": "Google AI Blog",
-    "hotScore": 27.5,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
   }
 ]

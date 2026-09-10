@@ -1,28 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-09-02",
-    "to": "2026-09-08"
+    "from": "2026-09-09",
+    "to": "2026-09-15"
   },
-  "weekKey": "2026-W36",
-  "lastUpdate": "2026-09-08",
-  "generatedAt": "2026-09-08T05:03:13.022Z",
+  "weekKey": "2026-W37",
+  "lastUpdate": "2026-09-10",
+  "generatedAt": "2026-09-10T05:05:22.866Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "date": "2026-09-07",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "hotScore": 52.5,
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "date": "2026-09-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "hotScore": 65,
       "category": "research",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W36",
+      "tags": [],
+      "week_key": "2026-W37",
       "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+        "basic": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,21 +28,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
       "rank": 2,
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "date": "2026-09-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "hotScore": 52,
-      "category": "industry",
-      "tags": [
-        "GPT",
-        "Multimodal"
-      ],
-      "week_key": "2026-W36",
+      "title": "Recreating a 70-year love story frame by frame",
+      "date": "2026-09-09",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "hotScore": 60,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W37",
       "content": {
-        "basic": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in ",
+        "basic": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -54,18 +49,39 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "date": "2026-09-04",
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "date": "2026-09-09",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "hotScore": 48.5,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W37",
+      "content": {
+        "basic": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety. Coxon, who previously trained systems for OpenAI, accused the two AI companies of \"racing straight to self-improving superi",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 4,
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "date": "2026-09-09",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "hotScore": 56.3,
+      "category": "tech",
       "tags": [
         "GPT"
       ],
-      "week_key": "2026-W36",
+      "week_key": "2026-W37",
       "content": {
-        "basic": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand",
+        "basic": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -74,39 +90,19 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "date": "2026-09-07",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "hotScore": 45,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W36",
-      "content": {
-        "basic": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "date": "2026-09-05",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "hotScore": 41,
-      "category": "industry",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "date": "2026-09-09",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "hotScore": 55,
+      "category": "research",
       "tags": [
-        "Safety",
-        "Agent"
+        "Safety"
       ],
-      "week_key": "2026-W36",
+      "week_key": "2026-W37",
       "content": {
-        "basic": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\" OpenAI said it has typically treated cases of AI agents acting in unint",
+        "basic": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
