@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-09-10",
-  "generatedAt": "2026-09-10T05:05:22.866Z",
+  "lastUpdate": "2026-09-13",
+  "generatedAt": "2026-09-13T05:14:43.214Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "date": "2026-09-10",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "hotScore": 65,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "date": "2026-09-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "hotScore": 61.3,
       "category": "research",
-      "tags": [],
+      "tags": [
+        "Agent"
+      ],
       "content": {
-        "basic": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "basic": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "Recreating a 70-year love story frame by frame",
-      "date": "2026-09-09",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "date": "2026-09-12",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "hotScore": 60,
-      "category": "research",
+      "category": "startup",
       "tags": [],
       "content": {
-        "basic": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+        "basic": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
         "highlights": [],
         "scenarios": [],
         "industry": [],
