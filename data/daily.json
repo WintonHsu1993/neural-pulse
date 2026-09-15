@@ -1,21 +1,22 @@
 {
-  "lastUpdate": "2026-09-13",
-  "generatedAt": "2026-09-13T05:14:43.214Z",
+  "lastUpdate": "2026-09-15",
+  "generatedAt": "2026-09-15T05:10:53.661Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "date": "2026-09-12",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "date": "2026-09-14",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "hotScore": 61.3,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "hotScore": 65,
+      "category": "policy",
       "tags": [
-        "Agent"
+        "Safety",
+        "OpenSource"
       ],
       "content": {
-        "basic": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self",
+        "basic": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +24,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "date": "2026-09-12",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "hotScore": 60,
-      "category": "startup",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "date": "2026-09-14",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "hotScore": 63.8,
+      "category": "product",
       "tags": [],
       "content": {
-        "basic": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "basic": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

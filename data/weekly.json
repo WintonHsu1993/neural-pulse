@@ -4,25 +4,45 @@
     "to": "2026-09-15"
   },
   "weekKey": "2026-W37",
-  "lastUpdate": "2026-09-13",
-  "generatedAt": "2026-09-13T05:14:43.214Z",
+  "lastUpdate": "2026-09-15",
+  "generatedAt": "2026-09-15T05:10:53.661Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "date": "2026-09-12",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "date": "2026-09-14",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "hotScore": 61.3,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "hotScore": 65,
+      "category": "policy",
       "tags": [
-        "Agent"
+        "Safety",
+        "OpenSource"
       ],
       "week_key": "2026-W37",
       "content": {
-        "basic": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self",
+        "basic": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 2,
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "date": "2026-09-14",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "hotScore": 63.8,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W37",
+      "content": {
+        "basic": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,17 +51,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "date": "2026-09-12",
+      "rank": 3,
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "date": "2026-09-15",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "hotScore": 60,
+      "sourceUrl": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "hotScore": 62.5,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W37",
       "content": {
-        "basic": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "basic": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -49,20 +69,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "date": "2026-09-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "hotScore": 58.8,
-      "category": "policy",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "date": "2026-09-14",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "hotScore": 57.5,
+      "category": "research",
       "tags": [
-        "Safety"
+        "Safety",
+        "Agent"
       ],
       "week_key": "2026-W37",
       "content": {
-        "basic": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models. Amodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the indus",
+        "basic": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,37 +91,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "OpenAI just wants to win",
-      "date": "2026-09-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W37",
-      "content": {
-        "basic": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for lo",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
       "rank": 5,
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "date": "2026-09-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "hotScore": 53.8,
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "date": "2026-09-14",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "hotScore": 56.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "GPT"
+      ],
       "week_key": "2026-W37",
       "content": {
-        "basic": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\" \"We're not rushing into an IPO. I actually think t",
+        "basic": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
