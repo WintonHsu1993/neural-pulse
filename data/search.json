@@ -1,10 +1,61 @@
 [
   {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The AI Inference Revolution Is Here",
+    "date": "2026-09-15",
+    "source": "IEEE Spectrum",
+    "hotScore": 75,
+    "category": "research",
+    "tags": [
+      "GPT",
+      "Reasoning"
+    ],
+    "snippet": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest versi"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "date": "2026-09-16",
+    "source": "TechCrunch AI",
+    "hotScore": 65,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 60,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 57.5,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Claude",
+      "Agent"
+    ],
+    "snippet": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
     "date": "2026-09-14",
     "source": "The Verge AI",
-    "hotScore": 65,
+    "hotScore": 57,
     "category": "policy",
     "tags": [
       "Safety",
@@ -17,27 +68,149 @@
     "title": "The AI industry has taken a doomer turn. What now?",
     "date": "2026-09-14",
     "source": "MIT Technology Review",
-    "hotScore": 63.8,
+    "hotScore": 55.8,
     "category": "product",
     "tags": [],
     "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for"
   },
   {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "AI for Societal Impact",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [],
+    "snippet": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Building AI to accelerate science and improve lives",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [],
+    "snippet": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "AI for everyone in every language",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "date": "2026-09-15",
+    "source": "MIT Technology Review",
+    "hotScore": 53.8,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs D"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "date": "2026-09-15",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy p"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "date": "2026-09-15",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "date": "2026-09-15",
     "source": "TechCrunch AI",
-    "hotScore": 62.5,
+    "hotScore": 50,
     "category": "startup",
     "tags": [],
-    "snippet": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI agents now have a place to snitch",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "AI agents blew the whistle on their cheating colleagues",
     "date": "2026-09-14",
     "source": "MIT Technology Review",
-    "hotScore": 57.5,
+    "hotScore": 49.5,
     "category": "research",
     "tags": [
       "Safety",
@@ -47,10 +220,22 @@
   },
   {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+    "date": "2026-09-15",
+    "source": "Ars Technica",
+    "hotScore": 48.8,
+    "category": "tech",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "The refreshed Volvos also get new infotainment systems with Gemini onboard."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
     "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
     "date": "2026-09-14",
     "source": "Ars Technica",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "product",
     "tags": [
       "GPT"
@@ -58,111 +243,14 @@
     "snippet": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "DevFest is back",
-    "date": "2026-09-14",
-    "source": "Google AI Blog",
-    "hotScore": 55,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "date": "2026-09-13",
-    "source": "The Verge AI",
-    "hotScore": 52,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "What execs and politicians are saying about slowing down AI development",
-    "date": "2026-09-14",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-    "date": "2026-09-14",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI developm"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive s"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "With iOS 27, I’m actually using Siri again",
-    "date": "2026-09-14",
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "date": "2026-09-15",
     "source": "TechCrunch AI",
     "hotScore": 47.5,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investor"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "date": "2026-09-14",
-    "source": "Google AI Blog",
-    "hotScore": 47.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "date": "2026-09-14",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige."
+    "snippet": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -177,113 +265,121 @@
     "snippet": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "date": "2026-09-12",
-    "source": "TechCrunch AI",
-    "hotScore": 46,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Recreating a 70-year love story frame by frame",
-    "date": "2026-09-09",
+    "title": "DevFest is back",
+    "date": "2026-09-14",
     "source": "Google AI Blog",
-    "hotScore": 46,
+    "hotScore": 47,
     "category": "research",
-    "tags": [],
-    "snippet": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "date": "2026-09-14",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [
-      "Multimodal",
-      "Robotics"
-    ],
-    "snippet": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CE"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional fo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-    "date": "2026-09-12",
-    "source": "The Verge AI",
-    "hotScore": 44.8,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "date": "2026-09-14",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
     "tags": [
       "Agent"
     ],
-    "snippet": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now."
+    "snippet": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "date": "2026-09-13",
+    "source": "The Verge AI",
+    "hotScore": 46,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "date": "2026-09-15",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "This doorbell camera lets a human security guard watch your front door",
+    "date": "2026-09-15",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-    "date": "2026-09-14",
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "date": "2026-09-15",
+    "source": "Ars Technica",
+    "hotScore": 45,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "date": "2026-09-15",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making."
+    "snippet": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "date": "2026-09-15",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -296,14 +392,39 @@
     "snippet": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "date": "2026-09-14",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "date": "2026-09-14",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI developm"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "date": "2026-09-13",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "date": "2026-09-14",
     "source": "TechCrunch AI",
     "hotScore": 42,
-    "category": "startup",
+    "category": "product",
     "tags": [],
-    "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    "snippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -318,36 +439,14 @@
     "snippet": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI just wants to win",
-    "date": "2026-09-12",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "product",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Recreating a 70-year love story frame by frame",
+    "date": "2026-09-09",
+    "source": "Google AI Blog",
+    "hotScore": 40,
+    "category": "research",
     "tags": [],
-    "snippet": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium P"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "date": "2026-09-11",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "date": "2026-09-13",
-    "source": "TechCrunch AI",
-    "hotScore": 40.8,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe"
+    "snippet": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -360,14 +459,59 @@
     "snippet": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging "
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Get ready for the game with new football features in Search",
-    "date": "2026-09-09",
-    "source": "Google AI Blog",
-    "hotScore": 38.5,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "With iOS 27, I’m actually using Siri again",
+    "date": "2026-09-14",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
     "category": "product",
     "tags": [],
-    "snippet": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
+    "snippet": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "date": "2026-09-14",
+    "source": "Google AI Blog",
+    "hotScore": 39.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "date": "2026-09-14",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [
+      "Multimodal",
+      "Robotics"
+    ],
+    "snippet": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CE"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "date": "2026-09-14",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "date": "2026-09-14",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -378,26 +522,6 @@
     "category": "policy",
     "tags": [],
     "snippet": "This story was originally published by Tech Policy Press. The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactorie"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Trump is giving data centers a pass to pollute",
-    "date": "2026-09-12",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [],
-    "snippet": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "date": "2026-09-12",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -428,109 +552,5 @@
     "category": "research",
     "tags": [],
     "snippet": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "date": "2026-09-11",
-    "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "date": "2026-09-11",
-    "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "date": "2026-09-02",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "date": "2026-08-25",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "5 new ways to level up your learning with Search",
-    "date": "2026-08-19",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Here’s how you can use Google Search tools to study for classes and standardized tests."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-    "date": "2026-09-02",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the w"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Rivian’s Gambit for Full Autonomy",
-    "date": "2026-09-08",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Make a Portable Wide-screen Mechanical TV",
-    "date": "2026-08-27",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "date": "2026-09-11",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "date": "2026-09-11",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
   }
 ]

@@ -1,22 +1,22 @@
 {
-  "lastUpdate": "2026-09-15",
-  "generatedAt": "2026-09-15T05:10:53.661Z",
+  "lastUpdate": "2026-09-16",
+  "generatedAt": "2026-09-16T05:06:12.848Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "date": "2026-09-14",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "hotScore": 65,
-      "category": "policy",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "The AI Inference Revolution Is Here",
+      "date": "2026-09-15",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "hotScore": 75,
+      "category": "research",
       "tags": [
-        "Safety",
-        "OpenSource"
+        "GPT",
+        "Reasoning"
       ],
       "content": {
-        "basic": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - ",
+        "basic": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts. Advanced AI labs are still training ever larger models, but that training has somewhat receded to the background of the AI conversation. ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,16 +24,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "date": "2026-09-14",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "hotScore": 63.8,
-      "category": "product",
-      "tags": [],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "date": "2026-09-16",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "hotScore": 65,
+      "category": "policy",
+      "tags": [
+        "Safety"
+      ],
       "content": {
-        "basic": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+        "basic": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
