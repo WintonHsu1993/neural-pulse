@@ -4,25 +4,106 @@
     "to": "2026-09-22"
   },
   "weekKey": "2026-W38",
-  "lastUpdate": "2026-09-16",
-  "generatedAt": "2026-09-16T05:06:12.848Z",
-  "count": 1,
+  "lastUpdate": "2026-09-17",
+  "generatedAt": "2026-09-17T05:10:04.473Z",
+  "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
       "date": "2026-09-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "hotScore": 65,
-      "category": "policy",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "hotScore": 67.5,
+      "category": "product",
       "tags": [
-        "Safety"
+        "Claude",
+        "Gemini"
       ],
       "week_key": "2026-W38",
       "content": {
-        "basic": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+        "basic": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all of its AI productivity tools available from any chat. Artifacts and Claude Design capabilities will be available through the new single interface as well. According to Anthropic, Claude \"can now figure out what a task needs, so what Cowork and Design can do is avail",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "A brief history of AI executives calling for regulation",
+      "date": "2026-09-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "hotScore": 65,
+      "category": "policy",
+      "tags": [],
+      "week_key": "2026-W38",
+      "content": {
+        "basic": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "date": "2026-09-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [
+        "Robotics"
+      ],
+      "week_key": "2026-W38",
+      "content": {
+        "basic": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "date": "2026-09-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W38",
+      "content": {
+        "basic": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "date": "2026-09-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "hotScore": 62.5,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W38",
+      "content": {
+        "basic": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

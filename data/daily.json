@@ -1,22 +1,22 @@
 {
-  "lastUpdate": "2026-09-16",
-  "generatedAt": "2026-09-16T05:06:12.848Z",
+  "lastUpdate": "2026-09-17",
+  "generatedAt": "2026-09-17T05:10:04.473Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "title": "The AI Inference Revolution Is Here",
-      "date": "2026-09-15",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "hotScore": 75,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "date": "2026-09-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "hotScore": 67.5,
+      "category": "product",
       "tags": [
-        "GPT",
-        "Reasoning"
+        "Claude",
+        "Gemini"
       ],
       "content": {
-        "basic": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts. Advanced AI labs are still training ever larger models, but that training has somewhat receded to the background of the AI conversation. ",
+        "basic": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all of its AI productivity tools available from any chat. Artifacts and Claude Design capabilities will be available through the new single interface as well. According to Anthropic, Claude \"can now figure out what a task needs, so what Cowork and Design can do is avail",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,18 +24,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "date": "2026-09-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "hotScore": 65,
-      "category": "policy",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "The AI Inference Revolution Is Here",
+      "date": "2026-09-15",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "hotScore": 67,
+      "category": "research",
       "tags": [
-        "Safety"
+        "GPT",
+        "Reasoning"
       ],
       "content": {
-        "basic": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+        "basic": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts. Advanced AI labs are still training ever larger models, but that training has somewhat receded to the background of the AI conversation. ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
