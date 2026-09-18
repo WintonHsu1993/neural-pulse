@@ -1,35 +1,15 @@
 {
-  "lastUpdate": "2026-09-17",
-  "generatedAt": "2026-09-17T05:10:04.473Z",
+  "lastUpdate": "2026-09-18",
+  "generatedAt": "2026-09-18T05:02:54.738Z",
   "count": 2,
   "data": [
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "date": "2026-09-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "hotScore": 67.5,
-      "category": "product",
-      "tags": [
-        "Claude",
-        "Gemini"
-      ],
-      "content": {
-        "basic": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all of its AI productivity tools available from any chat. Artifacts and Claude Design capabilities will be available through the new single interface as well. According to Anthropic, Claude \"can now figure out what a task needs, so what Cowork and Design can do is avail",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
     {
       "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "title": "The AI Inference Revolution Is Here",
       "date": "2026-09-15",
       "source": "IEEE Spectrum",
       "sourceUrl": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "hotScore": 67,
+      "hotScore": 61,
       "category": "research",
       "tags": [
         "GPT",
@@ -37,6 +17,25 @@
       ],
       "content": {
         "basic": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts. Advanced AI labs are still training ever larger models, but that training has somewhat receded to the background of the AI conversation. ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "The AI Superintelligence Slowdown",
+      "date": "2026-09-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "hotScore": 60,
+      "category": "research",
+      "tags": [
+        "Agent"
+      ],
+      "content": {
+        "basic": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI com",
         "highlights": [],
         "scenarios": [],
         "industry": [],
