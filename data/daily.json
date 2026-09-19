@@ -1,22 +1,19 @@
 {
-  "lastUpdate": "2026-09-18",
-  "generatedAt": "2026-09-18T05:02:54.738Z",
+  "lastUpdate": "2026-09-19",
+  "generatedAt": "2026-09-19T04:54:24.081Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "title": "The AI Inference Revolution Is Here",
-      "date": "2026-09-15",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "hotScore": 61,
-      "category": "research",
-      "tags": [
-        "GPT",
-        "Reasoning"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "date": "2026-09-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "hotScore": 67.5,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts. Advanced AI labs are still training ever larger models, but that training has somewhat receded to the background of the AI conversation. ",
+        "basic": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,18 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "The AI Superintelligence Slowdown",
-      "date": "2026-09-17",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "hotScore": 60,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "date": "2026-09-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "hotScore": 66.3,
       "category": "research",
       "tags": [
-        "Agent"
+        "Claude"
       ],
       "content": {
-        "basic": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI com",
+        "basic": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
