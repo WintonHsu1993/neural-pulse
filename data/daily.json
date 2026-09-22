@@ -1,19 +1,22 @@
 {
-  "lastUpdate": "2026-09-19",
-  "generatedAt": "2026-09-19T04:54:24.081Z",
+  "lastUpdate": "2026-09-22",
+  "generatedAt": "2026-09-22T05:16:43.239Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "date": "2026-09-19",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "date": "2026-09-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "hotScore": 67.5,
+      "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "hotScore": 56.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
       "content": {
-        "basic": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+        "basic": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,18 +24,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "date": "2026-09-18",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "hotScore": 66.3,
-      "category": "research",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "date": "2026-09-21",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "hotScore": 55,
+      "category": "industry",
       "tags": [
-        "Claude"
+        "Multimodal",
+        "Agent"
       ],
       "content": {
-        "basic": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+        "basic": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats p",
         "highlights": [],
         "scenarios": [],
         "industry": [],

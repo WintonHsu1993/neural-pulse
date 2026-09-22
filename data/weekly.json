@@ -4,23 +4,26 @@
     "to": "2026-09-22"
   },
   "weekKey": "2026-W38",
-  "lastUpdate": "2026-09-19",
-  "generatedAt": "2026-09-19T04:54:24.081Z",
+  "lastUpdate": "2026-09-22",
+  "generatedAt": "2026-09-22T05:16:43.239Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "date": "2026-09-19",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "date": "2026-09-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "hotScore": 67.5,
+      "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "hotScore": 56.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
       "week_key": "2026-W38",
       "content": {
-        "basic": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+        "basic": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -28,20 +31,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "date": "2026-09-18",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "hotScore": 66.3,
-      "category": "research",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "date": "2026-09-21",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "hotScore": 55,
+      "category": "industry",
       "tags": [
-        "Claude"
+        "Multimodal",
+        "Agent"
       ],
       "week_key": "2026-W38",
       "content": {
-        "basic": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+        "basic": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats p",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -51,16 +55,18 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "date": "2026-09-19",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "date": "2026-09-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "hotScore": 51.3,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "Gemini"
+      ],
       "week_key": "2026-W38",
       "content": {
-        "basic": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+        "basic": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,18 +76,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "date": "2026-09-18",
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "date": "2026-09-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "hotScore": 61.3,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "hotScore": 50,
+      "category": "product",
       "tags": [
-        "Claude"
+        "Agent"
       ],
       "week_key": "2026-W38",
       "content": {
-        "basic": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The Wall Street Journal's sources. They stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the thir",
+        "basic": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that Muse would access its store. Amazon also expressed privacy and security concerns over Muse failing to identify itself when it browses, and seemingly capturing customer credentials. \"We think it's fairly straightforward that third-party applications that ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,20 +95,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Researchers used Claude to hack OpenAI",
-      "date": "2026-09-18",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "hotScore": 61.3,
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "date": "2026-09-21",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "hotScore": 50,
       "category": "research",
-      "tags": [
-        "Claude"
-      ],
+      "tags": [],
       "week_key": "2026-W38",
       "content": {
-        "basic": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+        "basic": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
