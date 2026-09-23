@@ -1,112 +1,45 @@
 {
   "weekRange": {
-    "from": "2026-09-16",
-    "to": "2026-09-22"
+    "from": "2026-09-23",
+    "to": "2026-09-29"
   },
-  "weekKey": "2026-W38",
-  "lastUpdate": "2026-09-22",
-  "generatedAt": "2026-09-22T05:16:43.239Z",
-  "count": 5,
+  "weekKey": "2026-W39",
+  "lastUpdate": "2026-09-23",
+  "generatedAt": "2026-09-23T05:02:00.917Z",
+  "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "date": "2026-09-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Agent"
-      ],
-      "week_key": "2026-W38",
-      "content": {
-        "basic": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "date": "2026-09-21",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "date": "2026-09-23",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "hotScore": 55,
-      "category": "industry",
-      "tags": [
-        "Multimodal",
-        "Agent"
-      ],
-      "week_key": "2026-W38",
-      "content": {
-        "basic": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats p",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "date": "2026-09-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "hotScore": 51.3,
-      "category": "startup",
-      "tags": [
-        "Gemini"
-      ],
-      "week_key": "2026-W38",
-      "content": {
-        "basic": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "Amazon blocks Meta’s Muse AI agent",
-      "date": "2026-09-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "hotScore": 50,
-      "category": "product",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W38",
-      "content": {
-        "basic": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that Muse would access its store. Amazon also expressed privacy and security concerns over Muse failing to identify itself when it browses, and seemingly capturing customer credentials. \"We think it's fairly straightforward that third-party applications that ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "date": "2026-09-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "hotScore": 50,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "hotScore": 70,
       "category": "research",
       "tags": [],
-      "week_key": "2026-W38",
+      "week_key": "2026-W39",
       "content": {
-        "basic": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+        "basic": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with bas",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+      "date": "2026-09-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W39",
+      "content": {
+        "basic": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,22 +1,19 @@
 {
-  "lastUpdate": "2026-09-22",
-  "generatedAt": "2026-09-22T05:16:43.239Z",
+  "lastUpdate": "2026-09-23",
+  "generatedAt": "2026-09-23T05:02:00.917Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "date": "2026-09-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Agent"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "date": "2026-09-23",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "hotScore": 70,
+      "category": "research",
+      "tags": [],
       "content": {
-        "basic": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+        "basic": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with bas",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,19 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "date": "2026-09-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "hotScore": 55,
-      "category": "industry",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "date": "2026-09-22",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "hotScore": 68.8,
+      "category": "research",
       "tags": [
-        "Multimodal",
-        "Agent"
+        "Claude"
       ],
       "content": {
-        "basic": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats p",
+        "basic": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
