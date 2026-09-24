@@ -4,23 +4,25 @@
     "to": "2026-09-29"
   },
   "weekKey": "2026-W39",
-  "lastUpdate": "2026-09-23",
-  "generatedAt": "2026-09-23T05:02:00.917Z",
-  "count": 2,
+  "lastUpdate": "2026-09-24",
+  "generatedAt": "2026-09-24T05:13:04.929Z",
+  "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "date": "2026-09-23",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "date": "2026-09-24",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "sourceUrl": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
       "hotScore": 70,
-      "category": "research",
-      "tags": [],
+      "category": "hardware",
+      "tags": [
+        "Agent"
+      ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with bas",
+        "basic": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for carrying the device around. The Muse Charm has a fingerprint sensor on the top right corner that you can press to activate and begin speaking to the agent. There appears to be a small camera on the device as well, plus what looks like at least three holes for microphones on the front. Zuc",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,16 +32,82 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
-      "date": "2026-09-23",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "date": "2026-09-24",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "hotScore": 70,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "Agent"
+      ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+        "basic": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "date": "2026-09-24",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "hotScore": 70,
+      "category": "hardware",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W39",
+      "content": {
+        "basic": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "The AI Hype Index: AI loves cheating",
+      "date": "2026-09-23",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "hotScore": 62.5,
+      "category": "research",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W39",
+      "content": {
+        "basic": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "date": "2026-09-23",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "hotScore": 56.3,
+      "category": "product",
+      "tags": [
+        "Claude",
+        "Agent"
+      ],
+      "week_key": "2026-W39",
+      "content": {
+        "basic": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after searching through a massive database of DNA sequences, adding that its scientists' involvement was limited to the initial prompt and lab work. Over 21 hours, Anthropic said nearly 950 Claude agents worked through 210 million tokens before one spot",
         "highlights": [],
         "scenarios": [],
         "industry": [],

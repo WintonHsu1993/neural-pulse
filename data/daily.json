@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-09-23",
-  "generatedAt": "2026-09-23T05:02:00.917Z",
+  "lastUpdate": "2026-09-24",
+  "generatedAt": "2026-09-24T05:13:04.929Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "date": "2026-09-23",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "date": "2026-09-24",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "sourceUrl": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
       "hotScore": 70,
-      "category": "research",
-      "tags": [],
+      "category": "hardware",
+      "tags": [
+        "Agent"
+      ],
       "content": {
-        "basic": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with bas",
+        "basic": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for carrying the device around. The Muse Charm has a fingerprint sensor on the top right corner that you can press to activate and begin speaking to the agent. There appears to be a small camera on the device as well, plus what looks like at least three holes for microphones on the front. Zuc",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,18 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "date": "2026-09-22",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "hotScore": 68.8,
-      "category": "research",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "date": "2026-09-24",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "hotScore": 70,
+      "category": "startup",
       "tags": [
-        "Claude"
+        "Agent"
       ],
       "content": {
-        "basic": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+        "basic": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
