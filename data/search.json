@@ -1,88 +1,74 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta is making a standalone Muse AI gadget",
-    "date": "2026-09-24",
-    "source": "The Verge AI",
-    "hotScore": 70,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentat"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "date": "2026-09-24",
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "date": "2026-09-26",
     "source": "TechCrunch AI",
-    "hotScore": 70,
+    "hotScore": 67.5,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass"
+    "tags": [],
+    "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "date": "2026-09-24",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "date": "2026-09-25",
     "source": "TechCrunch AI",
-    "hotScore": 70,
-    "category": "hardware",
+    "hotScore": 66.3,
+    "category": "product",
     "tags": [
+      "GPT",
       "Agent"
     ],
-    "snippet": "The tiny hardware device creates another mobile home for its AI agent Muse."
+    "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic ro"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The AI Hype Index: AI loves cheating",
-    "date": "2026-09-23",
-    "source": "MIT Technology Review",
-    "hotScore": 62.5,
-    "category": "research",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 61.3,
+    "category": "product",
     "tags": [
+      "GPT",
       "Agent"
     ],
-    "snippet": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Don’t be fooled by this summer of AI hype",
-    "date": "2026-09-22",
-    "source": "MIT Technology Review",
-    "hotScore": 60.8,
-    "category": "research",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O"
+    "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic ro"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-    "date": "2026-09-23",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "date": "2026-09-25",
     "source": "The Verge AI",
+    "hotScore": 60,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from "
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "date": "2026-09-25",
+    "source": "Ars Technica",
     "hotScore": 56.3,
     "category": "product",
     "tags": [
-      "Claude",
-      "Agent"
+      "Claude"
     ],
-    "snippet": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched "
+    "snippet": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "YouTube will let you build your own algorithm with AI",
-    "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 56.3,
-    "category": "startup",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "date": "2026-09-25",
+    "source": "MIT Technology Review",
+    "hotScore": 55,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -99,288 +85,272 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic says its biology lab has already found something big",
-    "date": "2026-09-23",
+    "title": "Anthropic’s founders seek voting control ahead of IPO",
+    "date": "2026-09-25",
     "source": "TechCrunch AI",
-    "hotScore": 53.8,
-    "category": "startup",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ChatGPT mobile app gets voice-based agentic features",
-    "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 53.8,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "snippet": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "3 Skills That Will Matter More in the Age of AI",
-    "date": "2026-09-23",
-    "source": "IEEE Spectrum",
     "hotScore": 52.5,
-    "category": "policy",
+    "category": "product",
     "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
+    "snippet": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta ditches the camera on its newest smart glasses",
-    "date": "2026-09-23",
+    "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+    "date": "2026-09-25",
     "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's "
+    "hotScore": 51.3,
+    "category": "hardware",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ri"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta Connect 2026: The biggest news and announcements",
-    "date": "2026-09-23",
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "date": "2026-09-25",
     "source": "The Verge AI",
     "hotScore": 50,
     "category": "hardware",
     "tags": [],
-    "snippet": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates f"
+    "snippet": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sony and UMG are suing Suno again",
+    "date": "2026-09-25",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Sony and Universal Music Group filed yet another suit against Suno. The labels "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta introduces camera-free AI glasses",
-    "date": "2026-09-23",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "date": "2026-09-25",
     "source": "TechCrunch AI",
     "hotScore": 50,
     "category": "startup",
     "tags": [],
-    "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+    "snippet": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Even Americans who use AI every day are worried about it",
-    "date": "2026-09-23",
+    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "date": "2026-09-25",
     "source": "TechCrunch AI",
     "hotScore": 50,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The latest unauthorized agent swarms were discovered by researchers."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "YouTube Music gets more conversational with new AI features",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The AI Hype Index: AI loves cheating",
     "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
+    "source": "MIT Technology Review",
+    "hotScore": 48.5,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "date": "2026-09-22",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "AI is dominating the conversation at Climate Week",
+    "date": "2026-09-24",
+    "source": "MIT Technology Review",
     "hotScore": 48.3,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta opens early access program for new Muse features",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
     "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+    "tags": [],
+    "snippet": "Anyone interested in joining has to ask Muse to put them on the list."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "date": "2026-09-25",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Muse is coming to Meta smart glasses",
-    "date": "2026-09-23",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "date": "2026-09-23",
-    "source": "Google AI Blog",
-    "hotScore": 47.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-    "date": "2026-09-22",
-    "source": "Ars Technica",
-    "hotScore": 47,
-    "category": "tech",
-    "tags": [],
-    "snippet": "The frontier AI model race has entered its comparison shopping phase."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-    "date": "2026-09-23",
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "date": "2026-09-25",
     "source": "The Verge AI",
     "hotScore": 45,
     "category": "product",
     "tags": [
       "Agent"
     ],
-    "snippet": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email a"
+    "snippet": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-    "date": "2026-09-23",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be ab"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-    "date": "2026-09-23",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "An adorable little bear that wants to help you buy things. Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Data centers are black boxes, but California wants to change that",
-    "date": "2026-09-23",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
     "tags": [],
-    "snippet": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As "
+    "snippet": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-    "date": "2026-09-23",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "date": "2026-09-24",
     "source": "The Verge AI",
-    "hotScore": 45,
+    "hotScore": 43.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial e"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "date": "2026-09-24",
+    "source": "TechCrunch AI",
+    "hotScore": 43.3,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "date": "2026-09-25",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
     "category": "policy",
     "tags": [],
-    "snippet": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of"
+    "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-    "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-    "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "YouTube releases new AI features for creators within its Studio app",
-    "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-    "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-    "date": "2026-09-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-    "date": "2026-09-23",
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "date": "2026-09-25",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register"
+    "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-    "date": "2026-09-23",
+    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+    "date": "2026-09-25",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
+    "snippet": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-    "date": "2026-09-22",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Muse sure looks a lot like OpenClaw",
+    "date": "2026-09-24",
+    "source": "The Verge AI",
     "hotScore": 42,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New experts join Google’s AI & Economy team",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "hotScore": 41,
-    "category": "research",
-    "tags": [],
-    "snippet": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "date": "2026-09-22",
-    "source": "TechCrunch AI",
-    "hotScore": 40.8,
     "category": "startup",
-    "tags": [],
-    "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an A"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -393,14 +363,24 @@
     "snippet": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Co-creating the future of fashion with Google",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "hotScore": 38.5,
-    "category": "research",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Muse will apparently let you download its entire filesystem",
+    "date": "2026-09-24",
+    "source": "The Verge AI",
+    "hotScore": 39.5,
+    "category": "product",
     "tags": [],
-    "snippet": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+    "snippet": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zi"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "3 Skills That Will Matter More in the Age of AI",
+    "date": "2026-09-23",
+    "source": "IEEE Spectrum",
+    "hotScore": 38.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -417,34 +397,24 @@
     "snippet": "This article is brought to you by VicOne. Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe whe"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "date": "2026-09-22",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "date": "2026-09-22",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Jensen Huang talks about AI and climate change like a supervillain",
+    "date": "2026-09-24",
+    "source": "The Verge AI",
     "hotScore": 37,
     "category": "hardware",
     "tags": [],
-    "snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+    "snippet": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on o"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
-    "date": "2026-09-22",
-    "source": "IEEE Spectrum",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta is going to let you build games with AI right on your phone",
+    "date": "2026-09-24",
+    "source": "The Verge AI",
     "hotScore": 37,
-    "category": "research",
+    "category": "product",
     "tags": [],
-    "snippet": "Many youngsters fascinated by exploring outer space dream of becoming an astronaut, but few do. One who had the right stuff is Pedro Duque, who was Spain’s first astronaut. The aeronautics engineer fl"
+    "snippet": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -455,6 +425,16 @@
     "category": "research",
     "tags": [],
     "snippet": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New experts join Google’s AI & Economy team",
+    "date": "2026-09-18",
+    "source": "Google AI Blog",
+    "hotScore": 35,
+    "category": "research",
+    "tags": [],
+    "snippet": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -529,13 +509,33 @@
     "snippet": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "date": "2026-09-24",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Making global data easier to explore",
-    "date": "2026-09-17",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "date": "2026-09-23",
+    "source": "Google AI Blog",
+    "hotScore": 33.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Co-creating the future of fashion with Google",
+    "date": "2026-09-18",
     "source": "Google AI Blog",
     "hotScore": 32.5,
-    "category": "product",
+    "category": "research",
     "tags": [],
-    "snippet": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
+    "snippet": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
   }
 ]

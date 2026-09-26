@@ -4,25 +4,23 @@
     "to": "2026-09-29"
   },
   "weekKey": "2026-W39",
-  "lastUpdate": "2026-09-24",
-  "generatedAt": "2026-09-24T05:13:04.929Z",
+  "lastUpdate": "2026-09-26",
+  "generatedAt": "2026-09-26T05:19:33.571Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Meta is making a standalone Muse AI gadget",
-      "date": "2026-09-24",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "hotScore": 70,
-      "category": "hardware",
-      "tags": [
-        "Agent"
-      ],
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "date": "2026-09-26",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "hotScore": 67.5,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W39",
       "content": {
-        "basic": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for carrying the device around. The Muse Charm has a fingerprint sensor on the top right corner that you can press to activate and begin speaking to the agent. There appears to be a small camera on the device as well, plus what looks like at least three holes for microphones on the front. Zuc",
+        "basic": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -32,18 +30,19 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "date": "2026-09-24",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "date": "2026-09-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "hotScore": 70,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "hotScore": 66.3,
+      "category": "product",
       "tags": [
+        "GPT",
         "Agent"
       ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+        "basic": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -53,39 +52,19 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "date": "2026-09-24",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "date": "2026-09-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "hotScore": 70,
-      "category": "hardware",
+      "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "hotScore": 61.3,
+      "category": "product",
       "tags": [
+        "GPT",
         "Agent"
       ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 4,
-      "title": "The AI Hype Index: AI loves cheating",
-      "date": "2026-09-23",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "hotScore": 62.5,
-      "category": "research",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W39",
-      "content": {
-        "basic": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+        "basic": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,20 +73,41 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "date": "2026-09-23",
+      "rank": 4,
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "date": "2026-09-25",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "hotScore": 56.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "hotScore": 60,
+      "category": "research",
       "tags": [
-        "Claude",
+        "Safety",
         "Agent"
       ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after searching through a massive database of DNA sequences, adding that its scientists' involvement was limited to the initial prompt and lab work. Over 21 hours, Anthropic said nearly 950 Claude agents worked through 210 million tokens before one spot",
+        "basic": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few months, these seemed like separate incidents. But many share a common source: one specific company tasked with testing the agents. Irregular, an Israeli startup that stress-tests AI models in \"high-fidelity research platforms that simula",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 5,
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "date": "2026-09-25",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "hotScore": 56.3,
+      "category": "product",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W39",
+      "content": {
+        "basic": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

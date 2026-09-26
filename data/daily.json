@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-09-24",
-  "generatedAt": "2026-09-24T05:13:04.929Z",
+  "lastUpdate": "2026-09-26",
+  "generatedAt": "2026-09-26T05:19:33.571Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Meta is making a standalone Muse AI gadget",
-      "date": "2026-09-24",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "hotScore": 70,
-      "category": "hardware",
-      "tags": [
-        "Agent"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "date": "2026-09-26",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "hotScore": 67.5,
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for carrying the device around. The Muse Charm has a fingerprint sensor on the top right corner that you can press to activate and begin speaking to the agent. There appears to be a small camera on the device as well, plus what looks like at least three holes for microphones on the front. Zuc",
+        "basic": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,17 +22,18 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "date": "2026-09-24",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "date": "2026-09-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "hotScore": 70,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "hotScore": 66.3,
+      "category": "product",
       "tags": [
+        "GPT",
         "Agent"
       ],
       "content": {
-        "basic": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+        "basic": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],
