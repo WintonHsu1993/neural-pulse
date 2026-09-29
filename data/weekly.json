@@ -4,23 +4,26 @@
     "to": "2026-09-29"
   },
   "weekKey": "2026-W39",
-  "lastUpdate": "2026-09-26",
-  "generatedAt": "2026-09-26T05:19:33.571Z",
+  "lastUpdate": "2026-09-29",
+  "generatedAt": "2026-09-29T06:01:51.033Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "date": "2026-09-26",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "hotScore": 67.5,
-      "category": "startup",
-      "tags": [],
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "date": "2026-09-28",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "hotScore": 65,
+      "category": "policy",
+      "tags": [
+        "GPT",
+        "Safety"
+      ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "basic": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns and output that mimics emotion, deceptively suggests to users that it is a trustworthy 'friend.'\" All of this happens to increase engagement and contribute to OpenAI's training data, convincing users to rely on ChatGPT more even as its pursuit of engagement",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,19 +33,16 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "date": "2026-09-25",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "date": "2026-09-29",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "hotScore": 66.3,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Agent"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W39",
       "content": {
-        "basic": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
+        "basic": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -50,21 +50,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 3,
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "date": "2026-09-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "hotScore": 61.3,
+      "title": "When can we say AI made a scientific discovery?",
+      "date": "2026-09-28",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "hotScore": 63.8,
       "category": "product",
       "tags": [
-        "GPT",
+        "Claude",
         "Agent"
       ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
+        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -74,19 +74,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "date": "2026-09-25",
+      "title": "OpenAI’s AI agents need to catch up",
+      "date": "2026-09-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
       "hotScore": 60,
-      "category": "research",
+      "category": "policy",
       "tags": [
-        "Safety",
         "Agent"
       ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few months, these seemed like separate incidents. But many share a common source: one specific company tasked with testing the agents. Irregular, an Israeli startup that stress-tests AI models in \"high-fidelity research platforms that simula",
+        "basic": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more. Aeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -94,20 +93,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 5,
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-      "date": "2026-09-25",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "hotScore": 56.3,
-      "category": "product",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "date": "2026-09-28",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "hotScore": 57.5,
+      "category": "research",
       "tags": [
-        "Claude"
+        "Agent"
       ],
       "week_key": "2026-W39",
       "content": {
-        "basic": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
