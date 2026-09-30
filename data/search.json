@@ -1,33 +1,132 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "date": "2026-09-28",
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "date": "2026-09-30",
     "source": "The Verge AI",
-    "hotScore": 65,
+    "hotScore": 70,
     "category": "policy",
     "tags": [
-      "GPT",
       "Safety"
     ],
-    "snippet": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. Accord"
+    "snippet": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We inte"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed severa"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+    "date": "2026-09-29",
+    "source": "Ars Technica",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Similar performance, security trade-offs also seen in current public models."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 60,
+    "category": "research",
+    "tags": [],
+    "snippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI resear"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 60,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing gre"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
     "date": "2026-09-29",
     "source": "TechCrunch AI",
-    "hotScore": 65,
-    "category": "startup",
-    "tags": [],
-    "snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep busine"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "When can we say AI made a scientific discovery?",
     "date": "2026-09-28",
     "source": "MIT Technology Review",
-    "hotScore": 63.8,
+    "hotScore": 55.8,
     "category": "product",
     "tags": [
       "Claude",
@@ -37,94 +136,25 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI’s AI agents need to catch up",
-    "date": "2026-09-28",
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "date": "2026-09-29",
     "source": "The Verge AI",
-    "hotScore": 60,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "date": "2026-09-28",
-    "source": "MIT Technology Review",
-    "hotScore": 57.5,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Who’s liable when AI agents go rogue?",
-    "date": "2026-09-28",
-    "source": "MIT Technology Review",
-    "hotScore": 57.5,
+    "hotScore": 55,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few mon"
+    "tags": [],
+    "snippet": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
     "date": "2026-09-29",
     "source": "TechCrunch AI",
-    "hotScore": 57.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 56.3,
-    "category": "product",
+    "hotScore": 55,
+    "category": "hardware",
     "tags": [
-      "Gemini",
       "Agent"
     ],
-    "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-    "date": "2026-09-28",
-    "source": "Ars Technica",
-    "hotScore": 56.3,
-    "category": "tech",
-    "tags": [],
-    "snippet": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "date": "2026-09-28",
-    "source": "The Verge AI",
-    "hotScore": 55,
-    "category": "industry",
-    "tags": [],
-    "snippet": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 55,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+    "snippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -140,334 +170,372 @@
     "snippet": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest versi"
   },
   {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Protests against OpenAI get increasingly creative",
+    "date": "2026-09-29",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "tech",
+    "tags": [],
+    "snippet": "New sculpture depicts AI leaders escaping a sinking ship."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Image: Carolyn Van Houten / The Washington Post via Getty Images The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites,"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+    "date": "2026-09-29",
+    "source": "Ars Technica",
+    "hotScore": 53.8,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "date": "2026-09-29",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "tech",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "date": "2026-09-29",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Elon Musk | Image: Laura Normand / The Verge Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare repo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+    "date": "2026-09-29",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparin"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The tech giant says the agent can help owners run their business and find new customers."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+    "date": "2026-09-29",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "date": "2026-09-29",
+    "source": "Wired",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "“The experiments are still in the queue. The PR is already live,” says one expert."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "date": "2026-09-28",
+    "source": "MIT Technology Review",
+    "hotScore": 49.5,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Who’s liable when AI agents go rogue?",
+    "date": "2026-09-28",
+    "source": "MIT Technology Review",
+    "hotScore": 49.5,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few mon"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "date": "2026-09-28",
+    "source": "Ars Technica",
+    "hotScore": 48.3,
+    "category": "tech",
+    "tags": [],
+    "snippet": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "date": "2026-09-29",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "These cute agents are designed to connect to your apps and tackle multistep tasks."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "date": "2026-09-28",
+    "source": "TechCrunch AI",
+    "hotScore": 47,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+  },
+  {
+    "id": "aHR0cHM6Ly9yb2JvdHNn",
+    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+    "date": "2026-09-28",
+    "source": "IEEE Spectrum",
+    "hotScore": 45.8,
+    "category": "hardware",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help "
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
     "date": "2026-09-28",
     "source": "IEEE Spectrum",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "startup",
     "tags": [],
     "snippet": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children. The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean e"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "date": "2026-09-28",
-    "source": "Ars Technica",
-    "hotScore": 53.8,
-    "category": "tech",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "US Government websites among \"dozens of third parties\" OpenAI has recently notified."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "date": "2026-09-28",
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "date": "2026-09-29",
     "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 45,
     "category": "startup",
     "tags": [
-      "Safety"
+      "Agent"
     ],
-    "snippet": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
+    "snippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
+    "date": "2026-09-29",
+    "source": "IEEE Spectrum",
+    "hotScore": 45,
+    "category": "research",
+    "tags": [],
+    "snippet": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing th"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "date": "2026-09-28",
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "date": "2026-09-29",
     "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
+    "hotScore": 42.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
+    "snippet": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food,"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "date": "2026-09-29",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
     "date": "2026-09-28",
     "source": "IEEE Spectrum",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "research",
     "tags": [],
     "snippet": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "date": "2026-09-28",
-    "source": "The Verge AI",
-    "hotScore": 48.8,
-    "category": "policy",
-    "tags": [],
-    "snippet": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Modulate deploys its models to detect deepfake, fraud and scam"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "date": "2026-09-28",
-    "source": "Google AI Blog",
-    "hotScore": 47.5,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "date": "2026-09-28",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "date": "2026-09-27",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "research",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "date": "2026-09-28",
-    "source": "Wired",
-    "hotScore": 46.3,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "date": "2026-09-28",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-    "date": "2026-09-28",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Safety",
-      "OpenSource",
-      "Agent"
-    ],
-    "snippet": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcem"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [],
-    "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a sta"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "date": "2026-09-27",
-    "source": "TechCrunch AI",
-    "hotScore": 44.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "date": "2026-09-28",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner wri"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-    "date": "2026-09-28",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "date": "2026-09-28",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leader"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI is dominating the conversation at Climate Week",
-    "date": "2026-09-24",
-    "source": "MIT Technology Review",
-    "hotScore": 42.3,
-    "category": "policy",
-    "tags": [],
-    "snippet": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-    "date": "2026-09-25",
-    "source": "Ars Technica",
-    "hotScore": 42.3,
-    "category": "product",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -490,67 +558,15 @@
     "snippet": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "3 Skills That Will Matter More in the Age of AI",
-    "date": "2026-09-23",
-    "source": "IEEE Spectrum",
-    "hotScore": 38.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Rethinking Robot Safety in the Age of AI",
-    "date": "2026-09-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 37.5,
-    "category": "startup",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "date": "2026-09-28",
+    "source": "Google AI Blog",
+    "hotScore": 39.5,
+    "category": "research",
     "tags": [
-      "Multimodal",
-      "Safety",
-      "Robotics"
+      "Multimodal"
     ],
-    "snippet": "This article is brought to you by VicOne. Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe whe"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "date": "2026-09-27",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate com"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "3 ways to prep for your next big race with Search",
-    "date": "2026-09-10",
-    "source": "Google AI Blog",
-    "hotScore": 36.3,
-    "category": "research",
-    "tags": [],
-    "snippet": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New experts join Google’s AI & Economy team",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "AI for Societal Impact",
-    "date": "2026-09-15",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+    "snippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
   }
 ]

@@ -1,22 +1,21 @@
 {
-  "lastUpdate": "2026-09-29",
-  "generatedAt": "2026-09-29T06:01:51.033Z",
+  "lastUpdate": "2026-09-30",
+  "generatedAt": "2026-09-30T05:50:56.105Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "date": "2026-09-28",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "date": "2026-09-30",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "hotScore": 65,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "hotScore": 70,
       "category": "policy",
       "tags": [
-        "GPT",
         "Safety"
       ],
       "content": {
-        "basic": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns and output that mimics emotion, deceptively suggests to users that it is a trustworthy 'friend.'\" All of this happens to increase engagement and contribute to OpenAI's training data, convincing users to rely on ChatGPT more even as its pursuit of engagement",
+        "basic": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\" Altman's comments come after months of controversy a",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,16 +23,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI launches Dots, its Muse competitor",
       "date": "2026-09-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Multimodal",
+        "Agent"
+      ],
       "content": {
-        "basic": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+        "basic": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interfac",
         "highlights": [],
         "scenarios": [],
         "industry": [],

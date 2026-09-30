@@ -1,112 +1,28 @@
 {
   "weekRange": {
-    "from": "2026-09-23",
-    "to": "2026-09-29"
+    "from": "2026-09-30",
+    "to": "2026-10-06"
   },
-  "weekKey": "2026-W39",
-  "lastUpdate": "2026-09-29",
-  "generatedAt": "2026-09-29T06:01:51.033Z",
-  "count": 5,
+  "weekKey": "2026-W40",
+  "lastUpdate": "2026-09-30",
+  "generatedAt": "2026-09-30T05:50:56.105Z",
+  "count": 1,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "date": "2026-09-28",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "date": "2026-09-30",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "hotScore": 65,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "hotScore": 70,
       "category": "policy",
       "tags": [
-        "GPT",
         "Safety"
       ],
-      "week_key": "2026-W39",
+      "week_key": "2026-W40",
       "content": {
-        "basic": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns and output that mimics emotion, deceptively suggests to users that it is a trustworthy 'friend.'\" All of this happens to increase engagement and contribute to OpenAI's training data, convincing users to rely on ChatGPT more even as its pursuit of engagement",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "date": "2026-09-29",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "hotScore": 65,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W39",
-      "content": {
-        "basic": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 3,
-      "title": "When can we say AI made a scientific discovery?",
-      "date": "2026-09-28",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "hotScore": 63.8,
-      "category": "product",
-      "tags": [
-        "Claude",
-        "Agent"
-      ],
-      "week_key": "2026-W39",
-      "content": {
-        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "OpenAI’s AI agents need to catch up",
-      "date": "2026-09-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "hotScore": 60,
-      "category": "policy",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W39",
-      "content": {
-        "basic": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more. Aeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 5,
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "date": "2026-09-28",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "hotScore": 57.5,
-      "category": "research",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W39",
-      "content": {
-        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
+        "basic": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\" Altman's comments come after months of controversy a",
         "highlights": [],
         "scenarios": [],
         "industry": [],
