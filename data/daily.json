@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-09-30",
-  "generatedAt": "2026-09-30T05:50:56.105Z",
+  "lastUpdate": "2026-10-01",
+  "generatedAt": "2026-10-01T06:24:01.533Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "date": "2026-09-30",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "date": "2026-10-01",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "hotScore": 70,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
+      "sourceUrl": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "hotScore": 65,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\" Altman's comments come after months of controversy a",
+        "basic": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much just a logo and a search bar, but the updated homepage includes a list of featured articles, a list of the most-read articles, and a tracker showing the \"latest edits.\" The new featured list showcases digital representations of books that you",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,19 +22,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "date": "2026-09-29",
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "date": "2026-09-30",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "hotScore": 61.3,
+      "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "hotScore": 56.3,
       "category": "product",
       "tags": [
-        "GPT",
-        "Multimodal",
-        "Agent"
+        "Gemini"
       ],
       "content": {
-        "basic": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interfac",
+        "basic": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a \"set of trusted cyber defenders,\" and Kavukcuoglu says that Google is \"actively engaged in the U.S. government's voluntary process for pre-release model access while we gradually expand access.\" Kavukcuoglu ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
