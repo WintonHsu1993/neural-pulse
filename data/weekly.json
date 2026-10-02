@@ -4,23 +4,25 @@
     "to": "2026-10-06"
   },
   "weekKey": "2026-W40",
-  "lastUpdate": "2026-10-01",
-  "generatedAt": "2026-10-01T06:24:01.533Z",
+  "lastUpdate": "2026-10-02",
+  "generatedAt": "2026-10-02T06:02:07.733Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "title": "ChatGPT can now virtually try on clothes for you",
       "date": "2026-10-01",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "hotScore": 65,
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "hotScore": 61.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "GPT"
+      ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much just a logo and a search bar, but the updated homepage includes a list of featured articles, a list of the most-read articles, and a tracker showing the \"latest edits.\" The new featured list showcases digital representations of books that you",
+        "basic": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,18 +32,41 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-      "date": "2026-09-30",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "date": "2026-10-01",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
       "hotScore": 56.3,
-      "category": "product",
+      "category": "industry",
       "tags": [
-        "Gemini"
+        "GPT",
+        "Multimodal",
+        "Agent"
       ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a \"set of trusted cyber defenders,\" and Kavukcuoglu says that Google is \"actively engaged in the U.S. government's voluntary process for pre-release model access while we gradually expand access.\" Kavukcuoglu ",
+        "basic": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we all watched in movies growing up.\" Similar to Muse, Dots aims for disarming cuteness, taking the form of colorful, personalizable blobs with eyes.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "date": "2026-10-01",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "hotScore": 55,
+      "category": "research",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W40",
+      "content": {
+        "basic": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -50,40 +75,20 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "The AI Tamagotchis are coming",
-      "date": "2026-09-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "hotScore": 55,
-      "category": "hardware",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W40",
-      "content": {
-        "basic": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and Humane AI Pin have inspired mainly frustration and backlash, which may only worsen as public anger towar",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
       "rank": 4,
-      "title": "OpenAI delays IPO over AI safety concerns",
-      "date": "2026-09-30",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-      "hotScore": 55,
-      "category": "policy",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "date": "2026-10-01",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "hotScore": 51.3,
+      "category": "product",
       "tags": [
-        "Safety"
+        "Gemini",
+        "Multimodal"
       ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+        "basic": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to t",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -93,19 +98,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "date": "2026-09-30",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "date": "2026-10-01",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "hotScore": 53.8,
-      "category": "policy",
-      "tags": [
-        "Multimodal",
-        "Safety"
-      ],
+      "sourceUrl": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "hotScore": 50,
+      "category": "product",
+      "tags": [],
       "week_key": "2026-W40",
       "content": {
-        "basic": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Am",
+        "basic": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much just a logo and a search bar, but the updated homepage includes a list of featured articles, a list of the most-read articles, and a tracker showing the \"latest edits.\" The new featured list showcases digital representations of books that you",
         "highlights": [],
         "scenarios": [],
         "industry": [],
