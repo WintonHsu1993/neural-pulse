@@ -4,25 +4,42 @@
     "to": "2026-10-06"
   },
   "weekKey": "2026-W40",
-  "lastUpdate": "2026-10-02",
-  "generatedAt": "2026-10-02T06:02:07.733Z",
+  "lastUpdate": "2026-10-03",
+  "generatedAt": "2026-10-03T05:37:03.671Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "date": "2026-10-01",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "date": "2026-10-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "hotScore": 67.5,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W40",
       "content": {
-        "basic": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+        "basic": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 2,
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "date": "2026-10-02",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "hotScore": 56.3,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W40",
+      "content": {
+        "basic": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,42 +48,19 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "date": "2026-10-01",
+      "rank": 3,
+      "title": "AI hallucinations are making entitled customers even worse",
+      "date": "2026-10-02",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "sourceUrl": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
       "hotScore": 56.3,
       "category": "industry",
       "tags": [
-        "GPT",
-        "Multimodal",
-        "Agent"
+        "GPT"
       ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we all watched in movies growing up.\" Similar to Muse, Dots aims for disarming cuteness, taking the form of colorful, personalizable blobs with eyes.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "date": "2026-10-01",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "hotScore": 55,
-      "category": "research",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W40",
-      "content": {
-        "basic": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+        "basic": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\" When she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to sh",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -76,19 +70,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "date": "2026-10-01",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "date": "2026-10-02",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "hotScore": 51.3,
+      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "hotScore": 55,
       "category": "product",
       "tags": [
-        "Gemini",
-        "Multimodal"
+        "OpenSource",
+        "Agent"
       ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to t",
+        "basic": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm. \"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and w",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -96,18 +90,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "date": "2026-10-01",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "hotScore": 50,
-      "category": "product",
-      "tags": [],
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "date": "2026-10-02",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [
+        "Safety"
+      ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much just a logo and a search bar, but the updated homepage includes a list of featured articles, a list of the most-read articles, and a tracker showing the \"latest edits.\" The new featured list showcases digital representations of books that you",
+        "basic": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
         "highlights": [],
         "scenarios": [],
         "industry": [],

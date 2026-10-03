@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-10-02",
-  "generatedAt": "2026-10-02T06:02:07.733Z",
+  "lastUpdate": "2026-10-03",
+  "generatedAt": "2026-10-03T05:37:03.671Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "date": "2026-10-01",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "date": "2026-10-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "GPT"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "hotScore": 67.5,
+      "category": "startup",
+      "tags": [],
       "content": {
-        "basic": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+        "basic": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,20 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "date": "2026-10-01",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "date": "2026-10-02",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "hotScore": 56.3,
-      "category": "industry",
-      "tags": [
-        "GPT",
-        "Multimodal",
-        "Agent"
-      ],
+      "category": "research",
+      "tags": [],
       "content": {
-        "basic": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we all watched in movies growing up.\" Similar to Muse, Dots aims for disarming cuteness, taking the form of colorful, personalizable blobs with eyes.",
+        "basic": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
