@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-10-03",
-  "generatedAt": "2026-10-03T05:37:03.671Z",
+  "lastUpdate": "2026-10-06",
+  "generatedAt": "2026-10-06T06:44:30.195Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "date": "2026-10-03",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "hotScore": 67.5,
-      "category": "startup",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "date": "2026-10-05",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "hotScore": 71.3,
+      "category": "research",
+      "tags": [
+        "GPT"
+      ],
       "content": {
-        "basic": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "basic": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU's AI Act; however, not everyone was happy to learn about the addition. OpenAI also included scores from AI benchmarks showing similar performance from watermarked and unwatermarked text. Bu",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,16 +23,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "date": "2026-10-02",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "hotScore": 56.3,
-      "category": "research",
-      "tags": [],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "date": "2026-10-05",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Multimodal"
+      ],
       "content": {
-        "basic": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+        "basic": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's ads only showed a company's name, logo, and a link to its product in a \"sponsored\" section beneath your chat. OpenAI's visual ad format will similarly remain separate from the image you generate and will \"not influence the answers ChatGPT provides.\" Ads won't ",
         "highlights": [],
         "scenarios": [],
         "industry": [],

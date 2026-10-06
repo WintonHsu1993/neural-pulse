@@ -4,42 +4,25 @@
     "to": "2026-10-06"
   },
   "weekKey": "2026-W40",
-  "lastUpdate": "2026-10-03",
-  "generatedAt": "2026-10-03T05:37:03.671Z",
+  "lastUpdate": "2026-10-06",
+  "generatedAt": "2026-10-06T06:44:30.195Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "date": "2026-10-03",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "hotScore": 67.5,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W40",
-      "content": {
-        "basic": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 2,
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "date": "2026-10-02",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "hotScore": 56.3,
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "date": "2026-10-05",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "hotScore": 71.3,
       "category": "research",
-      "tags": [],
+      "tags": [
+        "GPT"
+      ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+        "basic": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU's AI Act; however, not everyone was happy to learn about the addition. OpenAI also included scores from AI benchmarks showing similar performance from watermarked and unwatermarked text. Bu",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -48,19 +31,41 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "AI hallucinations are making entitled customers even worse",
-      "date": "2026-10-02",
+      "rank": 2,
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "date": "2026-10-05",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "hotScore": 56.3,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "hotScore": 61.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Multimodal"
+      ],
+      "week_key": "2026-W40",
+      "content": {
+        "basic": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's ads only showed a company's name, logo, and a link to its product in a \"sponsored\" section beneath your chat. OpenAI's visual ad format will similarly remain separate from the image you generate and will \"not influence the answers ChatGPT provides.\" Ads won't ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "date": "2026-10-05",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "hotScore": 61.3,
+      "category": "policy",
       "tags": [
         "GPT"
       ],
       "week_key": "2026-W40",
       "content": {
-        "basic": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\" When she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to sh",
+        "basic": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,19 +75,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "date": "2026-10-02",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "date": "2026-10-05",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [
-        "OpenSource",
-        "Agent"
-      ],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "hotScore": 60,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W40",
       "content": {
-        "basic": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm. \"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and w",
+        "basic": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, barreling through the discipline with all the grace of a runaway bulldozer. Results that might normally have been celebrated have instead sparked backlash. AI labs say they are learning from earlier mistakes. Whether those promise",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -90,20 +92,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 5,
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "date": "2026-10-02",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "date": "2026-10-05",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "hotScore": 58.8,
+      "category": "startup",
+      "tags": [],
       "week_key": "2026-W40",
       "content": {
-        "basic": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+        "basic": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,40 +1,40 @@
 {
   "totalArticles": 62,
-  "lastUpdate": "2026-10-03",
+  "lastUpdate": "2026-10-06",
   "categories": [
     {
       "category": "research",
-      "count": 16
+      "count": 17
     },
     {
       "category": "startup",
-      "count": 14
+      "count": 12
     },
     {
       "category": "product",
-      "count": 11
+      "count": 10
     },
     {
       "category": "policy",
-      "count": 4
-    },
-    {
-      "category": "industry",
-      "count": 3
+      "count": 7
     },
     {
       "category": "hardware",
-      "count": 2
+      "count": 3
+    },
+    {
+      "category": "industry",
+      "count": 1
     }
   ],
   "sources": [
     {
       "source": "TechCrunch AI",
-      "count": 20
+      "count": 19
     },
     {
       "source": "Google AI Blog",
-      "count": 11
+      "count": 13
     },
     {
       "source": "The Verge AI",
@@ -47,10 +47,6 @@
     {
       "source": "IEEE Spectrum",
       "count": 4
-    },
-    {
-      "source": "Wired",
-      "count": 1
     }
   ]
 }
