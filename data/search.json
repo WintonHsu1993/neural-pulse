@@ -1,35 +1,212 @@
 [
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-    "date": "2026-10-05",
+    "title": "ChatGPT is getting college planning tools",
+    "date": "2026-10-07",
     "source": "The Verge AI",
-    "hotScore": 63.3,
-    "category": "research",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Multimodal"
+    ],
+    "snippet": "A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "The New ChatGPT Is More Show Than Tell",
+    "date": "2026-10-07",
+    "source": "Wired",
+    "hotScore": 58.8,
+    "category": "hardware",
     "tags": [
       "GPT"
     ],
-    "snippet": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or excee"
+    "snippet": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google is about to remove free access to Gemini Flash and Pro",
-    "date": "2026-10-06",
+    "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+    "date": "2026-10-07",
     "source": "The Verge AI",
     "hotScore": 56.3,
-    "category": "industry",
+    "category": "hardware",
     "tags": [
-      "Gemini",
-      "Reasoning"
+      "GPT"
     ],
-    "snippet": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need "
+    "snippet": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gi"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Muse launches on the iPad",
+    "date": "2026-10-07",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version o"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+    "date": "2026-10-07",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "policy",
+    "tags": [
+      "GPT",
+      "Safety"
+    ],
+    "snippet": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "AI/ML is becoming a performance factor in motorsport",
+    "date": "2026-10-07",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "tech",
+    "tags": [],
+    "snippet": "More than just a sponsor: OpenAI has been helping Ganassi with setups."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "date": "2026-10-07",
+    "source": "Wired",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [
+      "GPT",
+      "Claude"
+    ],
+    "snippet": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Report Predicts Tech That Will Transform Lives",
+    "date": "2026-10-07",
+    "source": "IEEE Spectrum",
+    "hotScore": 53.8,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology "
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Introducing Playground: Create and play custom games",
+    "date": "2026-10-07",
+    "source": "Google AI Blog",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+    "date": "2026-10-07",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as rep"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "AI could upend food delivery",
+    "date": "2026-10-07",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: I"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google experiments with an AI-powered gaming platform",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google’s new SynthID website can identify AI-generated media",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+    "date": "2026-10-07",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Mistral says Le Chonk can rival top closed models while remaining open-weight."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Google rolls out improved SynthID AI content detector, now available globally",
+    "date": "2026-10-07",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "tech",
+    "tags": [],
+    "snippet": "The new SynthID website can now identify AI content from Google, OpenAI, and more."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
     "date": "2026-10-06",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "startup",
     "tags": [
       "Claude"
@@ -41,7 +218,7 @@
     "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
     "date": "2026-10-06",
     "source": "Ars Technica",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "policy",
     "tags": [
       "GPT"
@@ -49,266 +226,164 @@
     "snippet": "Like other solutions, it is not especially reliable, and it's easy to circumvent."
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
+  },
+  {
+    "id": "aHR0cHM6Ly9jb250ZW50",
+    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+    "date": "2026-10-07",
+    "source": "IEEE Spectrum",
+    "hotScore": 47.5,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how polici"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI drops another batch of mathematical breakthroughs",
     "date": "2026-10-06",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "research",
     "tags": [],
     "snippet": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related "
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "LibreOffice says ‘no AI’ is now a software feature",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 55,
-    "category": "product",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "date": "2026-10-05",
-    "source": "TechCrunch AI",
-    "hotScore": 53.3,
-    "category": "policy",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "All the drama around AI&#8217;s takeover of mathematics",
-    "date": "2026-10-05",
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "date": "2026-10-07",
     "source": "The Verge AI",
-    "hotScore": 52,
-    "category": "research",
-    "tags": [],
-    "snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current syst"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "We can’t just change the definition of ‘recording’",
-    "date": "2026-10-06",
-    "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 45,
     "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "How AI decision models could change content moderation",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [],
-    "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Pinterest’s AI now turns beauty Pins into action plans",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-    "date": "2026-10-06",
-    "source": "Ars Technica",
-    "hotScore": 50,
-    "category": "tech",
     "tags": [
       "Agent"
     ],
-    "snippet": "The reports of OpenAI agents harming third-party sites keep coming."
+    "snippet": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's pa"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mirror Particle is building a ‘world model’ of human behavior",
-    "date": "2026-10-06",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "date": "2026-10-07",
     "source": "TechCrunch AI",
-    "hotScore": 48.8,
+    "hotScore": 45,
     "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The developer of Hermes Agent raised a $90 million Series B."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
     "tags": [],
-    "snippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research "
+    "snippet": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-    "date": "2026-10-05",
+    "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+    "date": "2026-10-07",
     "source": "The Verge AI",
-    "hotScore": 48.3,
-    "category": "industry",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about"
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s po"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "date": "2026-10-07",
+    "source": "The Verge AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "date": "2026-10-07",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "6 Guidelines for Governing AI",
     "date": "2026-10-05",
     "source": "IEEE Spectrum",
-    "hotScore": 48.3,
+    "hotScore": 42.3,
     "category": "hardware",
     "tags": [],
     "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to pre"
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-    "date": "2026-10-06",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "title": "How AI decision models could change content moderation",
     "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hark releases an AI personal assistant with a focus on privacy",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-    "date": "2026-10-05",
-    "source": "The Verge AI",
-    "hotScore": 43.3,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-    "date": "2026-10-06",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-    "date": "2026-10-06",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "date": "2026-10-05",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-    "date": "2026-10-05",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "date": "2026-10-05",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "date": "2026-10-05",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
+    "tags": [],
+    "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -322,13 +397,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "date": "2026-10-05",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "date": "2026-10-06",
     "source": "TechCrunch AI",
     "hotScore": 40.8,
-    "category": "product",
+    "category": "research",
     "tags": [],
-    "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste"
+    "snippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -342,39 +417,35 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "date": "2026-10-05",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "date": "2026-10-06",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain sepa"
+    "category": "startup",
+    "tags": [],
+    "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "date": "2026-10-05",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "date": "2026-10-05",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "date": "2026-10-06",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [
-      "Gemini"
+      "Agent"
     ],
-    "snippet": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
+    "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "date": "2026-10-06",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -449,6 +520,16 @@
     "snippet": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "date": "2026-10-06",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
+  },
+  {
     "id": "aHR0cHM6Ly9yb2JvdHNn",
     "title": "A Day in the Life of a Roboticist: Charlie Kemp",
     "date": "2026-09-28",
@@ -459,87 +540,5 @@
       "Robotics"
     ],
     "snippet": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help "
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
-    "date": "2026-09-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children. The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean e"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Co-creating the future of fashion with Google",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Making global data easier to explore",
-    "date": "2026-09-17",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Get ready for the game with new football features in Search",
-    "date": "2026-09-09",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "3 Skills That Will Matter More in the Age of AI",
-    "date": "2026-09-23",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Celebrates Innovators Shaping the Future",
-    "date": "2026-09-30",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society w"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
-    "date": "2026-09-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
-    "category": "research",
-    "tags": [],
-    "snippet": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school "
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "date": "2026-09-28",
-    "source": "Google AI Blog",
-    "hotScore": 27.5,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
   }
 ]

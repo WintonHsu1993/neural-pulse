@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-10-07",
-  "lastUpdateISO": "2026-10-07T06:20:09.749Z",
+  "lastUpdate": "2026-10-08",
+  "lastUpdateISO": "2026-10-08T06:31:38.754Z",
   "weekKey": "2026-W41",
   "weekRange": {
     "from": "2026-10-07",
     "to": "2026-10-13",
     "key": "2026-W41"
   },
-  "totalFetched": 59,
-  "afterDedup": 59
+  "totalFetched": 64,
+  "afterDedup": 64
 }

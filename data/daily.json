@@ -1,21 +1,22 @@
 {
-  "lastUpdate": "2026-10-07",
-  "generatedAt": "2026-10-07T06:20:09.748Z",
+  "lastUpdate": "2026-10-08",
+  "generatedAt": "2026-10-08T06:31:38.754Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "date": "2026-10-05",
+      "title": "ChatGPT is getting college planning tools",
+      "date": "2026-10-07",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "hotScore": 63.3,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "hotScore": 61.3,
+      "category": "product",
       "tags": [
-        "GPT"
+        "GPT",
+        "Multimodal"
       ],
       "content": {
-        "basic": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU's AI Act; however, not everyone was happy to learn about the addition. OpenAI also included scores from AI benchmarks showing similar performance from watermarked and unwatermarked text. Bu",
+        "basic": "A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several colleges can return to it to update their progress, use the timeline to plan ahead and see what's left to do. They can also ask ChatGPT questions along the way, from what a requ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,19 +24,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "date": "2026-10-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "hotScore": 56.3,
-      "category": "industry",
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "date": "2026-10-07",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "hotScore": 58.8,
+      "category": "hardware",
       "tags": [
-        "Gemini",
-        "Reasoning"
+        "GPT"
       ],
       "content": {
-        "basic": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it. After these changes, access to the top-tier Gemini Pro model and a \"Deep Think\" advanced reasoning option will be rest",
+        "basic": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
