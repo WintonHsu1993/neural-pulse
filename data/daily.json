@@ -1,22 +1,19 @@
 {
-  "lastUpdate": "2026-10-08",
-  "generatedAt": "2026-10-08T06:31:38.754Z",
+  "lastUpdate": "2026-10-09",
+  "generatedAt": "2026-10-09T06:32:37.077Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "ChatGPT is getting college planning tools",
-      "date": "2026-10-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Multimodal"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "date": "2026-10-09",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "hotScore": 67.5,
+      "category": "research",
+      "tags": [],
       "content": {
-        "basic": "A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several colleges can return to it to update their progress, use the timeline to plan ahead and see what's left to do. They can also ask ChatGPT questions along the way, from what a requ",
+        "basic": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,18 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "The New ChatGPT Is More Show Than Tell",
-      "date": "2026-10-07",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "date": "2026-10-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
       "hotScore": 58.8,
-      "category": "hardware",
+      "category": "research",
       "tags": [
-        "GPT"
+        "Claude"
       ],
       "content": {
-        "basic": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+        "basic": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, the company announced it would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into \"model welfare.\" The new update says that terminating conversations is still the \"primary enforcement me",
         "highlights": [],
         "scenarios": [],
         "industry": [],

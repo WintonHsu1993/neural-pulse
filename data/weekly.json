@@ -4,26 +4,44 @@
     "to": "2026-10-13"
   },
   "weekKey": "2026-W41",
-  "lastUpdate": "2026-10-08",
-  "generatedAt": "2026-10-08T06:31:38.754Z",
+  "lastUpdate": "2026-10-09",
+  "generatedAt": "2026-10-09T06:32:37.077Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 1,
-      "title": "ChatGPT is getting college planning tools",
-      "date": "2026-10-07",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "date": "2026-10-09",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "hotScore": 67.5,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W41",
+      "content": {
+        "basic": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "date": "2026-10-08",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "hotScore": 61.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "hotScore": 58.8,
+      "category": "research",
       "tags": [
-        "GPT",
-        "Multimodal"
+        "Claude"
       ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several colleges can return to it to update their progress, use the timeline to plan ahead and see what's left to do. They can also ask ChatGPT questions along the way, from what a requ",
+        "basic": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, the company announced it would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into \"model welfare.\" The new update says that terminating conversations is still the \"primary enforcement me",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -32,7 +50,7 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 2,
+      "rank": 3,
       "title": "The New ChatGPT Is More Show Than Tell",
       "date": "2026-10-07",
       "source": "Wired",
@@ -52,42 +70,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-      "date": "2026-10-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "hotScore": 56.3,
-      "category": "hardware",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W41",
-      "content": {
-        "basic": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 4,
-      "title": "Muse launches on the iPad",
-      "date": "2026-10-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "date": "2026-10-08",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
       "hotScore": 56.3,
-      "category": "policy",
+      "category": "product",
       "tags": [
-        "GPT",
+        "Gemini",
         "Agent"
       ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a week after the original mobile version debuted expanding its usefulness to desktop tasks like organizing files. The new iPad version should function similar to Muse on iPhones, but better take advantage of the extra screen real estate and iPadOS' better multitasking capabilities. The new",
+        "basic": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -97,19 +94,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "date": "2026-10-07",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "date": "2026-10-08",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "hotScore": 56.3,
-      "category": "policy",
-      "tags": [
-        "GPT",
-        "Safety"
-      ],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "hotScore": 55,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W41",
       "content": {
-        "basic": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered by the feature \"fall short of what the company promised.\" Common Sense Media's assessment found that ChatGPT \"doesn't send alerts to parents when it should,\" doesn't offer \"the right help in crisis situations,\" and \"still does kids' homework,\"",
+        "basic": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content \"has done real and continuing\" harm to its outlets. This is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright lawsuit filed by The New York Times, OpenAI is also facing legal action from The Intercept, CNET own",
         "highlights": [],
         "scenarios": [],
         "industry": [],
