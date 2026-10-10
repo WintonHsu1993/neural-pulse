@@ -1,19 +1,21 @@
 {
-  "lastUpdate": "2026-10-09",
-  "generatedAt": "2026-10-09T06:32:37.077Z",
+  "lastUpdate": "2026-10-10",
+  "generatedAt": "2026-10-10T06:15:24.790Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "date": "2026-10-09",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "hotScore": 67.5,
-      "category": "research",
-      "tags": [],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "date": "2026-10-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [
+        "Agent"
+      ],
       "content": {
-        "basic": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+        "basic": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,18 +23,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "date": "2026-10-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "hotScore": 58.8,
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "We Need to Embed Ethics Into Our Engineering Courses",
+      "date": "2026-10-09",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+      "hotScore": 57.5,
       "category": "research",
       "tags": [
-        "Claude"
+        "Safety"
       ],
       "content": {
-        "basic": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, the company announced it would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into \"model welfare.\" The new update says that terminating conversations is still the \"primary enforcement me",
+        "basic": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed. The underlying problem is not simply a technical error, but a sociotechnical failure: Pressure to move quickly has made it hard for engineers to fully assess and manage new risks of increasingly powerful AI systems. It is a clear warning that responsible engineering requires more than technical exp",
         "highlights": [],
         "scenarios": [],
         "industry": [],

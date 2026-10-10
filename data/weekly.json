@@ -4,18 +4,79 @@
     "to": "2026-10-13"
   },
   "weekKey": "2026-W41",
-  "lastUpdate": "2026-10-09",
-  "generatedAt": "2026-10-09T06:32:37.077Z",
+  "lastUpdate": "2026-10-10",
+  "generatedAt": "2026-10-10T06:15:24.790Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "date": "2026-10-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "hotScore": 65,
+      "category": "startup",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W41",
+      "content": {
+        "basic": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "rank": 2,
+      "title": "We Need to Embed Ethics Into Our Engineering Courses",
+      "date": "2026-10-09",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+      "hotScore": 57.5,
+      "category": "research",
+      "tags": [
+        "Safety"
+      ],
+      "week_key": "2026-W41",
+      "content": {
+        "basic": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed. The underlying problem is not simply a technical error, but a sociotechnical failure: Pressure to move quickly has made it hard for engineers to fully assess and manage new risks of increasingly powerful AI systems. It is a clear warning that responsible engineering requires more than technical exp",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "date": "2026-10-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "hotScore": 53.8,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W41",
+      "content": {
+        "basic": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and declaring resisters \"THE ENEMY.\" Some of the biggest names in AI are going along ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "date": "2026-10-09",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "hotScore": 67.5,
+      "hotScore": 52.5,
       "category": "research",
       "tags": [],
       "week_key": "2026-W41",
@@ -28,82 +89,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "date": "2026-10-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "hotScore": 58.8,
-      "category": "research",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W41",
-      "content": {
-        "basic": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, the company announced it would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into \"model welfare.\" The new update says that terminating conversations is still the \"primary enforcement me",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "rank": 3,
-      "title": "The New ChatGPT Is More Show Than Tell",
-      "date": "2026-10-07",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-      "hotScore": 58.8,
-      "category": "hardware",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W41",
-      "content": {
-        "basic": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "date": "2026-10-08",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "Gemini",
-        "Agent"
-      ],
-      "week_key": "2026-W41",
-      "content": {
-        "basic": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 5,
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "date": "2026-10-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "hotScore": 55,
+      "title": "Master AI Chip Principles With New IEEE Design Program",
+      "date": "2026-10-09",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+      "hotScore": 52.5,
       "category": "research",
       "tags": [],
       "week_key": "2026-W41",
       "content": {
-        "basic": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content \"has done real and continuing\" harm to its outlets. This is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright lawsuit filed by The New York Times, OpenAI is also facing legal action from The Intercept, CNET own",
+        "basic": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model architecture limitations, and network demands across edge-AI deployments. The acceleration is driven by a fundamental shift in how modern AI models are built and scaled. As the models have become much larger and more complex, they are computationally more demanding because they contain more parameters and",
         "highlights": [],
         "scenarios": [],
         "industry": [],
