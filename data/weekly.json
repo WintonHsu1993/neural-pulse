@@ -4,46 +4,25 @@
     "to": "2026-10-13"
   },
   "weekKey": "2026-W41",
-  "lastUpdate": "2026-10-10",
-  "generatedAt": "2026-10-10T06:15:24.790Z",
+  "lastUpdate": "2026-10-12",
+  "generatedAt": "2026-10-12T06:21:55.591Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "date": "2026-10-10",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "date": "2026-10-11",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "hotScore": 51.3,
       "category": "startup",
       "tags": [
-        "Agent"
+        "GPT"
       ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 2,
-      "title": "We Need to Embed Ethics Into Our Engineering Courses",
-      "date": "2026-10-09",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "hotScore": 57.5,
-      "category": "research",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W41",
-      "content": {
-        "basic": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed. The underlying problem is not simply a technical error, but a sociotechnical failure: Pressure to move quickly has made it hard for engineers to fully assess and manage new risks of increasingly powerful AI systems. It is a clear warning that responsible engineering requires more than technical exp",
+        "basic": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -52,17 +31,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "date": "2026-10-09",
+      "rank": 2,
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "date": "2026-10-11",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "hotScore": 53.8,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "hotScore": 48.8,
       "category": "hardware",
       "tags": [],
       "week_key": "2026-W41",
       "content": {
-        "basic": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and declaring resisters \"THE ENEMY.\" Some of the biggest names in AI are going along ",
+        "basic": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. That Elon Musk was quick to jump on board, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highl",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,18 +49,39 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "date": "2026-10-11",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "hotScore": 47.5,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W41",
+      "content": {
+        "basic": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "date": "2026-10-09",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "hotScore": 52.5,
-      "category": "research",
-      "tags": [],
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "date": "2026-10-10",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "hotScore": 47,
+      "category": "policy",
+      "tags": [
+        "Agent"
+      ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+        "basic": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. Yet Muse itself, a couple of months earlier, had launched as a supposedly safer alternative to predecessor OpenClaw - with CEO Mark Zuckerberg promising it was \"built from the ground up for privacy and security.\" In an age when companies hoard customers' personal data and cyberattacks are a d",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,18 +89,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Master AI Chip Principles With New IEEE Design Program",
-      "date": "2026-10-09",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "hotScore": 52.5,
-      "category": "research",
-      "tags": [],
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "date": "2026-10-11",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "hotScore": 45,
+      "category": "industry",
+      "tags": [
+        "Agent"
+      ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model architecture limitations, and network demands across edge-AI deployments. The acceleration is driven by a fundamental shift in how modern AI models are built and scaled. As the models have become much larger and more complex, they are computationally more demanding because they contain more parameters and",
+        "basic": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is wo",
         "highlights": [],
         "scenarios": [],
         "industry": [],

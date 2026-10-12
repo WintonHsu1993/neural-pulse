@@ -1,21 +1,21 @@
 {
-  "lastUpdate": "2026-10-10",
-  "generatedAt": "2026-10-10T06:15:24.790Z",
+  "lastUpdate": "2026-10-12",
+  "generatedAt": "2026-10-12T06:21:55.591Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "date": "2026-10-10",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "date": "2026-10-11",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "hotScore": 51.3,
       "category": "startup",
       "tags": [
-        "Agent"
+        "GPT"
       ],
       "content": {
-        "basic": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "basic": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,18 +23,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "title": "We Need to Embed Ethics Into Our Engineering Courses",
-      "date": "2026-10-09",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "hotScore": 57.5,
-      "category": "research",
-      "tags": [
-        "Safety"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "date": "2026-10-11",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "hotScore": 48.8,
+      "category": "hardware",
+      "tags": [],
       "content": {
-        "basic": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed. The underlying problem is not simply a technical error, but a sociotechnical failure: Pressure to move quickly has made it hard for engineers to fully assess and manage new risks of increasingly powerful AI systems. It is a clear warning that responsible engineering requires more than technical exp",
+        "basic": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. That Elon Musk was quick to jump on board, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highl",
         "highlights": [],
         "scenarios": [],
         "industry": [],
