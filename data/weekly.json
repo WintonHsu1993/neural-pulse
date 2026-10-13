@@ -4,25 +4,47 @@
     "to": "2026-10-13"
   },
   "weekKey": "2026-W41",
-  "lastUpdate": "2026-10-12",
-  "generatedAt": "2026-10-12T06:21:55.591Z",
+  "lastUpdate": "2026-10-13",
+  "generatedAt": "2026-10-13T07:00:19.044Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 1,
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "date": "2026-10-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "hotScore": 51.3,
-      "category": "startup",
+      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+      "date": "2026-10-12",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+      "hotScore": 63.8,
+      "category": "research",
       "tags": [
-        "GPT"
+        "Claude",
+        "Agent"
       ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "basic": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developing an infrastructure to understand the mechanics behind the chatbot’s behavior and to ensure its underlying architecture produces reliable outputs. Gurmeet Saran Employer Anthropic in San Francisco Title Member of technical staff Member grade IEEE senior member Alma maters Univer",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 2,
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "date": "2026-10-12",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "hotScore": 56.3,
+      "category": "tech",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W41",
+      "content": {
+        "basic": "“I may have information regarding this case,\" Claude AI told Philly police.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,36 +53,21 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "date": "2026-10-11",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "hotScore": 48.8,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W41",
-      "content": {
-        "basic": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. That Elon Musk was quick to jump on board, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highl",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "date": "2026-10-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "hotScore": 47.5,
-      "category": "product",
-      "tags": [],
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "date": "2026-10-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "hotScore": 53.8,
+      "category": "hardware",
+      "tags": [
+        "Multimodal",
+        "Reasoning",
+        "Agent"
+      ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "basic": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,\" says",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,18 +77,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "date": "2026-10-10",
+      "title": "Meta has some Wonder Full new AI models",
+      "date": "2026-10-12",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "hotScore": 47,
-      "category": "policy",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "hotScore": 50,
+      "category": "hardware",
       "tags": [
+        "Multimodal",
         "Agent"
       ],
       "week_key": "2026-W41",
       "content": {
-        "basic": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. Yet Muse itself, a couple of months earlier, had launched as a supposedly safer alternative to predecessor OpenClaw - with CEO Mark Zuckerberg promising it was \"built from the ground up for privacy and security.\" In an age when companies hoard customers' personal data and cyberattacks are a d",
+        "basic": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said. Meta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse.\"",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,20 +97,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "date": "2026-10-11",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "hotScore": 45,
-      "category": "industry",
-      "tags": [
-        "Agent"
-      ],
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "date": "2026-10-12",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "hotScore": 47.5,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W41",
       "content": {
-        "basic": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is wo",
+        "basic": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

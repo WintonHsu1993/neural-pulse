@@ -1,21 +1,22 @@
 {
-  "lastUpdate": "2026-10-12",
-  "generatedAt": "2026-10-12T06:21:55.591Z",
+  "lastUpdate": "2026-10-13",
+  "generatedAt": "2026-10-13T07:00:19.044Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "date": "2026-10-11",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "hotScore": 51.3,
-      "category": "startup",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+      "date": "2026-10-12",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+      "hotScore": 63.8,
+      "category": "research",
       "tags": [
-        "GPT"
+        "Claude",
+        "Agent"
       ],
       "content": {
-        "basic": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "basic": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developing an infrastructure to understand the mechanics behind the chatbot’s behavior and to ensure its underlying architecture produces reliable outputs. Gurmeet Saran Employer Anthropic in San Francisco Title Member of technical staff Member grade IEEE senior member Alma maters Univer",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +24,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "date": "2026-10-11",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "hotScore": 48.8,
-      "category": "hardware",
-      "tags": [],
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "date": "2026-10-12",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "hotScore": 56.3,
+      "category": "tech",
+      "tags": [
+        "Claude"
+      ],
       "content": {
-        "basic": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. That Elon Musk was quick to jump on board, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highl",
+        "basic": "“I may have information regarding this case,\" Claude AI told Philly police.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

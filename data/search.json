@@ -1,69 +1,115 @@
 [
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "date": "2026-10-11",
-    "source": "TechCrunch AI",
-    "hotScore": 51.3,
-    "category": "startup",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+    "date": "2026-10-12",
+    "source": "IEEE Spectrum",
+    "hotScore": 63.8,
+    "category": "research",
     "tags": [
-      "GPT"
+      "Claude",
+      "Agent"
     ],
-    "snippet": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+    "date": "2026-10-12",
+    "source": "Ars Technica",
+    "hotScore": 56.3,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "“I may have information regarding this case,\" Claude AI told Philly police."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "date": "2026-10-11",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "date": "2026-10-12",
     "source": "The Verge AI",
-    "hotScore": 48.8,
+    "hotScore": 53.8,
     "category": "hardware",
-    "tags": [],
-    "snippet": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu"
+    "tags": [
+      "Multimodal",
+      "Reasoning",
+      "Agent"
+    ],
+    "snippet": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and se"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta has some Wonder Full new AI models",
+    "date": "2026-10-12",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new model"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "date": "2026-10-11",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "date": "2026-10-12",
     "source": "TechCrunch AI",
     "hotScore": 47.5,
-    "category": "product",
+    "category": "research",
     "tags": [],
-    "snippet": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI agent makers are promising privacy — will they deliver?",
-    "date": "2026-10-10",
-    "source": "The Verge AI",
-    "hotScore": 47,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "date": "2026-10-11",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data "
+    "snippet": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "date": "2026-10-11",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "date": "2026-10-12",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+    "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "date": "2026-10-12",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "date": "2026-10-12",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "date": "2026-10-12",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "date": "2026-10-12",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -79,47 +125,47 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
     "date": "2026-10-11",
+    "source": "TechCrunch AI",
+    "hotScore": 43.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "date": "2026-10-12",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals"
+    "snippet": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "title": "AI agent makers are promising privacy — will they deliver?",
     "date": "2026-10-10",
     "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "startup",
+    "hotScore": 41,
+    "category": "policy",
     "tags": [
       "Agent"
     ],
-    "snippet": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+    "snippet": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Trump’s attempt to rename AI is looking awfully artificial",
-    "date": "2026-10-09",
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "date": "2026-10-11",
     "source": "The Verge AI",
-    "hotScore": 39.8,
+    "hotScore": 40.8,
     "category": "hardware",
     "tags": [],
-    "snippet": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" "
+    "snippet": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -132,6 +178,16 @@
     "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology "
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "date": "2026-10-11",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "date": "2026-10-09",
@@ -140,18 +196,6 @@
     "category": "research",
     "tags": [],
     "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Building a safer path to autonomous industrial AI",
-    "date": "2026-10-08",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -185,55 +229,25 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "date": "2026-10-10",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "date": "2026-10-11",
     "source": "The Verge AI",
     "hotScore": 37,
     "category": "industry",
-    "tags": [],
-    "snippet": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "date": "2026-10-10",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Is Apple hoping to get into the AI-generated podcast business?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
     "tags": [
       "Agent"
     ],
-    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    "snippet": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "date": "2026-10-11",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -244,6 +258,18 @@
     "category": "hardware",
     "tags": [],
     "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to pre"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "date": "2026-10-10",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \""
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
@@ -266,16 +292,16 @@
     "snippet": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-    "date": "2026-10-09",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
+    "date": "2026-10-10",
+    "source": "TechCrunch AI",
     "hotScore": 36,
-    "category": "industry",
+    "category": "policy",
     "tags": [
-      "Multimodal"
+      "Agent"
     ],
-    "snippet": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the compe"
+    "snippet": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -286,48 +312,6 @@
     "category": "startup",
     "tags": [],
     "snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "date": "2026-10-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "date": "2026-10-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "date": "2026-10-08",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "date": "2026-10-08",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -412,24 +396,14 @@
     "snippet": "One damaged data center has supercomputers used for training Yandex’s AI model."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "date": "2026-10-09",
-    "source": "Wired",
-    "hotScore": 34.8,
-    "category": "tech",
-    "tags": [],
-    "snippet": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "date": "2026-10-10",
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "date": "2026-10-11",
     "source": "TechCrunch AI",
     "hotScore": 34.5,
     "category": "startup",
     "tags": [],
-    "snippet": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s"
+    "snippet": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals"
   },
   {
     "id": "aHR0cHM6Ly9yb2JvdHNn",
@@ -464,18 +438,6 @@
     "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Danu Robotics’ fight to build a better recycling robot",
-    "date": "2026-10-09",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-  },
-  {
     "id": "aHR0cHM6Ly9jb250ZW50",
     "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
     "date": "2026-10-07",
@@ -508,20 +470,60 @@
     "snippet": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "date": "2026-10-10",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "industry",
+    "tags": [],
+    "snippet": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "date": "2026-10-10",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "date": "2026-10-09",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "date": "2026-10-10",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "date": "2026-10-10",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Is Apple hoping to get into the AI-generated podcast business?"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "date": "2026-10-10",
     "source": "TechCrunch AI",
     "hotScore": 31,
     "category": "startup",
     "tags": [
       "Agent"
     ],
-    "snippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against "
+    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
     "date": "2026-10-09",
     "source": "TechCrunch AI",
     "hotScore": 31,
