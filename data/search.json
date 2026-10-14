@@ -1,10 +1,59 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google finally releases Gemini 4 Argon",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 72.5,
+    "category": "research",
+    "tags": [
+      "GPT",
+      "Claude",
+      "Gemini",
+      "Reasoning"
+    ],
+    "snippet": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Googl"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "date": "2026-10-13",
+    "source": "Google AI Blog",
+    "hotScore": 58.8,
+    "category": "research",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "date": "2026-10-13",
+    "source": "Wired",
+    "hotScore": 57.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's dev"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
     "date": "2026-10-12",
     "source": "IEEE Spectrum",
-    "hotScore": 63.8,
+    "hotScore": 55.8,
     "category": "research",
     "tags": [
       "Claude",
@@ -13,11 +62,126 @@
     "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "date": "2026-10-13",
+    "source": "MIT Technology Review",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "date": "2026-10-13",
+    "source": "MIT Technology Review",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? An"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Shopify opens its catalog up to more AI agents",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images) More AI agent"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google makes it easier to launch your vibe-coded apps",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Facebook is giving users more control over their algorithm",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+    "date": "2026-10-13",
+    "source": "Ars Technica",
+    "hotScore": 48.8,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Developers will get 50 percent discounted API rates through November."
+  },
+  {
     "id": "aHR0cHM6Ly9hcnN0ZWNo",
     "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
     "date": "2026-10-12",
     "source": "Ars Technica",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "tech",
     "tags": [
       "Claude"
@@ -25,91 +189,141 @@
     "snippet": "“I may have information regarding this case,\" Claude AI told Philly police."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-    "date": "2026-10-12",
-    "source": "The Verge AI",
-    "hotScore": 53.8,
-    "category": "hardware",
-    "tags": [
-      "Multimodal",
-      "Reasoning",
-      "Agent"
-    ],
-    "snippet": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and se"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta has some Wonder Full new AI models",
-    "date": "2026-10-12",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new model"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "date": "2026-10-12",
+    "title": "TechCrunch Disrupt 2026: Day 1",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
     "hotScore": 47.5,
-    "category": "research",
+    "category": "startup",
     "tags": [],
-    "snippet": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex"
+    "snippet": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "date": "2026-10-13",
+    "source": "Wired",
+    "hotScore": 47.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Mia Goth at The 32nd Annual Actor Awards. | Variety via Getty Images Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+    "date": "2026-10-13",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how fa"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "date": "2026-10-12",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent",
+      "Robotics"
+    ],
+    "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+    "snippet": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "date": "2026-10-12",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
     "hotScore": 45,
-    "category": "policy",
+    "category": "product",
     "tags": [],
-    "snippet": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+    "snippet": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "date": "2026-10-12",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
     "hotScore": 45,
-    "category": "policy",
+    "category": "product",
     "tags": [],
-    "snippet": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+    "snippet": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "date": "2026-10-12",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "date": "2026-10-12",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan"
+    "snippet": "The startup will sell some of its assets to Disney for $20 million."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -125,87 +339,57 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "date": "2026-10-11",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
-    "hotScore": 43.3,
-    "category": "startup",
+    "hotScore": 42.5,
+    "category": "policy",
     "tags": [
-      "GPT"
+      "Multimodal"
     ],
-    "snippet": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break."
+    "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "date": "2026-10-12",
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
-    "tags": [],
-    "snippet": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "AI agent makers are promising privacy — will they deliver?",
-    "date": "2026-10-10",
-    "source": "The Verge AI",
-    "hotScore": 41,
-    "category": "policy",
     "tags": [
-      "Agent"
+      "Robotics"
     ],
-    "snippet": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "date": "2026-10-11",
-    "source": "The Verge AI",
-    "hotScore": 40.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Report Predicts Tech That Will Transform Lives",
-    "date": "2026-10-07",
-    "source": "IEEE Spectrum",
-    "hotScore": 39.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology "
+    "snippet": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "date": "2026-10-11",
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "date": "2026-10-13",
     "source": "TechCrunch AI",
-    "hotScore": 39.5,
+    "hotScore": 42.5,
     "category": "product",
     "tags": [],
-    "snippet": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+    "snippet": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "date": "2026-10-09",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "date": "2026-10-13",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
     "category": "research",
     "tags": [],
-    "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue"
+    "snippet": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Introducing Playground: Create and play custom games",
-    "date": "2026-10-07",
-    "source": "Google AI Blog",
-    "hotScore": 38.5,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "date": "2026-10-12",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
     "category": "research",
     "tags": [],
-    "snippet": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+    "snippet": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -219,35 +403,33 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "date": "2026-10-09",
-    "source": "TechCrunch AI",
-    "hotScore": 37.3,
-    "category": "product",
-    "tags": [],
-    "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "date": "2026-10-11",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "industry",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "date": "2026-10-11",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "date": "2026-10-12",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+    "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "date": "2026-10-12",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "date": "2026-10-12",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -258,60 +440,6 @@
     "category": "hardware",
     "tags": [],
     "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to pre"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
-    "date": "2026-10-10",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "date": "2026-10-09",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [],
-    "snippet": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the P"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-    "date": "2026-10-09",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [],
-    "snippet": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "date": "2026-10-09",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -386,24 +514,14 @@
     "snippet": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "hotScore": 34.8,
-    "category": "tech",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Report Predicts Tech That Will Transform Lives",
+    "date": "2026-10-07",
+    "source": "IEEE Spectrum",
+    "hotScore": 33.8,
+    "category": "hardware",
     "tags": [],
-    "snippet": "One damaged data center has supercomputers used for training Yandex’s AI model."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "date": "2026-10-11",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals"
+    "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology "
   },
   {
     "id": "aHR0cHM6Ly9yb2JvdHNn",
@@ -416,121 +534,5 @@
       "Robotics"
     ],
     "snippet": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help "
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
-    "date": "2026-09-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children. The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean e"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "date": "2026-10-09",
-    "source": "MIT Technology Review",
-    "hotScore": 33.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s"
-  },
-  {
-    "id": "aHR0cHM6Ly9jb250ZW50",
-    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-    "date": "2026-10-07",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.5,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how polici"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Co-creating the future of fashion with Google",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Making global data easier to explore",
-    "date": "2026-09-17",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "date": "2026-10-10",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "industry",
-    "tags": [],
-    "snippet": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "date": "2026-10-10",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Is Apple hoping to get into the AI-generated podcast business?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "date": "2026-10-10",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "date": "2026-10-09",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against "
   }
 ]

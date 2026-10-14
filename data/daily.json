@@ -1,22 +1,24 @@
 {
-  "lastUpdate": "2026-10-13",
-  "generatedAt": "2026-10-13T07:00:19.044Z",
+  "lastUpdate": "2026-10-14",
+  "generatedAt": "2026-10-14T05:14:55.495Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-      "date": "2026-10-12",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-      "hotScore": 63.8,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Google finally releases Gemini 4 Argon",
+      "date": "2026-10-13",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "hotScore": 72.5,
       "category": "research",
       "tags": [
+        "GPT",
         "Claude",
-        "Agent"
+        "Gemini",
+        "Reasoning"
       ],
       "content": {
-        "basic": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developing an infrastructure to understand the mechanics behind the chatbot’s behavior and to ensure its underlying architecture produces reliable outputs. Gurmeet Saran Employer Anthropic in San Francisco Title Member of technical staff Member grade IEEE senior member Alma maters Univer",
+        "basic": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots. The company claims Argon outperforms rival models like GPT-6 Astra, Claude Fable 5.1, and Claude Opus 5.5 across a range of benchmarks, including coding, cybersecurity, science, finance, and law. Google says it",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,18 +26,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "date": "2026-10-12",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "hotScore": 56.3,
-      "category": "tech",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "date": "2026-10-13",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "hotScore": 58.8,
+      "category": "research",
       "tags": [
-        "Claude"
+        "Gemini"
       ],
       "content": {
-        "basic": "“I may have information regarding this case,\" Claude AI told Philly police.",
+        "basic": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
