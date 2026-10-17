@@ -4,23 +4,23 @@
     "to": "2026-10-20"
   },
   "weekKey": "2026-W42",
-  "lastUpdate": "2026-10-15",
-  "generatedAt": "2026-10-15T05:01:45.243Z",
+  "lastUpdate": "2026-10-17",
+  "generatedAt": "2026-10-17T04:52:22.584Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "date": "2026-10-15",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "date": "2026-10-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "hotScore": 60,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W42",
       "content": {
-        "basic": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+        "basic": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,16 +30,20 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "date": "2026-10-15",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "date": "2026-10-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "hotScore": 56.3,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Multimodal",
+        "Reasoning"
+      ],
       "week_key": "2026-W42",
       "content": {
-        "basic": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+        "basic": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -47,20 +51,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 3,
-      "title": "Figma announces new features to define how agents work on its platform",
-      "date": "2026-10-15",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "hotScore": 62.5,
-      "category": "product",
+      "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
+      "date": "2026-10-16",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
+      "hotScore": 53.8,
+      "category": "policy",
       "tags": [
-        "Agent"
+        "Safety"
       ],
       "week_key": "2026-W42",
       "content": {
-        "basic": "Figma is also releasing its code layers feature in open beta.",
+        "basic": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs. Dubai, Paris, and Coral Gables, Fla., are among the cities that have invested heavily in programs to become smarter. But along with the conveniences that come with a smart city transition, there have been challenges including safety and privacy issues and eroding relationships between residents an",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -70,18 +74,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "The AI race is back on",
-      "date": "2026-10-14",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "date": "2026-10-15",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "hotScore": 60,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "hotScore": 53.3,
       "category": "product",
       "tags": [
-        "Multimodal"
+        "GPT"
       ],
       "week_key": "2026-W42",
       "content": {
-        "basic": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up. Then, in the space of a few days, everything ch",
+        "basic": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering. A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome. First up: ChatGPT can now use your tabs in Chrome to make answ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,21 +93,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 5,
-      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-      "date": "2026-10-14",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "hotScore": 56.3,
-      "category": "policy",
-      "tags": [
-        "GPT",
-        "Safety"
-      ],
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "hotScore": 52.5,
+      "category": "research",
+      "tags": [],
       "week_key": "2026-W42",
       "content": {
-        "basic": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when developing ChatGPT. The string of complaints claims that OpenAI violated local consumer protection laws by failing to warn customers about the dangers of ChatGPT, citing several lawsuits filed by the family members of teens and adults that all",
+        "basic": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

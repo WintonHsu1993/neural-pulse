@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-10-15",
-  "generatedAt": "2026-10-15T05:01:45.243Z",
+  "lastUpdate": "2026-10-17",
+  "generatedAt": "2026-10-17T04:52:22.584Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "date": "2026-10-15",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "date": "2026-10-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "hotScore": 60,
       "category": "startup",
       "tags": [],
       "content": {
-        "basic": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+        "basic": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,15 +22,19 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "date": "2026-10-15",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "date": "2026-10-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "hotScore": 65,
+      "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "hotScore": 56.3,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Multimodal",
+        "Reasoning"
+      ],
       "content": {
-        "basic": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+        "basic": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
