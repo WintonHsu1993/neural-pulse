@@ -1,46 +1,54 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "date": "2026-10-16",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "date": "2026-10-17",
     "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 58.3,
     "category": "startup",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "date": "2026-10-18",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "product",
     "tags": [],
-    "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with "
+    "snippet": "The outside watchdog can publish its findings without Anthropic's approval."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "date": "2026-10-18",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "industry",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're t"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "date": "2026-10-16",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "date": "2026-10-18",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 47.5,
     "category": "startup",
-    "tags": [
-      "GPT",
-      "Multimodal",
-      "Reasoning"
-    ],
-    "snippet": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
-    "date": "2026-10-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 53.8,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control,"
+    "tags": [],
+    "snippet": "Anthropic said that it will commit 5% of its shares to the fund."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "ChatGPT can peek at your Chrome tabs now",
     "date": "2026-10-15",
     "source": "The Verge AI",
-    "hotScore": 53.3,
+    "hotScore": 47.3,
     "category": "product",
     "tags": [
       "GPT"
@@ -48,141 +56,26 @@
     "snippet": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, Op"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "date": "2026-10-16",
-    "source": "MIT Technology Review",
-    "hotScore": 52.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Simulation App Speeds Up Electric Truck Battery Design",
-    "date": "2026-10-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "This article is brought to you by COMSOL. These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution cen"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "hotScore": 50,
-    "category": "tech",
-    "tags": [],
-    "snippet": "The actions could have resulted in criminal charges had humans been behind the keyboard."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-    "date": "2026-10-12",
-    "source": "IEEE Spectrum",
-    "hotScore": 49.8,
-    "category": "research",
-    "tags": [
-      "Claude",
-      "Agent"
-    ],
-    "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 48.8,
-    "category": "policy",
-    "tags": [
-      "GPT",
-      "Safety",
-      "Robotics"
-    ],
-    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s Universal Cart shopping tool launches in the US",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "date": "2026-10-16",
+    "title": "Websites are closing their doors to AI agents",
+    "date": "2026-10-17",
     "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [],
-    "snippet": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
+    "hotScore": 47,
     "category": "product",
     "tags": [
       "Agent"
     ],
-    "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+    "snippet": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation a"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Safety",
-      "Robotics"
-    ],
-    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "date": "2026-10-16",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "date": "2026-10-18",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
+    "snippet": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -197,111 +90,83 @@
     "snippet": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "date": "2026-10-16",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X pr"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip th"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "date": "2026-10-15",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White H"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Friends don&#8217;t let friends feed their data to AI agents",
-    "date": "2026-10-15",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "product",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+    "date": "2026-10-12",
+    "source": "IEEE Spectrum",
+    "hotScore": 43.8,
+    "category": "research",
     "tags": [
+      "Claude",
       "Agent"
     ],
-    "snippet": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the adve"
+    "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "date": "2026-10-15",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "date": "2026-10-16",
     "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
+    "hotScore": 42.3,
+    "category": "startup",
+    "tags": [
+      "GPT",
+      "Multimodal",
+      "Reasoning"
+    ],
+    "snippet": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "date": "2026-10-17",
+    "source": "TechCrunch AI",
+    "hotScore": 40.8,
+    "category": "startup",
     "tags": [],
-    "snippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+    "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
+    "date": "2026-10-16",
+    "source": "IEEE Spectrum",
+    "hotScore": 39.8,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control,"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "date": "2026-10-15",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "date": "2026-10-17",
     "source": "TechCrunch AI",
-    "hotScore": 42,
+    "hotScore": 39.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "date": "2026-10-17",
+    "source": "Wired",
+    "hotScore": 39.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "hotScore": 38.5,
     "category": "research",
     "tags": [],
-    "snippet": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI agents are coming to Rivian’s cars",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-    "date": "2026-10-15",
-    "source": "The Verge AI",
-    "hotScore": 40.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The tech backlash is now in theaters",
-    "date": "2026-10-15",
-    "source": "The Verge AI",
-    "hotScore": 39.5,
-    "category": "product",
-    "tags": [
-      "Multimodal",
-      "Robotics"
-    ],
-    "snippet": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+    "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose "
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -317,73 +182,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "date": "2026-10-15",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "date": "2026-10-17",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "product",
+    "category": "research",
     "tags": [],
-    "snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-    "date": "2026-10-15",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "date": "2026-10-15",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable U"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con"
+    "snippet": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no lo"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -396,6 +201,78 @@
     "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to pre"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Trump posts AI-edited photo to brag about White House restoration work",
+    "date": "2026-10-15",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White H"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "date": "2026-10-16",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "date": "2026-10-15",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "date": "2026-10-15",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "research",
+    "tags": [],
+    "snippet": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI agents are coming to Rivian’s cars",
+    "date": "2026-10-15",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Simulation App Speeds Up Electric Truck Battery Design",
+    "date": "2026-10-16",
+    "source": "IEEE Spectrum",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "This article is brought to you by COMSOL. These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution cen"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "hotScore": 36,
+    "category": "tech",
+    "tags": [],
+    "snippet": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The latest AI news we announced in September 2026",
     "date": "2026-10-02",
@@ -406,36 +283,18 @@
     "snippet": "Here are Google’s latest AI updates from September 2026"
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New experts join Google’s AI & Economy team",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "hotScore": 35,
-    "category": "research",
-    "tags": [],
-    "snippet": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-    "date": "2026-10-15",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "date": "2026-10-16",
     "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Figma announces new features to define how agents work on its platform",
-    "date": "2026-10-15",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "product",
+    "hotScore": 34.8,
+    "category": "policy",
     "tags": [
-      "Agent"
+      "GPT",
+      "Safety",
+      "Robotics"
     ],
-    "snippet": "Figma is also releasing its code layers feature in open beta."
+    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -448,6 +307,19 @@
     "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology "
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The tech backlash is now in theaters",
+    "date": "2026-10-15",
+    "source": "The Verge AI",
+    "hotScore": 33.5,
+    "category": "product",
+    "tags": [
+      "Multimodal",
+      "Robotics"
+    ],
+    "snippet": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Introducing Playground: Create and play custom games",
     "date": "2026-10-07",
@@ -456,26 +328,6 @@
     "category": "research",
     "tags": [],
     "snippet": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Co-creating the future of fashion with Google",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Making global data easier to explore",
-    "date": "2026-09-17",
-    "source": "Google AI Blog",
-    "hotScore": 32.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -488,14 +340,142 @@
     "snippet": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Celebrates Innovators Shaping the Future",
-    "date": "2026-09-30",
-    "source": "IEEE Spectrum",
-    "hotScore": 30,
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "date": "2026-10-16",
+    "source": "The Verge AI",
+    "hotScore": 31,
     "category": "research",
     "tags": [],
-    "snippet": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society w"
+    "snippet": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "date": "2026-10-15",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+    "date": "2026-10-15",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "date": "2026-10-16",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "date": "2026-10-16",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [
+      "Safety",
+      "Robotics"
+    ],
+    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "date": "2026-10-16",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "date": "2026-10-16",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "date": "2026-10-15",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "date": "2026-10-15",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "date": "2026-10-15",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "date": "2026-10-16",
+    "source": "The Verge AI",
+    "hotScore": 28.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X pr"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "date": "2026-10-16",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip th"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+    "date": "2026-10-15",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",

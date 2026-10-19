@@ -4,67 +4,44 @@
     "to": "2026-10-20"
   },
   "weekKey": "2026-W42",
-  "lastUpdate": "2026-10-17",
-  "generatedAt": "2026-10-17T04:52:22.584Z",
+  "lastUpdate": "2026-10-19",
+  "generatedAt": "2026-10-19T05:07:10.377Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "date": "2026-10-16",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "date": "2026-10-17",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "hotScore": 60,
+      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "hotScore": 58.3,
       "category": "startup",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W42",
+      "content": {
+        "basic": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 2,
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "date": "2026-10-18",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "hotScore": 55,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W42",
       "content": {
-        "basic": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "date": "2026-10-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "GPT",
-        "Multimodal",
-        "Reasoning"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 3,
-      "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
-      "date": "2026-10-16",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
-      "hotScore": 53.8,
-      "category": "policy",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs. Dubai, Paris, and Coral Gables, Fla., are among the cities that have invested heavily in programs to become smarter. But along with the conveniences that come with a smart city transition, there have been challenges including safety and privacy issues and eroding relationships between residents an",
+        "basic": "The outside watchdog can publish its findings without Anthropic's approval.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -73,19 +50,19 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "date": "2026-10-15",
+      "rank": 3,
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "date": "2026-10-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "hotScore": 53.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "hotScore": 47.5,
+      "category": "industry",
       "tags": [
-        "GPT"
+        "Robotics"
       ],
       "week_key": "2026-W42",
       "content": {
-        "basic": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering. A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome. First up: ChatGPT can now use your tabs in Chrome to make answ",
+        "basic": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward.\" Police responded to the scene and asked Marvin to move out of the robot's way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention. The del",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -93,18 +70,39 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 5,
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "date": "2026-10-16",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "hotScore": 52.5,
-      "category": "research",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "date": "2026-10-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "hotScore": 47.5,
+      "category": "startup",
       "tags": [],
       "week_key": "2026-W42",
       "content": {
-        "basic": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+        "basic": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "date": "2026-10-15",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "hotScore": 47.3,
+      "category": "product",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W42",
+      "content": {
+        "basic": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering. A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome. First up: ChatGPT can now use your tabs in Chrome to make answ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
