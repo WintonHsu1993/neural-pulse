@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-10-19",
-  "generatedAt": "2026-10-19T05:07:10.377Z",
+  "lastUpdate": "2026-10-20",
+  "generatedAt": "2026-10-20T05:08:34.951Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "date": "2026-10-17",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "date": "2026-10-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "hotScore": 58.3,
-      "category": "startup",
-      "tags": [
-        "Claude"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "hotScore": 65,
+      "category": "policy",
+      "tags": [],
       "content": {
-        "basic": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "basic": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +21,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "date": "2026-10-18",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "date": "2026-10-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "hotScore": 56.3,
+      "category": "startup",
+      "tags": [
+        "Claude",
+        "OpenSource",
+        "Agent"
+      ],
       "content": {
-        "basic": "The outside watchdog can publish its findings without Anthropic's approval.",
+        "basic": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

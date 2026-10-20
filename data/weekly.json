@@ -4,65 +4,23 @@
     "to": "2026-10-20"
   },
   "weekKey": "2026-W42",
-  "lastUpdate": "2026-10-19",
-  "generatedAt": "2026-10-19T05:07:10.377Z",
+  "lastUpdate": "2026-10-20",
+  "generatedAt": "2026-10-20T05:08:34.951Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "date": "2026-10-17",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "date": "2026-10-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "hotScore": 58.3,
-      "category": "startup",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "rank": 2,
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "date": "2026-10-18",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "hotScore": 55,
-      "category": "product",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "hotScore": 65,
+      "category": "policy",
       "tags": [],
       "week_key": "2026-W42",
       "content": {
-        "basic": "The outside watchdog can publish its findings without Anthropic's approval.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "date": "2026-10-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "hotScore": 47.5,
-      "category": "industry",
-      "tags": [
-        "Robotics"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward.\" Police responded to the scene and asked Marvin to move out of the robot's way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention. The del",
+        "basic": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -71,17 +29,21 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "date": "2026-10-18",
+      "rank": 2,
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "date": "2026-10-19",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "hotScore": 47.5,
+      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "hotScore": 56.3,
       "category": "startup",
-      "tags": [],
+      "tags": [
+        "Claude",
+        "OpenSource",
+        "Agent"
+      ],
       "week_key": "2026-W42",
       "content": {
-        "basic": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "basic": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -89,20 +51,64 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "date": "2026-10-15",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "hotScore": 47.3,
-      "category": "product",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 3,
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "date": "2026-10-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "hotScore": 55,
+      "category": "startup",
       "tags": [
-        "GPT"
+        "Agent"
       ],
       "week_key": "2026-W42",
       "content": {
-        "basic": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering. A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome. First up: ChatGPT can now use your tabs in Chrome to make answ",
+        "basic": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "date": "2026-10-19",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "hotScore": 53.8,
+      "category": "research",
+      "tags": [
+        "Claude",
+        "Agent"
+      ],
+      "week_key": "2026-W42",
+      "content": {
+        "basic": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9jb250ZW50",
+      "rank": 5,
+      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
+      "date": "2026-10-19",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
+      "hotScore": 52.5,
+      "category": "research",
+      "tags": [
+        "Multimodal",
+        "Safety"
+      ],
+      "week_key": "2026-W42",
+      "content": {
+        "basic": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the shift from smart cities to cognitive cities depends on infrastructure that reasons and acts, rather than infrastructure that only monitors. Why edge AI supports low-latency decisions, keeps sensitive data within city boundaries, and reduces dependency on centralized cloud infrastructure. How computer vision, multimoda",
         "highlights": [],
         "scenarios": [],
         "industry": [],
