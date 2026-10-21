@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-10-20",
-  "generatedAt": "2026-10-20T05:08:34.951Z",
+  "lastUpdate": "2026-10-21",
+  "generatedAt": "2026-10-21T05:10:43.637Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "date": "2026-10-20",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "hotScore": 65,
-      "category": "policy",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "date": "2026-10-21",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "hotScore": 75,
+      "category": "research",
       "tags": [],
       "content": {
-        "basic": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+        "basic": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,20 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "date": "2026-10-19",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "date": "2026-10-20",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
       "hotScore": 56.3,
-      "category": "startup",
+      "category": "hardware",
       "tags": [
-        "Claude",
-        "OpenSource",
-        "Agent"
+        "Gemini"
       ],
       "content": {
-        "basic": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+        "basic": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or",
         "highlights": [],
         "scenarios": [],
         "industry": [],

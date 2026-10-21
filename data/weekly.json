@@ -1,114 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-10-14",
-    "to": "2026-10-20"
+    "from": "2026-10-21",
+    "to": "2026-10-27"
   },
-  "weekKey": "2026-W42",
-  "lastUpdate": "2026-10-20",
-  "generatedAt": "2026-10-20T05:08:34.951Z",
-  "count": 5,
+  "weekKey": "2026-W43",
+  "lastUpdate": "2026-10-21",
+  "generatedAt": "2026-10-21T05:10:43.637Z",
+  "count": 1,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
       "rank": 1,
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "date": "2026-10-20",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "hotScore": 65,
-      "category": "policy",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "date": "2026-10-21",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "hotScore": 75,
+      "category": "research",
       "tags": [],
-      "week_key": "2026-W42",
+      "week_key": "2026-W43",
       "content": {
-        "basic": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "date": "2026-10-19",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "Claude",
-        "OpenSource",
-        "Agent"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "date": "2026-10-19",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "hotScore": 55,
-      "category": "startup",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 4,
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "date": "2026-10-19",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "hotScore": 53.8,
-      "category": "research",
-      "tags": [
-        "Claude",
-        "Agent"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9jb250ZW50",
-      "rank": 5,
-      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-      "date": "2026-10-19",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-      "hotScore": 52.5,
-      "category": "research",
-      "tags": [
-        "Multimodal",
-        "Safety"
-      ],
-      "week_key": "2026-W42",
-      "content": {
-        "basic": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the shift from smart cities to cognitive cities depends on infrastructure that reasons and acts, rather than infrastructure that only monitors. Why edge AI supports low-latency decisions, keeps sensitive data within city boundaries, and reduces dependency on centralized cloud infrastructure. How computer vision, multimoda",
+        "basic": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

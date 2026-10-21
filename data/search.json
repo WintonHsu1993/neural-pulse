@@ -1,34 +1,175 @@
 [
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "date": "2026-10-21",
+    "source": "Google AI Blog",
+    "hotScore": 75,
+    "category": "research",
+    "tags": [],
+    "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s more personalized Gemini AI is heading to your car",
     "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 65,
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "hardware",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gm"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "date": "2026-10-20",
+    "source": "The Verge AI",
+    "hotScore": 55,
     "category": "policy",
     "tags": [],
-    "snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+    "snippet": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Robotic therapy for stroke patients",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "hotScore": 53.8,
+    "category": "hardware",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "date": "2026-10-19",
+    "title": "ChatGPT now lets you lock your chats",
+    "date": "2026-10-20",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
-    "category": "startup",
+    "hotScore": 53.8,
+    "category": "product",
     "tags": [
-      "Claude",
-      "OpenSource",
-      "Agent"
+      "GPT"
     ],
-    "snippet": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to"
+    "snippet": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Gemini's Personal Intelligence is coming to cars",
+    "date": "2026-10-20",
+    "source": "Ars Technica",
+    "hotScore": 53.8,
+    "category": "hardware",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "It's probably time to audit your Gemini settings."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 51.3,
+    "category": "hardware",
+    "tags": [
+      "GPT",
+      "Robotics"
+    ],
+    "snippet": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "date": "2026-10-20",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app dete"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX’s AI business is beating expectations",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Eric Schmidt’s fortune is about to get even bigger."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
     "date": "2026-10-19",
     "source": "TechCrunch AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "startup",
     "tags": [
       "Agent"
@@ -36,255 +177,109 @@
     "snippet": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "date": "2026-10-19",
-    "source": "MIT Technology Review",
-    "hotScore": 53.8,
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "date": "2026-10-20",
+    "source": "The Verge AI",
+    "hotScore": 45,
     "category": "research",
+    "tags": [],
+    "snippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report publ"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "date": "2026-10-20",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "New data also shows Muse is retaining users at higher rates than its AI rivals."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
     "tags": [
-      "Claude",
-      "Agent"
+      "Robotics"
     ],
-    "snippet": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini"
+    "snippet": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
   },
   {
     "id": "aHR0cHM6Ly9jb250ZW50",
     "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
     "date": "2026-10-19",
     "source": "IEEE Spectrum",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "research",
     "tags": [
       "Multimodal",
       "Safety"
     ],
     "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public saf"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Democrats think cracking down on AI could give them an edge",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "People are using AI to make their smart TVs dumb again",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The Robot I Didn’t Expect to Build",
-    "date": "2026-10-19",
-    "source": "IEEE Spectrum",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economi"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-    "date": "2026-10-19",
-    "source": "Ars Technica",
-    "hotScore": 50,
-    "category": "tech",
-    "tags": [],
-    "snippet": "US fears Saudi government will help ex-OpenAI engineer flee spying charges."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-    "date": "2026-10-19",
-    "source": "MIT Technology Review",
-    "hotScore": 47.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The fossil fuel comeback is here",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-    "date": "2026-10-19",
-    "source": "Wired",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic gives outside AI watchdog “employee-like” access",
-    "date": "2026-10-18",
-    "source": "Ars Technica",
-    "hotScore": 47,
-    "category": "product",
-    "tags": [],
-    "snippet": "The outside watchdog can publish its findings without Anthropic's approval."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "date": "2026-10-17",
-    "source": "TechCrunch AI",
-    "hotScore": 46,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partn"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [],
-    "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent",
-      "Robotics"
-    ],
-    "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
-    "date": "2026-10-19",
-    "source": "IEEE Spectrum",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the ti"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -300,16 +295,36 @@
     "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Figma said it plans to support as many standards as possible without exposing all of its data."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Websites are closing their doors to AI agents",
-    "date": "2026-10-17",
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "date": "2026-10-19",
     "source": "The Verge AI",
-    "hotScore": 41,
+    "hotScore": 42,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "The Robot I Didn’t Expect to Build",
+    "date": "2026-10-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 42,
     "category": "product",
     "tags": [
-      "Agent"
+      "Robotics"
     ],
-    "snippet": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation a"
+    "snippet": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economi"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -325,25 +340,23 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A woman was arrested in Philly for blocking a delivery robot",
-    "date": "2026-10-18",
+    "title": "The fossil fuel comeback is here",
+    "date": "2026-10-19",
     "source": "The Verge AI",
     "hotScore": 39.5,
-    "category": "industry",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're t"
+    "category": "research",
+    "tags": [],
+    "snippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "date": "2026-10-18",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "date": "2026-10-19",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
     "category": "startup",
     "tags": [],
-    "snippet": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”"
+    "snippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -358,16 +371,6 @@
     "snippet": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "date": "2026-10-16",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose "
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "We Need to Embed Ethics Into Our Engineering Courses",
     "date": "2026-10-09",
@@ -380,14 +383,60 @@
     "snippet": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concer"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "date": "2026-10-19",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "industry",
+    "tags": [],
+    "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "date": "2026-10-19",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "industry",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "date": "2026-10-19",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Disney agrees to hire the majority of Character AI’s workforce",
-    "date": "2026-10-18",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "date": "2026-10-19",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "startup",
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
+    "date": "2026-10-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 37,
+    "category": "product",
     "tags": [],
-    "snippet": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with"
+    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the ti"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -410,16 +459,6 @@
     "snippet": "This article is brought to you by COMSOL. These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution cen"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "hotScore": 36,
-    "category": "tech",
-    "tags": [],
-    "snippet": "The actions could have resulted in criminal charges had humans been behind the keyboard."
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The latest AI news we announced in September 2026",
     "date": "2026-10-02",
@@ -430,30 +469,6 @@
     "snippet": "Here are Google’s latest AI updates from September 2026"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "date": "2026-10-17",
-    "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 34.8,
-    "category": "policy",
-    "tags": [
-      "GPT",
-      "Safety",
-      "Robotics"
-    ],
-    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "IEEE Report Predicts Tech That Will Transform Lives",
     "date": "2026-10-07",
@@ -462,16 +477,6 @@
     "category": "hardware",
     "tags": [],
     "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "date": "2026-10-17",
-    "source": "TechCrunch AI",
-    "hotScore": 33.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -494,58 +499,37 @@
     "snippet": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "date": "2026-10-17",
-    "source": "The Verge AI",
-    "hotScore": 31,
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "date": "2026-09-28",
+    "source": "Google AI Blog",
+    "hotScore": 27.5,
     "category": "research",
-    "tags": [],
-    "snippet": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no lo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "date": "2026-10-16",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "research",
-    "tags": [],
-    "snippet": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
     "tags": [
-      "Agent"
+      "Multimodal"
     ],
-    "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+    "snippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "date": "2026-10-16",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "policy",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "date": "2026-09-23",
+    "source": "Google AI Blog",
+    "hotScore": 27.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+  },
+  {
+    "id": "aHR0cHM6Ly9jb250ZW50",
+    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+    "date": "2026-10-07",
+    "source": "IEEE Spectrum",
+    "hotScore": 27.5,
+    "category": "research",
     "tags": [
-      "Safety",
       "Robotics"
     ],
-    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "date": "2026-10-16",
-    "source": "The Verge AI",
-    "hotScore": 28.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X pr"
+    "snippet": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how polici"
   }
 ]
