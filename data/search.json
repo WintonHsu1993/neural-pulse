@@ -1,20 +1,126 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "date": "2026-10-21",
+    "source": "The Verge AI",
+    "hotScore": 66.3,
+    "category": "research",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "snippet": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+    "date": "2026-10-21",
+    "source": "Wired",
+    "hotScore": 58.8,
+    "category": "tech",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "snippet": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "date": "2026-10-21",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "date": "2026-10-21",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "research",
+    "tags": [
+      "GPT",
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled "
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "hotScore": 56.3,
+    "category": "tech",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Data centers could erase decades of air quality gains",
+    "date": "2026-10-21",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [],
+    "snippet": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New an"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
     "date": "2026-10-21",
     "source": "Google AI Blog",
-    "hotScore": 75,
+    "hotScore": 55,
     "category": "research",
     "tags": [],
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta to create a new class of shares to fund AI push",
+    "date": "2026-10-21",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward p"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Walmart is inviting AI agents to shop for you",
+    "date": "2026-10-21",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases a"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Google’s more personalized Gemini AI is heading to your car",
     "date": "2026-10-20",
     "source": "The Verge AI",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "hardware",
     "tags": [
       "Gemini"
@@ -22,33 +128,41 @@
     "snippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gm"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+    "date": "2026-10-21",
+    "source": "IEEE Spectrum",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When "
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
     "date": "2026-10-20",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "policy",
     "tags": [],
     "snippet": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Robotic therapy for stroke patients",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "hotScore": 53.8,
-    "category": "hardware",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "ChatGPT now lets you lock your chats",
     "date": "2026-10-20",
     "source": "TechCrunch AI",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "product",
     "tags": [
       "GPT"
@@ -56,230 +170,76 @@
     "snippet": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device"
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Gemini's Personal Intelligence is coming to cars",
-    "date": "2026-10-20",
-    "source": "Ars Technica",
-    "hotScore": 53.8,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "research",
+    "tags": [],
+    "snippet": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
     "tags": [
-      "Gemini"
+      "Agent"
     ],
-    "snippet": "It's probably time to audit your Gemini settings."
+    "snippet": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "date": "2026-10-21",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic’s cloud partnerships are getting messy",
     "date": "2026-10-20",
     "source": "TechCrunch AI",
-    "hotScore": 52.5,
+    "hotScore": 44.5,
     "category": "startup",
     "tags": [],
     "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 51.3,
-    "category": "hardware",
-    "tags": [
-      "GPT",
-      "Robotics"
-    ],
-    "snippet": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-    "date": "2026-10-20",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app dete"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "SpaceX’s AI business is beating expectations",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [],
-    "snippet": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 48.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Eric Schmidt’s fortune is about to get even bigger."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "date": "2026-10-19",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-    "date": "2026-10-20",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "research",
-    "tags": [],
-    "snippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report publ"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-    "date": "2026-10-20",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "New data also shows Muse is retaining users at higher rates than its AI rivals."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "date": "2026-10-20",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
-  },
-  {
-    "id": "aHR0cHM6Ly9jb250ZW50",
-    "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-    "date": "2026-10-19",
-    "source": "IEEE Spectrum",
-    "hotScore": 44.5,
-    "category": "research",
-    "tags": [
-      "Multimodal",
-      "Safety"
-    ],
-    "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public saf"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -296,35 +256,68 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
     "date": "2026-10-20",
     "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Figma said it plans to support as many standards as possible without exposing all of its data."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Democrats think cracking down on AI could give them an edge",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "The Robot I Didn’t Expect to Build",
-    "date": "2026-10-19",
-    "source": "IEEE Spectrum",
-    "hotScore": 42,
-    "category": "product",
+    "hotScore": 43.3,
+    "category": "hardware",
     "tags": [
+      "GPT",
       "Robotics"
     ],
-    "snippet": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economi"
+    "snippet": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "product",
+    "tags": [],
+    "snippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX’s AI business is beating expectations",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "research",
+    "tags": [],
+    "snippet": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 40.8,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -339,24 +332,14 @@
     "snippet": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control,"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The fossil fuel comeback is here",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 39.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "date": "2026-10-19",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "date": "2026-10-20",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
     "category": "startup",
     "tags": [],
-    "snippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+    "snippet": "Eric Schmidt’s fortune is about to get even bigger."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -369,6 +352,19 @@
       "Gemini"
     ],
     "snippet": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+  },
+  {
+    "id": "aHR0cHM6Ly9jb250ZW50",
+    "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
+    "date": "2026-10-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 38.5,
+    "category": "research",
+    "tags": [
+      "Multimodal",
+      "Safety"
+    ],
+    "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public saf"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -384,69 +380,55 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "industry",
-    "tags": [],
-    "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "date": "2026-10-19",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "industry",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "date": "2026-10-19",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "date": "2026-10-20",
     "source": "The Verge AI",
     "hotScore": 37,
     "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ"
+    "tags": [],
+    "snippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report publ"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "date": "2026-10-20",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "date": "2026-10-19",
+    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "date": "2026-10-20",
     "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a "
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
-    "date": "2026-10-19",
-    "source": "IEEE Spectrum",
     "hotScore": 37,
     "category": "product",
     "tags": [],
-    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the ti"
+    "snippet": "New data also shows Muse is retaining users at higher rates than its AI rivals."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "6 Guidelines for Governing AI",
-    "date": "2026-10-05",
+    "title": "The Robot I Didn’t Expect to Build",
+    "date": "2026-10-19",
     "source": "IEEE Spectrum",
-    "hotScore": 36.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to pre"
+    "hotScore": 36,
+    "category": "product",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economi"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -467,6 +449,16 @@
     "category": "product",
     "tags": [],
     "snippet": "Here are Google’s latest AI updates from September 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "date": "2026-10-20",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Figma said it plans to support as many standards as possible without exposing all of its data."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -497,6 +489,16 @@
     "category": "research",
     "tags": [],
     "snippet": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
+    "date": "2026-10-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the ti"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",

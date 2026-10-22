@@ -4,23 +4,113 @@
     "to": "2026-10-27"
   },
   "weekKey": "2026-W43",
-  "lastUpdate": "2026-10-21",
-  "generatedAt": "2026-10-21T05:10:43.637Z",
-  "count": 1,
+  "lastUpdate": "2026-10-22",
+  "generatedAt": "2026-10-22T05:14:24.190Z",
+  "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "date": "2026-10-21",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "hotScore": 75,
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "hotScore": 66.3,
       "category": "research",
-      "tags": [],
+      "tags": [
+        "Claude",
+        "Agent"
+      ],
       "week_key": "2026-W43",
       "content": {
-        "basic": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+        "basic": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is built around Claude Opus 5.5. Here's Anthropic's description of what it can do: Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs y",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 2,
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "date": "2026-10-21",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "hotScore": 58.8,
+      "category": "tech",
+      "tags": [
+        "Claude",
+        "Agent"
+      ],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "date": "2026-10-21",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "hotScore": 56.3,
+      "category": "product",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to d",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "date": "2026-10-21",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "hotScore": 56.3,
+      "category": "research",
+      "tags": [
+        "GPT",
+        "Safety",
+        "Agent"
+      ],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X. \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\" A separate incident occurred af",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "rank": 5,
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "date": "2026-10-21",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "hotScore": 56.3,
+      "category": "tech",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

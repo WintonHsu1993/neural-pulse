@@ -1,19 +1,22 @@
 {
-  "lastUpdate": "2026-10-21",
-  "generatedAt": "2026-10-21T05:10:43.637Z",
+  "lastUpdate": "2026-10-22",
+  "generatedAt": "2026-10-22T05:14:24.190Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "date": "2026-10-21",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "hotScore": 75,
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "hotScore": 66.3,
       "category": "research",
-      "tags": [],
+      "tags": [
+        "Claude",
+        "Agent"
+      ],
       "content": {
-        "basic": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+        "basic": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is built around Claude Opus 5.5. Here's Anthropic's description of what it can do: Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs y",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,18 +24,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "date": "2026-10-20",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "hotScore": 56.3,
-      "category": "hardware",
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "date": "2026-10-21",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "hotScore": 58.8,
+      "category": "tech",
       "tags": [
-        "Gemini"
+        "Claude",
+        "Agent"
       ],
       "content": {
-        "basic": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or",
+        "basic": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
