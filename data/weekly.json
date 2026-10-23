@@ -4,26 +4,25 @@
     "to": "2026-10-27"
   },
   "weekKey": "2026-W43",
-  "lastUpdate": "2026-10-22",
-  "generatedAt": "2026-10-22T05:14:24.190Z",
+  "lastUpdate": "2026-10-23",
+  "generatedAt": "2026-10-23T05:13:03.105Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "date": "2026-10-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "hotScore": 66.3,
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "date": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "hotScore": 70,
       "category": "research",
       "tags": [
-        "Claude",
         "Agent"
       ],
       "week_key": "2026-W43",
       "content": {
-        "basic": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is built around Claude Opus 5.5. Here's Anthropic's description of what it can do: Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs y",
+        "basic": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,21 +30,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "date": "2026-10-21",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-      "hotScore": 58.8,
-      "category": "tech",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "date": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "hotScore": 62.5,
+      "category": "hardware",
       "tags": [
-        "Claude",
-        "Agent"
+        "Robotics"
       ],
       "week_key": "2026-W43",
       "content": {
-        "basic": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+        "basic": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -55,18 +53,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "date": "2026-10-21",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "date": "2026-10-22",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "Gemini"
-      ],
+      "sourceUrl": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "hotScore": 60,
+      "category": "hardware",
+      "tags": [],
       "week_key": "2026-W43",
       "content": {
-        "basic": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to d",
+        "basic": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -74,22 +70,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 4,
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "date": "2026-10-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "hotScore": 56.3,
-      "category": "research",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "date": "2026-10-22",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "hotScore": 58.8,
+      "category": "product",
       "tags": [
-        "GPT",
-        "Safety",
+        "Claude",
         "Agent"
       ],
       "week_key": "2026-W43",
       "content": {
-        "basic": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X. \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\" A separate incident occurred af",
+        "basic": "Claude Duet is available through waitlist for Pro and Max plan users.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -97,20 +92,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 5,
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "date": "2026-10-21",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "hotScore": 56.3,
-      "category": "tech",
+      "title": "Why AI Can’t Replace Engineering Teams",
+      "date": "2026-10-22",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+      "hotScore": 58.8,
+      "category": "product",
       "tags": [
         "GPT"
       ],
       "week_key": "2026-W43",
       "content": {
-        "basic": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+        "basic": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your skills aren’t commanding the premium they once did. Many engineers have faced layoffs or restructuring. But even for those of us who still have jobs, something corrosive is happening. You may have heard some version of this: “ChatGPT answered that in five seconds. Why can’t you?” Or, “I made this app in ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
