@@ -4,25 +4,25 @@
     "to": "2026-10-27"
   },
   "weekKey": "2026-W43",
-  "lastUpdate": "2026-10-23",
-  "generatedAt": "2026-10-23T05:13:03.105Z",
+  "lastUpdate": "2026-10-24",
+  "generatedAt": "2026-10-24T04:55:24.347Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Left alone with nothing to do, AI agents started playing",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
       "date": "2026-10-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "hotScore": 70,
-      "category": "research",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "hotScore": 53.8,
+      "category": "industry",
       "tags": [
         "Agent"
       ],
       "week_key": "2026-W43",
       "content": {
-        "basic": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "basic": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier AI models in September, after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies, or swarm obscure websites. On October 1st, OpenAI resumed reinforcement lear",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -32,51 +32,11 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "date": "2026-10-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "hotScore": 62.5,
-      "category": "hardware",
-      "tags": [
-        "Robotics"
-      ],
-      "week_key": "2026-W43",
-      "content": {
-        "basic": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "date": "2026-10-22",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "hotScore": 60,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W43",
-      "content": {
-        "basic": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
       "title": "Claude Duet app is Anthropic’s bet on agents",
       "date": "2026-10-22",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "hotScore": 58.8,
+      "hotScore": 50.8,
       "category": "product",
       "tags": [
         "Claude",
@@ -93,12 +53,12 @@
     },
     {
       "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 5,
+      "rank": 3,
       "title": "Why AI Can’t Replace Engineering Teams",
       "date": "2026-10-22",
       "source": "IEEE Spectrum",
       "sourceUrl": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-      "hotScore": 58.8,
+      "hotScore": 50.8,
       "category": "product",
       "tags": [
         "GPT"
@@ -106,6 +66,44 @@
       "week_key": "2026-W43",
       "content": {
         "basic": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your skills aren’t commanding the premium they once did. Many engineers have faced layoffs or restructuring. But even for those of us who still have jobs, something corrosive is happening. You may have heard some version of this: “ChatGPT answered that in five seconds. Why can’t you?” Or, “I made this app in ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Retro gaming is being overrun with AI",
+      "date": "2026-10-23",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "hotScore": 50,
+      "category": "industry",
+      "tags": [],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decompile and recompile - are a form of reverse en",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "date": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "hotScore": 50,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
