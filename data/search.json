@@ -1,10 +1,64 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "date": "2026-10-24",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "date": "2026-10-24",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "date": "2026-10-24",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "date": "2026-10-24",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Block’s new voice model sounds eerily human",
+    "date": "2026-10-24",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Block said that the voice model can run locally on a MacBook M4 Max"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "OpenAI now trains its frontier AI models with no internet access",
     "date": "2026-10-23",
     "source": "The Verge AI",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "industry",
     "tags": [
       "Agent"
@@ -13,10 +67,22 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "date": "2026-10-24",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Claude Duet app is Anthropic’s bet on agents",
     "date": "2026-10-22",
     "source": "TechCrunch AI",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "product",
     "tags": [
       "Claude",
@@ -29,119 +95,12 @@
     "title": "Why AI Can’t Replace Engineering Teams",
     "date": "2026-10-22",
     "source": "IEEE Spectrum",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "product",
     "tags": [
       "GPT"
     ],
     "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Retro gaming is being overrun with AI",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "date": "2026-10-23",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "date": "2026-10-23",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta delays new business terms after publisher pushback on AI scraping",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 48.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The iPhone Duo should have been an iPad",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "startup",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "snippet": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can oc"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Aut"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "date": "2026-10-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "date": "2026-10-23",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -157,58 +116,36 @@
     "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "date": "2026-10-23",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Canva’s first AI image model plans designs before generating them",
-    "date": "2026-10-22",
+    "title": "Retro gaming is being overrun with AI",
+    "date": "2026-10-23",
     "source": "The Verge AI",
     "hotScore": 42,
-    "category": "product",
+    "category": "industry",
+    "tags": [],
+    "snippet": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "date": "2026-10-23",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "date": "2026-10-23",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "research",
     "tags": [
-      "Multimodal"
+      "Agent"
     ],
-    "snippet": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "product",
-    "tags": [],
-    "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nirva raises $33M for a pendant that only listens to you",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+    "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -222,47 +159,36 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta turns Muse sharing back on",
-    "date": "2026-10-22",
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "date": "2026-10-23",
     "source": "The Verge AI",
-    "hotScore": 39.5,
-    "category": "research",
+    "hotScore": 40.8,
+    "category": "startup",
     "tags": [],
-    "snippet": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketi"
+    "snippet": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "date": "2026-10-22",
+    "source": "TechCrunch AI",
+    "hotScore": 39.8,
+    "category": "startup",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-    "date": "2026-10-22",
+    "title": "The iPhone Duo should have been an iPad",
+    "date": "2026-10-23",
     "source": "The Verge AI",
     "hotScore": 39.5,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who care"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Canva releases its first image generation model",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
     "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
     "tags": [],
-    "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
+    "snippet": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about t"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -303,59 +229,87 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-    "date": "2026-10-22",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "date": "2026-10-23",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can oc"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "date": "2026-10-23",
     "source": "The Verge AI",
     "hotScore": 37,
     "category": "policy",
     "tags": [],
-    "snippet": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address "
+    "snippet": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Aut"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "date": "2026-10-22",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "date": "2026-10-23",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+    "category": "startup",
+    "tags": [],
+    "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "date": "2026-10-22",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "date": "2026-10-23",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "hardware",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "date": "2026-10-22",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "date": "2026-10-22",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
     "tags": [],
-    "snippet": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
+    "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "date": "2026-10-22",
     "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+    "hotScore": 36,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "title": "Nirva raises $33M for a pendant that only listens to you",
     "date": "2026-10-22",
     "source": "TechCrunch AI",
-    "hotScore": 37,
+    "hotScore": 36,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
+    "tags": [],
+    "snippet": "Nirva will ship its $249 ambient AI pendant by the end of the year."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -380,6 +334,18 @@
     "snippet": "Here are Google’s latest AI updates from September 2026"
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "date": "2026-10-23",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "hardware",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
     "date": "2026-10-16",
@@ -393,13 +359,25 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "date": "2026-10-21",
+    "title": "Canva releases its first image generation model",
+    "date": "2026-10-22",
     "source": "TechCrunch AI",
     "hotScore": 33.5,
-    "category": "policy",
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "date": "2026-10-22",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
+    "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -432,34 +410,60 @@
     "snippet": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "date": "2026-10-21",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "date": "2026-10-22",
+    "source": "The Verge AI",
     "hotScore": 31,
-    "category": "startup",
+    "category": "policy",
     "tags": [],
-    "snippet": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    "snippet": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-    "date": "2026-10-21",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "date": "2026-10-21",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "date": "2026-10-22",
     "source": "TechCrunch AI",
     "hotScore": 31,
     "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "date": "2026-10-22",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
+    "snippet": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "date": "2026-10-22",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "date": "2026-10-22",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
