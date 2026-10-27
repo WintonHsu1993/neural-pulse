@@ -4,25 +4,44 @@
     "to": "2026-10-27"
   },
   "weekKey": "2026-W43",
-  "lastUpdate": "2026-10-26",
-  "generatedAt": "2026-10-26T05:10:07.997Z",
+  "lastUpdate": "2026-10-27",
+  "generatedAt": "2026-10-27T05:25:50.807Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "date": "2026-10-25",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "hotScore": 50,
-      "category": "policy",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "date": "2026-10-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "hotScore": 70,
+      "category": "startup",
       "tags": [
-        "OpenSource"
+        "Agent"
       ],
       "week_key": "2026-W43",
       "content": {
-        "basic": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\" The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as \"software that incidentally has",
+        "basic": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "date": "2026-10-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "hotScore": 68.8,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -31,17 +50,38 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Google’s AI search changes upended online publishing",
-      "date": "2026-10-25",
+      "rank": 3,
+      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+      "date": "2026-10-26",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "hotScore": 50,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "hotScore": 61.3,
+      "category": "industry",
+      "tags": [
+        "Claude"
+      ],
+      "week_key": "2026-W43",
+      "content": {
+        "basic": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC earlier this year in June, but the public document reveals more details, as well as the company's plans for the future in its own words, as well as potential risks for investors and the world. According to the S-1, in the first half of this year Anthropic had an $80.7 billion n",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "date": "2026-10-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "hotScore": 60,
       "category": "industry",
       "tags": [],
       "week_key": "2026-W43",
       "content": {
-        "basic": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google an",
+        "basic": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's marketing term for what is primarily methane - leaving the company's AI data center buildout vulnerable to rising fuel costs and existing supply chain constraints. And in a pos",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -49,58 +89,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "date": "2026-10-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "hotScore": 50,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W43",
-      "content": {
-        "basic": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "date": "2026-10-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "hotScore": 48.8,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W43",
-      "content": {
-        "basic": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 5,
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "date": "2026-10-24",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "hotScore": 48.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "title": "Will the real Anthropic please stand up",
+      "date": "2026-10-26",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "hotScore": 57.5,
+      "category": "product",
+      "tags": [],
       "week_key": "2026-W43",
       "content": {
-        "basic": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,79 +1,231 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "r/opensource just banned AI, non-English speakers, and more",
-    "date": "2026-10-25",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "date": "2026-10-27",
+    "source": "TechCrunch AI",
+    "hotScore": 70,
+    "category": "startup",
     "tags": [
-      "OpenSource"
+      "Agent"
     ],
-    "snippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or "
+    "snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "date": "2026-10-27",
+    "source": "TechCrunch AI",
+    "hotScore": 68.8,
+    "category": "research",
+    "tags": [],
+    "snippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has "
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google’s AI search changes upended online publishing",
-    "date": "2026-10-25",
+    "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+    "date": "2026-10-26",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 61.3,
+    "category": "industry",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic sai"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "date": "2026-10-26",
+    "source": "The Verge AI",
+    "hotScore": 60,
     "category": "industry",
     "tags": [],
-    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inbox"
+    "snippet": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate pow"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "date": "2026-10-25",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Will the real Anthropic please stand up",
+    "date": "2026-10-26",
+    "source": "MIT Technology Review",
+    "hotScore": 57.5,
+    "category": "product",
     "tags": [],
-    "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "date": "2026-10-25",
-    "source": "TechCrunch AI",
-    "hotScore": 48.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "date": "2026-10-24",
-    "source": "TechCrunch AI",
-    "hotScore": 48.3,
-    "category": "startup",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Pennsylvania will require labels on AI-generated ads",
-    "date": "2026-10-24",
+    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+    "date": "2026-10-26",
     "source": "The Verge AI",
-    "hotScore": 45.8,
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [],
+    "snippet": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Tim"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Can AI help solve the COBOL code crisis?",
+    "date": "2026-10-26",
+    "source": "The Verge AI",
+    "hotScore": 55,
     "category": "policy",
     "tags": [
       "Multimodal"
     ],
-    "snippet": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's"
+    "snippet": "A computer running COBOL 73, an antiquated computer programming language, awaits taxpayer information entries at the Internal Revenue Service in Austin, Tx., on Friday, June 10, 2022. | Image: Getty I"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "date": "2026-10-25",
+    "title": "Anthropic officially files for its public debut",
+    "date": "2026-10-26",
     "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
+    "hotScore": 55,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "date": "2026-10-26",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "policy",
     "tags": [],
-    "snippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    "snippet": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "date": "2026-10-26",
+    "source": "TechCrunch AI",
+    "hotScore": 53.8,
+    "category": "product",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "date": "2026-10-26",
+    "source": "TechCrunch AI",
+    "hotScore": 53.8,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Build a Hidden Lock With a Magnetic Imager",
+    "date": "2026-10-26",
+    "source": "IEEE Spectrum",
+    "hotScore": 53.8,
+    "category": "policy",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cr"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "date": "2026-10-26",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Five weird details from Anthropic’s IPO filing",
+    "date": "2026-10-26",
+    "source": "The Verge AI",
+    "hotScore": 52.5,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "date": "2026-10-26",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "date": "2026-10-26",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "date": "2026-10-26",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [],
+    "snippet": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The RealReal won’t let AI agents hog designer clothing",
+    "date": "2026-10-26",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after T"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Microsoft offers buyouts to 60,000 employees",
+    "date": "2026-10-26",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives sta"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "date": "2026-10-26",
+    "source": "MIT Technology Review",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday har"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "date": "2026-10-26",
+    "source": "Wired",
+    "hotScore": 45,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -101,24 +253,58 @@
     "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "date": "2026-10-24",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "startup",
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+    "date": "2026-10-26",
+    "source": "Wired",
+    "hotScore": 42.5,
+    "category": "tech",
     "tags": [],
-    "snippet": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t"
+    "snippet": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
     "date": "2026-10-24",
+    "source": "TechCrunch AI",
+    "hotScore": 42.3,
+    "category": "startup",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "r/opensource just banned AI, non-English speakers, and more",
+    "date": "2026-10-25",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "policy",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s AI search changes upended online publishing",
+    "date": "2026-10-25",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "industry",
+    "tags": [],
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inbox"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "date": "2026-10-25",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -131,39 +317,14 @@
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI now trains its frontier AI models with no internet access",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 39.8,
-    "category": "industry",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment "
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "date": "2026-10-22",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "date": "2026-10-25",
     "source": "TechCrunch AI",
-    "hotScore": 39.8,
-    "category": "startup",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "snippet": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Block’s new voice model sounds eerily human",
-    "date": "2026-10-24",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
+    "hotScore": 40.8,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Block said that the voice model can run locally on a MacBook M4 Max"
+    "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -179,29 +340,37 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "date": "2026-10-24",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "date": "2026-10-25",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Retro gaming is being overrun with AI",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "industry",
+    "category": "product",
     "tags": [],
-    "snippet": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont"
+    "snippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "date": "2026-10-24",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The moment you realize the internet is \"held together by glue and dreams.\""
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "date": "2026-10-24",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
     "date": "2026-10-23",
     "source": "TechCrunch AI",
     "hotScore": 36,
@@ -232,16 +401,6 @@
     "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [],
-    "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The latest AI news we announced in September 2026",
     "date": "2026-10-02",
@@ -250,16 +409,6 @@
     "category": "product",
     "tags": [],
     "snippet": "Here are Google’s latest AI updates from September 2026"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta delays new business terms after publisher pushback on AI scraping",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 34.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -274,26 +423,14 @@
     "snippet": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control,"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The iPhone Duo should have been an iPad",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 33.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about t"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Canva releases its first image generation model",
-    "date": "2026-10-22",
+    "title": "Block’s new voice model sounds eerily human",
+    "date": "2026-10-24",
     "source": "TechCrunch AI",
     "hotScore": 33.5,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+    "category": "startup",
+    "tags": [],
+    "snippet": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -329,34 +466,16 @@
     "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public saf"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Master AI Chip Principles With New IEEE Design Program",
-    "date": "2026-10-09",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "date": "2026-10-24",
+    "source": "TechCrunch AI",
     "hotScore": 31,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can oc"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "date": "2026-10-23",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Aut"
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -393,40 +512,6 @@
     "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Spotify’s current AI bet is about being the music service that agents choose",
-    "date": "2026-10-22",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "The Robot I Didn’t Expect to Build",
     "date": "2026-10-19",
@@ -459,27 +544,5 @@
       "Robotics"
     ],
     "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "date": "2026-09-28",
-    "source": "Google AI Blog",
-    "hotScore": 27.5,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
-    "date": "2026-10-19",
-    "source": "IEEE Spectrum",
-    "hotScore": 25,
-    "category": "product",
-    "tags": [],
-    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the ti"
   }
 ]
