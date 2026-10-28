@@ -1,21 +1,19 @@
 {
-  "lastUpdate": "2026-10-27",
-  "generatedAt": "2026-10-27T05:25:50.807Z",
+  "lastUpdate": "2026-10-28",
+  "generatedAt": "2026-10-28T06:06:30.758Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "date": "2026-10-27",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "date": "2026-10-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "hotScore": 70,
+      "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "hotScore": 62.5,
       "category": "startup",
-      "tags": [
-        "Agent"
-      ],
+      "tags": [],
       "content": {
-        "basic": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "basic": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -23,16 +21,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
       "date": "2026-10-27",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "hotScore": 68.8,
-      "category": "research",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "hotScore": 60,
+      "category": "policy",
+      "tags": [
+        "Multimodal",
+        "Safety"
+      ],
       "content": {
-        "basic": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+        "basic": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market. Sam Altman, the CEO of Anthropic's archrival, OpenAI, has cited investor pressures as one reason the company is not",
         "highlights": [],
         "scenarios": [],
         "industry": [],
