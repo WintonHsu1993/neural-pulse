@@ -4,23 +4,106 @@
     "to": "2026-11-03"
   },
   "weekKey": "2026-W44",
-  "lastUpdate": "2026-10-28",
-  "generatedAt": "2026-10-28T06:06:30.758Z",
-  "count": 1,
+  "lastUpdate": "2026-10-30",
+  "generatedAt": "2026-10-30T06:17:18.014Z",
+  "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "date": "2026-10-28",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "date": "2026-10-29",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "hotScore": 61.3,
+      "category": "research",
+      "tags": [],
+      "week_key": "2026-W44",
+      "content": {
+        "basic": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. That would immediately make it one of the most valuable companies on the planet. But the price tag really isn’t the whole story here. The S-1 document published earlier this week is hundreds upon hundreds of pages f",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "date": "2026-10-30",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "hotScore": 62.5,
+      "sourceUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "hotScore": 60,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W44",
       "content": {
-        "basic": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "basic": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 3,
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "date": "2026-10-29",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "hotScore": 57.5,
+      "category": "research",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W44",
+      "content": {
+        "basic": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "date": "2026-10-29",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "hotScore": 55,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W44",
+      "content": {
+        "basic": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "date": "2026-10-28",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "hotScore": 53.3,
+      "category": "research",
+      "tags": [
+        "GPT",
+        "Claude",
+        "Gemini",
+        "Agent"
+      ],
+      "week_key": "2026-W44",
+      "content": {
+        "basic": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program. The company sa",
         "highlights": [],
         "scenarios": [],
         "industry": [],
