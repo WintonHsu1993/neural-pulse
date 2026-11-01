@@ -4,42 +4,23 @@
     "to": "2026-11-03"
   },
   "weekKey": "2026-W44",
-  "lastUpdate": "2026-10-31",
-  "generatedAt": "2026-10-31T06:08:54.199Z",
+  "lastUpdate": "2026-11-01",
+  "generatedAt": "2026-11-01T06:39:06.767Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 1,
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "date": "2026-10-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "hotScore": 60,
-      "category": "policy",
-      "tags": [],
-      "week_key": "2026-W44",
-      "content": {
-        "basic": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger the open web. In an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on a set of lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. \"Wikimedia is concerned that the p",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "rank": 1,
+      "title": "OpenAI reportedly lowers funding target for new round",
       "date": "2026-10-31",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "hotScore": 60,
-      "category": "hardware",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "hotScore": 55,
+      "category": "startup",
       "tags": [],
       "week_key": "2026-W44",
       "content": {
-        "basic": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "basic": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -48,12 +29,12 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
+      "rank": 2,
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
       "date": "2026-10-30",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "hotScore": 58.8,
+      "hotScore": 50.8,
       "category": "policy",
       "tags": [
         "Robotics"
@@ -68,13 +49,32 @@
       }
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "I built an AI Tamagotchi before Meta could",
+      "date": "2026-10-31",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "hotScore": 50,
+      "category": "industry",
+      "tags": [],
+      "week_key": "2026-W44",
+      "content": {
+        "basic": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It cost just $50, and I've decided the learning experience was worth it. View Link My version doesn't sport cameras or a 5G cellular radio, but it really talks to Muse and has cute avatars, too! It doubles as a pocket watch and a remote camera viewfinder, and it can (theoretically) control my smart home. Or at least it can",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
       "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 4,
       "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
       "date": "2026-10-30",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "hotScore": 56.3,
+      "hotScore": 48.3,
       "category": "tech",
       "tags": [
         "Claude",
@@ -90,18 +90,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Silicon Valley wants you to invest in miracles",
-      "date": "2026-10-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "hotScore": 52.5,
-      "category": "industry",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "date": "2026-10-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "hotScore": 45,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W44",
       "content": {
-        "basic": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley's interactions with Wall Street. In some ways, it's not even that bizarre; SpaceX IPO'd ",
+        "basic": "Apple's new CEO defended the company's current position in the AI landscape.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

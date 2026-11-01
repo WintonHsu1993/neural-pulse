@@ -1,30 +1,20 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 60,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "title": "OpenAI reportedly lowers funding target for new round",
     "date": "2026-10-31",
     "source": "TechCrunch AI",
-    "hotScore": 60,
-    "category": "hardware",
+    "hotScore": 55,
+    "category": "startup",
     "tags": [],
-    "snippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+    "snippet": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "The biggest names in AI are backing a new way to opt out of scraping",
     "date": "2026-10-30",
     "source": "The Verge AI",
-    "hotScore": 58.8,
+    "hotScore": 50.8,
     "category": "policy",
     "tags": [
       "Robotics"
@@ -32,11 +22,21 @@
     "snippet": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "date": "2026-10-31",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a"
+  },
+  {
     "id": "aHR0cHM6Ly93d3cud2ly",
     "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
     "date": "2026-10-30",
     "source": "Wired",
-    "hotScore": 56.3,
+    "hotScore": 48.3,
     "category": "tech",
     "tags": [
       "Claude",
@@ -45,247 +45,34 @@
     "snippet": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Silicon Valley wants you to invest in miracles",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 52.5,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-    "date": "2026-10-30",
-    "source": "Wired",
-    "hotScore": 51.3,
-    "category": "policy",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 50,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "date": "2026-10-31",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
     "category": "product",
-    "tags": [
-      "OpenSource",
-      "Reasoning"
-    ],
-    "snippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "research",
     "tags": [],
-    "snippet": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no"
+    "snippet": "Apple's new CEO defended the company's current position in the AI landscape."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "date": "2026-10-30",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "date": "2026-10-31",
     "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Cracks are emerging in the AI spending boom",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "date": "2026-10-29",
-    "source": "MIT Technology Review",
-    "hotScore": 49.5,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 48.8,
+    "hotScore": 45,
     "category": "policy",
     "tags": [],
-    "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
+    "snippet": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-    "date": "2026-10-30",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "date": "2026-10-31",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s first data center satellite is online and writing poetry",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "hotScore": 47.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "date": "2026-10-29",
-    "source": "TechCrunch AI",
-    "hotScore": 47,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
     "hotScore": 45,
     "category": "hardware",
     "tags": [],
-    "snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Maine’s data center revolt will decide who controls the Senate",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "DoorDash said that it is open to working with third-party agent makers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+    "snippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -298,34 +85,48 @@
     "snippet": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced conte"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Consumer Appetite for Personal AI Goes Mainstream",
-    "date": "2026-10-29",
-    "source": "IEEE Spectrum",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Silicon Valley wants you to invest in miracles",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
     "hotScore": 44.5,
-    "category": "hardware",
+    "category": "industry",
     "tags": [],
-    "snippet": "This article is brought to you by Qualcomm Technologies. For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these techn"
+    "snippet": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "date": "2026-10-29",
+    "source": "MIT Technology Review",
+    "hotScore": 43.5,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+    "date": "2026-10-30",
+    "source": "Wired",
+    "hotScore": 43.3,
+    "category": "policy",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-    "date": "2026-10-30",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-    "date": "2026-10-30",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "date": "2026-10-31",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now."
+    "snippet": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -338,26 +139,79 @@
     "snippet": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and tech"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "product",
+    "tags": [
+      "OpenSource",
+      "Reasoning"
+    ],
+    "snippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
+    "hotScore": 42,
+    "category": "research",
+    "tags": [],
+    "snippet": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Rivian expands joint venture with VW to include AI assistant",
-    "date": "2026-10-29",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "date": "2026-10-30",
     "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+    "snippet": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "date": "2026-10-29",
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "date": "2026-10-30",
     "source": "TechCrunch AI",
     "hotScore": 42,
-    "category": "product",
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
     "tags": [
-      "Multimodal"
+      "Agent"
     ],
-    "snippet": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca"
+    "snippet": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Cracks are emerging in the AI spending boom",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -370,6 +224,16 @@
     "snippet": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
+    "hotScore": 40.8,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Build a Hidden Lock With a Magnetic Imager",
     "date": "2026-10-26",
@@ -380,6 +244,36 @@
       "Multimodal"
     ],
     "snippet": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cr"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "date": "2026-10-30",
+    "source": "Ars Technica",
+    "hotScore": 39.5,
+    "category": "tech",
+    "tags": [],
+    "snippet": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -406,34 +300,98 @@
     "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Consumer Appetite for Personal AI Goes Mainstream",
     "date": "2026-10-29",
+    "source": "IEEE Spectrum",
+    "hotScore": 38.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "This article is brought to you by Qualcomm Technologies. For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these techn"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Maine’s data center revolt will decide who controls the Senate",
+    "date": "2026-10-30",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "date": "2026-10-30",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+    "snippet": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "date": "2026-10-29",
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "DoorDash said that it is open to working with third-party agent makers."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "date": "2026-10-30",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+    "snippet": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Granola crunches up a dictation feature to compete with Wispr",
-    "date": "2026-10-29",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "date": "2026-10-30",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "product",
+    "category": "startup",
     "tags": [],
-    "snippet": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
+    "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
@@ -464,6 +422,26 @@
     "category": "product",
     "tags": [],
     "snippet": "Here are Google’s latest AI updates from September 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "date": "2026-10-30",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -499,6 +477,26 @@
       "Safety"
     ],
     "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public saf"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "date": "2026-10-29",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "date": "2026-10-29",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",

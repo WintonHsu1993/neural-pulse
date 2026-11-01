@@ -1,13 +1,13 @@
 {
   "totalArticles": 66,
-  "lastUpdate": "2026-10-31",
+  "lastUpdate": "2026-11-01",
   "categories": [
     {
-      "category": "startup",
+      "category": "research",
       "count": 15
     },
     {
-      "category": "research",
+      "category": "startup",
       "count": 13
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       "category": "product",
-      "count": 6
+      "count": 5
     },
     {
       "category": "hardware",
@@ -24,7 +24,7 @@
     },
     {
       "category": "industry",
-      "count": 3
+      "count": 4
     },
     {
       "category": "tech",
@@ -34,14 +34,14 @@
   "sources": [
     {
       "source": "TechCrunch AI",
-      "count": 20
-    },
-    {
-      "source": "The Verge AI",
-      "count": 10
+      "count": 18
     },
     {
       "source": "Google AI Blog",
+      "count": 12
+    },
+    {
+      "source": "The Verge AI",
       "count": 10
     },
     {
