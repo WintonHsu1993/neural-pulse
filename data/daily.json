@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-11-01",
-  "generatedAt": "2026-11-01T06:39:06.767Z",
+  "lastUpdate": "2026-11-03",
+  "generatedAt": "2026-11-03T07:07:59.573Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "date": "2026-10-31",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "hotScore": 55,
-      "category": "startup",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "date": "2026-11-03",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "hotScore": 66.3,
+      "category": "hardware",
       "tags": [],
       "content": {
-        "basic": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,17 +22,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "date": "2026-10-30",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "date": "2026-11-02",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "hotScore": 50.8,
-      "category": "policy",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "hotScore": 61.3,
+      "category": "hardware",
       "tags": [
-        "Robotics"
+        "Claude"
       ],
       "content": {
-        "basic": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file, which has long signaled which web crawlers can and can't scrape a s",
+        "basic": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: \"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a",
         "highlights": [],
         "scenarios": [],
         "industry": [],
