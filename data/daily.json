@@ -1,19 +1,22 @@
 {
-  "lastUpdate": "2026-11-03",
-  "generatedAt": "2026-11-03T07:07:59.573Z",
+  "lastUpdate": "2026-11-04",
+  "generatedAt": "2026-11-04T06:53:50.258Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
       "date": "2026-11-03",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "hotScore": 66.3,
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "hotScore": 63.8,
       "category": "hardware",
-      "tags": [],
+      "tags": [
+        "GPT",
+        "Claude"
+      ],
       "content": {
-        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+        "basic": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,17 +25,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "date": "2026-11-02",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "date": "2026-11-03",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
       "hotScore": 61.3,
-      "category": "hardware",
+      "category": "product",
       "tags": [
-        "Claude"
+        "GPT"
       ],
       "content": {
-        "basic": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: \"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a",
+        "basic": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.) Having one-fifth as many searches as G",
         "highlights": [],
         "scenarios": [],
         "industry": [],

@@ -1,106 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-10-28",
-    "to": "2026-11-03"
+    "from": "2026-11-04",
+    "to": "2026-11-10"
   },
-  "weekKey": "2026-W44",
-  "lastUpdate": "2026-11-03",
-  "generatedAt": "2026-11-03T07:07:59.573Z",
-  "count": 5,
+  "weekKey": "2026-W45",
+  "lastUpdate": "2026-11-04",
+  "generatedAt": "2026-11-04T06:53:50.258Z",
+  "count": 1,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
-      "rank": 1,
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "date": "2026-11-03",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "hotScore": 66.3,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W44",
-      "content": {
-        "basic": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "date": "2026-11-02",
+      "rank": 1,
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "date": "2026-11-04",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "hotScore": 61.3,
-      "category": "hardware",
-      "tags": [
-        "Claude"
-      ],
-      "week_key": "2026-W44",
-      "content": {
-        "basic": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: \"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "date": "2026-11-02",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "hotScore": 61.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W44",
-      "content": {
-        "basic": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "date": "2026-11-03",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "sourceUrl": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
       "hotScore": 60,
-      "category": "startup",
+      "category": "industry",
       "tags": [],
-      "week_key": "2026-W44",
+      "week_key": "2026-W45",
       "content": {
-        "basic": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "date": "2026-11-03",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "hotScore": 60,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W44",
-      "content": {
-        "basic": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "basic": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent concerns we've heard is that it's not clearly disclosed when AI has been used to create a mod,\" according to the post from site owner Victor \"Foledinho\" Folmann. \"We already have tags for AI-generated and AI-assisted mods, but we recognise that there's a lot more we can do to make that",
         "highlights": [],
         "scenarios": [],
         "industry": [],

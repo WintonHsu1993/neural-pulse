@@ -1,76 +1,146 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "Here’s Why You Shouldn’t Use AI to Vote",
+    "date": "2026-11-03",
+    "source": "Wired",
+    "hotScore": 63.8,
+    "category": "hardware",
+    "tags": [
+      "GPT",
+      "Claude"
+    ],
+    "snippet": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "OpenAI says ChatGPT is catching up to Google in search",
+    "date": "2026-11-03",
+    "source": "The Verge AI",
+    "hotScore": 61.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "date": "2026-11-04",
+    "source": "The Verge AI",
+    "hotScore": 60,
+    "category": "industry",
+    "tags": [],
+    "snippet": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [
+      "Safety",
+      "Agent"
+    ],
+    "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
     "date": "2026-11-03",
     "source": "MIT Technology Review",
-    "hotScore": 66.3,
+    "hotScore": 51.3,
     "category": "hardware",
     "tags": [],
     "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic clamps down on Claude’s AI video game clones",
-    "date": "2026-11-02",
+    "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+    "date": "2026-11-03",
     "source": "The Verge AI",
-    "hotScore": 61.3,
-    "category": "hardware",
+    "hotScore": 51.3,
+    "category": "product",
     "tags": [
-      "Claude"
+      "Gemini"
     ],
-    "snippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with "
+    "snippet": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on T"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 61.3,
-    "category": "startup",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "date": "2026-11-03",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
     "tags": [
-      "GPT"
+      "Multimodal"
     ],
-    "snippet": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+    "snippet": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg "
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Those Jeff Bezos hair transplant photos are very fake",
     "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 60,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in c"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple starts giving Siri AI access to third-party apps",
     "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 60,
+    "source": "The Verge AI",
+    "hotScore": 50,
     "category": "product",
     "tags": [],
-    "snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+    "snippet": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Midterm elections 2026: all the news",
+    "date": "2026-11-03",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. Whi"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
     "date": "2026-11-03",
     "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 50,
     "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter "
+    "tags": [],
+    "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Raising the quality of insights in agentic analytics",
     "date": "2026-11-02",
     "source": "MIT Technology Review",
-    "hotScore": 57.5,
+    "hotScore": 49.5,
     "category": "research",
     "tags": [
       "Agent"
@@ -78,11 +148,23 @@
     "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new "
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The latest AI news we announced in October 2026",
     "date": "2026-11-02",
     "source": "Google AI Blog",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "product",
     "tags": [],
     "snippet": "Here are Google’s latest AI updates from October 2026"
@@ -92,29 +174,121 @@
     "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
     "date": "2026-11-02",
     "source": "TechCrunch AI",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "startup",
     "tags": [],
     "snippet": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "hotScore": 51.3,
-    "category": "tech",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+    "date": "2026-11-03",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surface"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
     "tags": [
-      "Claude"
+      "Reasoning"
     ],
-    "snippet": "The tsunami of imitators is way bigger than any one model maker can stem."
+    "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter "
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Guarding the Gates of Knowledge",
     "date": "2026-11-01",
     "source": "IEEE Spectrum",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "product",
     "tags": [
       "GPT"
@@ -122,21 +296,83 @@
     "snippet": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
     "date": "2026-11-02",
+    "source": "Ars Technica",
+    "hotScore": 43.3,
+    "category": "tech",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "The tsunami of imitators is way bigger than any one model maker can stem."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "date": "2026-11-03",
     "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "industry",
+    "hotScore": 42.5,
+    "category": "hardware",
     "tags": [],
-    "snippet": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts "
+    "snippet": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Reca"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Indie games are missing launch dates because Steam is backed up",
+    "date": "2026-11-03",
+    "source": "The Verge AI",
+    "hotScore": 42.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "A screenshot from Food Devils, which is missing its planned launch today. Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game sub"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
     "date": "2026-11-02",
     "source": "TechCrunch AI",
-    "hotScore": 48.8,
+    "hotScore": 40.8,
     "category": "startup",
     "tags": [],
     "snippet": "The one-year-old startup is now valued at $300 million."
@@ -146,7 +382,7 @@
     "title": "Web host Squarespace lays off 19% of its employees",
     "date": "2026-11-02",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
+    "hotScore": 39.5,
     "category": "startup",
     "tags": [],
     "snippet": "The website builder said that the job losses are part of a broader restructuring of its organization."
@@ -156,124 +392,10 @@
     "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
     "date": "2026-11-02",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
+    "hotScore": 39.5,
     "category": "policy",
     "tags": [],
     "snippet": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-    "date": "2026-11-02",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The biggest names in AI are backing a new way to opt out of scraping",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 44.8,
-    "category": "policy",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "date": "2026-10-29",
-    "source": "MIT Technology Review",
-    "hotScore": 43.5,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-    "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Systems Thinking Is Vital in the Age of AI",
-    "date": "2026-10-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 42.3,
-    "category": "research",
-    "tags": [],
-    "snippet": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and tech"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "date": "2026-11-01",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Data centers are deeply unpopular. But what if we called them something else?"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Data centers are now a midterm issue, even in Brooklyn",
-    "date": "2026-11-01",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "date": "2026-10-31",
-    "source": "TechCrunch AI",
-    "hotScore": 41,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -321,46 +443,23 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "date": "2026-11-01",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "date": "2026-11-02",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    "snippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "I built an AI Tamagotchi before Meta could",
-    "date": "2026-10-31",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "industry",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Systems Thinking Is Vital in the Age of AI",
+    "date": "2026-10-28",
+    "source": "IEEE Spectrum",
+    "hotScore": 36.3,
+    "category": "research",
     "tags": [],
-    "snippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "product",
-    "tags": [
-      "OpenSource",
-      "Reasoning"
-    ],
-    "snippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea"
+    "snippet": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and tech"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -383,16 +482,6 @@
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 34.8,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Build a Hidden Lock With a Magnetic Imager",
     "date": "2026-10-26",
@@ -403,28 +492,6 @@
       "Multimodal"
     ],
     "snippet": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cr"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
-    "date": "2026-10-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control,"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "hotScore": 33.5,
-    "category": "tech",
-    "tags": [],
-    "snippet": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -450,56 +517,6 @@
     "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public saf"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-    "date": "2026-10-30",
-    "source": "The Verge AI",
-    "hotScore": 31,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "date": "2026-10-31",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple's new CEO defended the company's current position in the AI landscape."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "date": "2026-10-31",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "policy",
-    "tags": [],
-    "snippet": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "date": "2026-10-31",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "The Robot I Didn’t Expect to Build",
     "date": "2026-10-19",
@@ -510,16 +527,6 @@
       "Robotics"
     ],
     "snippet": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economi"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "date": "2026-10-31",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
