@@ -1,287 +1,234 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Here’s Why You Shouldn’t Use AI to Vote",
-    "date": "2026-11-03",
-    "source": "Wired",
-    "hotScore": 63.8,
-    "category": "hardware",
-    "tags": [
-      "GPT",
-      "Claude"
-    ],
-    "snippet": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI says ChatGPT is catching up to Google in search",
-    "date": "2026-11-03",
+    "title": "ChatGPT will now make you animated GIFs",
+    "date": "2026-11-04",
     "source": "The Verge AI",
     "hotScore": 61.3,
     "category": "product",
     "tags": [
-      "GPT"
+      "GPT",
+      "Multimodal"
     ],
-    "snippet": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The biggest modding site in PC gaming is taking a stance on AI",
-    "date": "2026-11-04",
-    "source": "The Verge AI",
-    "hotScore": 60,
-    "category": "industry",
-    "tags": [],
-    "snippet": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "date": "2026-11-03",
-    "source": "MIT Technology Review",
-    "hotScore": 52.5,
-    "category": "research",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers "
+    "snippet": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation spe"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic is still grappling with the economics of compute",
-    "date": "2026-11-03",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "date": "2026-11-05",
     "source": "TechCrunch AI",
-    "hotScore": 52.5,
+    "hotScore": 60,
     "category": "product",
     "tags": [],
-    "snippet": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+    "snippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "date": "2026-11-03",
-    "source": "MIT Technology Review",
-    "hotScore": 51.3,
-    "category": "hardware",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "date": "2026-11-05",
+    "source": "TechCrunch AI",
+    "hotScore": 57.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o"
+    "snippet": "Data center opposition crossed party lines in Tuesday’s midterms."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 55,
+    "category": "startup",
+    "tags": [],
+    "snippet": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-    "date": "2026-11-03",
+    "title": "Data centers lost the midterms",
+    "date": "2026-11-04",
     "source": "The Verge AI",
-    "hotScore": 51.3,
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+    "date": "2026-11-04",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
+    "date": "2026-11-04",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "product",
+    "tags": [],
+    "snippet": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the w"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta acquires AI coding startup Conductor",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+    "date": "2026-11-04",
+    "source": "The Verge AI",
+    "hotScore": 48.8,
     "category": "product",
     "tags": [
       "Gemini"
     ],
-    "snippet": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on T"
+    "snippet": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Please stop asking me when the AI bubble will pop",
-    "date": "2026-11-03",
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "date": "2026-11-04",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 47.5,
     "category": "industry",
     "tags": [
       "Multimodal"
     ],
-    "snippet": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg "
+    "snippet": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Those Jeff Bezos hair transplant photos are very fake",
-    "date": "2026-11-03",
+    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "date": "2026-11-04",
     "source": "The Verge AI",
-    "hotScore": 50,
+    "hotScore": 45,
+    "category": "industry",
+    "tags": [],
+    "snippet": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "date": "2026-11-04",
+    "source": "The Verge AI",
+    "hotScore": 45,
     "category": "product",
     "tags": [
       "Multimodal"
     ],
-    "snippet": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in c"
+    "snippet": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI oper"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple starts giving Siri AI access to third-party apps",
-    "date": "2026-11-03",
+    "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+    "date": "2026-11-04",
     "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all a"
+    "hotScore": 45,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last we"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Midterm elections 2026: all the news",
-    "date": "2026-11-03",
-    "source": "The Verge AI",
-    "hotScore": 50,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
     "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. Whi"
+    "tags": [],
+    "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Raising the quality of insights in agentic analytics",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "hotScore": 49.5,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-    "date": "2026-11-03",
-    "source": "MIT Technology Review",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new "
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "The latest AI news we announced in October 2026",
-    "date": "2026-11-02",
-    "source": "Google AI Blog",
-    "hotScore": 47,
-    "category": "product",
-    "tags": [],
-    "snippet": "Here are Google’s latest AI updates from October 2026"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 45.8,
-    "category": "startup",
-    "tags": [],
-    "snippet": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-    "date": "2026-11-03",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surface"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "date": "2026-11-03",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "date": "2026-11-04",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+    "snippet": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "date": "2026-11-03",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "date": "2026-11-04",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [
       "Agent"
     ],
-    "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter "
+    "snippet": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "date": "2026-11-04",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -296,106 +243,101 @@
     "snippet": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of "
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "hotScore": 43.3,
-    "category": "tech",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "hotScore": 44.5,
+    "category": "research",
     "tags": [
-      "Claude"
+      "Safety",
+      "Agent"
     ],
-    "snippet": "The tsunami of imitators is way bigger than any one model maker can stem."
+    "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic is still grappling with the economics of compute",
     "date": "2026-11-03",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Reca"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Indie games are missing launch dates because Steam is backed up",
-    "date": "2026-11-03",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
+    "source": "TechCrunch AI",
+    "hotScore": 44.5,
     "category": "product",
     "tags": [],
-    "snippet": "A screenshot from Food Devils, which is missing its planned launch today. Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game sub"
+    "snippet": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-    "date": "2026-11-03",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Raising the quality of insights in agentic analytics",
     "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 40.8,
-    "category": "startup",
+    "source": "MIT Technology Review",
+    "hotScore": 43.5,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "hotScore": 43.3,
+    "category": "hardware",
     "tags": [],
-    "snippet": "The one-year-old startup is now valued at $300 million."
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "date": "2026-11-04",
+    "source": "The Verge AI",
+    "hotScore": 42.5,
+    "category": "industry",
+    "tags": [],
+    "snippet": "Also, can I just say this LED indicator light is way too small and unnoticeable? This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the la"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Web host Squarespace lays off 19% of its employees",
-    "date": "2026-11-02",
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "date": "2026-11-04",
     "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 42,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "The latest AI news we announced in October 2026",
+    "date": "2026-11-02",
+    "source": "Google AI Blog",
+    "hotScore": 41,
+    "category": "product",
+    "tags": [],
+    "snippet": "Here are Google’s latest AI updates from October 2026"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
     "hotScore": 39.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The website builder said that the job losses are part of a broader restructuring of its organization."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "date": "2026-11-02",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe"
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -432,24 +374,36 @@
     "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Consumer Appetite for Personal AI Goes Mainstream",
-    "date": "2026-10-29",
-    "source": "IEEE Spectrum",
-    "hotScore": 38.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "This article is brought to you by Qualcomm Technologies. For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these techn"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "date": "2026-11-02",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "date": "2026-11-03",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+    "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "product",
+    "tags": [],
+    "snippet": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -482,6 +436,26 @@
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "date": "2026-11-03",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Build a Hidden Lock With a Magnetic Imager",
     "date": "2026-10-26",
@@ -502,6 +476,16 @@
     "category": "research",
     "tags": [],
     "snippet": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Consumer Appetite for Personal AI Goes Mainstream",
+    "date": "2026-10-29",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "This article is brought to you by Qualcomm Technologies. For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these techn"
   },
   {
     "id": "aHR0cHM6Ly9jb250ZW50",
@@ -537,5 +521,15 @@
     "category": "policy",
     "tags": [],
     "snippet": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
+    "date": "2026-10-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 25,
+    "category": "product",
+    "tags": [],
+    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the ti"
   }
 ]

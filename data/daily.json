@@ -1,22 +1,22 @@
 {
-  "lastUpdate": "2026-11-04",
-  "generatedAt": "2026-11-04T06:53:50.258Z",
+  "lastUpdate": "2026-11-05",
+  "generatedAt": "2026-11-05T07:12:18.815Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cud2ly",
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "date": "2026-11-03",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-      "hotScore": 63.8,
-      "category": "hardware",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "ChatGPT will now make you animated GIFs",
+      "date": "2026-11-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "hotScore": 61.3,
+      "category": "product",
       "tags": [
         "GPT",
-        "Claude"
+        "Multimodal"
       ],
       "content": {
-        "basic": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+        "basic": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, \"can you make a gif of a cat dancing?\" while also providing you with the option to change the playback speed and view it frame by frame. Along with support for GIF-making,",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,18 +24,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "date": "2026-11-03",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "hotScore": 61.3,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "date": "2026-11-05",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "hotScore": 60,
       "category": "product",
-      "tags": [
-        "GPT"
-      ],
+      "tags": [],
       "content": {
-        "basic": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.) Having one-fifth as many searches as G",
+        "basic": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
