@@ -1,22 +1,19 @@
 {
-  "lastUpdate": "2026-11-05",
-  "generatedAt": "2026-11-05T07:12:18.815Z",
+  "lastUpdate": "2026-11-06",
+  "generatedAt": "2026-11-06T07:13:18.865Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "ChatGPT will now make you animated GIFs",
-      "date": "2026-11-04",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "date": "2026-11-06",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "hotScore": 61.3,
-      "category": "product",
-      "tags": [
-        "GPT",
-        "Multimodal"
-      ],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "hotScore": 70,
+      "category": "industry",
+      "tags": [],
       "content": {
-        "basic": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, \"can you make a gif of a cat dancing?\" while also providing you with the option to change the playback speed and view it frame by frame. Along with support for GIF-making,",
+        "basic": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" I",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,16 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "date": "2026-11-05",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "hotScore": 60,
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Airbnb is working on an AI travel agent",
+      "date": "2026-11-06",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "hotScore": 65,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "Agent"
+      ],
       "content": {
-        "basic": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "basic": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new interface\" built \"specifically for travel\" gives it an edge. Here's how Airbnb says that new interface w",
         "highlights": [],
         "scenarios": [],
         "industry": [],
