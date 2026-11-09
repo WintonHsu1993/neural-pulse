@@ -4,23 +4,23 @@
     "to": "2026-11-10"
   },
   "weekKey": "2026-W45",
-  "lastUpdate": "2026-11-06",
-  "generatedAt": "2026-11-06T07:13:18.865Z",
+  "lastUpdate": "2026-11-09",
+  "generatedAt": "2026-11-09T07:01:43.365Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "date": "2026-11-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "hotScore": 70,
-      "category": "industry",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "date": "2026-11-09",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "hotScore": 57.5,
+      "category": "hardware",
       "tags": [],
       "week_key": "2026-W45",
       "content": {
-        "basic": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" I",
+        "basic": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,18 +30,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "Airbnb is working on an AI travel agent",
-      "date": "2026-11-06",
+      "title": "Apple is racing to make Siri more agentic",
+      "date": "2026-11-08",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "hotScore": 65,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "hotScore": 55,
       "category": "product",
       "tags": [
+        "Multimodal",
         "Agent"
       ],
       "week_key": "2026-W45",
       "content": {
-        "basic": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new interface\" built \"specifically for travel\" gives it an edge. Here's how Airbnb says that new interface w",
+        "basic": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its rivals. Two significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple's first-party apps, allowing it to do things like rotate and crop images in Photos and organize",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -51,18 +52,20 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 3,
-      "title": "Claude AI can plug directly into your bank account",
-      "date": "2026-11-05",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "date": "2026-11-08",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "hotScore": 61.3,
-      "category": "policy",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "hotScore": 50,
+      "category": "hardware",
       "tags": [
-        "Claude"
+        "Multimodal",
+        "Agent",
+        "Robotics"
       ],
       "week_key": "2026-W45",
       "content": {
-        "basic": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month.",
+        "basic": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown foundational AI model for robots. Photographer: Kiyoshi Ota/Bloomberg via Getty Images | Bloomberg via Getty Images On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directo",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -72,18 +75,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Perplexity launches its own take on AI agents for work",
-      "date": "2026-11-05",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "date": "2026-11-08",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "hotScore": 60,
-      "category": "startup",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "hotScore": 50,
+      "category": "policy",
       "tags": [
-        "Agent"
+        "Multimodal"
       ],
       "week_key": "2026-W45",
       "content": {
-        "basic": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing, large-scale work.\" You can assign each Teammate different jobs that they can perform simultaneously -",
+        "basic": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's Ensuring Likeness Voice and Image Security (ELVIS) Act, which makes it illegal for an AI company to clone a singer's voice. In the suit, lawyers representing Presley's rights holders argue that \"Suno has mechanically encoded itself with artists' identities, hard-work, c",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -91,20 +94,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "date": "2026-11-06",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "hotScore": 60,
-      "category": "startup",
-      "tags": [
-        "Agent"
-      ],
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "date": "2026-11-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "hotScore": 42.5,
+      "category": "hardware",
+      "tags": [],
       "week_key": "2026-W45",
       "content": {
-        "basic": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "basic": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside independent counsel, will oversee the investigation. The Board prioritizes U.S. natio",
         "highlights": [],
         "scenarios": [],
         "industry": [],
