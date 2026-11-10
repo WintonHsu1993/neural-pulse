@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-11-09",
-  "generatedAt": "2026-11-09T07:01:43.365Z",
+  "lastUpdate": "2026-11-10",
+  "generatedAt": "2026-11-10T07:38:50.816Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "date": "2026-11-09",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "date": "2026-11-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "hotScore": 57.5,
-      "category": "hardware",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "hotScore": 70,
+      "category": "startup",
       "tags": [],
       "content": {
-        "basic": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+        "basic": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,19 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Apple is racing to make Siri more agentic",
-      "date": "2026-11-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "hotScore": 55,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "date": "2026-11-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "hotScore": 65,
       "category": "product",
-      "tags": [
-        "Multimodal",
-        "Agent"
-      ],
+      "tags": [],
       "content": {
-        "basic": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its rivals. Two significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple's first-party apps, allowing it to do things like rotate and crop images in Photos and organize",
+        "basic": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
