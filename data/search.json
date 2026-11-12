@@ -1,65 +1,372 @@
 [
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "date": "2026-11-10",
-    "source": "TechCrunch AI",
-    "hotScore": 70,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "date": "2026-11-10",
-    "source": "TechCrunch AI",
-    "hotScore": 65,
-    "category": "product",
-    "tags": [],
-    "snippet": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "date": "2026-11-11",
+    "source": "Google AI Blog",
+    "hotScore": 63.8,
+    "category": "research",
+    "tags": [
+      "Gemini",
+      "Multimodal"
+    ],
+    "snippet": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "date": "2026-11-09",
+    "title": "Anthropic has its own AI-powered office suite now",
+    "date": "2026-11-10",
     "source": "The Verge AI",
-    "hotScore": 63.8,
+    "hotScore": 58.3,
+    "category": "industry",
+    "tags": [
+      "Claude"
+    ],
+    "snippet": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to co"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "date": "2026-11-12",
+    "source": "TechCrunch AI",
+    "hotScore": 57.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "date": "2026-11-11",
+    "source": "Google AI Blog",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "date": "2026-11-10",
+    "source": "Google AI Blog",
+    "hotScore": 50.8,
+    "category": "hardware",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "date": "2026-11-10",
+    "source": "Google AI Blog",
+    "hotScore": 50.8,
     "category": "product",
     "tags": [
-      "Claude",
-      "Multimodal",
-      "Reasoning",
+      "Gemini"
+    ],
+    "snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "United won’t let your AI agent book your flight",
+    "date": "2026-11-11",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [
       "Agent"
     ],
-    "snippet": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show impr"
+    "snippet": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "date": "2026-11-11",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why the data center you dread might never even be built",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Google DeepMind just mathematically verified key parts of Signal",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "tech",
+    "tags": [],
+    "snippet": "The four-week project hints that AI could make formal verification far more practical."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "date": "2026-11-10",
+    "source": "The Verge AI",
+    "hotScore": 48.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onli"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "date": "2026-11-10",
+    "source": "Google AI Blog",
+    "hotScore": 48.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "date": "2026-11-11",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta is losing its longtime head of  infrastructure",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "date": "2026-11-11",
+    "source": "Google AI Blog",
+    "hotScore": 47.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
   },
   {
     "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-    "date": "2026-11-10",
+    "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "date": "2026-11-11",
     "source": "Wired",
-    "hotScore": 62.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”"
+    "hotScore": 47.5,
+    "category": "tech",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "title": "The indie game community is in disarray over AI and Big Walk",
     "date": "2026-11-10",
     "source": "The Verge AI",
-    "hotScore": 60,
-    "category": "product",
+    "hotScore": 47,
+    "category": "industry",
     "tags": [],
-    "snippet": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company"
+    "snippet": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big W"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "date": "2026-11-10",
+    "source": "TechCrunch AI",
+    "hotScore": 47,
+    "category": "policy",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "date": "2026-11-11",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google Google has cooked up a new experimental AI tool called Tabletop that genera"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "date": "2026-11-11",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe Some of the most impressive tech that Adobe showcases at its annual Max conference each year i"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "date": "2026-11-11",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Innovating with AI in the special chemicals industry",
     "date": "2026-11-09",
     "source": "MIT Technology Review",
-    "hotScore": 56.3,
+    "hotScore": 42.3,
     "category": "research",
     "tags": [],
     "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper"
@@ -69,271 +376,52 @@
     "title": "The climate case for AI has not been made",
     "date": "2026-11-09",
     "source": "MIT Technology Review",
-    "hotScore": 56.3,
+    "hotScore": 42.3,
     "category": "hardware",
     "tags": [],
     "snippet": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on coun"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Disney and Adobe are building generative AI tools together",
-    "date": "2026-11-09",
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "date": "2026-11-10",
     "source": "The Verge AI",
-    "hotScore": 55,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Who wants a hand-designed and creatively curated monorail anyway. | Image: Disney / Adobe The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to s"
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "date": "2026-11-09",
-    "source": "Ars Technica",
-    "hotScore": 53.8,
-    "category": "tech",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 52.5,
-    "category": "product",
-    "tags": [
-      "Multimodal",
-      "Reasoning"
-    ],
-    "snippet": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-    "date": "2026-11-09",
-    "source": "IEEE Spectrum",
-    "hotScore": 52.5,
+    "hotScore": 42,
     "category": "product",
     "tags": [
       "Agent"
     ],
-    "snippet": "This article is brought to you by Queen’s University Belfast. Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "What could China get from Jensen Huang?",
-    "date": "2026-11-09",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "date": "2026-11-09",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time p"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-    "date": "2026-11-09",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents wh"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-    "date": "2026-11-09",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Inciden"
+    "snippet": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "date": "2026-11-09",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "date": "2026-11-10",
     "source": "TechCrunch AI",
-    "hotScore": 50,
+    "hotScore": 42,
     "category": "startup",
     "tags": [],
-    "snippet": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
-  },
-  {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "A Sam Altman parody offers an amusing lesson in memory management",
-    "date": "2026-11-09",
-    "source": "Ars Technica",
-    "hotScore": 50,
-    "category": "tech",
-    "tags": [],
-    "snippet": "We verified the RAM numbers are real without sending any emails to OpenAI."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-    "date": "2026-11-09",
-    "source": "The Verge AI",
-    "hotScore": 48.8,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporti"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Here’s what Trump said he knew about Jensen Huang",
-    "date": "2026-11-09",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Jensen Huang and President Trump. | Getty Images President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's aff"
+    "snippet": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The race is on to sue Nvidia",
-    "date": "2026-11-09",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "date": "2026-11-10",
     "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insiste"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-    "date": "2026-11-09",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it'"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
+    "hotScore": 42,
     "category": "product",
     "tags": [],
-    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+    "snippet": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-    "date": "2026-11-09",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "date": "2026-11-10",
     "source": "TechCrunch AI",
-    "hotScore": 42.5,
+    "hotScore": 39.5,
     "category": "startup",
     "tags": [],
-    "snippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Automattic aims to compete with the likes of Lovable with Spacefast."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-    "date": "2026-11-09",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "date": "2026-11-05",
-    "source": "Google AI Blog",
-    "hotScore": 39.8,
-    "category": "research",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
-    "date": "2026-11-05",
-    "source": "IEEE Spectrum",
-    "hotScore": 39.8,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes"
+    "snippet": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -371,15 +459,35 @@
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Why AI Can’t Replace Engineering Teams",
-    "date": "2026-10-22",
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "date": "2026-11-09",
     "source": "IEEE Spectrum",
-    "hotScore": 38.8,
+    "hotScore": 38.5,
     "category": "product",
     "tags": [
-      "GPT"
+      "Agent"
     ],
-    "snippet": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development compa"
+    "snippet": "This article is brought to you by Queen’s University Belfast. Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "date": "2026-11-10",
+    "source": "The Verge AI",
+    "hotScore": 37,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "date": "2026-11-10",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -390,26 +498,6 @@
     "category": "research",
     "tags": [],
     "snippet": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and tech"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "date": "2026-11-07",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The deal highlights the challenges of developing massive AI data centers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "date": "2026-11-06",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -442,77 +530,15 @@
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "date": "2026-11-08",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "In a memo to the company, Huang admitted that he had an affair."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Build a Hidden Lock With a Magnetic Imager",
-    "date": "2026-10-26",
-    "source": "IEEE Spectrum",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "date": "2026-11-05",
+    "source": "Google AI Blog",
     "hotScore": 33.8,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cr"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Consumer Appetite for Personal AI Goes Mainstream",
-    "date": "2026-10-29",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "This article is brought to you by Qualcomm Technologies. For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these techn"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "date": "2026-11-06",
-    "source": "TechCrunch AI",
-    "hotScore": 31,
     "category": "research",
-    "tags": [],
-    "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "date": "2026-11-07",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "On Equity, we unpacked what the midterms mean for the tech industry."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "date": "2026-11-07",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-    "date": "2026-11-07",
-    "source": "TechCrunch AI",
-    "hotScore": 28.5,
-    "category": "startup",
     "tags": [
-      "Multimodal"
+      "Gemini"
     ],
-    "snippet": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st"
+    "snippet": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
   }
 ]
