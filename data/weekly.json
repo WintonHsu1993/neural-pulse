@@ -4,18 +4,61 @@
     "to": "2026-11-17"
   },
   "weekKey": "2026-W46",
-  "lastUpdate": "2026-11-12",
-  "generatedAt": "2026-11-12T07:34:43.501Z",
+  "lastUpdate": "2026-11-13",
+  "generatedAt": "2026-11-13T07:04:54.556Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly9ibG9nLmdv",
       "rank": 1,
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "date": "2026-11-12",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "hotScore": 58.8,
+      "category": "research",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W46",
+      "content": {
+        "basic": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "date": "2026-11-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "hotScore": 57.5,
+      "category": "research",
+      "tags": [
+        "GPT",
+        "Gemini"
+      ],
+      "week_key": "2026-W46",
+      "content": {
+        "basic": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included \"What are the top websites for buying [brand]?\"; \"Where can I find [brand] online?\"; and \"Does [brand] ship internationally? What are their regional websites?\" The test ran over the course of two testing periods in Septe",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 3,
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "date": "2026-11-11",
       "source": "Google AI Blog",
       "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "hotScore": 63.8,
+      "hotScore": 55.8,
       "category": "research",
       "tags": [
         "Gemini",
@@ -31,56 +74,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "date": "2026-11-12",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "hotScore": 57.5,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnN0ZWNo",
-      "rank": 3,
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "date": "2026-11-11",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "hotScore": 55,
-      "category": "hardware",
-      "tags": [],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "date": "2026-11-11",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "hotScore": 52.5,
-      "category": "research",
+      "title": "More game developers are starting to use generative AI",
+      "date": "2026-11-12",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "hotScore": 55,
+      "category": "industry",
       "tags": [],
       "week_key": "2026-W46",
       "content": {
-        "basic": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+        "basic": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent. The survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -90,18 +95,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "United won’t let your AI agent book your flight",
-      "date": "2026-11-11",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "date": "2026-11-12",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "hotScore": 50,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "hotScore": 51.3,
+      "category": "product",
       "tags": [
-        "Agent"
+        "Gemini"
       ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned that agents could expose customers' information or make purchases they didn't intend, and potentially skirt federal rules about the kind of information airlines need to share with customers - like having them attest that their bags don't have explosives. While agent",
+        "basic": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's \"now the new default model in AI Mode & being used for your hardest questio",
         "highlights": [],
         "scenarios": [],
         "industry": [],

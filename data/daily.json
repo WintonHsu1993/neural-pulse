@@ -1,22 +1,21 @@
 {
-  "lastUpdate": "2026-11-12",
-  "generatedAt": "2026-11-12T07:34:43.501Z",
+  "lastUpdate": "2026-11-13",
+  "generatedAt": "2026-11-13T07:04:54.556Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "date": "2026-11-11",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "date": "2026-11-12",
       "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "hotScore": 63.8,
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "hotScore": 58.8,
       "category": "research",
       "tags": [
-        "Gemini",
-        "Multimodal"
+        "Gemini"
       ],
       "content": {
-        "basic": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "basic": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,17 +24,18 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic has its own AI-powered office suite now",
-      "date": "2026-11-10",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "date": "2026-11-12",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "hotScore": 58.3,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "hotScore": 57.5,
+      "category": "research",
       "tags": [
-        "Claude"
+        "GPT",
+        "Gemini"
       ],
       "content": {
-        "basic": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools. At an event in San Francisco on Tuesday, Anthropic unveiled new tools for non-technical workers who spend a lot of time attending meetings, brainstorming new ideas, and analyzing metri",
+        "basic": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included \"What are the top websites for buying [brand]?\"; \"Where can I find [brand] online?\"; and \"Does [brand] ship internationally? What are their regional websites?\" The test ran over the course of two testing periods in Septe",
         "highlights": [],
         "scenarios": [],
         "industry": [],
