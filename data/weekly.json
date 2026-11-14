@@ -4,25 +4,26 @@
     "to": "2026-11-17"
   },
   "weekKey": "2026-W46",
-  "lastUpdate": "2026-11-13",
-  "generatedAt": "2026-11-13T07:04:54.556Z",
+  "lastUpdate": "2026-11-14",
+  "generatedAt": "2026-11-14T06:54:36.141Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "date": "2026-11-12",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "hotScore": 58.8,
-      "category": "research",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "date": "2026-11-13",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "hotScore": 61.3,
+      "category": "policy",
       "tags": [
-        "Gemini"
+        "Claude",
+        "Agent"
       ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+        "basic": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's al",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -32,19 +33,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "date": "2026-11-12",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "date": "2026-11-13",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "hotScore": 57.5,
-      "category": "research",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "hotScore": 56.3,
+      "category": "product",
       "tags": [
         "GPT",
-        "Gemini"
+        "Agent"
       ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included \"What are the top websites for buying [brand]?\"; \"Where can I find [brand] online?\"; and \"Does [brand] ship internationally? What are their regional websites?\" The test ran over the course of two testing periods in Septe",
+        "basic": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -52,21 +53,39 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 3,
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "date": "2026-11-11",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "hotScore": 55.8,
+      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+      "date": "2026-11-13",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+      "hotScore": 56.3,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W46",
+      "content": {
+        "basic": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governance, and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics” refers to the principles developers use to govern and operate workflows. “Governance” refers to the rules and procedures an organization establishes for AI workflows and how they interact with organizational data. Auditing is the process of assessing and validating systems to ensure s",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "rank": 4,
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "date": "2026-11-13",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "hotScore": 52.5,
       "category": "research",
       "tags": [
-        "Gemini",
         "Multimodal"
       ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "basic": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -74,39 +93,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "More game developers are starting to use generative AI",
-      "date": "2026-11-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "hotScore": 55,
-      "category": "industry",
-      "tags": [],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent. The survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 5,
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "date": "2026-11-12",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "date": "2026-11-13",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "hotScore": 51.3,
-      "category": "product",
+      "category": "startup",
       "tags": [
-        "Gemini"
+        "GPT",
+        "Agent"
       ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's \"now the new default model in AI Mode & being used for your hardest questio",
+        "basic": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
