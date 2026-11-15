@@ -1,22 +1,19 @@
 {
-  "lastUpdate": "2026-11-14",
-  "generatedAt": "2026-11-14T06:54:36.141Z",
+  "lastUpdate": "2026-11-15",
+  "generatedAt": "2026-11-15T07:00:22.704Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "date": "2026-11-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "hotScore": 61.3,
-      "category": "policy",
-      "tags": [
-        "Claude",
-        "Agent"
-      ],
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Where was Nvidia’s security team?",
+      "date": "2026-11-15",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "hotScore": 62.5,
+      "category": "hardware",
+      "tags": [],
       "content": {
-        "basic": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's al",
+        "basic": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,18 +22,18 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
       "date": "2026-11-13",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "hotScore": 56.3,
-      "category": "product",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "hotScore": 53.3,
+      "category": "policy",
       "tags": [
-        "GPT",
+        "Claude",
         "Agent"
       ],
       "content": {
-        "basic": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like",
+        "basic": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's al",
         "highlights": [],
         "scenarios": [],
         "industry": [],
