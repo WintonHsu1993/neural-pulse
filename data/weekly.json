@@ -4,23 +4,23 @@
     "to": "2026-11-17"
   },
   "weekKey": "2026-W46",
-  "lastUpdate": "2026-11-15",
-  "generatedAt": "2026-11-15T07:00:22.704Z",
+  "lastUpdate": "2026-11-16",
+  "generatedAt": "2026-11-16T07:07:39.034Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Where was Nvidia’s security team?",
-      "date": "2026-11-15",
+      "title": "Apple launches new app to study how people use AI for health",
+      "date": "2026-11-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "hotScore": 62.5,
-      "category": "hardware",
+      "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "hotScore": 65,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+        "basic": "Apple's new app for a study will answer everyday medical questions",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,59 +30,16 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "date": "2026-11-13",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "date": "2026-11-16",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "hotScore": 53.3,
-      "category": "policy",
-      "tags": [
-        "Claude",
-        "Agent"
-      ],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's al",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "date": "2026-11-14",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "hotScore": 50,
-      "category": "startup",
-      "tags": [
-        "Safety"
-      ],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman. That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors. OpenAI has since restructured entirely. But it’s worth",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "date": "2026-11-14",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "hotScore": 50,
-      "category": "startup",
+      "sourceUrl": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "hotScore": 60,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W46",
       "content": {
-        "basic": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "basic": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance. The app is now avail",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -91,7 +48,7 @@
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 5,
+      "rank": 3,
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "date": "2026-11-11",
       "source": "Google AI Blog",
@@ -105,6 +62,44 @@
       "week_key": "2026-W46",
       "content": {
         "basic": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
+      "title": "An overview of Jensen Huang’s messy days",
+      "date": "2026-11-15",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "hotScore": 47.5,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W46",
+      "content": {
+        "basic": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potentially being compromised by the Chinese government is concerning - especially Jensen Huang. \"If you could",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 5,
+      "title": "Where was Nvidia’s security team?",
+      "date": "2026-11-15",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "hotScore": 47.5,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W46",
+      "content": {
+        "basic": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

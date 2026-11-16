@@ -1,48 +1,23 @@
 [
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Where was Nvidia’s security team?",
-    "date": "2026-11-15",
+    "title": "Apple launches new app to study how people use AI for health",
+    "date": "2026-11-16",
     "source": "TechCrunch AI",
-    "hotScore": 62.5,
-    "category": "hardware",
+    "hotScore": 65,
+    "category": "product",
     "tags": [],
-    "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin"
+    "snippet": "Apple's new app for a study will answer everyday medical questions"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-    "date": "2026-11-13",
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "date": "2026-11-16",
     "source": "The Verge AI",
-    "hotScore": 53.3,
-    "category": "policy",
-    "tags": [
-      "Claude",
-      "Agent"
-    ],
-    "snippet": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent fo"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "date": "2026-11-14",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hele"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "date": "2026-11-14",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
+    "hotScore": 60,
+    "category": "product",
     "tags": [],
-    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    "snippet": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting t"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -59,36 +34,66 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "date": "2026-11-13",
+    "title": "An overview of Jensen Huang’s messy days",
+    "date": "2026-11-15",
     "source": "The Verge AI",
-    "hotScore": 48.3,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "snippet": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-    "date": "2026-11-13",
-    "source": "IEEE Spectrum",
-    "hotScore": 48.3,
+    "hotScore": 47.5,
     "category": "hardware",
     "tags": [],
-    "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc"
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "date": "2026-11-14",
+    "title": "Where was Nvidia’s security team?",
+    "date": "2026-11-15",
     "source": "TechCrunch AI",
     "hotScore": 47.5,
     "category": "hardware",
     "tags": [],
-    "snippet": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+    "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "date": "2026-11-13",
+    "source": "The Verge AI",
+    "hotScore": 47.3,
+    "category": "policy",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "snippet": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent fo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "date": "2026-11-15",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republic"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "date": "2026-11-15",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "date": "2026-11-15",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -127,51 +132,37 @@
     "snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "date": "2026-11-13",
-    "source": "MIT Technology Review",
-    "hotScore": 44.5,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me"
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "date": "2026-11-15",
+    "source": "The Verge AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of ne"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "date": "2026-11-13",
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "date": "2026-11-15",
     "source": "TechCrunch AI",
-    "hotScore": 43.3,
+    "hotScore": 42.5,
     "category": "startup",
+    "tags": [],
+    "snippet": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "date": "2026-11-13",
+    "source": "The Verge AI",
+    "hotScore": 42.3,
+    "category": "product",
     "tags": [
       "GPT",
       "Agent"
     ],
-    "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "date": "2026-11-14",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "date": "2026-11-14",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+    "snippet": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -186,68 +177,46 @@
     "snippet": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Amazon has a plan to index the world’s online shopping data",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "How Microcredentials Help Engineers Build Trustworthy AI",
     "date": "2026-11-13",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "research",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "What&#8217;s really at stake in the Jensen Huang saga",
-    "date": "2026-11-13",
-    "source": "The Verge AI",
-    "hotScore": 42,
+    "source": "IEEE Spectrum",
+    "hotScore": 42.3,
     "category": "hardware",
     "tags": [],
-    "snippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much "
+    "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Let’s talk about Jensen Huang’s many affairs!",
-    "date": "2026-11-13",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "date": "2026-11-14",
     "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "date": "2026-11-13",
-    "source": "TechCrunch AI",
     "hotScore": 42,
     "category": "startup",
     "tags": [
-      "Agent"
+      "Safety"
     ],
-    "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    "snippet": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hele"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "date": "2026-11-13",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "date": "2026-11-14",
     "source": "TechCrunch AI",
     "hotScore": 42,
-    "category": "hardware",
+    "category": "startup",
     "tags": [],
-    "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
   },
   {
-    "id": "aHR0cHM6Ly9hcnN0ZWNo",
-    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-    "date": "2026-11-13",
-    "source": "Ars Technica",
-    "hotScore": 42,
-    "category": "research",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "date": "2026-11-14",
+    "source": "TechCrunch AI",
+    "hotScore": 39.5,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Researcher traces a path from AI reward hacking to potential human extinction."
+    "snippet": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -272,6 +241,18 @@
     "snippet": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced conte"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGVj",
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "date": "2026-11-13",
+    "source": "MIT Technology Review",
+    "hotScore": 38.5,
+    "category": "research",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me"
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Experience the art and legacy of Dr. Esther Mahlangu",
     "date": "2026-11-11",
@@ -282,80 +263,17 @@
     "snippet": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-    "date": "2026-11-09",
-    "source": "IEEE Spectrum",
-    "hotScore": 38.5,
-    "category": "product",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "hotScore": 37.3,
+    "category": "startup",
     "tags": [
+      "GPT",
       "Agent"
     ],
-    "snippet": "This article is brought to you by Queen’s University Belfast. Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications t"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google’s new Gemini model is better at understanding complicated questions",
-    "date": "2026-11-12",
-    "source": "The Verge AI",
-    "hotScore": 37.3,
-    "category": "product",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-    "date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "hotScore": 37.3,
-    "category": "startup",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "date": "2026-11-13",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "date": "2026-11-13",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "research",
-    "tags": [],
-    "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-    "date": "2026-11-13",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "date": "2026-11-13",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+    "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -368,6 +286,50 @@
     "snippet": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and tech"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "date": "2026-11-13",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "What&#8217;s really at stake in the Jensen Huang saga",
+    "date": "2026-11-13",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Muse can now place calls to US businesses — if you pay",
     "date": "2026-11-12",
@@ -378,28 +340,14 @@
     "snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "date": "2026-11-12",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
     "hotScore": 36,
-    "category": "startup",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "date": "2026-11-12",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "hardware",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
+    "category": "research",
+    "tags": [],
+    "snippet": "Researcher traces a path from AI reward hacking to potential human extinction."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -432,14 +380,26 @@
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang didn’t show confidence in his successor, report says",
-    "date": "2026-11-13",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "date": "2026-11-14",
+    "source": "The Verge AI",
     "hotScore": 34.5,
     "category": "startup",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "date": "2026-11-14",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "hardware",
     "tags": [],
-    "snippet": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
+    "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -464,18 +424,6 @@
     "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Oh, Palantir is ‘progressive’ now, is it?",
-    "date": "2026-11-12",
-    "source": "The Verge AI",
-    "hotScore": 33.5,
-    "category": "industry",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Jensen Huang was having a third affair, Reuters reports",
     "date": "2026-11-12",
@@ -497,6 +445,18 @@
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "date": "2026-11-09",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This article is brought to you by Queen’s University Belfast. Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications t"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Consumer Appetite for Personal AI Goes Mainstream",
     "date": "2026-10-29",
     "source": "IEEE Spectrum",
@@ -506,17 +466,44 @@
     "snippet": "This article is brought to you by Qualcomm Technologies. For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these techn"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "No, AI agents did not discover a previously unknown Maya site",
-    "date": "2026-11-12",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "date": "2026-11-13",
+    "source": "TechCrunch AI",
     "hotScore": 31,
     "category": "research",
-    "tags": [
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Mi"
+    "tags": [],
+    "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "date": "2026-11-13",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -530,15 +517,13 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "date": "2026-11-12",
+    "title": "Jensen Huang didn’t show confidence in his successor, report says",
+    "date": "2026-11-13",
     "source": "TechCrunch AI",
-    "hotScore": 31,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+    "hotScore": 28.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
