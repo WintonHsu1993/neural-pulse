@@ -4,23 +4,26 @@
     "to": "2026-11-17"
   },
   "weekKey": "2026-W46",
-  "lastUpdate": "2026-11-16",
-  "generatedAt": "2026-11-16T07:07:39.034Z",
+  "lastUpdate": "2026-11-17",
+  "generatedAt": "2026-11-17T08:20:04.011Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGVj",
       "rank": 1,
-      "title": "Apple launches new app to study how people use AI for health",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
       "date": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "hotScore": 65,
-      "category": "product",
-      "tags": [],
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "hotScore": 57.5,
+      "category": "policy",
+      "tags": [
+        "Safety",
+        "Agent"
+      ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Apple's new app for a study will answer everyday medical questions",
+        "basic": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,16 +33,18 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 2,
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "title": "Google Maps can now create trip itineraries for you",
       "date": "2026-11-16",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "hotScore": 60,
+      "sourceUrl": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "hotScore": 56.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "Gemini"
+      ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance. The app is now avail",
+        "basic": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal hikes and oceanfront dining. From there, Ask Maps will generate a day-by-day schedule with a list of stops, while als",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -47,21 +52,21 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 3,
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "date": "2026-11-11",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "hotScore": 49.8,
-      "category": "research",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "date": "2026-11-16",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "hotScore": 56.3,
+      "category": "policy",
       "tags": [
-        "Gemini",
+        "GPT",
         "Multimodal"
       ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "basic": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -71,16 +76,19 @@
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 4,
-      "title": "An overview of Jensen Huang’s messy days",
-      "date": "2026-11-15",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "date": "2026-11-16",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "hotScore": 47.5,
-      "category": "hardware",
-      "tags": [],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "hotScore": 55,
+      "category": "policy",
+      "tags": [
+        "Safety",
+        "Agent"
+      ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potentially being compromised by the Chinese government is concerning - especially Jensen Huang. \"If you could",
+        "basic": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the cyberattack on Hugging Face \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.\" It alleges that OpenAI recently told the attorney general's",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -88,18 +96,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Where was Nvidia’s security team?",
-      "date": "2026-11-15",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "hotScore": 47.5,
-      "category": "hardware",
-      "tags": [],
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "date": "2026-11-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "hotScore": 55,
+      "category": "product",
+      "tags": [
+        "Multimodal"
+      ],
       "week_key": "2026-W46",
       "content": {
-        "basic": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+        "basic": "Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" The comments were made onstage at Semafor's Silicon Valley & The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast, Altman said that it's \"quite terrible\" for everyone to have RAM in personal compu",
         "highlights": [],
         "scenarios": [],
         "industry": [],

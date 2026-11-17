@@ -1,19 +1,22 @@
 {
-  "lastUpdate": "2026-11-16",
-  "generatedAt": "2026-11-16T07:07:39.034Z",
+  "lastUpdate": "2026-11-17",
+  "generatedAt": "2026-11-17T08:20:04.011Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Apple launches new app to study how people use AI for health",
+      "id": "aHR0cHM6Ly93d3cudGVj",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
       "date": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "hotScore": 65,
-      "category": "product",
-      "tags": [],
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "hotScore": 57.5,
+      "category": "policy",
+      "tags": [
+        "Safety",
+        "Agent"
+      ],
       "content": {
-        "basic": "Apple's new app for a study will answer everyday medical questions",
+        "basic": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -22,15 +25,17 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "title": "Google Maps can now create trip itineraries for you",
       "date": "2026-11-16",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "hotScore": 60,
+      "sourceUrl": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "hotScore": 56.3,
       "category": "product",
-      "tags": [],
+      "tags": [
+        "Gemini"
+      ],
       "content": {
-        "basic": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance. The app is now avail",
+        "basic": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal hikes and oceanfront dining. From there, Ask Maps will generate a day-by-day schedule with a list of stops, while als",
         "highlights": [],
         "scenarios": [],
         "industry": [],
