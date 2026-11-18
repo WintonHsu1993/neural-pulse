@@ -1,50 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-11-11",
-    "to": "2026-11-17"
+    "from": "2026-11-18",
+    "to": "2026-11-24"
   },
-  "weekKey": "2026-W46",
-  "lastUpdate": "2026-11-17",
-  "generatedAt": "2026-11-17T08:20:04.011Z",
-  "count": 5,
+  "weekKey": "2026-W47",
+  "lastUpdate": "2026-11-18",
+  "generatedAt": "2026-11-18T07:51:10.102Z",
+  "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGVj",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "date": "2026-11-16",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "hotScore": 57.5,
-      "category": "policy",
-      "tags": [
-        "Safety",
-        "Agent"
-      ],
-      "week_key": "2026-W46",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "date": "2026-11-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "hotScore": 62.5,
+      "category": "hardware",
+      "tags": [],
+      "week_key": "2026-W47",
       "content": {
-        "basic": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Google Maps can now create trip itineraries for you",
-      "date": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-      "hotScore": 56.3,
-      "category": "product",
-      "tags": [
-        "Gemini"
-      ],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal hikes and oceanfront dining. From there, Ask Maps will generate a day-by-day schedule with a list of stops, while als",
+        "basic": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -53,63 +29,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "date": "2026-11-16",
+      "rank": 2,
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "date": "2026-11-18",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "hotScore": 56.3,
-      "category": "policy",
-      "tags": [
-        "GPT",
-        "Multimodal"
-      ],
-      "week_key": "2026-W46",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "hotScore": 57.5,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W47",
       "content": {
-        "basic": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "date": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "hotScore": 55,
-      "category": "policy",
-      "tags": [
-        "Safety",
-        "Agent"
-      ],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the cyberattack on Hugging Face \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.\" It alleges that OpenAI recently told the attorney general's",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 5,
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "date": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "hotScore": 55,
-      "category": "product",
-      "tags": [
-        "Multimodal"
-      ],
-      "week_key": "2026-W46",
-      "content": {
-        "basic": "Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" The comments were made onstage at Semafor's Silicon Valley & The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast, Altman said that it's \"quite terrible\" for everyone to have RAM in personal compu",
+        "basic": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

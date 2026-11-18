@@ -1,10 +1,163 @@
 [
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "date": "2026-11-17",
+    "source": "The Verge AI",
+    "hotScore": 62.5,
+    "category": "industry",
+    "tags": [
+      "Claude",
+      "Multimodal"
+    ],
+    "snippet": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "date": "2026-11-18",
+    "source": "TechCrunch AI",
+    "hotScore": 62.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Put Gemini to work for you",
+    "date": "2026-11-17",
+    "source": "Google AI Blog",
+    "hotScore": 58.8,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+    "date": "2026-11-18",
+    "source": "TechCrunch AI",
+    "hotScore": 57.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 57.5,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Claude"
+    ],
+    "snippet": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+    "date": "2026-11-17",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini",
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "date": "2026-11-17",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "Open AI CEO Sam Altman does a television interview | Getty Images Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earli"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "date": "2026-11-17",
+    "source": "Ars Technica",
+    "hotScore": 55,
+    "category": "tech",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "AI training and chat history will now have separate toggles in the Gemini activity settings."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Is Giving Optical Computing Another Shot",
+    "date": "2026-11-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 52.5,
+    "category": "research",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [
+      "OpenSource"
+    ],
+    "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The company uses agentic AI to make supply chains faster and more reliable."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round."
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+    "date": "2026-11-17",
+    "source": "Ars Technica",
+    "hotScore": 50,
+    "category": "tech",
+    "tags": [],
+    "snippet": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGVj",
     "title": "Building trustworthy AI by fencing it in, not predicting it",
     "date": "2026-11-16",
     "source": "MIT Technology Review",
-    "hotScore": 57.5,
+    "hotScore": 49.5,
     "category": "policy",
     "tags": [
       "Safety",
@@ -13,36 +166,107 @@
     "snippet": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google Maps can now create trip itineraries for you",
-    "date": "2026-11-16",
-    "source": "The Verge AI",
-    "hotScore": 56.3,
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
+    "category": "startup",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 48.8,
     "category": "product",
     "tags": [
       "Gemini"
     ],
-    "snippet": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to "
+    "snippet": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The DOJ says it’s investigating Megaspeed",
+    "date": "2026-11-17",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting su"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+    "date": "2026-11-17",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"S"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "date": "2026-11-16",
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "date": "2026-11-17",
     "source": "TechCrunch AI",
-    "hotScore": 56.3,
+    "hotScore": 47.5,
     "category": "policy",
+    "tags": [],
+    "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The former CEO offered to return to his top role at the company after his resignation last week."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+    "date": "2026-11-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 47.5,
+    "category": "startup",
     "tags": [
-      "GPT",
-      "Multimodal"
+      "Agent"
     ],
-    "snippet": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+    "snippet": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spre"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "California sues OpenAI over rogue AI hacking incidents",
     "date": "2026-11-16",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "policy",
     "tags": [
       "Safety",
@@ -55,7 +279,7 @@
     "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
     "date": "2026-11-16",
     "source": "The Verge AI",
-    "hotScore": 55,
+    "hotScore": 47,
     "category": "product",
     "tags": [
       "Multimodal"
@@ -64,203 +288,35 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "date": "2026-11-16",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "date": "2026-11-17",
     "source": "TechCrunch AI",
-    "hotScore": 55,
-    "category": "policy",
+    "hotScore": 45,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
+    "category": "startup",
     "tags": [
       "Agent"
     ],
-    "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New Ask Maps features to help with holiday travel and prep",
-    "date": "2026-11-16",
-    "source": "Google AI Blog",
-    "hotScore": 52.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "US data centers now burn more electricity than a midsized country",
-    "date": "2026-11-16",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [],
-    "snippet": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electric"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-    "date": "2026-11-16",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "Multimodal",
-      "Safety"
-    ],
-    "snippet": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC"
+    "snippet": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [
-      "OpenSource"
-    ],
-    "snippet": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Safety"
-    ],
-    "snippet": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Audible turns to AI to help users discover audiobooks",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Apple launches new app to study how people use AI for health",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Apple's new app for a study will answer everyday medical questions."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
-    "date": "2026-11-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 50,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "date": "2026-11-11",
-    "source": "Google AI Blog",
-    "hotScore": 49.8,
-    "category": "research",
-    "tags": [
-      "Gemini",
-      "Multimodal"
-    ],
-    "snippet": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-    "date": "2026-11-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 47.5,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "This article is brought to you by VicOne. VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-    "date": "2026-11-16",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, acc"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-    "date": "2026-11-16",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "date": "2026-11-16",
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "date": "2026-11-17",
     "source": "TechCrunch AI",
     "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+    "snippet": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -275,66 +331,89 @@
     "snippet": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New Ask Maps features to help with holiday travel and prep",
     "date": "2026-11-16",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "hardware",
+    "source": "Google AI Blog",
+    "hotScore": 44.5,
+    "category": "product",
     "tags": [],
-    "snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als"
+    "snippet": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-    "date": "2026-11-16",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "industry",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "date": "2026-11-11",
+    "source": "Google AI Blog",
+    "hotScore": 43.8,
+    "category": "research",
     "tags": [
+      "Gemini",
       "Multimodal"
     ],
-    "snippet": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output f"
+    "snippet": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-    "date": "2026-11-16",
+    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "date": "2026-11-17",
     "source": "The Verge AI",
     "hotScore": 42.5,
     "category": "hardware",
     "tags": [],
-    "snippet": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and "
+    "snippet": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. "
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-    "date": "2026-11-16",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-    "date": "2026-11-16",
+    "title": "Google joins the tech outage trend by announcing it’s not having one",
+    "date": "2026-11-17",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
+    "snippet": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "As decision model use skyrockets, is customization the next frontier?",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "date": "2026-11-17",
+    "source": "TechCrunch AI",
+    "hotScore": 42.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -347,14 +426,28 @@
     "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Where was Nvidia’s security team?",
-    "date": "2026-11-15",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+    "date": "2026-11-16",
+    "source": "IEEE Spectrum",
+    "hotScore": 42,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+    "date": "2026-11-16",
+    "source": "IEEE Spectrum",
     "hotScore": 39.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin"
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "This article is brought to you by VicOne. VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -393,48 +486,6 @@
     "snippet": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of "
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "date": "2026-11-13",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "date": "2026-11-11",
-    "source": "Google AI Blog",
-    "hotScore": 38.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "date": "2026-11-15",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "date": "2026-11-15",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
     "date": "2026-11-10",
@@ -445,26 +496,6 @@
       "Gemini"
     ],
     "snippet": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Systems Thinking Is Vital in the Age of AI",
-    "date": "2026-10-28",
-    "source": "IEEE Spectrum",
-    "hotScore": 36.3,
-    "category": "research",
-    "tags": [],
-    "snippet": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and tech"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "date": "2026-11-14",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -497,14 +528,26 @@
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
-    "date": "2026-11-15",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "date": "2026-11-16",
+    "source": "The Verge AI",
     "hotScore": 34.5,
-    "category": "startup",
+    "category": "hardware",
     "tags": [],
-    "snippet": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+    "snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+    "date": "2026-11-16",
+    "source": "The Verge AI",
+    "hotScore": 34.5,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output f"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -517,37 +560,5 @@
       "Gemini"
     ],
     "snippet": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
-    "date": "2026-11-05",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes"
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "date": "2026-11-11",
-    "source": "Google AI Blog",
-    "hotScore": 33.5,
-    "category": "research",
-    "tags": [],
-    "snippet": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-    "date": "2026-11-09",
-    "source": "IEEE Spectrum",
-    "hotScore": 32.5,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "This article is brought to you by Queen’s University Belfast. Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications t"
   }
 ]
