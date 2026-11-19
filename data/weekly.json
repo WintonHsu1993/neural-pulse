@@ -4,23 +4,26 @@
     "to": "2026-11-24"
   },
   "weekKey": "2026-W47",
-  "lastUpdate": "2026-11-18",
-  "generatedAt": "2026-11-18T07:51:10.102Z",
-  "count": 2,
+  "lastUpdate": "2026-11-19",
+  "generatedAt": "2026-11-19T07:47:24.969Z",
+  "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
       "date": "2026-11-18",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "hotScore": 62.5,
-      "category": "hardware",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "hotScore": 63.8,
+      "category": "policy",
+      "tags": [
+        "Multimodal",
+        "Agent"
+      ],
       "week_key": "2026-W47",
       "content": {
-        "basic": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "basic": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used to launch cyberattacks or become harder for their own creators to control. It wa",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -30,16 +33,78 @@
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 2,
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "date": "2026-11-18",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "date": "2026-11-19",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "hotScore": 57.5,
+      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "hotScore": 60,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W47",
       "content": {
-        "basic": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+        "basic": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "rank": 3,
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "date": "2026-11-18",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "hotScore": 53.8,
+      "category": "product",
+      "tags": [
+        "Gemini",
+        "Multimodal"
+      ],
+      "week_key": "2026-W47",
+      "content": {
+        "basic": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "date": "2026-11-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "hotScore": 52.5,
+      "category": "startup",
+      "tags": [],
+      "week_key": "2026-W47",
+      "content": {
+        "basic": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "date": "2026-11-18",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "hotScore": 51.3,
+      "category": "hardware",
+      "tags": [
+        "Gemini"
+      ],
+      "week_key": "2026-W47",
+      "content": {
+        "basic": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice president of education, told the Times that, \"Search and AI are deeply integrated,\" and that schools that turn off Google's AI features \"will not have access to Search.\" Many elected officials, including New York City Mayor Zohran Mamdani and Senat",
         "highlights": [],
         "scenarios": [],
         "industry": [],

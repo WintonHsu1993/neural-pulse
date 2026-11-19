@@ -1,22 +1,22 @@
 {
-  "lastUpdate": "2026-11-18",
-  "generatedAt": "2026-11-18T07:51:10.102Z",
+  "lastUpdate": "2026-11-19",
+  "generatedAt": "2026-11-19T07:47:24.969Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "date": "2026-11-17",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "date": "2026-11-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "hotScore": 62.5,
-      "category": "industry",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "hotScore": 63.8,
+      "category": "policy",
       "tags": [
-        "Claude",
-        "Multimodal"
+        "Multimodal",
+        "Agent"
       ],
       "content": {
-        "basic": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San Francisco. But Nadella doesn't think frontier models like Claude are conscious. \"I don't think so,\" he said, ",
+        "basic": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used to launch cyberattacks or become harder for their own creators to control. It wa",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,15 +25,15 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "date": "2026-11-18",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "date": "2026-11-19",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "hotScore": 62.5,
-      "category": "hardware",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "hotScore": 60,
+      "category": "startup",
       "tags": [],
       "content": {
-        "basic": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "basic": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
