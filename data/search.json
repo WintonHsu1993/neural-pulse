@@ -1,33 +1,304 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Remember the frontier AI pause? Chip companies don’t either",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 63.8,
-    "category": "policy",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "date": "2026-11-20",
+    "source": "TechCrunch AI",
+    "hotScore": 76.3,
+    "category": "product",
     "tags": [
-      "Multimodal",
+      "Claude",
       "Agent"
     ],
-    "snippet": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its larges"
+    "snippet": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 66.3,
+    "category": "product",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing s"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "date": "2026-11-19",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "date": "2026-11-20",
     "source": "TechCrunch AI",
-    "hotScore": 60,
+    "hotScore": 62.5,
     "category": "startup",
     "tags": [],
-    "snippet": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive "
+    "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "date": "2026-11-19",
+    "source": "Google AI Blog",
+    "hotScore": 58.8,
+    "category": "research",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "snippet": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+    "date": "2026-11-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 57.5,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started w"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google is putting AI chats right on the homepage",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI c"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now glob"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 56.3,
+    "category": "product",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "snippet": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Anthropic starts trading on Wall Street",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "industry",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the N"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Canva adds an AI ‘off’ button",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 55,
+    "category": "product",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature,"
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "date": "2026-11-19",
+    "source": "Google AI Blog",
+    "hotScore": 55,
+    "category": "research",
+    "tags": [],
+    "snippet": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Gemini on Mac can now use your computer",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 53.8,
+    "category": "product",
+    "tags": [
+      "Gemini"
+    ],
+    "snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the featur"
+  },
+  {
+    "id": "aHR0cHM6Ly9hcnN0ZWNo",
+    "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "hotScore": 53.8,
+    "category": "tech",
+    "tags": [],
+    "snippet": "Some models fare better, but all fail in similar ways."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 52.5,
+    "category": "hardware",
+    "tags": [
+      "Multimodal"
+    ],
+    "snippet": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, sai"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 52.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cud2ly",
+    "title": "What’s With All These Outages?",
+    "date": "2026-11-19",
+    "source": "Wired",
+    "hotScore": 52.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+    "date": "2026-11-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 51.3,
+    "category": "research",
+    "tags": [],
+    "snippet": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her jo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Meta’s Muse Charm might cost $300",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earli"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "policy",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Superhuman is making Go its central agent and making it available in Docs and Mail."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The Gemini app is now available on lower-memory Android devices.",
     "date": "2026-11-18",
     "source": "Google AI Blog",
-    "hotScore": 53.8,
+    "hotScore": 45.8,
     "category": "product",
     "tags": [
       "Gemini",
@@ -36,45 +307,43 @@
     "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+    "date": "2026-11-19",
+    "source": "The Verge AI",
+    "hotScore": 45,
+    "category": "product",
+    "tags": [],
+    "snippet": "Siri Recap can be turned on or off manually from the wrist. Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Reca"
+  },
+  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic prices IPO at $83 a share, above projected range",
-    "date": "2026-11-18",
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "date": "2026-11-19",
     "source": "TechCrunch AI",
-    "hotScore": 52.5,
+    "hotScore": 45,
+    "category": "policy",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "date": "2026-11-19",
+    "source": "TechCrunch AI",
+    "hotScore": 45,
     "category": "startup",
     "tags": [],
-    "snippet": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The nation’s largest school districts consider ditching Google Search",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 51.3,
-    "category": "hardware",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Time"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 51.3,
-    "category": "startup",
-    "tags": [
-      "Claude"
-    ],
-    "snippet": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+    "snippet": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Put Gemini to work for you",
     "date": "2026-11-17",
     "source": "Google AI Blog",
-    "hotScore": 50.8,
+    "hotScore": 44.8,
     "category": "product",
     "tags": [
       "Gemini"
@@ -82,212 +351,14 @@
     "snippet": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Trump’s latest land grab is an AI hub in the Philippines",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "policy",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images President Donald Trump was greeted by no less than five b"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "What is Nvidia without AI’s sugar daddy in charge?",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Building a successful company means that it can run smoothly without you. Did Jensen Huang actually build a successful company? | Image: The Verge; Getty Images; Adobe If the glorious AI revolution re"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Will Wright’s next game uses AI to map your memories",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "industry",
-    "tags": [],
-    "snippet": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright'"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia isn’t selling any more AI chips to China",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Suno now lets you make AI videos for your AI music",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno Suno has introduced image and video generation in its latest effort to expand beyond being an AI musi"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Google’s AI feature in Search gets its own incognito mode",
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
     "date": "2026-11-18",
     "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "product",
-    "tags": [],
-    "snippet": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nvidia’s rise, visualized",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and c"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia promises that revenue will keep soaring — for now",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-    "date": "2026-11-18",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "AI Is Giving Optical Computing Another Shot",
-    "date": "2026-11-17",
-    "source": "IEEE Spectrum",
     "hotScore": 44.5,
-    "category": "research",
-    "tags": [
-      "Reasoning"
-    ],
-    "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as"
+    "category": "startup",
+    "tags": [],
+    "snippet": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -303,109 +374,14 @@
     "snippet": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "date": "2026-11-16",
-    "source": "MIT Technology Review",
-    "hotScore": 43.5,
-    "category": "policy",
-    "tags": [
-      "Safety",
-      "Agent"
-    ],
-    "snippet": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "date": "2026-11-18",
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "date": "2026-11-19",
     "source": "TechCrunch AI",
     "hotScore": 42.5,
     "category": "startup",
     "tags": [],
-    "snippet": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress e"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-    "date": "2026-11-18",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "How Microcredentials Can Help Engineers Build Trustworthy AI",
-    "date": "2026-11-13",
-    "source": "IEEE Spectrum",
-    "hotScore": 42.3,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-    "date": "2026-11-17",
-    "source": "IEEE Spectrum",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spre"
+    "snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -444,18 +420,6 @@
     "snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Guarding the Gates of Knowledge",
-    "date": "2026-11-01",
-    "source": "IEEE Spectrum",
-    "hotScore": 38.8,
-    "category": "product",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of "
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "New Ask Maps features to help with holiday travel and prep",
     "date": "2026-11-16",
@@ -464,6 +428,40 @@
     "category": "product",
     "tags": [],
     "snippet": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Is Giving Optical Computing Another Shot",
+    "date": "2026-11-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 38.5,
+    "category": "research",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "date": "2026-11-18",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "date": "2026-11-18",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -476,6 +474,16 @@
       "Gemini"
     ],
     "snippet": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "How Microcredentials Can Help Engineers Build Trustworthy AI",
+    "date": "2026-11-13",
+    "source": "IEEE Spectrum",
+    "hotScore": 36.3,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc"
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -520,37 +528,33 @@
     "snippet": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
   },
   {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "date": "2026-11-05",
-    "source": "Google AI Blog",
-    "hotScore": 33.8,
-    "category": "research",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
-    "date": "2026-11-05",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "policy",
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "date": "2026-11-18",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "startup",
     "tags": [],
-    "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes"
+    "snippet": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-    "date": "2026-11-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.5,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "This article is brought to you by VicOne. VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI"
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "date": "2026-11-18",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "date": "2026-11-18",
+    "source": "TechCrunch AI",
+    "hotScore": 34.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
   }
 ]

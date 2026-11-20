@@ -1,22 +1,22 @@
 {
-  "lastUpdate": "2026-11-19",
-  "generatedAt": "2026-11-19T07:47:24.969Z",
+  "lastUpdate": "2026-11-20",
+  "generatedAt": "2026-11-20T07:39:20.735Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "date": "2026-11-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "hotScore": 63.8,
-      "category": "policy",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "date": "2026-11-20",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "hotScore": 76.3,
+      "category": "product",
       "tags": [
-        "Multimodal",
+        "Claude",
         "Agent"
       ],
       "content": {
-        "basic": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used to launch cyberattacks or become harder for their own creators to control. It wa",
+        "basic": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,16 +24,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Apple is hiring engineers to build its own AI agent",
       "date": "2026-11-19",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "hotScore": 60,
-      "category": "startup",
-      "tags": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "hotScore": 66.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
       "content": {
-        "basic": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+        "basic": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting",
         "highlights": [],
         "scenarios": [],
         "industry": [],

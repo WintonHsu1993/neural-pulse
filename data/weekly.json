@@ -4,26 +4,48 @@
     "to": "2026-11-24"
   },
   "weekKey": "2026-W47",
-  "lastUpdate": "2026-11-19",
-  "generatedAt": "2026-11-19T07:47:24.969Z",
+  "lastUpdate": "2026-11-20",
+  "generatedAt": "2026-11-20T07:39:20.735Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "date": "2026-11-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "hotScore": 63.8,
-      "category": "policy",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "date": "2026-11-20",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "hotScore": 76.3,
+      "category": "product",
       "tags": [
-        "Multimodal",
+        "Claude",
         "Agent"
       ],
       "week_key": "2026-W47",
       "content": {
-        "basic": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used to launch cyberattacks or become harder for their own creators to control. It wa",
+        "basic": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "date": "2026-11-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "hotScore": 66.3,
+      "category": "product",
+      "tags": [
+        "GPT",
+        "Agent"
+      ],
+      "week_key": "2026-W47",
+      "content": {
+        "basic": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -32,17 +54,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "date": "2026-11-19",
+      "rank": 3,
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "date": "2026-11-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "hotScore": 60,
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "hotScore": 62.5,
       "category": "startup",
       "tags": [],
       "week_key": "2026-W47",
       "content": {
-        "basic": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+        "basic": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -51,20 +73,20 @@
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 3,
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "date": "2026-11-18",
+      "rank": 4,
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "date": "2026-11-19",
       "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "hotScore": 53.8,
-      "category": "product",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "hotScore": 58.8,
+      "category": "research",
       "tags": [
         "Gemini",
-        "Multimodal"
+        "Agent"
       ],
       "week_key": "2026-W47",
       "content": {
-        "basic": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+        "basic": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -72,39 +94,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "date": "2026-11-18",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "hotScore": 52.5,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 5,
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "date": "2026-11-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "hotScore": 51.3,
-      "category": "hardware",
+      "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+      "date": "2026-11-19",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "hotScore": 57.5,
+      "category": "research",
       "tags": [
-        "Gemini"
+        "Safety"
       ],
       "week_key": "2026-W47",
       "content": {
-        "basic": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice president of education, told the Times that, \"Search and AI are deeply integrated,\" and that schools that turn off Google's AI features \"will not have access to Search.\" Many elected officials, including New York City Mayor Zohran Mamdani and Senat",
+        "basic": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and OpenAI were “racing straight to self-improving superintelligence and gambling with our lives.” Evan Hubinger, Anthropic’s head of alignment science, replied, “Jacob is correct here—we really do earnestly believe AI could kill all humans!” And Anthropic CEO Dario Amodei subsequently told CNN, “I agree with",
         "highlights": [],
         "scenarios": [],
         "industry": [],
