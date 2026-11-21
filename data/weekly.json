@@ -4,18 +4,40 @@
     "to": "2026-11-24"
   },
   "weekKey": "2026-W47",
-  "lastUpdate": "2026-11-20",
-  "generatedAt": "2026-11-20T07:39:20.735Z",
+  "lastUpdate": "2026-11-21",
+  "generatedAt": "2026-11-21T07:37:01.925Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "date": "2026-11-20",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "hotScore": 61.3,
+      "category": "industry",
+      "tags": [
+        "Claude",
+        "Multimodal"
+      ],
+      "week_key": "2026-W47",
+      "content": {
+        "basic": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into the field. Alpöge's solution has yet to be verified independently. Anthropic has not commented or involved",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "date": "2026-11-20",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "hotScore": 76.3,
+      "hotScore": 61.3,
       "category": "product",
       "tags": [
         "Claude",
@@ -32,12 +54,12 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
+      "rank": 3,
       "title": "Apple is hiring engineers to build its own AI agent",
       "date": "2026-11-19",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "hotScore": 66.3,
+      "hotScore": 58.3,
       "category": "product",
       "tags": [
         "GPT",
@@ -45,48 +67,7 @@
       ],
       "week_key": "2026-W47",
       "content": {
-        "basic": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 3,
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "date": "2026-11-20",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "hotScore": 62.5,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly9ibG9nLmdv",
-      "rank": 4,
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "date": "2026-11-19",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "hotScore": 58.8,
-      "category": "research",
-      "tags": [
-        "Gemini",
-        "Agent"
-      ],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+        "basic": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just sta",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -95,19 +76,40 @@
     },
     {
       "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 5,
-      "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
-      "date": "2026-11-19",
+      "rank": 4,
+      "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+      "date": "2026-11-20",
       "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/ai-superintelligence-debate",
-      "hotScore": 57.5,
-      "category": "research",
+      "sourceUrl": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "hotScore": 52.5,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W47",
+      "content": {
+        "basic": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike killed more than 175 people, most of them children. The U.S. president and military denied responsibility. In the age of generative AI and all things deepfake, everyone—including me—was skeptical of the video’s authenticity. I get this type of request a lot. For the past three decades, I’ve been deve",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 5,
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "date": "2026-11-20",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "hotScore": 51.3,
+      "category": "industry",
       "tags": [
-        "Safety"
+        "Gemini",
+        "Multimodal",
+        "Agent"
       ],
       "week_key": "2026-W47",
       "content": {
-        "basic": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and OpenAI were “racing straight to self-improving superintelligence and gambling with our lives.” Evan Hubinger, Anthropic’s head of alignment science, replied, “Jacob is correct here—we really do earnestly believe AI could kill all humans!” And Anthropic CEO Dario Amodei subsequently told CNN, “I agree with",
+        "basic": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president Meredith Whittaker said in a blog post, while urging OS providers to make it easier for",
         "highlights": [],
         "scenarios": [],
         "industry": [],

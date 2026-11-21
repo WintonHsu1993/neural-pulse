@@ -1,22 +1,22 @@
 {
-  "lastUpdate": "2026-11-20",
-  "generatedAt": "2026-11-20T07:39:20.735Z",
+  "lastUpdate": "2026-11-21",
+  "generatedAt": "2026-11-21T07:37:01.925Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "date": "2026-11-20",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "hotScore": 76.3,
-      "category": "product",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "hotScore": 61.3,
+      "category": "industry",
       "tags": [
         "Claude",
-        "Agent"
+        "Multimodal"
       ],
       "content": {
-        "basic": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "basic": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into the field. Alpöge's solution has yet to be verified independently. Anthropic has not commented or involved",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,19 +24,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "date": "2026-11-19",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "hotScore": 66.3,
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "date": "2026-11-20",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "hotScore": 61.3,
       "category": "product",
       "tags": [
-        "GPT",
+        "Claude",
         "Agent"
       ],
       "content": {
-        "basic": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting",
+        "basic": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
