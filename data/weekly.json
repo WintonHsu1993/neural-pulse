@@ -4,18 +4,40 @@
     "to": "2026-11-24"
   },
   "weekKey": "2026-W47",
-  "lastUpdate": "2026-11-21",
-  "generatedAt": "2026-11-21T07:37:01.925Z",
+  "lastUpdate": "2026-11-22",
+  "generatedAt": "2026-11-22T07:18:10.553Z",
   "count": 5,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
+      "title": "Can Anthropic afford to put safety first?",
+      "date": "2026-11-21",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "hotScore": 61.3,
+      "category": "startup",
+      "tags": [
+        "Claude",
+        "Safety"
+      ],
+      "week_key": "2026-W47",
+      "content": {
+        "basic": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, an",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "date": "2026-11-20",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "hotScore": 61.3,
+      "hotScore": 53.3,
       "category": "industry",
       "tags": [
         "Claude",
@@ -32,12 +54,12 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
+      "rank": 3,
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "date": "2026-11-20",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "hotScore": 61.3,
+      "hotScore": 53.3,
       "category": "product",
       "tags": [
         "Claude",
@@ -54,12 +76,12 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
+      "rank": 4,
       "title": "Apple is hiring engineers to build its own AI agent",
       "date": "2026-11-19",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "hotScore": 58.3,
+      "hotScore": 52.3,
       "category": "product",
       "tags": [
         "GPT",
@@ -75,41 +97,20 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1",
-      "rank": 4,
-      "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
-      "date": "2026-11-20",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-      "hotScore": 52.5,
-      "category": "product",
-      "tags": [],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike killed more than 175 people, most of them children. The U.S. president and military denied responsibility. In the age of generative AI and all things deepfake, everyone—including me—was skeptical of the video’s authenticity. I get this type of request a lot. For the past three decades, I’ve been deve",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 5,
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "date": "2026-11-20",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "date": "2026-11-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "hotScore": 51.3,
+      "sourceUrl": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "hotScore": 47.5,
       "category": "industry",
       "tags": [
-        "Gemini",
-        "Multimodal",
-        "Agent"
+        "Robotics"
       ],
       "week_key": "2026-W47",
       "content": {
-        "basic": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president Meredith Whittaker said in a blog post, while urging OS providers to make it easier for",
+        "basic": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year. That call was backed by the U.N. secretary-general and by Pope Leo. The compro",
         "highlights": [],
         "scenarios": [],
         "industry": [],

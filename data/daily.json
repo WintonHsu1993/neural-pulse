@@ -1,22 +1,22 @@
 {
-  "lastUpdate": "2026-11-21",
-  "generatedAt": "2026-11-21T07:37:01.925Z",
+  "lastUpdate": "2026-11-22",
+  "generatedAt": "2026-11-22T07:18:10.553Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "date": "2026-11-20",
+      "title": "Can Anthropic afford to put safety first?",
+      "date": "2026-11-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "hotScore": 61.3,
-      "category": "industry",
+      "category": "startup",
       "tags": [
         "Claude",
-        "Multimodal"
+        "Safety"
       ],
       "content": {
-        "basic": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into the field. Alpöge's solution has yet to be verified independently. Anthropic has not commented or involved",
+        "basic": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, an",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -24,19 +24,19 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "date": "2026-11-20",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "hotScore": 61.3,
-      "category": "product",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "hotScore": 53.3,
+      "category": "industry",
       "tags": [
         "Claude",
-        "Agent"
+        "Multimodal"
       ],
       "content": {
-        "basic": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "basic": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into the field. Alpöge's solution has yet to be verified independently. Anthropic has not commented or involved",
         "highlights": [],
         "scenarios": [],
         "industry": [],
