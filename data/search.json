@@ -1,10 +1,20 @@
 [
   {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "date": "2026-11-23",
+    "source": "TechCrunch AI",
+    "hotScore": 62.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
     "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Can Anthropic afford to put safety first?",
     "date": "2026-11-21",
     "source": "The Verge AI",
-    "hotScore": 61.3,
+    "hotScore": 53.3,
     "category": "startup",
     "tags": [
       "Claude",
@@ -14,10 +24,60 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "date": "2026-11-22",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff d"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "date": "2026-11-22",
+    "source": "The Verge AI",
+    "hotScore": 50,
+    "category": "industry",
+    "tags": [],
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscriber"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "date": "2026-11-22",
+    "source": "TechCrunch AI",
+    "hotScore": 50,
+    "category": "startup",
+    "tags": [],
+    "snippet": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "We haven’t seen the last of the major tech outages",
+    "date": "2026-11-22",
+    "source": "The Verge AI",
+    "hotScore": 47.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "date": "2026-11-22",
+    "source": "TechCrunch AI",
+    "hotScore": 47.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
     "date": "2026-11-20",
     "source": "The Verge AI",
-    "hotScore": 53.3,
+    "hotScore": 47.3,
     "category": "industry",
     "tags": [
       "Claude",
@@ -30,80 +90,13 @@
     "title": "Apple may be developing its own AI agent that runs your Mac",
     "date": "2026-11-20",
     "source": "TechCrunch AI",
-    "hotScore": 53.3,
+    "hotScore": 47.3,
     "category": "product",
     "tags": [
       "Claude",
       "Agent"
     ],
     "snippet": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "date": "2026-11-19",
-    "source": "The Verge AI",
-    "hotScore": 52.3,
-    "category": "product",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed j"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The UN fails to agree on rules regulating ‘killer robots’",
-    "date": "2026-11-21",
-    "source": "The Verge AI",
-    "hotScore": 47.5,
-    "category": "industry",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "A tale of two Nvidias",
-    "date": "2026-11-21",
-    "source": "TechCrunch AI",
-    "hotScore": 47.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "date": "2026-11-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "date": "2026-11-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "date": "2026-11-21",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [],
-    "snippet": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -131,16 +124,6 @@
     "snippet": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
-    "date": "2026-11-20",
-    "source": "IEEE Spectrum",
-    "hotScore": 44.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what "
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "date": "2026-11-11",
@@ -164,30 +147,6 @@
       "Safety"
     ],
     "snippet": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started w"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-    "date": "2026-11-20",
-    "source": "The Verge AI",
-    "hotScore": 43.3,
-    "category": "industry",
-    "tags": [
-      "Gemini",
-      "Multimodal",
-      "Agent"
-    ],
-    "snippet": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-    "date": "2026-11-21",
-    "source": "The Verge AI",
-    "hotScore": 42.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahj"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -227,33 +186,25 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The week everything fell apart",
-    "date": "2026-11-20",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "date": "2026-11-21",
     "source": "The Verge AI",
     "hotScore": 39.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt "
+    "category": "industry",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-    "date": "2026-11-20",
+    "title": "A tale of two Nvidias",
+    "date": "2026-11-21",
     "source": "TechCrunch AI",
     "hotScore": 39.5,
     "category": "hardware",
     "tags": [],
-    "snippet": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "date": "2026-11-20",
-    "source": "TechCrunch AI",
-    "hotScore": 39.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+    "snippet": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -292,18 +243,6 @@
     "snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "date": "2026-11-19",
-    "source": "The Verge AI",
-    "hotScore": 38.5,
-    "category": "hardware",
-    "tags": [
-      "Multimodal"
-    ],
-    "snippet": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, sai"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
     "title": "Anthropic’s IPO could deliver $156B to charity",
     "date": "2026-11-19",
@@ -314,24 +253,14 @@
     "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "date": "2026-11-19",
-    "source": "TechCrunch AI",
-    "hotScore": 38.5,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "New Ask Maps features to help with holiday travel and prep",
-    "date": "2026-11-16",
-    "source": "Google AI Blog",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+    "date": "2026-11-20",
+    "source": "IEEE Spectrum",
     "hotScore": 38.5,
     "category": "product",
     "tags": [],
-    "snippet": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+    "snippet": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what "
   },
   {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
@@ -346,6 +275,20 @@
     "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "date": "2026-11-20",
+    "source": "The Verge AI",
+    "hotScore": 37.3,
+    "category": "industry",
+    "tags": [
+      "Gemini",
+      "Multimodal",
+      "Agent"
+    ],
+    "snippet": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on"
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
     "date": "2026-11-19",
@@ -356,44 +299,36 @@
     "snippet": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her jo"
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "date": "2026-11-20",
-    "source": "The Verge AI",
-    "hotScore": 37,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applicati"
-  },
-  {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "date": "2026-11-20",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "date": "2026-11-21",
     "source": "TechCrunch AI",
     "hotScore": 37,
-    "category": "research",
+    "category": "product",
     "tags": [],
-    "snippet": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+    "snippet": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "date": "2026-11-20",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "date": "2026-11-21",
+    "source": "TechCrunch AI",
+    "hotScore": 37,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "date": "2026-11-21",
     "source": "TechCrunch AI",
     "hotScore": 37,
     "category": "startup",
     "tags": [],
-    "snippet": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "date": "2026-11-20",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+    "snippet": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -416,18 +351,6 @@
     "category": "hardware",
     "tags": [],
     "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Meta’s Muse Charm might cost $300",
-    "date": "2026-11-19",
-    "source": "The Verge AI",
-    "hotScore": 36,
-    "category": "industry",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earli"
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
@@ -462,28 +385,6 @@
     "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "date": "2026-11-19",
-    "source": "TechCrunch AI",
-    "hotScore": 36,
-    "category": "startup",
-    "tags": [],
-    "snippet": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
-    "date": "2026-11-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 36,
-    "category": "research",
-    "tags": [
-      "Robotics"
-    ],
-    "snippet": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a"
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "The latest AI news we announced in October 2026",
     "date": "2026-11-02",
@@ -504,14 +405,14 @@
     "snippet": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
   },
   {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Chips can survive the space environment — can their financing?",
-    "date": "2026-11-20",
-    "source": "TechCrunch AI",
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "date": "2026-11-21",
+    "source": "The Verge AI",
     "hotScore": 34.5,
-    "category": "hardware",
+    "category": "product",
     "tags": [],
-    "snippet": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+    "snippet": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahj"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -536,6 +437,36 @@
     "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "The week everything fell apart",
+    "date": "2026-11-20",
+    "source": "The Verge AI",
+    "hotScore": 33.5,
+    "category": "policy",
+    "tags": [],
+    "snippet": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt "
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "date": "2026-11-20",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "date": "2026-11-20",
+    "source": "TechCrunch AI",
+    "hotScore": 33.5,
+    "category": "startup",
+    "tags": [],
+    "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
     "date": "2026-11-17",
@@ -548,15 +479,75 @@
     "snippet": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spre"
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "New Ask Maps features to help with holiday travel and prep",
     "date": "2026-11-16",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.5,
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "date": "2026-11-11",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
     "category": "research",
+    "tags": [],
+    "snippet": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "date": "2026-11-09",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "product",
     "tags": [
-      "Robotics"
+      "Agent"
     ],
-    "snippet": "This article is brought to you by VicOne. VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI"
+    "snippet": "This article is brought to you by Queen’s University Belfast. Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications t"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "date": "2026-11-20",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applicati"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "date": "2026-11-20",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [],
+    "snippet": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "date": "2026-11-20",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "date": "2026-11-20",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
   }
 ]
