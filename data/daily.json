@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-11-23",
-  "generatedAt": "2026-11-23T08:01:26.622Z",
+  "lastUpdate": "2026-11-25",
+  "generatedAt": "2026-11-25T08:59:50.673Z",
   "count": 2,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "date": "2026-11-23",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "date": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "hotScore": 62.5,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "hotScore": 57.5,
+      "category": "policy",
       "tags": [],
       "content": {
-        "basic": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "basic": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -21,19 +21,18 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Can Anthropic afford to put safety first?",
-      "date": "2026-11-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "hotScore": 53.3,
-      "category": "startup",
+      "id": "aHR0cHM6Ly9ibG9nLmdv",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "date": "2026-11-24",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "hotScore": 53.8,
+      "category": "research",
       "tags": [
-        "Claude",
-        "Safety"
+        "Gemini"
       ],
       "content": {
-        "basic": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, an",
+        "basic": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

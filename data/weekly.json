@@ -1,105 +1,26 @@
 {
   "weekRange": {
-    "from": "2026-11-18",
-    "to": "2026-11-24"
+    "from": "2026-11-25",
+    "to": "2026-12-01"
   },
-  "weekKey": "2026-W47",
-  "lastUpdate": "2026-11-23",
-  "generatedAt": "2026-11-23T08:01:26.622Z",
-  "count": 5,
+  "weekKey": "2026-W48",
+  "lastUpdate": "2026-11-25",
+  "generatedAt": "2026-11-25T08:59:50.673Z",
+  "count": 1,
   "data": [
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
       "rank": 1,
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "date": "2026-11-23",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "date": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "hotScore": 62.5,
-      "category": "startup",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "hotScore": 57.5,
+      "category": "policy",
       "tags": [],
-      "week_key": "2026-W47",
+      "week_key": "2026-W48",
       "content": {
-        "basic": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 2,
-      "title": "Can Anthropic afford to put safety first?",
-      "date": "2026-11-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "hotScore": 53.3,
-      "category": "startup",
-      "tags": [
-        "Claude",
-        "Safety"
-      ],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, an",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "date": "2026-11-22",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "hotScore": 50,
-      "category": "industry",
-      "tags": [],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site. Creator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the developm",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 4,
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "date": "2026-11-22",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "hotScore": 50,
-      "category": "industry",
-      "tags": [],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it's easy now. People all over the world are discovering that they can ",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 5,
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "date": "2026-11-22",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "hotScore": 50,
-      "category": "startup",
-      "tags": [],
-      "week_key": "2026-W47",
-      "content": {
-        "basic": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "basic": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
