@@ -4,23 +4,107 @@
     "to": "2026-12-01"
   },
   "weekKey": "2026-W48",
-  "lastUpdate": "2026-11-25",
-  "generatedAt": "2026-11-25T08:59:50.673Z",
-  "count": 1,
+  "lastUpdate": "2026-11-26",
+  "generatedAt": "2026-11-26T08:46:23.591Z",
+  "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "id": "aHR0cHM6Ly93d3cudGhl",
       "rank": 1,
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "date": "2026-11-25",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "hotScore": 58.8,
+      "category": "industry",
+      "tags": [
+        "Claude",
+        "OpenSource",
+        "Agent"
+      ],
+      "week_key": "2026-W48",
+      "content": {
+        "basic": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The biggest name to decide \"if you can't beat 'em, join 'em\" is inMusic, the parent company of Akai, Mo",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 2,
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "date": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "hotScore": 57.5,
-      "category": "policy",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "hotScore": 56.3,
+      "category": "startup",
+      "tags": [
+        "GPT"
+      ],
+      "week_key": "2026-W48",
+      "content": {
+        "basic": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 3,
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "date": "2026-11-25",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "hotScore": 50,
+      "category": "product",
+      "tags": [
+        "Agent"
+      ],
+      "week_key": "2026-W48",
+      "content": {
+        "basic": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It's also reportedly worried about the quality of the product search results that Muse will",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1",
+      "rank": 4,
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "date": "2026-11-25",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "hotScore": 50,
+      "category": "research",
       "tags": [],
       "week_key": "2026-W48",
       "content": {
-        "basic": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+        "basic": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 5,
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "date": "2026-11-25",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "hotScore": 46.3,
+      "category": "tech",
+      "tags": [],
+      "week_key": "2026-W48",
+      "content": {
+        "basic": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
         "highlights": [],
         "scenarios": [],
         "industry": [],

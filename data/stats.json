@@ -1,17 +1,17 @@
 {
   "totalArticles": 62,
-  "lastUpdate": "2026-11-25",
+  "lastUpdate": "2026-11-26",
   "categories": [
-    {
-      "category": "hardware",
-      "count": 13
-    },
     {
       "category": "product",
       "count": 13
     },
     {
       "category": "research",
+      "count": 11
+    },
+    {
+      "category": "hardware",
       "count": 10
     },
     {
@@ -20,7 +20,11 @@
     },
     {
       "category": "policy",
-      "count": 6
+      "count": 7
+    },
+    {
+      "category": "industry",
+      "count": 1
     },
     {
       "category": "tech",
@@ -34,7 +38,7 @@
     },
     {
       "source": "Google AI Blog",
-      "count": 14
+      "count": 15
     },
     {
       "source": "The Verge AI",
@@ -42,7 +46,7 @@
     },
     {
       "source": "IEEE Spectrum",
-      "count": 4
+      "count": 3
     },
     {
       "source": "Wired",
