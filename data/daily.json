@@ -1,23 +1,19 @@
 {
-  "lastUpdate": "2026-11-26",
-  "generatedAt": "2026-11-26T08:46:23.591Z",
+  "lastUpdate": "2026-11-28",
+  "generatedAt": "2026-11-28T08:18:36.592Z",
   "count": 2,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "title": "Has vibe coding made open source the new normal for synths?",
-      "date": "2026-11-25",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
+      "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+      "date": "2026-11-27",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
       "hotScore": 58.8,
-      "category": "industry",
-      "tags": [
-        "Claude",
-        "OpenSource",
-        "Agent"
-      ],
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The biggest name to decide \"if you can't beat 'em, join 'em\" is inMusic, the parent company of Akai, Mo",
+        "basic": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context. Dinesh Rai Employer: Boston Children’s Hospital Occupation: Clinical AI Engineer Education: Bachelor’s degree in supply-chain management and marketing ",
         "highlights": [],
         "scenarios": [],
         "industry": [],
@@ -25,18 +21,16 @@
       }
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "date": "2026-11-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "date": "2026-11-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "hotScore": 50,
+      "category": "product",
+      "tags": [],
       "content": {
-        "basic": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "basic": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and select my stop will slow me down enough to miss a bus. I need glanceable information, and I hoped that Android's vibe-coded widget feature could help me out here. It hasn't, to my disappointment, but I still had a good time cooking up other widgets. Google announced the ability",
         "highlights": [],
         "scenarios": [],
         "industry": [],

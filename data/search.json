@@ -1,51 +1,23 @@
 [
   {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Has vibe coding made open source the new normal for synths?",
-    "date": "2026-11-25",
-    "source": "The Verge AI",
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+    "date": "2026-11-27",
+    "source": "IEEE Spectrum",
     "hotScore": 58.8,
-    "category": "industry",
-    "tags": [
-      "Claude",
-      "OpenSource",
-      "Agent"
-    ],
-    "snippet": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, l"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 56.3,
-    "category": "startup",
-    "tags": [
-      "GPT"
-    ],
-    "snippet": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    "category": "product",
+    "tags": [],
+    "snippet": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as on"
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-    "date": "2026-11-25",
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "date": "2026-11-27",
     "source": "The Verge AI",
     "hotScore": 50,
     "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center "
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 50,
-    "category": "research",
     "tags": [],
-    "snippet": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel"
+    "snippet": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs "
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -60,100 +32,28 @@
     "snippet": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
   },
   {
-    "id": "aHR0cHM6Ly93d3cud2ly",
-    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-    "date": "2026-11-25",
-    "source": "Wired",
-    "hotScore": 46.3,
-    "category": "tech",
-    "tags": [],
-    "snippet": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI."
-  },
-  {
-    "id": "aHR0cHM6Ly9ibG9nLmdv",
-    "title": "How Gemini is changing the game for Golden State's organization and fans.",
-    "date": "2026-11-24",
-    "source": "Google AI Blog",
-    "hotScore": 45.8,
-    "category": "research",
-    "tags": [
-      "Gemini"
-    ],
-    "snippet": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
-  },
-  {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "title": "Has vibe coding made open source the new normal for synths?",
     "date": "2026-11-25",
     "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows "
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-    "date": "2026-11-25",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several ot"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Nothing offers a full look at its AI earbuds and charging case",
-    "date": "2026-11-25",
-    "source": "The Verge AI",
-    "hotScore": 45,
-    "category": "product",
-    "tags": [],
-    "snippet": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcri"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "research",
+    "hotScore": 44.8,
+    "category": "industry",
     "tags": [
-      "Safety"
-    ],
-    "snippet": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to deve"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 45,
-    "category": "startup",
-    "tags": [
+      "Claude",
+      "OpenSource",
       "Agent"
     ],
-    "snippet": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+    "snippet": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, l"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "date": "2026-11-26",
+    "source": "TechCrunch AI",
+    "hotScore": 44.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -170,95 +70,37 @@
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "date": "2026-11-25",
     "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurance"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-    "date": "2026-11-25",
-    "source": "TechCrunch AI",
-    "hotScore": 42.5,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \""
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-    "date": "2026-11-24",
-    "source": "The Verge AI",
-    "hotScore": 42,
+    "hotScore": 42.3,
     "category": "startup",
-    "tags": [],
-    "snippet": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Tidal will start banning AI-generated music next month",
-    "date": "2026-11-24",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jensen Huang deepfakes are the hot new AI slop",
-    "date": "2026-11-24",
-    "source": "The Verge AI",
-    "hotScore": 42,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signatur"
+    "tags": [
+      "GPT"
+    ],
+    "snippet": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
   },
   {
     "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Even the best AI agents struggle with everyday life",
-    "date": "2026-11-24",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "date": "2026-11-26",
     "source": "TechCrunch AI",
     "hotScore": 42,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "date": "2026-11-24",
+    "source": "Google AI Blog",
+    "hotScore": 39.8,
     "category": "research",
     "tags": [
-      "Agent"
+      "Gemini"
     ],
-    "snippet": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 42,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+    "snippet": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -322,26 +164,6 @@
     "snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
   },
   {
-    "id": "aHR0cHM6Ly93d3cudGVj",
-    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "date": "2026-11-23",
-    "source": "MIT Technology Review",
-    "hotScore": 38.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility"
-  },
-  {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
-    "date": "2026-11-20",
-    "source": "IEEE Spectrum",
-    "hotScore": 38.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what "
-  },
-  {
     "id": "aHR0cHM6Ly9zcGVjdHJ1",
     "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
     "date": "2026-11-19",
@@ -355,77 +177,13 @@
   },
   {
     "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "date": "2026-11-24",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "date": "2026-11-26",
     "source": "The Verge AI",
     "hotScore": 37,
-    "category": "product",
-    "tags": [],
-    "snippet": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an emai"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
     "category": "policy",
     "tags": [],
-    "snippet": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "product",
-    "tags": [
-      "Agent"
-    ],
-    "snippet": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "policy",
-    "tags": [],
-    "snippet": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 37,
-    "category": "startup",
-    "tags": [],
-    "snippet": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+    "snippet": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases"
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -450,6 +208,70 @@
     "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics, governanc"
   },
   {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "date": "2026-11-25",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+    "date": "2026-11-24",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Tidal will start banning AI-generated music next month",
+    "date": "2026-11-24",
+    "source": "The Verge AI",
+    "hotScore": 36,
+    "category": "policy",
+    "tags": [],
+    "snippet": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "research",
+    "tags": [],
+    "snippet": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Even the best AI agents struggle with everyday life",
+    "date": "2026-11-24",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "research",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "date": "2026-11-24",
+    "source": "TechCrunch AI",
+    "hotScore": 36,
+    "category": "startup",
+    "tags": [],
+    "snippet": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+  },
+  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "Walter Isaacson on curiosity and creativity in the AI age.",
     "date": "2026-11-19",
@@ -468,36 +290,6 @@
     "category": "product",
     "tags": [],
     "snippet": "Here are Google’s latest AI updates from October 2026"
-  },
-  {
-    "id": "aHR0cHM6Ly93d3cudGhl",
-    "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-    "date": "2026-11-24",
-    "source": "The Verge AI",
-    "hotScore": 34.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel"
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "product",
-    "tags": [],
-    "snippet": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
-  },
-  {
-    "id": "aHR0cHM6Ly90ZWNoY3J1",
-    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-    "date": "2026-11-24",
-    "source": "TechCrunch AI",
-    "hotScore": 34.5,
-    "category": "hardware",
-    "tags": [],
-    "snippet": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
   },
   {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
@@ -525,16 +317,6 @@
     "snippet": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
   },
   {
-    "id": "aHR0cHM6Ly9zcGVjdHJ1",
-    "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
-    "date": "2026-11-05",
-    "source": "IEEE Spectrum",
-    "hotScore": 33.8,
-    "category": "policy",
-    "tags": [],
-    "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tes"
-  },
-  {
     "id": "aHR0cHM6Ly9ibG9nLmdv",
     "title": "New Ask Maps features to help with holiday travel and prep",
     "date": "2026-11-16",
@@ -543,5 +325,229 @@
     "category": "product",
     "tags": [],
     "snippet": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+  },
+  {
+    "id": "aHR0cHM6Ly9ibG9nLmdv",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "date": "2026-11-11",
+    "source": "Google AI Blog",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [],
+    "snippet": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+    "date": "2026-11-20",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [],
+    "snippet": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what "
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Is Giving Optical Computing Another Shot",
+    "date": "2026-11-17",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "research",
+    "tags": [
+      "Reasoning"
+    ],
+    "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "date": "2026-11-09",
+    "source": "IEEE Spectrum",
+    "hotScore": 32.5,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "This article is brought to you by Queen’s University Belfast. Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications t"
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+    "date": "2026-11-19",
+    "source": "IEEE Spectrum",
+    "hotScore": 31.3,
+    "category": "research",
+    "tags": [],
+    "snippet": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her jo"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "date": "2026-11-25",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows "
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "date": "2026-11-25",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several ot"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "date": "2026-11-25",
+    "source": "The Verge AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [],
+    "snippet": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcri"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "research",
+    "tags": [
+      "Safety"
+    ],
+    "snippet": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to deve"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "date": "2026-11-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "date": "2026-11-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "startup",
+    "tags": [],
+    "snippet": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "date": "2026-11-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "policy",
+    "tags": [],
+    "snippet": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "date": "2026-11-24",
+    "source": "TechCrunch AI",
+    "hotScore": 31,
+    "category": "product",
+    "tags": [
+      "Agent"
+    ],
+    "snippet": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+  },
+  {
+    "id": "aHR0cHM6Ly9zcGVjdHJ1",
+    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+    "date": "2026-11-16",
+    "source": "IEEE Spectrum",
+    "hotScore": 30,
+    "category": "research",
+    "tags": [
+      "Robotics"
+    ],
+    "snippet": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a"
+  },
+  {
+    "id": "aHR0cHM6Ly93d3cudGhl",
+    "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+    "date": "2026-11-24",
+    "source": "The Verge AI",
+    "hotScore": 28.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel"
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+  },
+  {
+    "id": "aHR0cHM6Ly90ZWNoY3J1",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "date": "2026-11-25",
+    "source": "TechCrunch AI",
+    "hotScore": 28.5,
+    "category": "hardware",
+    "tags": [],
+    "snippet": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurance"
   }
 ]

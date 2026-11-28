@@ -4,18 +4,75 @@
     "to": "2026-12-01"
   },
   "weekKey": "2026-W48",
-  "lastUpdate": "2026-11-26",
-  "generatedAt": "2026-11-26T08:46:23.591Z",
+  "lastUpdate": "2026-11-28",
+  "generatedAt": "2026-11-28T08:18:36.592Z",
   "count": 5,
   "data": [
     {
-      "id": "aHR0cHM6Ly93d3cudGhl",
+      "id": "aHR0cHM6Ly9zcGVjdHJ1",
       "rank": 1,
+      "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+      "date": "2026-11-27",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "hotScore": 58.8,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W48",
+      "content": {
+        "basic": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context. Dinesh Rai Employer: Boston Children’s Hospital Occupation: Clinical AI Engineer Education: Bachelor’s degree in supply-chain management and marketing ",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 2,
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "date": "2026-11-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "hotScore": 50,
+      "category": "product",
+      "tags": [],
+      "week_key": "2026-W48",
+      "content": {
+        "basic": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and select my stop will slow me down enough to miss a bus. I need glanceable information, and I hoped that Android's vibe-coded widget feature could help me out here. It hasn't, to my disappointment, but I still had a good time cooking up other widgets. Google announced the ability",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cud2ly",
+      "rank": 3,
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "date": "2026-11-25",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "hotScore": 46.3,
+      "category": "tech",
+      "tags": [],
+      "week_key": "2026-W48",
+      "content": {
+        "basic": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+        "highlights": [],
+        "scenarios": [],
+        "industry": [],
+        "future": []
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhl",
+      "rank": 4,
       "title": "Has vibe coding made open source the new normal for synths?",
       "date": "2026-11-25",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-      "hotScore": 58.8,
+      "hotScore": 44.8,
       "category": "industry",
       "tags": [
         "Claude",
@@ -33,78 +90,17 @@
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 2,
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "date": "2026-11-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "hotScore": 56.3,
-      "category": "startup",
-      "tags": [
-        "GPT"
-      ],
-      "week_key": "2026-W48",
-      "content": {
-        "basic": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhl",
-      "rank": 3,
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "date": "2026-11-25",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "hotScore": 50,
-      "category": "product",
-      "tags": [
-        "Agent"
-      ],
-      "week_key": "2026-W48",
-      "content": {
-        "basic": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It's also reportedly worried about the quality of the product search results that Muse will",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1",
-      "rank": 4,
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "date": "2026-11-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "hotScore": 50,
-      "category": "research",
-      "tags": [],
-      "week_key": "2026-W48",
-      "content": {
-        "basic": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-        "highlights": [],
-        "scenarios": [],
-        "industry": [],
-        "future": []
-      }
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud2ly",
       "rank": 5,
-      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "date": "2026-11-25",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-      "hotScore": 46.3,
-      "category": "tech",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "date": "2026-11-26",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "hotScore": 44.5,
+      "category": "product",
       "tags": [],
       "week_key": "2026-W48",
       "content": {
-        "basic": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+        "basic": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
         "highlights": [],
         "scenarios": [],
         "industry": [],
